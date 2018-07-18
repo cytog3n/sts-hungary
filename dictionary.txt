@@ -1,0 +1,4 @@
+proceed				- folytatás
+(abandon) run 		- menet
+floor 				- szint
+relic				- ereklye
