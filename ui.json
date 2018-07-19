@@ -21,7 +21,7 @@
       "Hárított",
       "Max HP +",
       "Kábult!",
-      "Megszakított!",
+      "Félbeszakított!",
       "Ereklyék"
     ]
   },
@@ -532,6 +532,11 @@
   "GameSavedEffect": {
     "TEXT": [
       "#y~Game~ #y~Saved~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Arany"
     ]
   },
   "GridCardSelectScreen": {
