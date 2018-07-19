@@ -2,3 +2,4 @@ proceed				- folytatás
 (abandon) run 		- menet
 floor 				- szint
 relic				- ereklye
+blight				- rontás

@@ -44,7 +44,7 @@
       " alkalommal.",
       "Ez az ellenfél #yErősít és #yTámadni fog #b sebzéssel.",
       "Taktikus",
-      "Ez az ellenfél #yNegatív #yHatást akar rád rakni és #yTámadni fog #b sebzéssel.",
+      "Ez az ellenfél #yNegatív #yHatást akar rád rakni és #yTámadni fog #b",
       "Ez az ellenfél #yVédekezni és #yTámadni fog #b sebzéssel.",
       "Védekező",
       "Gyáva",
@@ -155,70 +155,70 @@
   "BossRelicSelectScreen": {
     "TEXT": [
       "Megerősít",
-      "Erősítse meg a választását",
-      "Choose a Relic",
-      "Skip",
-      "VOTE NOW: ",
-      "s left.",
-	  "Choose a Blight"
+      "Erősítsd meg a választásod",
+      "Válassz egy Ereklyét",
+      "Kihagyás",
+      "SZAVAZZ MOST: ",
+      " maradt.",
+	  "Válassz egy Rontást"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "Válassz egy Kártyát, hogy áthelyezd a Húzó Paklid Tetejére.",
+      "Válassz Kártyákat, hogy áthelyezd őket a Húzó Paklid Tetejére."
     ]
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "Dreaming?"
+      "Álmodsz?"
     ]
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Select a Card to Upgrade"
+      "Válassz egy Kártyát a Fejlesztéshez"
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Select a Card to Remove."
+      "Válasszon egy Kártyát az Eltávolításhoz."
     ]
   },
   "CampfireUI": {
     "TEXT": [
-      "What to do?",
+      "Most mi legyen?",
       "Hmm...",
-      "What shall I do?",
-      "Time for a break",
-      "So many options...",
-      "I should rest",
-      "So tired..."
+      "Mit kéne csinálnom?",
+      "Ideje egy kis szünetnek",
+      "Oly sok lehetőség...",
+      "Pihennem kéne",
+      "Annyira fáradt vagyok..."
     ]
   },
   "Cancel Button": {
     "TEXT": [
-      "Delete Save"
+      "Mentés Törlése"
     ]
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "Rarity",
-      "Type",
+      "Gyakoríság",
+      "Típus",
       "A-Z",
-      "Cost",
-      "Jump To:"
+      "Költség",
+      "Ugrás:"
     ]
   },
   "CardLibraryScreen": {
     "TEXT": [
-      "Return",
-      "Red",
-      "Green",
-      "Blue",
-      "Colorless",
-      "Curses",
-      "Statuses",
-      "View Upgrade"
+      "Vissza",
+      "Piros",
+      "Zöld",
+      "Kék",
+      "Színtelen",
+      "Átkok",
+      "Státuszok",
+      "Fejlesztés Megtekintése"
     ]
   },
   "CardRewardScreen": {
@@ -228,39 +228,39 @@
       "+2 Max HP",
       "SZAVAZZ: ",
       "maradt",
-      "View Upgrade"
+      "Fejlesztés Megtekintése"
     ]
   },
   "CharacterOption": {
     "TEXT": [
-      "Locked",
-      "This character is unlocked by completing a single run.",
-      "This character is still unavailable in Early Access.",
-      "This character is unlocked by completing a run with the Silent.",
+      "Zárolt",
+      "Ez a karakter feloldható egy menet teljesítésével.",
+      "Ez a karakter még mindig nem elérhető a Korai Hozzáférés időszakában.",
+      "Ez a karakter feloldható ha teljesítesz egy menetet A Szótlan-nal.",
       "HP: ",
-      "Gold: ",
-      " Unlocks Remaining",
-      "Unknown",
+      "Arany: ",
+      " Feloldás Hátramaradt",
+      "Ismeretlen",
       "???",
-      " To Next Unlock"
+      " A Következő Feloldáshoz"
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
       "Válaszd ki a karaktered",
       "Embark",
-      "The Ironclad",
-      "The Silent",
-      "The Defect",
+      "A Páncélos",
+      "A Szótlan",
+      "A Hiányos",
       "Vissza",
-      "Ascension",
+      "Felemelkedés",
       "Szint ",
-      "Ascension Mode",
-      "Runs get harder as you win... (Winstreaks are unaffected)",
+      "Felemelkedés Mód",
+      "A menetek egyre nehezebbek minden győzelemmel... (Winstreak-ek nincsenek hatással erre)",
       "Seed ",
-      "Random Seed",
-      "The starting seed is used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Véletlen Seed",
+      "A kezdő seed határozza meg, hogy mi fog generálódni a menet során.",
+      "Seed Beállítása"
     ]
   },
   "ChooseOneScreen": {
@@ -331,160 +331,160 @@
   },
   "DeathScreen": {
     "TEXT": [
-      "Continue",
-      "Victory?",
+      "Folytatás",
+      "Győzelem?",
       "Szintek megmászva",
-      "Bosses Defeated",
-      "Play Time",
-      "Play Time",
-      "Score",
-      "Conquered",
-      "Death...",
-      "Defeat",
-      "Defeated!",
-      "Desecrated",
-      "Devastation",
-      "Vanquished",
-      "You are Slain!",
-      "A familiar feeling.",
-      "A nap sounds good.",
-      "As you sow, so you shall reap.",
-      "Went the wrong way.",
-      "I wasn't prepared for this.",
-      "I'll try again tomorrow.",
-      "I'm going to need a new map.",
-      "Inadequately prepared.",
-      "Inconceivable!",
-      "Is this my true potential?",
-      "Just my luck...",
-      "Not like this...",
-      "Not quite the top.",
-      "The Spire consumes another...",
-      "Your consciousness fades...",
-      "Defeat",
-      "Acceptance",
-      "Continue",
-      "Retry",
-      "Main Menu",
+      "Vezér Legyőzve",
+      "Játék Idő",
+      "Játék Idő",
+      "Pontszám",
+      "Legyőzött",
+      "Halál...",
+      "Vereség",
+      "Legyőzve!",
+      "Meggyalázott",
+      "Pusztulás",
+      "Leigázott",
+      "Le Lettél Mészárolva!",
+      "Egy ismerős érzés.",
+      "Egy kis pihenés jól hangzik.",
+      "Ki mint vet, úgy arat.",
+      "Rossz irányba mentél.",
+      "Nem voltam felkészülve erre.",
+      "Holnap újra megpróbálom",
+      "Egy új térképre lesz szükségem.",
+      "Felkészületlen voltam.",
+      "Elképzelhetetlen!",
+      "Ez az én igazi potenciálom?",
+      "Ilyen a szerencsém...",
+      "Csak ne így...",
+      "Nem épp a legjobb.",
+      "The Spire még egyet elfogyaszt...",
+      "A tudatod elhalványodik...",
+      "Vereség",
+      "Elfogadás",
       "Folytatás",
-      "Unlock",
-      "Main Menu",
-      "Retry",
+      "Újra",
+      "Fő Menü",
       "Folytatás",
-      "Unlock",
-      "Unlocks Remaining: ",
-      "Unlock Remaining: ",
-      "Enemies Slain",
-      "Elites Killed",
-      "Unspent Gold",
-      "HP Bonus"
+      "Felold",
+      "Fő Menü",
+      "Újra",
+      "Folytatás",
+      "Felold",
+      "Feloldás Hátravan: ",
+      "Feloldás Hátravan: ",
+      "Ellenfelek Legyőzve",
+      "Elitek Megölve",
+      "Elköltetlen Arany",
+      "HP Bónusz"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
-      "Champion",
-      "Perfect",
-      "Beyond Perfect",
-      "Overkill",
-      "C-c-c-combo",
+      "Bevezető Elitek Megölve",
+      "Városi Elitek Megölve",
+      "Másvilági Elitek Megölve",
+      "Gyorshajtó",
+      "LFény Sebesség",
+      "Hegylakó",
+      "Gyűjtemény",
+      "Teljes Felszerelés",
+      "Koldus",
+      "Könyvtáros",
+      "Enciklopédia",
+      "Jól Táplált",
+      "Tele Töltött",
+      "Átkozott!",
+      "Saját Feltételek Mellett",
+      "Bajnok",
+      "Tökéletes",
+      "Tökéletesen Túl",
+      "Túlzás",
+      "K-K-K-Kombó",
       ""
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Felemelkedés Mód Szint ",
+      " Feloldva!"
     ]
   },
   "Dig Option": {
     "TEXT": [
-      "Dig",
-      "Dig up a random relic."
+      "Ásás",
+      "Áss fel egy véletlenszerű ereklyét."
     ]
   },
   "DiscardAction": {
     "TEXT": [
-      "Discard"
+      "Eldob"
     ]
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "My Discard Pile is #rempty."
+      "A Dobópaklim #rüres."
     ]
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Select a card to return to your hand."
+      "Válassz egy Kártyát, hogy visszahelyezd a Kezedbe."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "Válassz egy Kártyát, hogy visszahelyezd a Húzópaklid tetejére."
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Cards here are shuffled into your draw pile when it runs out of cards.",
-      "Return",
-      "Discard Pile"
+      "Az itt levő Kártyák összekeverve visszakerülnek a Húzópaklidba ha az kiürül.",
+      "Vissza",
+      "Dobópakli"
     ]
   },
   "DrawPilePanel": {
     "TEXT": [
-      "My Draw Pile is #rempty."
+      "A Húzópaklim #rüres."
     ]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-      "Cards are drawn from here at the start of each turn.",
-      "(Cards shown are sorted by rarity)",
-      "Return",
-      "Draw Pile"
+      "Minden kör elején innen húzunk Kártyákat.",
+      "(Gyakoriság alapján vannak rendezve a Kártyák)",
+      "Vissza",
+      "Húzópakli"
     ]
   },
   "DualWieldAction": {
     "TEXT": [
-      "Duplicate"
+      "Megkettőz"
     ]
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Select a Starting Room",
-      "Return"
+      "Válassz egy Kezdő Szobát",
+      "Vissza"
     ]
   },
   "DungeonTransitionScreen": {
     "TEXT": [
-      "Tutorials",
-      "Do you wish to see gameplay hints as you play the game?",
-      "Act 1",
-      "Exordium",
-      "Act 2",
-      "The City",
-      "Act 3",
-      "The Beyond",
-      "Act ?",
+      "Oktatás",
+      "Szeretnél kapni tippeket a játékod során?",
+      "1. Fejezet",
+      "Bevezető",
+      "2. Fejezezet",
+      "A Város",
+      "3. Fejezet",
+      "A Másvilág",
+      "?. Fejezet",
       "???",
-      "Click Anywhere to Continue"
+      "Kattints valahova a Folytatáshoz"
     ]
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "What's Early Access?",
-      "What's an Open Beta?",
+      "Mi az a Korai Hozzáférés?",
+      "Mi az a Nyílt Béta?",
       "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
       "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
       "Click anywhere to Start",
@@ -1096,12 +1096,12 @@
   },
   "TheBeyond": {
     "TEXT": [
-      "The Beyond"
+      "A Másvilág"
     ]
   },
   "TheCity": {
     "TEXT": [
-      "The City"
+      "A Város"
     ]
   },
   "TipHelper": {
