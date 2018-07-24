@@ -63,15 +63,15 @@
       "Ez az ellenfél elaludt.",
       "Ez az ellenfél #yKábult a körében.",
       "Ez az ellenfél #yIsmeretlen (nem támadó) szándékú.",
-      "Blocked"
+      "Hárított"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Blocked",
-      "the Ironclad",
-      "the Silent",
-      "the Defect"
+      "Hárított",
+      "A Páncélos",
+      "A Szótlan",
+      "A Hiányos"
     ]
   },
   "AbstractPotion": {
@@ -485,53 +485,53 @@
     "TEXT": [
       "Mi az a Korai Hozzáférés?",
       "Mi az a Nyílt Béta?",
-      "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
-      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-      "Click anywhere to Start",
-      "Continue"
+      "Slay the Spire jelenleg is aktív fejlesztés alatt van! NL Számtalan funkció, kártya, és ellenfél folyamatos változásokon megy keresztül. NL NL Ha valami problémába ütközöl vagy lenne visszajelzésed, kérjük tudasd a #bSteam #bDiscussions oldalunkon. NL NL Ennyi elég is az olvasásból, hajrá, van egy torony amit meg kell másznod!",
+      "Slay the Spire jelenleg is aktív fejlesztés alatt van! NL Ezen felül, te még a Béta a verziójával játszol a játéknak. NL NL Kérjük tudasd velünk, ha bármi problémába ütközöl, és ne lepődj meg ha ideiglenes megoldásokkal találkozol. NL NL Ennyi elég is az olvasásból, hajrá, van egy torony amit meg kell másznod!",
+      "Kattints a kezdéshez!",
+      "Folytatás"
     ]
   },
   "End Turn Button": {
     "TEXT": [
-      "End Turn",
-      "Enemy Turn"
+      "Kör vége",
+      "Ellenfél köre"
     ]
   },
   "ExhaustAction": {
     "TEXT": [
-      "Exhaust"
+      "Kimerít"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "Ezek a kártyák lettek kimerítve a harc során.",
+      "Vissza"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Select a Card to Return to your Hand"
+      "Válassz egy Kártyát, hogy visszatedd a Kezedbe"
     ]
   },
   "ExitGameButton": {
     "TEXT": [
-      "Exit Game"
+      "Kilépés"
     ]
   },
   "Exordium": {
     "TEXT": [
-      "Exordium"
+      "Bevezető"
     ]
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Replace (Gambling Chip)",
-      "Replace"
+      "Kicserél (Szerencsejátékos zseton)",
+      "Kicserél"
     ]
   },
   "GameSavedEffect": {
     "TEXT": [
-      "#y~Game~ #y~Saved~"
+      "#y~Játék~ #y~Elmentve~"
     ]
   },
   "GainGoldTextEffect": {
@@ -542,19 +542,19 @@
   "GridCardSelectScreen": {
     "TEXT": [
       "Megerősít",
-      "Cancel",
-      "Confirm Your Selection",
-      "Leave"
+      "Mégsem",
+      "Erősítsd meg a választásod",
+      "Kilépés"
     ]
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Confirm Card to ",
-      "Confirm Cards to ",
-      "Choose ",
-      " Cards to ",
-      "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "Erősítsd meg a Kártyát, hogy ",
+      "Erősítsd meg a Kártyákat, hogy ",
+      "Válassz ",
+      " Kártyákat, hogy ",
+      "Válassz Kártyákat, hogy ",
+      "Válassz egy Kártyát, hogy "
     ]
   },
   "HiddenChamberAction": {
@@ -564,7 +564,7 @@
   },
   "ImmolateAction": {
     "TEXT": [
-      "Exhaust"
+      "Kimerít"
     ]
   },
   "InputKeyNames": {
@@ -657,17 +657,17 @@
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
-      "Defect",
+      "Páncélos",
+      "A Szótlan",
+      "Hiányos",
       "Átlagosan elért szint (Utolsó 20 próbálkozás)",
-      "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "Átlagos pontszám Utolsó 20 próbálkozás)",
+      "Leghosszabb győzelmi sorozat",
+      "Leggyorsabb győzelem",
+      "Legtöbb pontszám",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
-      "Global"
+      "Barátok",
+      "Globális"
     ]
   },
   "LeaderboardsScreen": {
@@ -891,20 +891,20 @@
   },
   "RenamePanel": {
     "TEXT": [
-      "<no name>",
-      "Enter  Your  Name",
-      "Megerősít",
-      "Cancel"
+      "<nincs név>",
+      "Írd be a neved",
+      "Meger\u0151sít",
+      "Mégsem"
     ]
   },
   "ReprieveAction": {
     "TEXT": [
-      "That enemy intends to attack!"
+      "Az az ellenfél támadni akar!"
     ]
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "Eldob"
     ]
   },
   "Rest Option": {
