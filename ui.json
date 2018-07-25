@@ -165,8 +165,8 @@
   },
   "CacheAction": {
     "TEXT": [
-      "Válassz egy Kártyát, hogy áthelyezd a Húzó Paklid Tetejére.",
-      "Válassz Kártyákat, hogy áthelyezd őket a Húzó Paklid Tetejére."
+      "Válassz egy Kártyát, hogy áthelyezd a Húzópaklid Tetejére.",
+      "Válassz Kártyákat, hogy áthelyezd őket a Húzópaklid Tetejére."
     ]
   },
   "CampfireSleepEffect": {
@@ -248,7 +248,7 @@
   "CharacterSelectScreen": {
     "TEXT": [
       "Válaszd ki a karaktered",
-      "Embark",
+      "Nekikezd",
       "A Páncélos",
       "A Szótlan",
       "A Hiányos",
@@ -576,55 +576,55 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller",
-      "Reset to Default",
+      "Irányítás beállítások",
+      "Játék beállítások",
+      "Vissza",
+      "Parancsok",
+      "Billentyűzet",
+      "Kontroller",
+      "Alapbeállítás",
       "Kártya megerősítése",
-      "Cancel / Exit",
-      "Map",
-      "View Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10",
-      "Release Card",
-      "Select*",
-      "Cancel*",
-      "Top Panel*",
-      "Folytatás / End Turn*",
-      "Tab Left / View Deck*",
-      "Tab Right / Exhaust Pile*",
-      "Map*",
-      "Settings*",
-      "Draw Pile*",
-      "Discard Pile*",
-      "Up*",
-      "Down*",
-      "Left*",
-      "Right*",
-      "Up (Alt)*",
-      "Down (Alt)*",
-      "Left (Alt)*",
-      "Right (Alt)*",
-      "Up",
-      "Down",
-      "Controller Enabled"
+      "Vissza / Kilépés",
+      "Térkép",
+      "Pakli megtekintése",
+      "Húzópakli",
+      "Dobópakli",
+      "Elhasznált pakli",
+      "Kör vége",
+      "Balra",
+      "Jobbra",
+      "#1. Kártya Kiválasztása",
+      "#2. Kártya Kiválasztása",
+      "#3. Kártya Kiválasztása",
+      "#4. Kártya Kiválasztása",
+      "#5. Kártya Kiválasztása",
+      "#6. Kártya Kiválasztása",
+      "#7. Kártya Kiválasztása",
+      "#8. Kártya Kiválasztása",
+      "#9. Kártya Kiválasztása",
+      "#10. Kártya Kiválasztása",
+      "Kártya elengedése",
+      "Kiválaszt*",
+      "Mégsem*",
+      "Felső Panel*",
+      "Folytatás / Kör Vége*",
+      "Balra Tab / Pakli Megtekintése*",
+      "Jobbra Tab / Elhasznált pakli*",
+      "Térkép*",
+      "Beállítások*",
+      "Húzópakli*",
+      "Dobópakli*",
+      "Fel*",
+      "Le*",
+      "Balra*",
+      "Jobbra*",
+      "Fel (Alt)*",
+      "Le (Alt)*",
+      "Balra (Alt)*",
+      "Jobbra (Alt)*",
+      "Fel",
+      "Le",
+      "Kontroller engedélyezve"
     ]
   },
   "LanguageDropdown": {
@@ -672,57 +672,57 @@
   },
   "LeaderboardsScreen": {
     "TEXT": [
-      "Return",
-      "Filters",
-      "Character",
-      "Region",
-      "Type",
-      "View My Score",
-      "Rank",
-      "Name",
-      "Score",
-      "Retrieving Data...",
-      "Leaderboards (NOTE: Will be reset weekly)",
-      "Not Connected to Steam",
-      "No Scores Available \n Go Slay the Spire!"
+      "Vissza",
+      "Szűrők",
+      "Karakter",
+      "Régió",
+      "Típus",
+      "Mutasd a Pontszámomat",
+      "Rang",
+      "Név",
+      "Pontszám",
+      "Adatok lekérdezése...",
+      "Toplista (MEGJEGYZÉS: Hetente törlésre kerül)",
+      "Nincs csatlakozva a Steam-hez",
+      "Nem elérhetőek a pontszámok \n Menj, Küzd Le a Tornyot!"
     ]
   },
   "Legend": {
     "TEXT": [
-      "Unknown",
+      "Ismeretlen",
       "???",
-      "An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
-      "Merchant",
-      "Shops",
-      "A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
-      "Treasure",
-      "Treasure Rooms",
-      "#yRelics and #yGold can be found in these coveted rooms.",
-      "Rest",
-      "Rest Sites",
-      "Stop by these rooms to #gHeal some HP or #yUpgrade a card.",
-      "Enemy",
-      "Enemies",
-      "Hostile enemies reside in these rooms.",
-      "Elite",
-      "Elites",
-      "Powerful foes are in these rooms. NL NL Defeating them will reward you a Relic.",
-      "Legend"
+      "Egy ismeretlen szoba. NL NL Találkozhatsz szörnyekkel, kincsekkel, boltokkal, vagy valami egészen mással.",
+      "Boltos",
+      "Boltok",
+      "Egy titokzatos boltos árulja a portékáját ezen a helyen. NL NL Költsd el a nehezen megszerzett #yAranyad itt!",
+      "Kincs",
+      "Kincses termek",
+      "#yEreklyék és #yArany találhatóak ezekben az áhított szobákban.",
+      "Pihen",
+      "Pihenő helyek",
+      "Állj meg ezekben a szobákban hogy #gGyógyulj néhány HP-t vagy, hogy #yFejlessz egy Kártyát.",
+      "Ellenfél",
+      "Ellenfelek",
+      "Ellenséges ellenfelek találhatóak ezekben a szobákban..",
+      "Elit",
+      "Elitek",
+      "Erős ellenségek vannak ezekben a szobákban. NL NL Legyőzésük után Ereklyéket szerezhetsz.",
+      "Jelmagyarázat"
     ]
   },
   "Lift Option": {
     "TEXT": [
-      "Lift",
-      "Start battles with +1 Strength. (Up to 3)"
+      "Edzés",
+      "Kezd a csatákat +1 Erővel. (Maximum +3)"
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yBuild: ",
-      "Embark",
-      "Return",
-      "click to edit",
-      "to edit"
+      "#yÉpíts: ",
+      "Nekikezd",
+      "Vissza",
+      "kattints a szerkesztéshez",
+      "a szerkesztéshez"
     ]
   },
   "MasterDeckViewScreen": {
@@ -909,10 +909,10 @@
   },
   "Rest Option": {
     "TEXT": [
-      "Rest",
-      "Heal for 100% of your Max HP (",
+      "Pihen",
+      "Gyógyítsd vissza a Max HP 100%-t (",
       " HP from ",
-      "Heal for 30% of your Max HP ("
+      "Gyógyítsd vissza a Max HP 30%-t ("
     ]
   },
   "RestartForChangesEffect": {

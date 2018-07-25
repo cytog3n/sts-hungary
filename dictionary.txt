@@ -3,3 +3,6 @@ proceed				- folytatás
 floor 				- szint
 relic				- ereklye
 blight				- rontás
+draw pile			- húzópakli
+discard pile		- dobópakli
+embark				- nekikezd
