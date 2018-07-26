@@ -6,3 +6,4 @@ blight				- rontás
 draw pile			- húzópakli
 discard pile		- dobópakli
 embark				- nekikezd
+spire				- ????
