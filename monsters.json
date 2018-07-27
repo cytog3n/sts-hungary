@@ -1,57 +1,57 @@
 {
   "AcidSlime_L": {
     "MOVES": [
-      "Corrosive Spit",
-      "Split",
-      "Lick"
+      "Korrózív Köpet",
+      "Osztódás",
+      "Nyalás"
     ],
-    "NAME": "Acid Slime (L)",
+    "NAME": "Korrózív Amőba (L)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Corrosive Spit",
-      "Lick"
+      "Korrózív Köpet",
+      "Nyalás"
     ],
-    "NAME": "Acid Slime (M)",
+    "NAME": "Korrózív Amőba (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Acid Slime (S)",
+    "NAME": "Korrózív Amőba (S)",
     "DIALOG": [
       ""
     ]
   },
   "Apology Slime": {
     "MOVES": [],
-    "NAME": "Apology Slime",
+    "NAME": "'Elnézést kérünk' Amőba",
     "DIALOG": [
       ""
     ]
   },
   "AwakenedOne": {
     "MOVES": [
-      "Soul Strike",
-      "Dark Echo",
-      "Cleanse",
-      "Sludge"
+      "Lélekcsapás",
+      "Sötét Visszhang",
+      "Tisztítás",
+      "Salak"
     ],
-    "NAME": "Awakened One",
+    "NAME": "A Felvilágosult",
     "DIALOG": [
       "~Grr~ ~.~ ~.~ ~.~",
-      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
+      "~Nem~ ~.~ ~.~ ~.~ ~nem~ ~.~ ~.~ NL ~.~ ~.~ ~nem~ ~.~ ~.~ ~.~"
     ]
   },
   "BanditBear": {
     "MOVES": [
       ""
     ],
-    "NAME": "Bear",
+    "NAME": "Medve",
     "DIALOG": [
       ""
     ]
@@ -60,27 +60,27 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Pointy",
+    "NAME": "Hegyes",
     "DIALOG": [
-      "~Beeeaaar!!!!~"
+      "~Medveeee!!!!~"
     ]
   },
   "BanditLeader": {
     "MOVES": [
       ""
     ],
-    "NAME": "Romeo",
+    "NAME": "Rómeó",
     "DIALOG": [
-      "~Grab~ ~em'~ ~Bear!!~",
-      "~You~ ~will~ ~pay~ ~for~ ~this!!~",
-      "~Nooooooo,~ ~Bear!~"
+      "~Fogd~ ~le,~ ~Medve!!~",
+      "~Ezért~ ~megfizetsz!!~",
+      "~Neeeee!~ ~Medve!~"
     ]
   },
   "BookOfStabbing": {
     "MOVES": [
       ""
     ],
-    "NAME": "Book of Stabbing",
+    "NAME": "Tőrök Könyve",
     "DIALOG": [
       ""
     ]
@@ -89,7 +89,7 @@
     "MOVES": [
       "HYPER BEAM"
     ],
-    "NAME": "Bronze Automaton",
+    "NAME": "Bronz Szerkezet",
     "DIALOG": [
       ""
     ]
@@ -98,7 +98,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Orb",
+    "NAME": "Gömb",
     "DIALOG": [
       ""
     ]
@@ -109,7 +109,7 @@
     ],
     "NAME": "Byrd",
     "DIALOG": [
-      "@CAW!@ NL @CAAAW@",
+      "@KÁR!@ NL @KÁÁÁR@",
       ""
     ]
   },
@@ -117,43 +117,43 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Centurion",
+    "NAME": "Centurio",
     "DIALOG": [
       ""
     ]
   },
   "Champ": {
     "MOVES": [
-      "Defensive Stance",
-      "Execute",
-      "Face Slap"
+      "Védekező Pozíció",
+      "Kivégzés",
+      "Pofon"
     ],
-    "NAME": "The Champ",
+    "NAME": "A Bajnok",
     "DIALOG": [
-      "You call that a weapon?",
-      "Come at me!",
-      "Do your worst! NL @HAHAHA!@",
-      "Have a free shot! NL Futile weakling!",
-      "~You've~ ~done~ ~it~ ~now...~",
-      "@DEFEAT??@ NL @IMPOSSIBLE!!@",
-      "~DIE~ ~.~ ~.~ ~.~",
-      "Face my wrath!"
+      "Te azt fegyvernek hívod?",
+      "Mi lesz? Gyere nekem!",
+      "Tégy próbára! NL @HAHAHA!@",
+      "Jelentéktelen nyápic!",
+      "~Ezt~ ~jól~ ~megcsináltad...~",
+      "@VERESÉG??@ NL @OLYAN NINCS!!@",
+      "~MEGHALSZ~ ~.~ ~.~ ~.~",
+      "Nézz szembe haragommal!"
     ]
   },
   "Chosen": {
     "MOVES": [
       ""
     ],
-    "NAME": "Chosen",
+    "NAME": "Kiválasztott",
     "DIALOG": [
-      "~Suffer...~"
+      "~Szenvedj...~"
     ]
   },
   "CorruptHeart": {
     "MOVES": [
       ""
     ],
-    "NAME": "Corrupt Heart",
+    "NAME": "Megrontott Szív",
     "DIALOG": [
       ""
     ]
@@ -162,22 +162,22 @@
     "MOVES": [
       "",
       "",
-      "Incantation"
+      "Varázsige"
     ],
     "NAME": "Cultist",
     "DIALOG": [
-      "@MY@ @POWER@ @IS@ NL @UNMATCHED!@",
-      "@YOU@ @DO@ @NOT@ NL @BELONG@ @HERE!@",
-      "~My~ ~powers~ NL ~were~ ~matched...~"
+      "@AZ@ @ERŐM@ NL @EGYEDÜLÁLLÓ!@",
+      "@NEM@ @TARTOZOL@ @IDE!@",
+      "~Mégsem~ ~olyan~ NL ~egyedülálló...~"
     ]
   },
   "Darkling": {
     "MOVES": [
-      "Chomp! Chomp!"
+      "Ropp! Ropp!"
     ],
-    "NAME": "Darkling",
+    "NAME": "Sötétség",
     "DIALOG": [
-      "Regrowing..."
+      "Visszanő..."
     ]
   },
   "Deca": {
@@ -191,7 +191,7 @@
   },
   "Donu": {
     "MOVES": [
-      "Circle of Power"
+      "Az Erő Köre"
     ],
     "NAME": "Donu",
     "DIALOG": [
@@ -202,7 +202,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Exploder",
+    "NAME": "Robbanó",
     "DIALOG": [
       ""
     ]
@@ -211,7 +211,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Fire Orb",
+    "NAME": "Tűzgömb",
     "DIALOG": [
       ""
     ]
@@ -220,7 +220,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Dagger",
+    "NAME": "Tőr",
     "DIALOG": [
       ""
     ]
@@ -229,7 +229,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Flame Bruiser",
+    "NAME": "Tüzes Őr",
     "DIALOG": [
       ""
     ]
@@ -238,34 +238,34 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Reptomancer",
+    "NAME": "Gyíkmágus",
     "DIALOG": [
       ""
     ]
   },
   "FungiBeast": {
     "MOVES": [
-      "Grow"
+      "Növés"
     ],
-    "NAME": "Fungi Beast",
+    "NAME": "Gombás Lény",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseDefensive": {
     "MOVES": [
-      "Spit Web"
+      "Hálós Köpet"
     ],
-    "NAME": "Louse",
+    "NAME": "Tetű",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseNormal": {
     "MOVES": [
-      "Grow"
+      "Növés"
     ],
-    "NAME": "Louse",
+    "NAME": "Tetű",
     "DIALOG": [
       ""
     ]
@@ -274,19 +274,19 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Giant Head",
+    "NAME": "Óriási Fej",
     "DIALOG": [
-      "~It~ ~is~ ~time~",
-      "~Good~ ~Bye~",
-      "~Tick~ ~Tock~ NL ~Tick~ ~Tock~",
-      "~Why~ ~are~ ~you~ NL ~still~ ~here?~"
+      "~Itt~ ~az~ ~idő~",
+      "~Viszlát~",
+      "~Tikk~ ~Takk~ NL ~Tikk~ ~Takk~",
+      "~Miért~ ~vagy~ ~még~ ~itt?~"
     ]
   },
   "GremlinFat": {
     "MOVES": [
-      "Smash"
+      "Zúzás"
     ],
-    "NAME": "Fat Gremlin",
+    "NAME": "Dagadt Szörny",
     "DIALOG": [
       "",
       "",
@@ -295,23 +295,23 @@
   },
   "GremlinLeader": {
     "MOVES": [
-      "Rally!"
+      "Gyülekező!"
     ],
-    "NAME": "Gremlin Leader",
+    "NAME": "Szörny Vezér",
     "DIALOG": [
-      "Don't ever give up!",
-      "We're not done yet!",
-      "Get em boys!",
-      "@Retreat@ NL @Retreaaat!@",
-      "@Ruuuuuuun!@"
+      "Ne adjátok fel!",
+      "Még nem végeztünk!",
+      "Kapjátok el!",
+      "@Vissza!@ NL @Vissza!@",
+      "@Futás!@"
     ]
   },
   "GremlinNob": {
     "MOVES": [
-      "Skull Bash",
-      "Bull Rush"
+      "Koponyatörés",
+      "Bikaroham"
     ],
-    "NAME": "Gremlin Nob",
+    "NAME": "Óriás Szörny",
     "DIALOG": [
       "@RRrroohrrRGHHhhh!!@"
     ]
@@ -320,66 +320,66 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Sneaky Gremlin",
+    "NAME": "Ravasz Szörny",
     "DIALOG": [
       "",
-      "@I'll@ @go@ NL @get@ @help!@ ",
-      "@What@ @the!?@"
+      "@Hívok@ NL @segítséget!@ ",
+      "@Mi@ @a!?@"
     ]
   },
   "GremlinTsundere": {
     "MOVES": [
-      "Protect",
-      "Shield Bash"
+      "Védés",
+      "Pajzsos Csapás"
     ],
-    "NAME": "Shield Gremlin",
+    "NAME": "Pajzsos Szörny",
     "DIALOG": [
       "",
-      "~Good~ ~bye...~",
-      "This is no good..."
+      "~Viszlát...~",
+      "Ez nem jó hír..."
     ]
   },
   "GremlinWarrior": {
     "MOVES": [
       "Claw"
     ],
-    "NAME": "Mad Gremlin",
+    "NAME": "Dühös Szörny",
     "DIALOG": [
       "",
-      "@Gonna@ @go@ NL @get@ @help!@",
-      "I'm outta here!"
+      "@Hívok@ NL @segítséget!@ ",
+      "Én leléptem..."
     ]
   },
   "GremlinWizard": {
     "MOVES": [
-      "Charging",
-      "Ultimate Blast"
+      "Töltődés",
+      "Végső Robbanás"
     ],
-    "NAME": "Gremlin Wizard",
+    "NAME": "Varázsló Szörny",
     "DIALOG": [
       "",
-      "Charging up!",
-      "~Here~ ~it~ ~comes!!~",
-      "@I...@ @get...@ NL @help...!@",
-      "~too...~ NL ~dangerous...~ NL ~bye...~"
+      "Mindjárt megvan!",
+      "~Most~ ~jön!!~",
+      "@Megyek...@ NL @segítségért...!@",
+      "~túl...~ NL ~veszélyes...~"
     ]
   },
   "Healer": {
     "MOVES": [
       ""
     ],
-    "NAME": "Mystic",
+    "NAME": "Sámán",
     "DIALOG": [
       ""
     ]
   },
   "Hexaghost": {
     "MOVES": [
-      "Inflame",
-      "Sear",
-      "Inferno"
+      "Lobbanás",
+      "Égetés",
+      "Tűzvész"
     ],
-    "NAME": "Hexaghost",
+    "NAME": "Hatszögszellem",
     "DIALOG": []
   },
   "HexaghostBody": {
@@ -394,17 +394,17 @@
   },
   "JawWorm": {
     "MOVES": [
-      "Bellow",
-      "Thrash"
+      "Bőgés",
+      "Csépelés"
     ],
-    "NAME": "Jaw Worm",
+    "NAME": "Állkapcsos Kukac",
     "DIALOG": [
       ""
     ]
   },
   "Lagavulin": {
     "MOVES": [
-      "Siphon Soul"
+      "Lélekszipoly"
     ],
     "NAME": "Lagavulin",
     "DIALOG": [
@@ -416,60 +416,60 @@
   },
   "Looter": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Döfés",
+      "Rablás"
     ],
-    "NAME": "Looter",
+    "NAME": "Fosztogató",
     "DIALOG": [
-      "Give me your gold!",
-      "@NOOOoooo!@",
-      "Where's my smoke bomb... Let's see here...",
-      "Thanks for the money, hehe"
+      "Add ide a szajrét!",
+      "@ÁÁÁÁÁÁÁááá!@",
+      "Hadd lám... Hol a füstbombám...",
+      "Kösz a pénzért, balek"
     ]
   },
   "Maw": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Maw",
+    "NAME": "A Bendő",
     "DIALOG": [
       "@RRrrohrrRGHhh!!@"
     ]
   },
   "Mugger": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Döfés",
+      "Rablás"
     ],
-    "NAME": "Mugger",
+    "NAME": "Rabló",
     "DIALOG": [
-      "Hand it over!",
-      "I'm outta here!"
+      "Adod ide!",
+      "Én leléptem!"
     ]
   },
   "Nemesis": {
     "MOVES": [
       ""
     ],
-    "NAME": "Nemesis",
+    "NAME": "Végzet",
     "DIALOG": [
       ""
     ]
   },
   "Orb Walker": {
     "MOVES": [
-      "Strength Up"
+      "Erősítés"
     ],
-    "NAME": "Orb Walker",
+    "NAME": "Lépegető Gömb",
     "DIALOG": [
-      "Initiating NL shields."
+      "Pajzsok NL bekapcsolva."
     ]
   },
   "Puppeteer": {
     "MOVES": [
       ""
     ],
-    "NAME": "Puppeteer",
+    "NAME": "Bábjátékos",
     "DIALOG": [
       ""
     ]
@@ -478,16 +478,16 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Repulsor",
+    "NAME": "Taszító",
     "DIALOG": [
       ""
     ]
   },
   "Sentry": {
     "MOVES": [
-      "Disintegrate"
+      "Dezintegráció"
     ],
-    "NAME": "Sentry",
+    "NAME": "Őrszem",
     "DIALOG": [
       ""
     ]
@@ -496,7 +496,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spire Growth",
+    "NAME": "Toronygyom",
     "DIALOG": [
       ""
     ]
@@ -505,16 +505,16 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Shelled Parasite",
+    "NAME": "Páncélos Parazita",
     "DIALOG": [
       ""
     ]
   },
   "SlaverBlue": {
     "MOVES": [
-      "Rake"
+      "Szúrás"
     ],
-    "NAME": "Slaver",
+    "NAME": "Rabszolgatartó",
     "DIALOG": [
       ""
     ]
@@ -523,48 +523,48 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Taskmaster",
+    "NAME": "Hajcsár",
     "DIALOG": [
       ""
     ]
   },
   "SlaverRed": {
     "MOVES": [
-      "Scrape",
-      "Entangle"
+      "Szúrás",
+      "Behálózás"
     ],
-    "NAME": "Slaver",
+    "NAME": "Rabszolgatartó",
     "DIALOG": [
       ""
     ]
   },
   "SlimeBoss": {
     "MOVES": [
-      "Slam",
-      "Preparing",
-      "Split",
-      "Goop Spray"
+      "Zúzás",
+      "Felkészülés",
+      "Osztódás",
+      "Nyálkapermet"
     ],
-    "NAME": "Slime Boss",
+    "NAME": "Főamőba",
     "DIALOG": [
-      "~Slime...~ NL #r~CRUSH!!!~",
+      "~Amőba...~ NL #r~ZÚZ!!!~",
       ""
     ]
   },
   "SnakePlant": {
     "MOVES": [
-      "Enfeebling Spores"
+      "Elgyengítő Spórák"
     ],
-    "NAME": "Snake Plant",
+    "NAME": "Kígyónövény",
     "DIALOG": [
       ""
     ]
   },
   "Snecko": {
     "MOVES": [
-      "Perplexing Glare",
-      "Tail Whip",
-      "Bite"
+      "Összezavaró Pillantás",
+      "Farokostor",
+      "Harapás"
     ],
     "NAME": "Snecko",
     "DIALOG": [
@@ -575,33 +575,33 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spheric Guardian",
+    "NAME": "Gömbszerű Őr",
     "DIALOG": [
-      "~Outsider~ NL ~Detected~"
+      "~Kívülálló~ NL ~Érzékelve~"
     ]
   },
   "SpikeSlime_L": {
     "MOVES": [
-      "Lick",
-      "Split"
+      "Nyalás",
+      "Osztódás"
     ],
-    "NAME": "Spike Slime (L)",
+    "NAME": "Tüskés Amőba (L)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_M": {
     "MOVES": [
-      "Lick"
+      "Nyalás"
     ],
-    "NAME": "Spike Slime (M)",
+    "NAME": "Tüskés Amőba (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Spike Slime (S)",
+    "NAME": "Tüskés Amőba (S)",
     "DIALOG": [
       ""
     ]
@@ -610,7 +610,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spiker",
+    "NAME": "Szúró",
     "DIALOG": [
       ""
     ]
@@ -619,27 +619,27 @@
     "MOVES": [
       ""
     ],
-    "NAME": "The Collector",
+    "NAME": "A Gyűjtő",
     "DIALOG": [
-      "@You@ @are@ @mine!@"
+      "@Az@ @enyém@ @vagy!@"
     ]
   },
   "TheGuardian": {
     "MOVES": [
-      "Defensive Mode",
-      "Fierce Bash",
-      "Roll",
-      "Twin Slam",
-      "Whirlwind",
-      "Charging Up",
-      "Vent Steam"
+      "Védekező Mód",
+      "Vad Zúzás",
+      "Felgöngyölödés",
+      "Ikercsapás",
+      "Forgószél",
+      "Feltöltődés",
+      "Gőzölés"
     ],
-    "NAME": "The Guardian",
+    "NAME": "Az Őrző",
     "DIALOG": [
-      "#b~..COOLING...~ NL #b~...DOWN...~",
-      "Defending...",
-      "#r@DESTROY@ NL #r@DESTROY@ NL #r@DESTROY@",
-      "#r@DANGER@ NL #r@DANGER@ NL #r@DANGER@"
+      "#b~..LEHŰTÉS...~",
+      "Védekezés...",
+      "#r@PUSZTÍT@ NL #r@PUSZTÍT@ NL #r@PUSZTÍT@",
+      "#r@VÉSZ@ NL #r@VÉSZ@ NL #r@VÉSZ@"
     ]
   },
   "TheGuardianOrb": {
@@ -651,17 +651,17 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Time Eater",
+    "NAME": "Időfaló",
     "DIALOG": [
-      "~Ah...~ NL ~..company...~",
-      "~Foolish..~ NL @FOOOLISH!@"
+      "~Áh...~ NL ~..társaság...~",
+      "~Ostoba..~ NL @OSTOBA!@"
     ]
   },
   "TorchHead": {
     "MOVES": [
       ""
     ],
-    "NAME": "Torch Head",
+    "NAME": "Fáklyafejű",
     "DIALOG": [
       ""
     ]
@@ -670,7 +670,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Transient",
+    "NAME": "Múlandó",
     "DIALOG": [
 	  ""
     ]
