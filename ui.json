@@ -652,7 +652,8 @@
       "Hungarian",
       "Serbian (Latin)",
       "Catalan",
-      "Greek"
+      "Greek",
+	  "Indonesian"
     ]
   },
   "LeaderboardFilters": {
@@ -718,7 +719,7 @@
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yÉpíts: ",
+      "#yVerzió: ",
       "Nekikezd",
       "Vissza",
       "kattints a szerkesztéshez",
@@ -797,62 +798,62 @@
   },
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Card Removal Service",
-      "SALE",
-      "Not for Sale",
-      "Sold Out",
-      "Oh no!"
+      "Kártya Eltávolítás",
+      "KIÁRUSÍTÁS",
+      "Nem eladó",
+      "Elfogyott",
+      "Oh ne!"
     ]
   },
   "OpeningAction": {
     "TEXT": [
-      "That enemy does not intend to attack!"
+      "Az az ellenfél nem akar támadni!"
     ]
   },
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Game Settings",
-      "Graphics",
-      "Resolution: NL Max Framerate:",
-      "Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
-      "Sound",
-      "Master Volume NL Music Volume NL Effects Volume",
-      "Ambient Sound Effects NL Mute while in background",
-      "Preferences",
-      "Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
-      "Fast Mode",
+      "Játék Beállítások",
+      "Grafika",
+      "Felbontás: NL Max Framerate:",
+      "Teljes képernyő NL Szegélymentes Teljes képernyő(ajánlott) NL Képernyő rezgés",
+      "Hang",
+      "Fő Hangerő NL Zene Hangereje NL Effektek Hangereje",
+      "Környezeti hanghatások NL Némítás ha háttérben van",
+      "Beállítások",
+      "Az összeadott sebzés legyen arany színű NL A Blokkolt sebzés legyen kék színű. NL A megerősítés letiltása ha 1 kártyát választunk",
+      "Gyors Mód",
       "",
-      "Miscellaneous",
-      "Language:",
-      "Upload gameplay data #b(?)",
-      "Exit Game",
-      "Save & Quit",
+      "Egyéb",
+      "Nyelv:",
+      "Játék adatok feltöltése #b(?)",
+      "Kilépés a Játékból",
+      "Mentés & Kilépés",
       "NL NL VSync",
       "Playtester Art Mode",
-      "Show Card Quick Select Keys",
-      "Input Settings"
+      "Mutasd a Kártyát Gyors Választó Gombok",
+      "Irányítás Beállítások"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
-      "Return",
+      "Vissza",
       "#yPatch #yNotes",
-      " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
+      " NL (IDEIGLENES: Használd a nyilakat a logok közti navigáláshoz)"
     ]
   },
   "PotionPopUp": {
     "TEXT": [
-      "Throw",
-      "Drink",
-      "Discard",
-      "I cannot use potions!",
-      "I can't do that in combat!"
+      "Rádob",
+      "Iszik",
+      "Eldob",
+      "Nem tudom használni ezeket a bájitalokat!",
+      "Nem tehetem ezt meg csata közben!"
     ]
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "Wears Off"
+      "Elmúlt"
     ]
   },
   "Proceed Button": {
@@ -862,19 +863,19 @@
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "put on top of your draw pile"
+      "tedd a Húzópaklid tetejére"
     ]
   },
   "RecycleAction": {
     "TEXT": [
-      "Exhaust"
+      "Kimerít"
     ]
   },
   "RelicViewScreen": {
     "TEXT": [
-      "Return",
-      "Starter:",
-      "Characters can start with these relics.",
+      "Vissza",
+      "Kezdő:",
+      "Ezekkel az ereklyékkel kezdenek a Karakterek.",
       "Common:",
       "Weak relics that are found commonly.",
       "Uncommon:",
@@ -893,7 +894,7 @@
     "TEXT": [
       "<nincs név>",
       "Írd be a neved",
-      "Meger\u0151sít",
+      "Megerősít",
       "Mégsem"
     ]
   },
