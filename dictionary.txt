@@ -8,3 +8,9 @@ discard pile		- dobópakli
 embark				- nekikezd
 spire				- ????
 exhaust				- kimerít
+boss				- vezér
+
+common				-közönséges
+uncommon			-ritka
+rare				-kivételes
+

@@ -96,7 +96,7 @@
       "Semlegesítve",
       "Immunis",
       "Megsemmisítve",
-      "\n Down"
+      "\n Megszűnt"
     ]
   },
   "ArmamentsAction": {
@@ -106,32 +106,32 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Elites spawn more often.",
-      "Normal enemies are deadlier.",
-      "Elites are deadlier.",
-      "Bosses are deadlier.",
-      "Heal less after Boss battles.",
-      "Start each run damaged.",
-      "Normal enemies are tougher.",
-      "Elites are tougher.",
-      "Bosses are tougher.",
-      "Start each run cursed.",
-      "Fewer Potion Slots.",
-      "Upgraded cards appear less often.",
-      "Poor bosses.",
-      "Lower Max HP.",
-      "(Max Level) Unfavorable Events."
+      "Az Elitek gyakrabban jelennek meg.",
+      "A Normál ellenfelek halálosabbak.",
+      "Az Elitek halálosabbak.",
+      "A Vezérek halálosabbak.",
+      "A Vezérek elleni csaták után kevesebbet gyógyulsz.",
+      "Kezdj minden menetet sebesülten.",
+      "A Normál ellenfelek erősebbek.",
+      "Az Elitek erősebbek.",
+      "A Vezérek erősebbek.",
+      "Kezdj minden menetet Elátkozva.",
+      "Kevesebb hely a Bájitaloknak.",
+      "Fejlesztett Kártyák kevesebbszer jelennek meg.",
+      "Szegény Vezérek.",
+      "Kevesebb a Max HP-d.",
+      "(Max Szint) Kedvezőtlen Események."
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Felemelkedési Mód ",
+      " Feloldva!"
     ]
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "Felemelkedés Feloldva!"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -653,7 +653,7 @@
       "Serbian (Latin)",
       "Catalan",
       "Greek",
-	  "Indonesian"
+      "Indonesian"
     ]
   },
   "LeaderboardFilters": {
@@ -693,9 +693,9 @@
       "Ismeretlen",
       "???",
       "Egy ismeretlen szoba. NL NL Találkozhatsz szörnyekkel, kincsekkel, boltokkal, vagy valami egészen mással.",
-      "Boltos",
+      "Kereskedő",
       "Boltok",
-      "Egy titokzatos boltos árulja a portékáját ezen a helyen. NL NL Költsd el a nehezen megszerzett #yAranyad itt!",
+      "Egy titokzatos kereskedő árulja a portékáját ezen a helyen. NL NL Költsd el a nehezen megszerzett #yAranyad itt!",
       "Kincs",
       "Kincses termek",
       "#yEreklyék és #yArany találhatóak ezekben az áhított szobákban.",
@@ -876,18 +876,18 @@
       "Vissza",
       "Kezdő:",
       "Ezekkel az ereklyékkel kezdenek a Karakterek.",
-      "Common:",
-      "Weak relics that are found commonly.",
-      "Uncommon:",
-      "Stronger relics which appear less often than common relics.",
-      "Rare:",
-      "Unique and powerful relics which are rarely seen.",
-      "Boss:",
-      "Relics found only within Boss chests.",
-      "Event:",
-      "Relics which can only be obtained through events.",
-      "Shop:",
-      "Relics which can only be purchased from the Merchant."
+      "Közönséges:",
+      "Gyakran felbukkanó közönséges ereklyék.",
+      "Ritka:",
+      "Erősebb ereklyék, melyek ritkábban találhatóak meg mint a közönséges társaik.",
+      "Kivételes:",
+      "Egyedi és erőteljes ereklyék melyeket csak ritkán lehet megszerezni.",
+      "Vezér:",
+      "Főellenfelek ládáiban megtalálható ereklyék.",
+      "Esemény:",
+      "Eseményeken keresztül megszerezhető ereklyék.",
+      "Bolt:",
+      "A Kereskedőnél megszerezhető ereklyék."
     ]
   },
   "RenamePanel": {
@@ -918,57 +918,57 @@
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Restart the game for display changes to take effect."
+      "Indítsd újra a játékot, hogy a változtatásaid életbe lépjenek."
     ]
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Retain"
+      "Megtart"
     ]
   },
   "RewardItem": {
     "TEXT": [
-      " Gold (Stolen Back)",
-      " Gold",
-      "Add a card to your deck",
+      " Arany (Vissza lopva)",
+      " Arany",
+      "Adj egy Kártyát a Paklidhoz",
       "",
-      "Choose a Card"
+      "Válassz egy Kártyát"
     ]
   },
   "RunHistoryPathNodes": {
     "TEXT": [
-      "Unknown",
-      "Enemy",
-      "Elite",
-      "Event",
-      "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
+      "Ismeretlen",
+      "Ellenség",
+      "Elit",
+      "Esemény",
+      "Vezér",
+      "Kincs",
+      "Vezér Kincs",
+      "Pihenő",
+      "Kereskedő",
+      "Ismeretlen (Ellenség)",
+      "Ismeretlen (Kereskedő)",
+      "Ismeretlen (Kincs)",
       "Szint %1$s - %2$s",
       "Szint %s",
-      "#r%s Damage",
-      "#r%s Turns",
+      "#r%s Sebzés",
+      "#r%s Kör",
       "#r%s #r/ #r%s #rHP",
-      "#y%s #yGold",
-      "#yObtained:",
-      "#ySkipped:",
-      "Missing Info",
+      "#y%s #yArany",
+      "#yMegszerzett:",
+      "#yKihagyott:",
+      "Hiányzó Info",
       "+2 Max HP",
       "#bC ",
       "#bR ",
       "#bP ",
       "#bS ",
-      "#bRested",
-      "#bUpgraded %s",
-      "#bRemoved %s",
-      "#bDug",
-      "#bLifted %s/%s",
-      "#yPurchased:"
+      "#bPihent",
+      "%s #bFejlesztve",
+      "%s #bEltávolítva",
+      "#bÁsott",
+      "#bGyúrt %s/%s",
+      "#yMegvásárolt:"
     ]
   },
   "RunHistoryScreen": {
@@ -977,122 +977,122 @@
       "A Szótlan",
       "A Hiányos",
       "Vissza",
-      "No run histories found. NL Go Slay the Spire!",
-      "Ascension Level: ",
+      "Nem találhatóak előzmények. NL Menj Győzd le a Tornyot!",
+      "Felemelkedési szint: ",
       "Lemészárolva a %1$d szinten %2$s által.",
       "Menet feladva a %d szinten.",
-      "Victory!",
-      "Cards",
-      "Relics",
-      "Starter",
-      "Common",
-      "Uncommon",
-      "Rare",
-      "Special",
-      "Curse",
-      "Boss",
-      "Shop",
-      "Unknown",
+      "Győzelem!",
+      "Kártyák",
+      "Ereklyék",
+      "Kezdő",
+      "Közönséges",
+      "Ritka",
+      "Kivételes",
+      "Speciális",
+      "Átok",
+      "Vezér",
+      "Bolt",
+      "Ismeretlen",
       "%1$d %2$s",
       "%1$s (%2$d):",
-      "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses",
-      "Daily",
-      "Any Game Type",
-      "Only Normal",
-      "Only Ascension",
-      "Only Daily Challenge",
+      "Pontszám: %d",
+      "Minden Karakter",
+      "Győzelmek és Vereségek",
+      "Győzelmek",
+      "Vereségek",
+      "Napi",
+      "Bármilyen Játék Típus",
+      "Csak Normál",
+      "Csak Felemelkedés",
+      "Csak Napi Kihívás",
       "Seed: %s",
-      "Custom Seed: %s"
+      "Egyedi Seed: %s"
     ]
   },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Enter a new Seed",
+      "Adj meg egy egyedi Seed-et:",
       "Megerősít",
-      "Cancel",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "Mégsem",
+      "*Az Achievement-ek és a Ranglista nem elérhetőek egyedi Seed esetén."
     ]
   },
   "SettingsScreen": {
     "TEXT": [
-      "Are you sure?",
-      "Your progress is automatically saved.",
-      "Abandoning the game will result in a loss.",
+      "Biztos vagy benne?",
+      "Az állásod automatikusan el lett mentve.",
+      "Ha most kilépsz a menet vereségként lesz elkönyvelve.",
       "FIGYELMEZTETÉS:\nA játékállás NINCS elmentve.\n\nMenj a következő szintre, hogy elmentsd ezt a menetet.",
-      "Return",
-      "Progress is NOT saved for daily runs."
+      "Vissza",
+      "A Játékállás NINCS elmentve a napi futam során."
     ]
   },
   "SetupAction": {
     "TEXT": [
-      "put on top of your draw pile."
+      "tedd a húzópaklid tetejére."
     ]
   },
   "ForethoughtAction": {
     "TEXT": [
-      "put on bottom of your draw pile."
+      "tedd a húzópaklid aljára."
     ]
   },
   "ShopRoom": {
     "TEXT": [
-      "Skip Merchant"
+      "Kereskedő Kihagyása"
     ]
   },
   "SingleCardViewPopup": {
     "TEXT": [
-      "Attack",
-      "Skill",
-      "Power",
-      "Curse",
-      "Locked",
-      "Unknown",
-      "View Upgrade",
-      "Status",
+      "Támadás",
+      "Képesség",
+      "Erő",
+      "Átok",
+      "Lezárt",
+      "Ismeretlen",
+      "Fejlesztés Megtekintése",
+      "Státusz",
       "",
-      "I can only play cards on my turn.",
-      "I'm #rEntangled! NL Can't play Attacks",
-      "Not enough #rEnergy.",
-      "Not enough #rCharge.",
-      "I can't play NL this card."
+      "Csak a saját körömben játszhatok ki kártyákat.",
+      "#rÖsszezavarodtam! NL Nem tudok Támadni",
+      "Nincs elég #rEnergiám.",
+      "Nincs elég #rTöltet.",
+      "Nem játszhatom ki NL ezt a kártyát."
     ]
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
-      "Common",
-      "Deprecated",
-      "Rare",
-      "Shop",
-      "Event",
-      "Starter",
-      "Uncommon",
-      "Locked",
-      "Unknown",
-      " Relic",
-      "This relic has yet to be unlocked.",
-      "This relic remains to be seen."
+      "Vezér",
+      "Közönséges",
+      "Elavult",
+      "Kivételes",
+      "Bolt",
+      "Esemény",
+      "Kezdő",
+      "Ritka",
+      "Lezárt",
+      "Ismeretlen",
+      " Ereklye",
+      "Ezt az ereklyét fel kell még oldani.",
+      "Ez az ereklye látható marad."
     ]
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Choose a Skill to Add to Your Hand"
+      "Válassz egy Képességet, hogy a Kezedbe helyezd."
     ]
   },
   "Smith Option": {
     "TEXT": [
-      "Smith",
-      "Upgrade a card in your deck.",
-      "No upgradeable cards."
+      "Kovácsol",
+      "Fejlessz egy Kártyát a paklidban.",
+      "Nincs fejleszthető kártya."
     ]
   },
   "StorePotion": {
     "TEXT": [
-      "You have no space for this"
+      "Nincs helyedre ehhez"
     ]
   },
   "TheBeyond": {
@@ -1107,77 +1107,77 @@
   },
   "TipHelper": {
     "TEXT": [
-      "Energy"
+      "Energia"
     ]
   },
   "Toke Option": {
     "TEXT": [
-      "Toke",
-      "Remove a card from your deck."
+      "Elvesz",
+      "Távolíts el egy Kártyát a paklidból."
     ]
   },
   "TopPanel": {
     "TEXT": [
       " Szint",
-      " - Ascension ",
-      " (Max Level)"
+      " - Felemelkedés ",
+      " (Max Szint)"
     ]
   },
   "TreasureRoom": {
     "TEXT": [
-      "Skip Chest"
+      "Láda kihagyása"
     ]
   },
   "TreasureRoomBoss": {
     "TEXT": [
-      "Skip Chest"
+      "Láda kihagyása"
     ]
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "SZAVAZZ MOST: "
     ]
   },
   "Unlock Confirm Button": {
     "TEXT": [
-      "Continue"
+      "Folytatás"
     ]
   },
   "UnlockCharacterScreen": {
     "TEXT": [
-      "Cards Unlocked!",
+      "Kártyák Feloldva!",
       "",
-      "Relics Unlocked!",
-      "New Character",
-      "Note: Unlocked cards show up in future runs.",
-      "Note: Unlocked relics show up in future runs."
+      "Ereklyék Feloldva!",
+      "Új Karakter",
+      "Megjegyzés: A feloldott kártyák megjelennek a jövőbeli meneteid során.",
+      "Megjegyzés: A feloldott ereklyék megjelennek a jövőbeli meneteid során."
     ]
   },
   "UnlockScreen": {
     "TEXT": [
-      "Cards Unlocked!",
-      "Relics Unlocked!",
-      "New Character",
-      "Note: Unlocked cards show up in future runs.",
-      "Note: Unlocked relics show up in future runs."
+      "Kártyák Feloldva!",
+      "Ereklyék Feloldva!",
+      "Új Karakter",
+      "Megjegyzés: A feloldott kártyák megjelennek a jövőbeli meneteid során.",
+      "Megjegyzés: A feloldott ereklyék megjelennek a jövőbeli meneteid során."
     ]
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "New Unlock!"
+      "Új Feloldás!"
     ]
   },
   "CustomModeScreen": {
     "TEXT": [
-      "Custom Mode",
-      "Achievements and Leaderboards are off.",
-      "Character",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Modifiers",
+      "Egyedi Mód",
+      "Achievement-ek és Ranglista ki van kapcsolva.",
+      "Karakter",
+      "Felemelkedés",
+      "Szint ",
+      "Felemelkedés Mód",
+      "Módosítók",
       "Seed",
-      "Set Seed"
+      "Seed Beállítása"
     ]
   }
 }
