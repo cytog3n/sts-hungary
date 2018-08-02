@@ -14,3 +14,4 @@ common				-közönséges
 uncommon			-ritka
 rare				-kivételes
 
+Remove Card			- Kártya eltávolítása
