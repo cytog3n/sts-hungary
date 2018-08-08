@@ -409,6 +409,14 @@
       " Feloldva!"
     ]
   },
+    "DeletePopup": {
+    "TEXT": [
+      "Törlöd ezt a mentést?",
+      "Igen",
+      "Nem",
+      "FIGYELMEZTETÉS: Ez a művelet nem vonható vissza."
+    ]
+  },
   "Dig Option": {
     "TEXT": [
       "Ásás",
@@ -1178,6 +1186,19 @@
       "Módosítók",
       "Seed",
       "Seed Beállítása"
+    ]
+  },
+	"SaveSlot": {
+    "TEXT": [
+      "Játékidő ",
+      "Üres Hely"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Válassz egy Mentési Helyet",
+      "Átnevez",
+      "Mentés törlése"
     ]
   }
 }

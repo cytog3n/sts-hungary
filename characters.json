@@ -102,14 +102,15 @@
       " #rMax #rHP ",
       "[ #rVeszítsd #rel #raz #rösszes #rAranyad ",
       "[ #rSzerezz #rmeg #regy #rÁtkot ",
-      "[ #rVeszítsd #rel #ra #rHP-d #r50%-át ",
+      "[ #Szenvedj #rel ",
       "Válassz egy Kártyát",
       "Válassz egy Kártyát, hogy Eltávolítsd",
       "Válassz 2 Kártyát, hogy Eltávolítsd",
       "Válassz egy Kártyát, hogy Átalakítsd",
       "Válassz 2 Kártyát, hogy Átalakítsd",
       "Válassz egy Kártyát, hogy Fejleszd",
-      "[ #gAz #gEllenfeleid #ga #gkövetkező #ghárom #gcsatában #g1 #gHP-val #gkezdenek ]"
+      "[ #gAz #gEllenfeleid #ga #gkövetkező #ghárom #gcsatában #g1 #gHP-val #gkezdenek ]",
+	  " #rsebzést"
     ],
     "UNIQUE_REWARDS": [
       "[ #rVeszítsd #rel #ra #rkezdő #rEreklyéd, #ghogy #gKapj #gegy #gvéletlenszerű #gboss #gEreklyét ]"
