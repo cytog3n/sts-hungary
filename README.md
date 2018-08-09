@@ -10,20 +10,20 @@ Usage:
 
 Status:
 
-achievements.json
-blights.json
-cards.json
-characters.json - translated by Spartalos based on SlendyProject work
-credits.json
-events.json
-keywords.json
-monsters.json - translated by baliame
-orbs.json
-potions.json
-powers.json
-relics.json - under translation by Spartalos
-run_mods.json
-score_bonuses.json
-tutorials.json
-ui.json - translated by Spartalos
+- achievements.json
+- blights.json
+- cards.json
+- characters.json - translated by Spartalos based on SlendyProject work
+- credits.json
+- events.json
+- keywords.json - under translation by Spartalos
+- monsters.json - translated by baliame
+- orbs.json
+- potions.json
+- powers.json
+- relics.json - under translation by Spartalos
+- run_mods.json
+- score_bonuses.json
+- tutorials.json
+- ui.json - translated by Spartalos
 

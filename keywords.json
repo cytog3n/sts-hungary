@@ -2,67 +2,67 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "artifact"
+        "készítmény"
       ],
-      "DESCRIPTION": "Negates the next debuff."
+      "DESCRIPTION": "Semlegesíti a következő negatív hatást."
     },
     "BLOCK": {
       "NAMES": [
-        "block",
-        "blocks"
+        "védelem",
+        "véd"
       ],
-      "DESCRIPTION": "Until next turn, prevents damage."
+      "DESCRIPTION": "A következő körig elhárítja a támadásokat."
     },
     "BURN": {
       "NAMES": [
-        "burn",
-        "burns"
+        "égés",
+        "ég"
       ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+      "DESCRIPTION": "Az égések kijátszhatatlan státusz kártyák, melyek megsebeznek téged."
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "sugárzás",
+        "sugároz"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "Egy Gömb sugárzása során, azt az első üres helyre hozza létre. Ha nincs üres helyed, az első helyen álló Gömböd #yMegidéződik, hogy felszabadítson egy helyet."
     },
     "CONFUSED": {
       "NAMES": [
-        "confused"
+        "zavart"
       ],
-      "DESCRIPTION": "Whenever you draw a card, randomize its cost."
+      "DESCRIPTION": "Bármikor ha kártyát húzol, a költsége véletlenszerű lesz."
     },
     "CURSE": {
       "NAMES": [
-        "curse"
+        "átok"
       ],
-      "DESCRIPTION": "Curse cards are negative cards that stay in your deck."
+      "DESCRIPTION": "Az Átok kártyák negatív hatásúak, s nem tűnnek el a paklidból."
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "sötét",
+        "sötét+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Gömb: Minden körben növekszik a sebzése. Amikor #yMegidéződik, a legkevesebb HP-val rendelkező ellenfelet támadja."
     },
     "DAZED": {
       "NAMES": [
-        "dazed"
+        "kábult"
       ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
+      "DESCRIPTION": "A Kábult kártyák kijátszhatatlan státusz kártyák."
     },
     "DEXTERITY": {
       "NAMES": [
-        "dexterity"
+        "ügyesség"
       ],
-      "DESCRIPTION": "Dexterity improves Block gained from cards."
+      "DESCRIPTION": "Az Ügyesség segítségével több Védelmet szerzel a Kártyákból."
     },
     "ETHEREAL": {
       "NAMES": [
-        "ethereal"
+        "földöntúli"
       ],
-      "DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
+      "DESCRIPTION": "Ha ez a kártya a kezedben marad a kör végén, akkor ki lesz merítve. A kimerített kártyák a harc végéig kikerülnek a paklidból."
     },
     "EVOKE": {
       "NAMES": [
