@@ -66,121 +66,121 @@
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "megidéz",
+        "megidézett"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "Használd el a legjobboldali Gömb-ödet és Idézd meg a hatását."
     },
     "EXHAUST": {
       "NAMES": [
-        "exhaust",
-        "exhausted"
+        "kimerít",
+        "kimerített"
       ],
-      "DESCRIPTION": "Removed until end of combat."
+      "DESCRIPTION": "Nem használható ezen Harc alatt."
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "fókusz"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "A Fókusz növeli a #ySugárzott Gömbök hatását."
     },
     "FRAIL": {
       "NAMES": [
-        "frail"
+        "törékeny"
       ],
-      "DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
+      "DESCRIPTION": "Mikor Törékeny vagy, #b25%-al kevesebb #yVédelmet kapsz a kártyákból."
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "fagy",
+        "fagy+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Gömb: #yVédelmet ad."
     },
     "INNATE": {
       "NAMES": [
-        "innate"
+        "ösztönös"
       ],
-      "DESCRIPTION": "Start each combat with this card in your hand."
+      "DESCRIPTION": "Kezdj minden harcot ezzel a kártyával a kezedben."
     },
     "INTANGIBLE": {
       "NAMES": [
-        "intangible"
+        "megfoghatatlan"
       ],
-      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+      "DESCRIPTION": "Csökkents le minden bejövő sebzést és HP veszteséget #b1-re."
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "villám",
+        "villám+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "Gömb: Véletlenszerű ellenfeleket sebez meg."
     },
     "LOCKED": {
       "NAMES": [
-        "locked"
+        "lezárt"
       ],
-      "DESCRIPTION": "This card has yet to be unlocked."
+      "DESCRIPTION": "Ezt a kártyát még fel kell oldanod."
     },
     "OPENER": {
       "NAMES": [
-        "opener"
+        "nyitó"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "A Nyitó kártyákat minden körben elsőnek kell kijátszanod."
     },
     "PLASMA": {
       "NAMES": [
-        "plasma",
-        "plasma+"
+        "plazma",
+        "plazma+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "Gömb: Energiát ad."
     },
     "POISON": {
       "NAMES": [
-        "poison",
-        "poisoned"
+        "mérgezés",
+        "mérgezett"
       ],
-      "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
+      "DESCRIPTION": "A mérgezett egyedek életet vesztenek a köreik elején. Minden körben a Mérgezés hatása lecsökken #b1-el."
     },
     "RETAIN": {
       "NAMES": [
-        "retain"
+        "megtartás"
       ],
-      "DESCRIPTION": "Retained cards are not discarded at the end of turn."
+      "DESCRIPTION": "A megtartott kártyák, nem dobódnak el a köröd végén."
     },
     "SHIV": {
       "NAMES": [
-        "shiv",
-        "shivs"
+        "penge",
+        "pengék"
       ],
-      "DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+      "DESCRIPTION": "A Pengék #b0 költségű Támadó kártyák, melyek Kimerülnek a használat során."
     },
     "STATUS": {
       "NAMES": [
-        "status"
+        "státusz"
       ],
-      "DESCRIPTION": "Status cards are removed at the end of combat."
+      "DESCRIPTION": "A Státusz kártyák a harc végén kikerülnek a paklidból."
     },
     "STRENGTH": {
       "NAMES": [
-        "strength"
+        "erő"
       ],
-      "DESCRIPTION": "Strength adds additional damage to attacks."
+      "DESCRIPTION": "Az Erő plusz sebzést ad a támadásaidnak."
     },
     "STRIKE": {
       "NAMES": [
-        "strike"
+        "csapás"
       ],
-      "DESCRIPTION": "Any card with the word \"Strike\" in its name."
+      "DESCRIPTION": "Minden olyan kártya aminek a nevében benne van, hogy \"Csapás\"."
     },
     "TEXT": [
-      "Energy is used to play cards from your hand."
+      "A kártyák kezedből való kijátszásához Energiára van szükséged."
     ],
     "THORNS": {
       "NAMES": [
-        "thorns"
+        "tüskék"
       ],
-      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+      "DESCRIPTION": "Amikor #yTámadás-ból kapsz sebzést, vissza sebez."
     },
     "TODO": {
       "NAMES": [
@@ -194,57 +194,57 @@
     },
     "TRANSFORM": {
       "NAMES": [
-        "transform"
+        "átalakul"
       ],
-      "DESCRIPTION": "Transformed cards become a random card of any rarity."
+      "DESCRIPTION": "Az Átalakítás során véletlenszerű ritkaságú és típusú Kártyát kapsz."
     },
     "UNKNOWN": {
       "NAMES": [
-        "unknown"
+        "ismeretlen"
       ],
-      "DESCRIPTION": "This card has yet to be encountered."
+      "DESCRIPTION": "Ezt a Kártyát még fel kell fedezni."
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "unplayable"
+        "kijátszhatatlan"
       ],
-      "DESCRIPTION": "Unplayable cards cannot be played from your hand."
+      "DESCRIPTION": "A Kijátszhatatlan kártyák nem játszhatóak ki a kezedből."
     },
     "UPGRADE": {
       "NAMES": [
-        "upgrade",
-        "upgraded"
+        "fejlesztés",
+        "fejlesztett"
       ],
-      "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+      "DESCRIPTION": "A fejlesztések még erősebbé teszik a kártyákat. A kártyák csak egyszer fejleszthetőek."
     },
     "VOID": {
       "NAMES": [
-        "void",
-        "voids"
+        "üresség",
+        "ürességek"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "Az Üresség kártyák kijátszhatatlan státusz kártyák, melyek energiát nyelnek el kihúzásuk során."
     },
     "VULNERABLE": {
       "NAMES": [
-        "vulnerable"
+        "sebezhető"
       ],
-      "DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
+      "DESCRIPTION": "A Sebezhető teremtmények #b50%-al több sebzést szenvednek el Támadás során."
     },
     "WEAK": {
       "NAMES": [
-        "weak",
-        "weaken",
-        "weakened",
-        "weakens"
+        "gyenge",
+        "gyengít",
+        "legyengített",
+        "gyengít"
       ],
-      "DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks."
+      "DESCRIPTION": "A Legyengült teremtmények #b25%-al kevesebb sebzést okoznak Támadás során."
     },
     "WOUND": {
       "NAMES": [
-        "wound",
-        "wounds"
+        "seb",
+        "sebek"
       ],
-      "DESCRIPTION": "Wounds are unplayable status cards."
+      "DESCRIPTION": "A Sebek kijátszhatatlan státusz kártyák."
     }
   }
 }

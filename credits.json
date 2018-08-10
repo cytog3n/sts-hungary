@@ -157,6 +157,16 @@
       "Urist McFerrum"
     ]
   },
+  "LOC_SPA": {
+    "HEADER": "Spanish Localization",
+    "NAMES": [
+      "Translation and Coordination:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Translation:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Skiddome"
+    ]
+  },
   "LOC_SRB": {
     "HEADER": "Serbian Localization",
     "NAMES": [
@@ -172,7 +182,8 @@
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
-    	"Vladyslav \"DarkXylese\" Kashtelyanov"
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Vasyl \"RDSk\" Mykhaliuk"
     ]
   },
   "LOC_ZHS": {

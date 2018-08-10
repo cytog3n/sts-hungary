@@ -16,7 +16,7 @@ Status:
 - characters.json - translated by Spartalos based on SlendyProject work
 - credits.json
 - events.json
-- keywords.json - under translation by Spartalos
+- keywords.json - translated by Spartalos
 - monsters.json - translated by baliame
 - orbs.json
 - potions.json
