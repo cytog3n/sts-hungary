@@ -120,7 +120,12 @@
       "Fejlesztett Kártyák kevesebbszer jelennek meg.",
       "Szegény Vezérek.",
       "Kevesebb a Max HP-d.",
-      "(Max Szint) Kedvezőtlen Események."
+      "Kedvezőtlen Események.",
+      "A boltok sokkal drágábbak.",
+      "A Normál ellenfelek nagyobb kihívást jelentő képességekkel rendelkeznek.",
+      "Az Elitek ellenfelek nagyobb kihívást jelentő képességekkel rendelkeznek.",
+      "A Vezérek nagyobb kihívást jelentő képességekkel rendelkeznek.",
+      "(Max Szint) Dupla vezér."
     ]
   },
   "AscensionTextEffect": {
@@ -661,7 +666,8 @@
       "Serbian (Latin)",
       "Catalan",
       "Greek",
-      "Indonesian"
+      "Indonesian",
+      "Esperanto"
     ]
   },
   "LeaderboardFilters": {
