@@ -1,395 +1,395 @@
 {
   "Accuracy": {
-    "NAME": "Accuracy",
+    "NAME": "Pontosság",
     "DESCRIPTIONS": [
-      "#yShivs deal #b",
-      " additional damage."
+      "A #yShivs +#b plusz",
+      " sebzést okoznak."
     ]
   },
   "After Image": {
-    "NAME": "After Image",
+    "NAME": "Utóérzés",
     "DESCRIPTIONS": [
-      "Whenever you play a card, gain #b",
-      " #yBlock."
+      "Bármikor ha kijátszol egy kártyát, kapsz #b",
+      " #yVédelmet."
     ]
   },
   "Amplify": {
-    "NAME": "Amplify",
+    "NAME": "Erősítés",
     "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
+      "Ebben a körben, a következő #yErő-d kétszer játszhatod ki.",
+      "Ebben a körben, a következő ",
+      " #yErő-id kétszer játszhatod ki."
     ]
   },
   "Anger": {
-    "NAME": "Enrage",
+    "NAME": "Feldühödött",
     "DESCRIPTIONS": [
-      "Whenever you play a #ySkill, gains #b",
-      " #yStrength."
+      "Bármikor ha kijátszol egy #yKépességet, #b",
+      " #yErő-t nyer."
     ]
   },
   "Angry": {
-    "NAME": "Angry",
+    "NAME": "Mérges",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes #yAttack damage, it gains #b",
-      " #yStrength."
+      "Bármikor ha",
+      " #yTámadásból sebződik, #b",
+      " #yErőt nyer."
     ]
   },
   "Artifact": {
-    "NAME": "Artifact",
+    "NAME": "Készítmény",
     "DESCRIPTIONS": [
-      "Negates #b",
-      " debuff.",
-      " debuffs."
+      "Semlegesít #b",
+      " debuff-ot.",
+      " debuff-okat."
     ]
   },
   "Attack Burn": {
-    "NAME": "Attack Burn",
+    "NAME": "Támadás Égetés",
     "DESCRIPTIONS": [
-      "For #b",
-      " turn, whenever you play an #yAttack, #yExhaust it.",
-      "For the next #b",
-      " turns, whenever you play an #yAttack, #yExhaust it."
+      "#b",
+      " körön keresztül, ha #yTámadást játszol ki, #yKimeríted azt.",
+      "#b",
+      " körön keresztül, ha #yTámadást játszol ki, #yKimeríted azt."
     ]
   },
   "Barricade": {
-    "NAME": "Barricade",
+    "NAME": "Barikád",
     "DESCRIPTIONS": [
-      "#yBlock is not removed at the start of your turn.",
-      "#yBlock is not removed at the start of turn."
+      "A #yVédelem nem szűnik meg a köreid elején.",
+      "A #yVédelem nem szűnik meg a körök elején."
     ]
   },
   "Berserk": {
-    "NAME": "Berserk",
+    "NAME": "Megvadult",
     "DESCRIPTIONS": [
-      "Gain ",
-      "  at the start of your turn."
+      "Nyerj ",
+      "  a köröd elején."
     ]
   },
   "Bias": {
-    "NAME": "Bias",
+    "NAME": "Bágyadt",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
+      "A köröd kezdetén, veszíts el #b",
+      " #yFókusz-t."
     ]
   },
   "Blur": {
-    "NAME": "Blur",
+    "NAME": "Elmosódás",
     "DESCRIPTIONS": [
-      "#yBlock is not removed at the start of your next turn.",
-      "#yBlock is not removed at the start of your next #b",
-      " turns."
+      "A #yVédelem nem szűnik meg a következő köröd elején.",
+      "A #yVédelem nem szűnik meg a következő #b",
+      " köröd elején."
     ]
   },
   "Brutality": {
-    "NAME": "Brutality",
+    "NAME": "Brutalitás",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " HP and draw #b",
-      " card.",
-      "At the start of your turn, lose #b",
-      " HP and draw #b",
-      " cards."
+      "A köröd kezdetén, veszíts el #b",
+      " HP-t és húzz #b",
+      " kártyát.",
+      "A köröd kezdetén, veszíts el #b",
+      " HP-t és húzz #b",
+      " kártyát."
     ]
   },
   "Buffer": {
-    "NAME": "Buffer",
+    "NAME": "Tompítás",
     "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "Megakadályozza a következő alkalommal, hogy HP-t veszíts.",
+      "Megakadályozza, hogy a következő #b",
+      " alkalommal HP-t veszíts."
     ]
   },
   "Bullet Time": {
-    "NAME": "Bullet Time",
+    "NAME": "Idő lassítás",
     "DESCRIPTIONS": [
-      "The energy cost of all Green cards are now #b0."
+      "Az összes Zöld kártya energia költsége mostantól #b0."
     ]
   },
   "Burst": {
-    "NAME": "Burst",
+    "NAME": "Kitörés",
     "DESCRIPTIONS": [
-      "On this turn, play your next #ySkill twice.",
-      "On this turn, play your next ",
-      " #ySkills twice."
+      "Ebben a körben, a következő #yKépesség-ed játszd ki kétszer.",
+      "Ebben a körben, a következő ",
+      " #yKépességeid játszd ki kétszer."
     ]
   },
   "Choked": {
-    "NAME": "Choked",
+    "NAME": "Fojtogatva",
     "DESCRIPTIONS": [
-      "Loses #b",
-      " HP whenever you play a card this turn."
+      "Elveszít #b",
+      " HP-t minden egyes kártya kijátszásnál ebben a körben."
     ]
   },
   "Combust": {
-    "NAME": "Combust",
+    "NAME": "Éget",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " HP and deal #b",
-      " damage to ALL enemies."
+      "A köröd végén, veszíts el #b",
+      " HP-t és sebezd meg #b",
+      " sebzéssel MINDEN ellenfeled."
     ]
   },
   "Confusion": {
-    "NAME": "Confusion",
+    "NAME": "Összezavart",
     "DESCRIPTIONS": [
-      "Whenever you draw a card, randomize its cost."
+      "Minden húzott kártyának, véletlenszerű lesz a költsége."
     ]
   },
   "Conserve": {
-    "NAME": "Conserve",
+    "NAME": "Megőrzés",
     "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
+      "Az #yEnergia nem vész el ennek körnek a végén.",
+      "Az #yEnergia nem vész el a következő #b",
+      " körben."
     ]
   },
   "Constricted": {
-    "NAME": "Constricted",
+    "NAME": "Szorítás",
     "DESCRIPTIONS": [
-      "At the end of your turn take #b",
-      " damage."
+      "A köröd végén elszenvedsz #b",
+      " sebzést."
     ]
   },
   "Corruption": {
-    "NAME": "Corruption",
+    "NAME": "Rontás",
     "DESCRIPTIONS": [
-      "Skills cost #b0. Whenever you play a #ySkill, #yExhaust it.",
-      "Whenever you play a #ySkill, #yExhaust it."
+      "A Képességek #b0 költségűek. Bármikor ha kijátszol egy #yKépességet, #yKimeríted.",
+      "Bármikor ha kijátszol egy #yKépességet, #yKimeríted."
     ]
   },
   "Creative AI": {
-    "NAME": "Creative AI",
+    "NAME": "Kreatív MI",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand.",
-      " random Power cards into your hand."
+      "A köröd elején, adj #b",
+      " véletlenszerű Erő kártyát a kezedbe.",
+      " véletlenszerű Erő kártyákat a kezedbe."
     ]
   },
   "Curiosity": {
-    "NAME": "Curiosity",
+    "NAME": "Kíváncsiság",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, gains #b",
-      " #yStrength."
+      "Bármikor ha #yErő Kártyát játszol ki, nyerj #b",
+      " #yErő-t."
     ]
   },
   "Curl Up": {
-    "NAME": "Curl Up",
+    "NAME": "Összegömbölyödik",
     "DESCRIPTIONS": [
-      "On taking #yAttack damage, rolls up and gains ",
-      " #yBlock. (Once per combat)"
+      "#yTámadáskor elszenvedett sebzés esetén, összegömbölyödik és ",
+      " #yVédelmet nyer. (Csatánként egyszer)"
     ]
   },
   "Dance Puppet": {
-    "NAME": "Dance Puppet",
+    "NAME": "Táncoló Báb",
     "DESCRIPTIONS": [
-      "Whenever you play a non-Skill card, take #b",
-      " damage. (Card type changes each turn)",
-      "Whenever you play a non-Attack card, take #b",
-      "+1 Dance Puppet"
+      "Bármikor ha Nem-Képesség kártyát játszol ki, szenvedj el #b",
+      " sebzést. (A Kártya típus körönként változik)",
+      "Bármikor ha Nem-Támadás kártyát játszol ki, szenvedj el #b",
+      "+1 Táncoló Báb"
     ]
   },
   "Dark Embrace": {
-    "NAME": "Dark Embrace",
+    "NAME": "Sötét Ölelés",
     "DESCRIPTIONS": [
-      "Whenever a card is #yExhausted, draw #b1 card.",
-      "Whenever a card is #yExhausted, draw #b",
-      " cards."
+      "Bármikor ha egy Kártya #yKimerül, húzz #b1 kártyát.",
+      "Bármikor ha egy Kártya #yKimerül, húzz #b",
+      " kártyát."
     ]
   },
   "Demon Form": {
-    "NAME": "Demon Form",
+    "NAME": "Démoni Alak",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yStrength."
+      "A köröd kezdetén, kapsz #b",
+      " #yErőt."
     ]
   },
   "DexLoss": {
-    "NAME": "Dexterity Down",
+    "NAME": "Elvesztett Ügyesség",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "A köröd végén, veszíts el #b",
+      " #yÜgyességet."
     ]
   },
   "Dexterity": {
-    "NAME": "Dexterity",
+    "NAME": "Ügyesség",
     "DESCRIPTIONS": [
-      "Increases #yBlock gained from cards by #b",
-      "Decreases #yBlock gained from cards by #b",
+      "+#b #yVédelmet nyersz a kártyákból",
+      "-#b #yVédelmet nyersz a kártyákból",
       "."
     ]
   },
   "Double Damage": {
-    "NAME": "Double Damage",
+    "NAME": "Dupla sebzés",
     "DESCRIPTIONS": [
-      "#yAttacks deal double damage for #b",
-      " turn.",
-      " turns."
+      "A #yTámadásaid dupla sebzést okoznak a következő #b",
+      " körben.",
+      " körökben."
     ]
   },
   "Double Tap": {
-    "NAME": "Double Tap",
+    "NAME": "Dupla Csapás",
     "DESCRIPTIONS": [
-      "This turn, play your next #yAttack twice.",
-      "This turn, play your next ",
-      " #yAttacks twice."
+      "Ebben a körben, játszd meg a következő #yTámadásod kétszer.",
+      "Ebben a körben, játszd meg a következő ",
+      " #yTámadásod kétszer."
     ]
   },
   "Draw": {
-    "NAME": "Draw",
+    "NAME": "Húzás",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " fewer card at the start of each turn.",
-      " additional cards at the start of each turn.",
-      " fewer cards at the start of each turn."
+      "Húzz #b",
+      " kártyával többet minden köröd elején.",
+      " kártyával kevesebbet minden köröd elején.",
+      " kártyával többet minden kör elején.",
+      " kártyával kevesebbet minden kör elején."
     ]
   },
   "Draw Card": {
-    "NAME": "Draw Card",
+    "NAME": "Kártya Húzás",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " cards next turn.",
-      " card next turn."
+      "Húzz #b",
+      " kártyákat a következő körben.",
+      " kártyát a következő körben."
     ]
   },
   "Draw Down": {
-    "NAME": "Draw Down",
+    "NAME": "Elvesztett Húzások",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " less card next turn.",
-      " less cards next turn."
+      "Húzz #b",
+      " kártyával kevesebbet a következő körben.",
+      " kártyával kevesebbet a következő körben."
     ]
   },
   "Draw Reduction": {
-    "NAME": "Draw Reduction",
+    "NAME": "Csökkenő Húzások",
     "DESCRIPTIONS": [
-      "Draw #b1 less card next turn.",
-      "Draw #b1 less card for #b",
-      " turns."
+      "Húzz #b1 kártyával kevesebbet a következő körben.",
+      "Húzz #b1 kártáyval kevesebbet #b",
+      " körön keresztül."
     ]
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": "Visszhang Alak",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played twice.",
-      "The first #b",
-      " cards you play each turn are played twice."
+      "Az első kártya amit kijátszol a körödben kétszer fejti ki a hatását.",
+      "Az első #b",
+      " kártya amit kijátszol a körödben kétszer fejti ki a hatását."
     ]
   },
   "Electro": {
-    "NAME": "Electro",
+    "NAME": "Elektro",
     "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
+      "A #yVillámlás MINDEN ellenfelet eltalál.",
       "",
       ""
     ]
   },
   "Energized": {
-    "NAME": "Energized",
+    "NAME": "Életerős",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [G] next turn.",
-      " additional [G] next turn.",
+      "Nyerj #b",
+      " plusz [G]-t a következő körben.",
+      " plusz [G]-t a következő körben.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "EnergizedBlue": {
-    "NAME": "Energized",
+    "NAME": "Életerős",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [B] next turn.",
-      " additional [B] next turn.",
+      "Nyerj #b",
+      " plusz [G]-t a következő körben.",
+      " plusz [G]-t a következő körben.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "Entangled": {
-    "NAME": "Entangled",
+    "NAME": "Megzavart",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks for one turn."
+      "Nem tudsz #yTámadásokat kijátszani egy körön keresztül."
     ]
   },
   "Envenom": {
-    "NAME": "Envenom",
+    "NAME": "Megmérgez",
     "DESCRIPTIONS": [
-      "Whenever you deal unblocked #yAttack damage, apply #b",
-      " #yPoison."
+      "Bármikor ha blokkolatlan #yTámadást viszel be, #b",
+      " #yMérgezést szenved el az ellenfeled."
     ]
   },
   "Evolve": {
-    "NAME": "Evolve",
+    "NAME": "Fejlődés",
     "DESCRIPTIONS": [
-      "Whenever you draw a #yStatus, draw a card.",
-      "Whenever you draw a #yStatus, draw #b",
-      " cards."
+      "Bármikor ha #yStátusz-t húzol, húzz még egy kártyát.",
+      "Bármikor ha #yStátusz-t húzol, húzz még #b",
+      " kártyát."
     ]
   },
   "Explosive": {
-    "NAME": "Explosive",
+    "NAME": "Robbanó",
     "DESCRIPTIONS": [
-      "In #b",
-      " turns, explodes dealing #b",
-      " damage.",
-      "On its turn, explodes dealing #b"
+      "#b",
+      " kör múlva, felrobban #b",
+      " sebzést okozva.",
+      "A körében, felrobban #b sebzést okozva"
     ]
   },
   "Extra Cards": {
-    "NAME": "Extra Cards",
+    "NAME": "Extra Kártyák",
     "DESCRIPTIONS": [
-      "Draw #b1 more card next turn.",
-      "Draw #b",
-      " extra cards next turn."
+      "Húzz #b1 kártyával többet a következő körben.",
+      "Húzz #b",
+      " kártyával többet a következő körben."
     ]
   },
   "Feel No Pain": {
-    "NAME": "Feel No Pain",
+    "NAME": "Ne Érezz Fájdalmat",
     "DESCRIPTIONS": [
-      "Whenever a card is #yExhausted, gain #b",
-      " #yBlock."
+      "Bármikor ha egy kártya #yKimerített lesz, nyerj #b",
+      " #yVédelmet."
     ]
   },
   "Fire Breathing": {
-    "NAME": "Fire Breathing",
+    "NAME": "Tűz Lehellet",
     "DESCRIPTIONS": [
-      "At the end of your turn, for each #yAttack played this turn deal #b",
-      " damage to ALL enemies."
+      "A köröd végén, minden egyes a körben kijátszott #yTámadásért sebezz #b",
+      " sebzést MINDEN ellenfelednek."
     ]
   },
   "Flame Barrier": {
-    "NAME": "Flame Barrier",
+    "NAME": "Láng Fal",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, deals #b",
-      " damage back."
+      "Amikor #yTámadási sebzés ér, ossz ki #b",
+      " sebzést az ellenfelednek."
     ]
   },
   "Flex": {
-    "NAME": "Strength Down",
+    "NAME": "Csökkenő Erő",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yStrength."
+      "A köröd végén, veszíts el #b",
+      " #yErő-t."
     ]
   },
   "Flight": {
-    "NAME": "Flight",
+    "NAME": "Repülés",
     "DESCRIPTIONS": [
-      "Reduce #yAttack damage taken by #b50%. Cancelled if dealt #yAttack damage #b",
-	  " times in one turn."
+      "Csökkenti a #yTámadások sebzését #b50%-al. Megszűnik ha #yTámadási sebzést visznek be #b",
+	  " alkalommal egy kör során."
     ]
   },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "Fókusz",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "A Gömbök plusz #b hatással rendelkeznek",
+      "A Gömbök mínusz #b hatással rendelkeznek",
       "."
     ]
   },
   "Frail": {
-    "NAME": "Frail",
+    "NAME": "Törékeny",
     "DESCRIPTIONS": [
-      "Gain #b25% less #yBlock from cards for #b",
-      " turn.",
-      " turns."
+      "#b25%-al kevesebb #yVédelmet nyer a kártyákból #b",
+      " körig.",
+      " körig."
     ]
   },
   "Gambit": {
@@ -495,9 +495,10 @@
   "Lockon": {
     "NAME": "Lock-On",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy for the next #b",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "Adj #b",
+      "%-al több sebzést a Gömbök által #b",
+      " körön keresztül.",
+      " keresztül."
     ]
   },
   "Loop": {

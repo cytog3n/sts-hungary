@@ -122,6 +122,12 @@
       ],
       "DESCRIPTION": "Ezt a kártyát még fel kell oldanod."
     },
+    "LOCK_ON": {
+      "NAMES": [
+        "célzás"
+      ],
+      "DESCRIPTION": "A megcélzott célpontok #b50%-al több sebzést szenvednek el a Gömböktől."
+    },
     "OPENER": {
       "NAMES": [
         "nyitó"

@@ -1,12 +1,12 @@
 proceed				- folytatás
-(abandon) run 		- menet
+(abandon) run 			- menet
 floor 				- szint
 relic				- ereklye
 blight				- rontás
 draw pile			- húzópakli
-discard pile		- dobópakli
+discard pile			- dobópakli
 embark				- nekikezd
-spire				- ????
+spire				- torony
 exhaust				- kimerít
 boss				- vezér
 
@@ -15,3 +15,4 @@ uncommon			-ritka
 rare				-kivételes
 
 Remove Card			- Kártya eltávolítása
+shiv				- penge
