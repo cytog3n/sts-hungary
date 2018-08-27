@@ -12,7 +12,7 @@
       "A Hiányos"
     ],
     "TEXT": [
-      "Egy öntudatra ébredt harci robot. NL Ősi technológia segítségével manipulálni tudja a Gömb-öket."
+      "Egy öntudatra ébredt harci robot. NL Ősi technológia segítségével manipulálni tudja a Gömböket."
     ]
   },
   "Ironclad": {
@@ -98,8 +98,8 @@
       " #gAranyat ]",
       "#gAlakíts #gát #g2 #gKártyát ]",
       "#gMax #gHP #g+",
-      "[ #rVeszíts #el #r",
-      " #rMax #rHP ",
+      "[ #rVeszíts #rel #r",
+      " #rMax #rHP-t ",
       "[ #rVeszítsd #rel #raz #rösszes #rAranyad ",
       "[ #rSzerezz #rmeg #regy #rÁtkot ",
       "[ #rSzenvedj #rel ",

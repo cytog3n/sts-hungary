@@ -16,3 +16,5 @@ rare				-kivételes
 
 Remove Card			- Kártya eltávolítása
 shiv				- penge
+
+channel orb			- gömb megidézése

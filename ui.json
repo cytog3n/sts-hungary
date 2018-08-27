@@ -769,7 +769,7 @@
     "TEXT": [
       "Standard",
       "",
-      "Kezdj neki a küldetésednek, hogy Legyőzd a Spire-t.",
+      "Kezdj neki a küldetésednek, hogy Legyőzd a Tornyot-t.",
       "Napi Küzdelem",
       "",
       "Minden nap új kihívás vár itt rád.\n\nVersenyezz más játékosokkal a legmagasabb pontszámért!",
@@ -924,7 +924,7 @@
   },
   "Rest Option": {
     "TEXT": [
-      "Pihen",
+      "Pihenés",
       "Gyógyítsd vissza a Max HP 100%-t (",
       " HP from ",
       "Gyógyítsd vissza a Max HP 30%-t ("

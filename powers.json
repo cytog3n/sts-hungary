@@ -2,7 +2,7 @@
   "Accuracy": {
     "NAME": "Pontosság",
     "DESCRIPTIONS": [
-      "A #yShivs +#b plusz",
+      "A #yPengék +#b",
       " sebzést okoznak."
     ]
   },
@@ -393,107 +393,107 @@
     ]
   },
   "Gambit": {
-    "NAME": "Gambit",
+    "NAME": "Áldozat",
     "DESCRIPTIONS": [
-      "After #b",
-      " turn, gain ",
-      " turns, gain ",
+      "#b",
+      " kör után, nyerj ",
+      " körök után, nyer ",
       " [B] ."
     ]
   },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "A kör végén, nyer #b",
+      " #yErőt."
     ]
   },
   "GrowthPower": {
-    "NAME": "Growth",
+    "NAME": "Növekedés",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "A kör végén, nyer #b",
+      " #yErőt."
     ]
   },
   "Heatsink": {
-    "NAME": "Heatsink",
+    "NAME": "Hűtőborda",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
+      "Bármikor ha Erő kártyát játszol ki, húzz #b",
+      " kártyát.",
+      " kártyát."
     ]
   },
   "Hello": {
     "NAME": "Hello",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "A köröd kezdetén, adj #b",
+      " véletlenszerű Közönséges kártyát a kezedhez.",
+      " véletlenszerű Közönséges kártyát a kezedhez."
     ]
   },
   "Hex": {
     "NAME": "Hex",
     "DESCRIPTIONS": [
-      "Whenever you play a non-Attack card, shuffle #b",
-      " #yDazed into your draw pile."
+      "Bármikor ha nem-Támadás kártyát játszol ki, keverj #b",
+      " #yKábult kártyát a húzópaklidba."
     ]
   },
   "Hide": {
-    "NAME": "Hide",
+    "NAME": "Rejtőzködés",
     "DESCRIPTIONS": [
-      "You cannot take damage until the start of your next turn.",
-      "You cannot take damage for #b",
-      " turns."
+      "A következő köröd elejéig nem szenvedsz el sebzést.",
+      "Nem szenvedsz el sebzést #b",
+      " körön át."
     ]
   },
   "Infinite Blades": {
-    "NAME": "Infinite Blades",
+    "NAME": "Végtelen Pengék",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " #yShivs into your hand.",
-      " #yShiv into your hand."
+      "A köröd kezdetén, adj #b",
+      " #yPengét a kezedhez.",
+      " #yPengét a kezedhez."
     ]
   },
   "Intangible": {
-    "NAME": "Intangible",
+    "NAME": "Megfoghatatlan",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1 this turn. Intangible is reapplied every other turn."
+      "Lecsökkent minden sebzést és HP veszteséget #b1-re ebben a körben. A Megfoghatatlan minden második körben újra aktiválódik."
     ]
   },
   "IntangiblePlayer": {
-    "NAME": "Intangible",
+    "NAME": "Megfoghatatlan",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "Lecsökkent minden sebzést és HP veszteséget #b1-re."
     ]
   },
   "Inverted": {
-    "NAME": "Inverted",
+    "NAME": "Felcserélt",
     "DESCRIPTIONS": [
-      "Immune to damage. Whenever you gain #yBlock, loses that much HP."
+      "Immunis a sebzésre. Bármikor ha valamennyi #yVédelmet szerzel, annyi HP-t elveszít."
     ]
   },
   "Juggernaut": {
-    "NAME": "Juggernaut",
+    "NAME": "Eltipró Erő",
     "DESCRIPTIONS": [
-      "Whenever you gain #yBlock, deal #b",
-      " damage to a random enemy."
+      "Bármikor ha valamennyi #yVédelmet szerzel, annyi #b",
+      " sebzést okozol egy véletlenszerű ellenfélnek."
     ]
   },
   "Knowledge": {
-    "NAME": "Knowledge",
+    "NAME": "Tudás",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, draw #b",
-      " cards."
+      "Bármikor ha kijátszol egy #yErőt, húzz #b",
+      " kártyát."
     ]
   },
   "Life Link": {
-    "NAME": "Life Link",
+    "NAME": "Életkapocs",
     "DESCRIPTIONS": [
-      "If other enemies are still alive, revives in #b2 turns at #b50% HP."
+      "Ha a többi ellenfél még életben van, #b2 kör után újraéled #b50% HP-val."
     ]
   },
   "Lockon": {
-    "NAME": "Lock-On",
+    "NAME": "Célpont bemérve",
     "DESCRIPTIONS": [
       "Adj #b",
       "%-al több sebzést a Gömbök által #b",
@@ -502,383 +502,383 @@
     ]
   },
   "Loop": {
-    "NAME": "Loop",
+    "NAME": "Hurok",
     "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next Orb #b",
-      " times."
+      "A köröd elején, aktiváld a következő Gömböd passzív képességét.",
+      "A köröd elején, aktiváld a következő Gömböd passzív képességét #b",
+      " alkalommal."
     ]
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
+    "NAME": "Gépi Tanulás",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "Húzz #b",
+      " további kártyát a köreid elején.",
+      " további kártyát a köreid elején."
     ]
   },
   "Magnetism": {
-    "NAME": "Magnetism",
+    "NAME": "Mágnesesség",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
+      "A köröd elején, adj #b%s véletlenszerű színtelen kártyát a kezedhez.",
+      "A köröd elején, adj #b%s véletlenszerű színtelen kártyát a kezedhez."
     ]
   },
   "Malleable": {
-    "NAME": "Malleable",
+    "NAME": "Nyújtható",
     "DESCRIPTIONS": [
-      "On taking #yAttack damage, gains #b",
-      " #yBlock. #yBlock gain increases as ",
-      " is triggered. Resets to #b",
-      " at the start of your turn."
+      "#yTámadási sebzést elszenvedve, nyerj #b",
+      " #yVédelmet. A #yVédelem növekedés növekszik amint ",
+      " kiváltja. Visszaáll #b értékre",
+      " a köröd elején."
     ]
   },
   "Mayhem": {
-    "NAME": "Mayhem",
+    "NAME": "Megcsonkítás",
     "DESCRIPTIONS": [
-      "At the start of your turn, play the top card of your draw pile.",
-      "At the start of your turn, play the top #b",
-      " cards of your draw pile."
+      "A köröd elején, játszd ki a húzópaklid legfelső lapját.",
+      "A köröd elején, játszd ki #b",
+      " kártyát a húzópaklidból."
     ]
   },
   "Metallicize": {
-    "NAME": "Metallicize",
+    "NAME": "Fémesedés",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yBlock at the end of your turn.",
-      "Gains #b",
-      " #yBlock at the end of its turn."
+      "Nyerj #b",
+      " #yVédelmet a köröd elején.",
+      "Nyerj #b",
+      " #yVédelmet a köre elején."
     ]
   },
   "Minion": {
-    "NAME": "Minion",
+    "NAME": "Csatlós",
     "DESCRIPTIONS": [
-      "Minions abandon combat without their leader."
+      "A csatlósok elmenekülnek a csatából a vezetőjük nélkül."
     ]
   },
   "Mode Shift": {
-    "NAME": "Mode Shift",
+    "NAME": "Alakváltás",
     "DESCRIPTIONS": [
-      "After taking #b",
-      " damage, changes to a defensive mode."
+      "#b sebzés elszenvedése után",
+      " védekező módba vált."
     ]
   },
   "Next Turn Block": {
-    "NAME": "Next Turn Block",
+    "NAME": "Következő Körös Védelem",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain #b",
-      " #yBlock."
+      "A következő köröd elején, szerezz #b",
+      " #yVédelmet."
     ]
   },
   "Night Terror": {
-    "NAME": "Nightmare",
+    "NAME": "Rémálom",
     "DESCRIPTIONS": [
-      "At the start of your next turn, add #b",
-      " cards to your hand."
+      "A következő köröd elején, adj #b",
+      " kártyát a kezedhez."
     ]
   },
   "No Attack": {
-    "NAME": "No Attack",
+    "NAME": "Nincs Támadás",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "Nem játszhatsz ki #yTámadásokat ebben a körben."
     ]
   },
   "No Draw": {
-    "NAME": "No Draw",
+    "NAME": "Nincs Húzás",
     "DESCRIPTIONS": [
-      "You cannot draw cards until end of turn."
+      "Nem húzhatsz kártyát a köröd végéig."
     ]
   },
   "Noxious Fumes": {
-    "NAME": "Noxious Fumes",
+    "NAME": "Káros Füst",
     "DESCRIPTIONS": [
-      "At the start of your turn, apply #b",
-      " #yPoison to ALL enemies."
+      "A köröd elején, adj #b",
+      " #yMérgezést MINDEN ellenfelednek."
     ]
   },
   "Nullify Attack": {
-    "NAME": "Nullify Attack",
+    "NAME": "Támadás Semlegesítés",
     "DESCRIPTIONS": [
-      "Fully #yBlocks one #yAttack each turn."
+      "Teljesen #yKivéd egy #yTámadást minden körben."
     ]
   },
   "Painful Stabs": {
-    "NAME": "Painful Stabs",
+    "NAME": "Fájdalmas Szúrás",
     "DESCRIPTIONS": [
-      "Whenever you take damage from this enemy, add a #yWound into your Discard Pile."
+      "Bármikor ha megsebez ez az ellenfél, adj egy #ySebet a Dobó Paklidba."
     ]
   },
   "Panache": {
-    "NAME": "Panache",
+    "NAME": "Magabiztosság",
     "DESCRIPTIONS": [
-      "If you play #b",
-      " more card this turn, deal #b",
-      " damage to ALL enemies.",
-      " more cards this turn, deal #b"
+      "Ha kijátszol #b",
+      " kártyánál többet ebben a körben, okozz #b",
+      " sebzést MINDEN ellenfelednek.",
+      " kártyánál többet ebben a körben, okozz #b"
     ]
   },
   "Pen Nib": {
-    "NAME": "Pen Nib",
+    "NAME": "Tollhegy",
     "DESCRIPTIONS": [
-      "Your next #yAttack deals double damage."
+      "A következő #yTámadásod dupla sebzést okoz."
     ]
   },
   "Phantasmal": {
-    "NAME": "Phantasmal",
+    "NAME": "Fantomszerű",
     "DESCRIPTIONS": [
-      "Deal #yDouble #yDamage next turn.",
-      "Deal #yDouble #yDamage for the next ",
-      " turns."
+      "#yDupla #ySebzést okoz a következő körben.",
+      "#ydupla #ySebzést okoz a következő ",
+      " körben."
     ]
   },
   "Plated Armor": {
-    "NAME": "Plated Armor",
+    "NAME": "Erősített Páncél",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yBlock at the end of your turn. Losing HP from an attack reduces #yPlated #yArmor by #b1.",
-      "Gains #b",
-      " #yBlock at the end of its turn. Losing HP from an attack reduces #yPlated #yArmor by #b1."
+      "Nyer #b",
+      " #yVédelmet a köröd végén. Támadásból elszenvedett HP vesztés csökkenti az #yErősített #yPáncél erejét #b1-el.",
+      "Nyer #b",
+      " #yVédelmet a köröd végén. Támadásból elszenvedett HP vesztés csökkenti az #yErősített #yPáncél erejét #b1-el."
     ]
   },
   "Poison": {
-    "NAME": "Poison",
+    "NAME": "Méreg",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " HP, then reduce #yPoison by #b1.",
-      "At the start of its turn, loses #b"
+      "A köröd elején, elveszít #b",
+      " HP-t, majd csökkenti a #yMéreg hatását #b1-el.",
+      "A köre elején, elveszít #b"
     ]
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "Tökéletesség",
     "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
+      "Bármikor ha #yMegidézel egy Gömböt, húzz #b",
+      " kártyát.",
+      " kártyát."
     ]
   },
   "Primitive": {
-    "NAME": "Primitive",
+    "NAME": "Primitív",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "Bármikor ha kijátszol egy közönséges kártyát, húzz még #b",
+      " kártyát.",
+      " kártyát."
     ]
   },
   "Rage": {
-    "NAME": "Rage",
+    "NAME": "Düh",
     "DESCRIPTIONS": [
-      "Whenever you play an Attack this turn, gain #b",
-      " #yBlock."
+      "Bármikor ha Támadást játszol ki ebben a körben, nyerj #b",
+      " #yVédelmet."
     ]
   },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "Visszapattanás",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
+      "A következő kártya amit ebben a körben kijátszol visszakerül a húzópaklid tetejére.",
+      "A következő #b",
+      " kártya amit ebben a körben kijátszol visszakerül a húzópaklid tetejére."
     ]
   },
   "Reduce Damage": {
-    "NAME": "Reduce Damage",
+    "NAME": "Sebzés Lecsökkentése",
     "DESCRIPTIONS": [
-      "Reduce damage taken by #b"
+      "Lecsökkenti a sebzést #b értékkel."
     ]
   },
   "Regenerate": {
-    "NAME": "Regenerate",
+    "NAME": "Regenerálódás",
     "DESCRIPTIONS": [
-      "Heals #b",
-      " #yHP at the end of its turn."
+      "Gyógyít #b",
+      " #yHP-t a köre a végén."
     ]
   },
   "Regeneration": {
-    "NAME": "Regen",
+    "NAME": "Regenerálódás",
     "DESCRIPTIONS": [
-      "At the end of your turn, heal #b",
-      " #yHP, then reduce #yRegen by #b1.",
+      "A köröd végén, gyógyulsz #b",
+      " #yHP-t, majd a #yRegenerálóds értéke csökken #b1-el.",
       ""
     ]
   },
   "Repair": {
-    "NAME": "Repair",
+    "NAME": "Megjavít",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "A köröd végén, gyógyulj #b",
+      " HP-t."
     ]
   },
   "Repulse": {
-    "NAME": "Repulse",
+    "NAME": "Visszaver",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " receives attack damage, puts a #yWound into your hand."
+      "Bármikor ",
+      " sebzést szenved el, #ySebzés kártyát rak a kezedbe."
     ]
   },
   "Retain Cards": {
-    "NAME": "Retain Cards",
+    "NAME": "Kártyák Megtartása",
     "DESCRIPTIONS": [
-      "At the end of each turn, you may retain #b",
-      " card.",
-      " cards."
+      "A köröd végén megtarthatsz #b",
+      " kártyát.",
+      " kártyát."
     ]
   },
   "Retain Hand": {
-    "NAME": "Retain Hand",
+    "NAME": "Lapok Megtartása",
     "DESCRIPTIONS": [
-      "At the end of your turn, do not discard your hand for #b",
-      " turns.",
-      "At the end of your turn, do not discard your hand."
+      "A köröd végén, nem dobod el a kezedben levő lapokat #b",
+      " körön át.",
+      "A köröd végén, nem dobod el a kezedben levő lapokat."
     ]
   },
   "Riposte": {
-    "NAME": "Riposte",
+    "NAME": "Visszavágás",
     "DESCRIPTIONS": [
-      "Once per turn, deals #b",
-      " damage back when you play an #yAttack."
+      "Körönként egyszer, visszatámad #b",
+      " sebzéssel ha #yTámadást játszol ki ellene."
     ]
   },
   "Ritual": {
-    "NAME": "Ritual",
+    "NAME": "Szertartás",
     "DESCRIPTIONS": [
-      "At the end of its turn, gains #b",
-      " #yStrength."
+      "A köre végén, nyer #b",
+      " #yErőt."
     ]
   },
   "Rupture": {
-    "NAME": "Rupture",
+    "NAME": "Törés",
     "DESCRIPTIONS": [
-      "Upon losing HP from a card, gain #b",
-      " #yStrength."
+      "Ha Kártya miatt vesztesz HP-t, nyerj #b",
+      " #yErőt."
     ]
   },
   "Sadistic": {
-    "NAME": "Sadistic",
+    "NAME": "Szadista",
     "DESCRIPTIONS": [
-      "Whenever you apply a Debuff to an enemy, deal #b",
-      " damage."
+      "Bármikor ha Debuff-ot raksz az ellenfeledre, okozz #b",
+      " sebzést."
     ]
   },
   "Serpentine": {
-    "NAME": "Serpentine",
+    "NAME": "Kígyózó",
     "DESCRIPTIONS": [
-      "Immune to #yPotions."
+      "Immunis a #yBájitalokra."
     ]
   },
   "Shackled": {
-    "NAME": "Shackled",
+    "NAME": "Megbilincselt",
     "DESCRIPTIONS": [
-      "Regains #b",
-      " #yStrength at the end of its turn."
+      "Visszanyer #b",
+      " #yErőt a köre végén."
     ]
   },
   "Sharp Hide": {
-    "NAME": "Sharp Hide",
+    "NAME": "Éles Bőr",
     "DESCRIPTIONS": [
-      "Whenever you play an #yAttack, take #b",
-      " damage."
+      "Bármikor ha #yTámadást játszol ki, megsebződsz #b",
+      " sebzéssel."
     ]
   },
   "Shriek From Beyond": {
-    "NAME": "Shriek From Beyond",
+    "NAME": "Sikoly a Másvilágról",
     "DESCRIPTIONS": [
-      "Whenever you play an Attack, discard a random card."
+      "Bármikor ha #yTámadást játszol ki, dobj el egy véletlenszerű lapot."
     ]
   },
   "Skill Burn": {
-    "NAME": "Skill Burn",
+    "NAME": "Képesség Égetés",
     "DESCRIPTIONS": [
-      "For #b",
-      " turn, whenever you play a #ySkill, #yExhaust it.",
-      "For the next #b",
-      " turns, whenever you play a #ySkill, #yExhaust it."
+      "#b",
+      " körön át, ha #yKépességet játszol ki, #yKimeríted azt.",
+      "A következő #b",
+      " körben, ha #yKépességet játszol ki, #yKimeríted azt."
     ]
   },
   "Slow": {
-    "NAME": "Slow",
+    "NAME": "Lassú",
     "DESCRIPTIONS": [
-      "For each card played this turn, ",
-      " takes #b10% more damage from #yAttacks.",
-      " (Take #b",
-      "% more damage)"
+      "Minden ebben a körben kijátszott kártya után, ",
+      " #b10%-al több sebzést szenved el a #yTámadásaid után.",
+      " (#b",
+      "%-al több sebzést szerez)"
     ]
   },
   "Split": {
-    "NAME": "Split",
+    "NAME": "Osztódás",
     "DESCRIPTIONS": [
-      "When its HP is at or below #b50%, will split into #b2 smaller slimes with ",
-      "'s current HP."
+      "Ha az életereje #b50% alá csökken, #b2 kisebb slime-ra osztódik a megmaradt ",
+      "HP-val."
     ]
   },
   "Spore Cloud": {
-    "NAME": "Spore Cloud",
+    "NAME": "Spóra Felhő",
     "DESCRIPTIONS": [
-      "On death, applies #yVulnerable to you for #b",
-      " turns."
+      "Halálakor, #ySebezhetőséget rak rád #b",
+      " körön át."
     ]
   },
   "Stasis": {
-    "NAME": "Stasis",
+    "NAME": "Sztázis",
     "DESCRIPTIONS": [
-      "On death, ",
-      " is returned to your hand."
+      "Halálakor, ",
+      " visszakerül a kezedbe."
     ]
   },
   "StaticDischarge": {
-    "NAME": "Static Discharge",
+    "NAME": "Statikus Kisülés",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
+      "#yTámadási sebzés elszenvedése során, #yMegidéz #b",
+      " #yVillámlást."
     ]
   },
   "Storm": {
-    "NAME": "Storm",
+    "NAME": "Vihar",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b",
-      " #yLightning."
+      "Bármikor ha #bErő kártyát játszol ki, #yMegidéz #b",
+      " #yVillámlást."
     ]
   },
   "Strength": {
-    "NAME": "Strength",
+    "NAME": "Erő",
     "DESCRIPTIONS": [
-      "Increases attack damage by #b",
-      "Decrease attack damage by #b",
+      "Megnöveli a támadási sebzést #b értékkel",
+      "Lecsökkenti a támadási sebzést #b értékkel",
       "."
     ]
   },
   "TheBomb": {
-    "NAME": "The Bomb",
+    "NAME": "A Bomba",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies.",
-      "At the end of this turn, deal %1$s damage to ALL enemies."
+      "Az %1$s köre végén, %2$s sebzést okoz MINDEN ellenfélnek.",
+      "A köre végén, %1$s sebzést okoz MINDEN ellenfélnek."
     ]
   },
   "Thievery": {
-    "NAME": "Thievery",
+    "NAME": "Tolvajlás",
     "DESCRIPTIONS": [
-      " steals #b",
-      " #yGold whenever it attacks."
+      " ellop #b",
+      " #yAranyat minden támadásnál."
     ]
   },
   "Thorns": {
-    "NAME": "Thorns",
+    "NAME": "Tüskék",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, deals #b",
-      " damage back."
+      "Ha #yTámadási sebzést kap, #b",
+      " sebzéssel visszatámad."
     ]
   },
   "Thousand Cuts": {
-    "NAME": "Thousand Cuts",
+    "NAME": "Ezernyi Vágás",
     "DESCRIPTIONS": [
-      "Whenever you play a card, deal #b",
-      " damage to ALL enemies."
+      "Bármikor ha Kártyát játszol ki, okozz #b",
+      " sebzést minden ellenfélnek."
     ]
   },
   "Time Warp": {
-    "NAME": "Time Warp",
+    "NAME": "Időcsavar",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended and Time Eater gains #b",
-      " #yStrength."
+      "Ha kijátszol #b",
+      " kártyát, akkor a köröd véget ér és a Time Eater nyer #b",
+      " #yErőt."
     ]
   },
   "Tools Of The Trade": {
