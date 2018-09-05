@@ -882,101 +882,101 @@
     ]
   },
   "Tools Of The Trade": {
-    "NAME": "Tools Of The Trade",
+    "NAME": "A Kereskedelem Eszköze",
     "DESCRIPTIONS": [
-      "At the start of your turn, draw #b",
-      " card and discard #b",
-      " card.",
-      " cards and discard #b",
-      " cards."
+      "A köröd elején húzz #b",
+      " kártyát és dobj el #b",
+      " kártyát.",
+      " kártyát és dobj el #b",
+      " kártyát."
     ]
   },
   "Unawakened": {
-    "NAME": "Unawakened",
+    "NAME": "Alvó",
     "DESCRIPTIONS": [
-      "This enemy hasn't awakened yet..."
+      "Ez az ellenfél még nem éledt fel..."
     ]
   },
   "Unstable": {
-    "NAME": "Unstable",
+    "NAME": "Instabil",
     "DESCRIPTIONS": [
-      "Deal enough damage to throw it off balance."
+      "Elég sebzést okoz, hogy felborítsa az egyensúlyt."
     ]
   },
   "Venomology": {
-    "NAME": "Venomology",
+    "NAME": "Méregológia",
     "DESCRIPTIONS": [
-      "#yPoison grows stronger by #b",
-      " instead of lowering each turn."
+      "#yA méreg növekszik #b értékkel",
+      " minden körben ahelyett, hogy csökkenne."
     ]
   },
   "Vulnerable": {
-    "NAME": "Vulnerable",
+    "NAME": "Sebezhető",
     "DESCRIPTIONS": [
-      "Take #b",
-      "% more damage from #yAttacks for #b",
-      " turn.",
-      " turns."
+      "Szerezz #b",
+      "%-al több sebzést #yTámadásokból #b",
+      " körig.",
+      " körig."
     ]
   },
   "Weakened": {
-    "NAME": "Weakened",
+    "NAME": "Legyengített",
     "DESCRIPTIONS": [
-      "#yAttacks deal #b",
-      "% less damage for #b",
-      " turn.",
-      " turns."
+      "#yTámadások #b",
+      "%-al kevesebb sebzést okoznak #b",
+      " körig.",
+      " körig."
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "Kísértet Forma",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "A köröd végén, veszíts el #b",
+      " #yÜgyességet."
     ]
   },
   "Equilibrium": {
-    "NAME": "Equilibrium",
+    "NAME": "Higgadtság",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "Tartsd meg a kezedben levő lapokat a köröd végén.",
+      "Tartsd meg a kezedben levő lapokat #b",
+      " körön át."
     ]
   },
   "Fading": {
-    "NAME": "Fading",
+    "NAME": "Elmúlás",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "Meghal #b",
+      " kör múlva.",
+      "Meghal ebben a körben."
     ]
   },
   "Shifting": {
-    "NAME": "Shifting",
+    "NAME": "Alakváltás",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "Bármikor ",
+      " ha sebződik, elveszít a sebzésnek megfelelő mennyiségű #yErőt a kör végéig."
     ]
   },
   "TimeMazePower": {
-    "NAME": "Time Maze",
+    "NAME": "Idő Labirintus",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "Ha kijátszol még #b",
+      " kártyát, a köröd véget ér"
     ]
   },
   "NoBlockPower": {
-    "NAME": "No Block",
+    "NAME": "Nincs Védelem",
     "DESCRIPTIONS": [
-      "You cannot gain #yBlock from cards."
+      "Nem tudsz #yVédelmet szerezni a kártyákból."
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
+    "NAME": "Tetem Robbanás",
     "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-	  "When this enemy dies, deal damage to ALL enemies equal to #b",
-	  " times its Max HP."
+      "Mikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet Max HP-jával egyenlő mértékben.",
+	  "Mikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet #bx",
+	  " a Max HP-jával megfelelő mértékben."
     ]
   }
 }

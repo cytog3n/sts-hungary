@@ -331,7 +331,8 @@
       " NL #yMods: ",
       "Modifikációk: ",
       "Eredményjelző",
-      "*Achievmenteket nem lehet elérni a napi kihívások során."
+      "*Achievmenteket nem lehet elérni a napi kihívások során.",
+	"  [OFFLINE MÓD]"
     ]
   },
   "DeathScreen": {
