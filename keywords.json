@@ -74,7 +74,8 @@
     "EXHAUST": {
       "NAMES": [
         "kimerít",
-        "kimerített"
+        "kimerített",
+	"kimerít"
       ],
       "DESCRIPTION": "Nem használható ezen Harc alatt."
     },
