@@ -35,11 +35,26 @@
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
       "koykoy13",
       "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Dutch Localization",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
     ]
   },
   "LOC_EPO": {
@@ -75,13 +90,14 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Haveiszal \"Szaal\" Faroqie"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_ITA": {
     "HEADER": "Italian Localization",
     "NAMES": [
-      "Hob",
+      "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
       "Luigi Squarzina"
     ]
@@ -122,6 +138,7 @@
       "Oskar \"volf3n\" Nowak",
       "Additional Translations:",
       "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
       "Proofreading:",
       "Oskar \"volf3n\" Nowak",
       "Suggestions and Feedback:",
@@ -151,7 +168,9 @@
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
-      "Suggestions and Feedback:",
+      "Additional Translation:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",
@@ -192,14 +211,18 @@
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
+      "Translation and Coordination:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-      "Vasyl \"RDSk\" Mykhaliuk"
+      "Corrections and Translation:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {
     "HEADER": "Chinese (Simplified) Localization",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
@@ -240,7 +263,8 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+	  "Tony \"kiooeht\" Moore"
     ]
   },
   "TEST": {
@@ -273,7 +297,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-	  "David \"divadus\" Withington"
+	  "David \"divadus\" Withington",
+	  "Jason \"Wyrm\" Deng", 
+	  "Jonas \"bigunit3000\" Wilson",
+	  "TBytemaster"
     ]
   },
   "THANKS_MSG": {

@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Folytatás",
-	  "Blights:"
+      "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -165,7 +165,7 @@
       "Kihagyás",
       "SZAVAZZ MOST: ",
       " maradt.",
-	  "Válassz egy Rontást"
+      "Válassz egy Rontást"
     ]
   },
   "CacheAction": {
@@ -332,7 +332,7 @@
       "Modifikációk: ",
       "Eredményjelző",
       "*Achievmenteket nem lehet elérni a napi kihívások során.",
-	"  [OFFLINE MÓD]"
+      "  [OFFLINE MÓD]"
     ]
   },
   "DeathScreen": {
@@ -415,7 +415,7 @@
       " Feloldva!"
     ]
   },
-    "DeletePopup": {
+  "DeletePopup": {
     "TEXT": [
       "Törlöd ezt a mentést?",
       "Igen",
@@ -668,7 +668,8 @@
       "Catalan",
       "Greek",
       "Indonesian",
-      "Esperanto"
+      "Esperanto",
+      "Dutch"
     ]
   },
   "LeaderboardFilters": {
@@ -729,7 +730,8 @@
   "Lift Option": {
     "TEXT": [
       "Edzés",
-      "Kezd a csatákat +1 Erővel. (Maximum +3)"
+      "Kezd a csatákat +1 Erővel. (Maximum +3)",
+      ""
     ]
   },
   "MainMenuScreen": {
@@ -807,8 +809,8 @@
       "Ismeretlen",
       "Játsz egyet a Napi Küzdelem-el, hogy felold ezt a menüpontot.",
       "Ez a funkció még nem használható.",
-	  "Egyéni",
-	  "Állítsd be a játékot a saját ízlésed szerint."
+      "Egyéni",
+      "Állítsd be a játékot a saját ízlésed szerint."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -847,7 +849,8 @@
       "NL NL VSync",
       "Playtester Art Mode",
       "Mutasd a Kártyát Gyors Választó Gombok",
-      "Irányítás Beállítások"
+      "Irányítás Beállítások",
+      "Disable Particle Effects"
     ]
   },
   "PatchNotesScreen": {
@@ -879,6 +882,12 @@
   "PutOnDeckAction": {
     "TEXT": [
       "a Húzópaklid tetejére tedd"
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
     ]
   },
   "RecycleAction": {
@@ -928,7 +937,8 @@
       "Pihenés",
       "Gyógyítsd vissza a Max HP 100%-t (",
       " HP from ",
-      "Gyógyítsd vissza a Max HP 30%-t ("
+      "Gyógyítsd vissza a Max HP 30%-t (",
+      ""
     ]
   },
   "RestartForChangesEffect": {
@@ -947,7 +957,12 @@
       " Arany",
       "Adj egy Kártyát a Paklidhoz",
       "",
-      "Válassz egy Kártyát"
+      "Válassz egy Kártyát",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this will remove ",
+      "."
     ]
   },
   "RunHistoryPathNodes": {
@@ -983,39 +998,55 @@
       "%s #bEltávolítva",
       "#bÁsott",
       "#bGyúrt %s/%s",
-      "#yMegvásárolt:"
+      "#yMegvásárolt:",
+      "#rSpent ",
+      "#rTook ",
+      "#rLost ",
+      "%s Max HP",
+      "#bHealed ",
+      "#bGained ",
+      "#bIgnored ",
+      "%s HP",
+      "#bObtained %s",
+      "#rCursed #rwith #r%s",
+      "%s Damage",
+      "#bUpgraded %s",
+      "#bTransformed %s",
+      "#rLost %s",
+      "#bRecalled"
     ]
   },
   "RunHistoryMonsterNames": {
     "TEXT": [
-     	 "Szörnyek Bandája",
-	 "Nagy Amóba",
-	 "Bevezető Banditái",
-	 "Bevezető Állatvilága",
-	 "Amőbák sokasága",
-	 "Kis amőbák",
-	 "Város Rablói",
-	 "Három Varlyú",
-	 "Négy varlyú",
-	 "Tripla Kultista",
-	 "Kiválasztott nyáj",
-	 "Őrszem és a Gömbszerű őr",
-	 "Centurio és a misztikus",
-	 "Parazita és a Gombás Lény",
-	 "Maszkos Banditák Csoportja",
-	 "Colosseum Szörnyei",
-	 "Colosseum Rabszolgái",
-	 "Három Alakzat",
-	 "Állkapcsos kukac hordája",
-	 "Négy Alakzat",
-	 "Gömbszerű Őr és az Alakzatok",
-	 "Dupla Lépegető Gömb",
-	 "Donu és Deca",
-	 "Őrszemek",
-	 "Kiválaszott és Kultista",
-	 "(Deprecated) Flame Bruiser",
-	 "(Deprecated) Slaver and Parasite",
-	 "(Deprecated) Snecko and Mystics"
+      "Szörnyek Bandája",
+      "Nagy Amóba",
+      "Bevezető Banditái",
+      "Bevezető Állatvilága",
+      "Amőbák sokasága",
+      "Kis amőbák",
+      "Város Rablói",
+      "Három Varlyú",
+      "Négy varlyú",
+      "Tripla Kultista",
+      "Kiválasztott nyáj",
+      "Őrszem és a Gömbszerű őr",
+      "Centurio és a misztikus",
+      "Parazita és a Gombás Lény",
+      "Maszkos Banditák Csoportja",
+      "Colosseum Szörnyei",
+      "Colosseum Rabszolgái",
+      "Három Alakzat",
+      "Állkapcsos kukac hordája",
+      "Négy Alakzat",
+      "Gömbszerű Őr és az Alakzatok",
+      "Dupla Lépegető Gömb",
+      "Donu és Deca",
+      "Őrszemek",
+      "Kiválaszott és Kultista",
+      "(Deprecated) Flame Bruiser",
+      "(Deprecated) Slaver and Parasite",
+      "(Deprecated) Snecko and Mystics",
+      "Shield and Spear"
     ]
   },
   "RunHistoryScreen": {
@@ -1105,7 +1136,8 @@
       "#rÖsszezavarodtam! NL Nem tudok Támadni",
       "Nincs elég #rEnergiám.",
       "Nincs elég #rTöltet.",
-      "Nem játszhatom ki NL ezt a kártyát."
+      "Nem játszhatom ki NL ezt a kártyát.",
+      "Beta Art"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1150,6 +1182,11 @@
   "TheCity": {
     "TEXT": [
       "A Város"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
     ]
   },
   "TipHelper": {
@@ -1227,7 +1264,7 @@
       "Seed Beállítása"
     ]
   },
-	"SaveSlot": {
+  "SaveSlot": {
     "TEXT": [
       "Játékidő ",
       "Üres Hely"
@@ -1238,6 +1275,44 @@
       "Válassz egy Mentési Helyet",
       "Átnevez",
       "Mentés törlése"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
+    ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu"
     ]
   }
 }

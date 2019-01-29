@@ -47,6 +47,16 @@
       "A kedvenc színem a kék. NL Neked?"
     ]
   },
+  "OPTIONS": [
+    "How did I get here? NL Beats me.",
+    "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+    "..... NL .... NL .........",
+    "I'm a cat person.",
+    "No rush. NL No rush.",
+    "Now isn't this @exciting!?@",
+    "I used to be like you.",
+    "Heading up?"
+  ],
   "Neow Event": {
     "NAMES": [
       "Neow"
@@ -64,18 +74,19 @@
       "~Kockázat...~ NL ~..jutalom....~",
       "~Itt~ ~az~ ~idő~ ~egy~ NL ~KIHÍVÁSRA...~",
       "Jutalmak",
-	  "~Haladj~ ~tovább...~",
-	  "~Ez~ ~csak~ ~egyre~ ~nehezebb~ ~lesz...~",
-	  "~Lenyűgöző...~ ~még...~",
-	  "Átkozott!",
-	  "Hebehurgya!",
-	  "Átalakulás!"
+      "~Haladj~ ~tovább...~",
+      "~Ez~ ~csak~ ~egyre~ ~nehezebb~ ~lesz...~",
+      "~Lenyűgöző...~ ~még...~",
+      "Átkozott!",
+      "Hebehurgya!",
+      "Átalakulás!"
     ],
     "OPTIONS": [
       "[Folytatás]",
       "[Beszéd]",
       "[Kihagy]",
-      "[Kilép]"
+      "[Kilép]",
+      "Choose 10 cards to add to your deck."
     ]
   },
   "Neow Reward": {
@@ -110,7 +121,9 @@
       "Válassz 2 Kártyát, hogy Átalakítsd",
       "Válassz egy Kártyát, hogy Fejleszd",
       "[ #gAz #gEllenfeleid #ga #gkövetkező #ghárom #gcsatában #g1 #gHP-val #gkezdenek ]",
-	  " #rsebzést"
+      " #rsebzést",
+      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+      "#gObtain #g2 #grandom #gcolorless #gCards ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rVeszítsd #rel #ra #rkezdő #rEreklyéd, #ghogy #gKapj #gegy #gvéletlenszerű #gboss #gEreklyét ]"
@@ -158,6 +171,14 @@
     ],
     "TEXT": [
       "Egy halálos vadásznő a ködvidékről. NL Ellenségeit tőrökkel és mérgekkel pusztítja el."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps.....",
+      "..and so...... shall... NL ....I......"
     ]
   }
 }

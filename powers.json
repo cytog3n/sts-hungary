@@ -373,7 +373,7 @@
     "NAME": "Repülés",
     "DESCRIPTIONS": [
       "Csökkenti a #yTámadások sebzését #b50%-al. Megszűnik ha #yTámadási sebzést visznek be #b",
-	  " alkalommal egy kör során."
+      " alkalommal egy kör során."
     ]
   },
   "Focus": {
@@ -458,6 +458,21 @@
     "NAME": "Megfoghatatlan",
     "DESCRIPTIONS": [
       "Lecsökkent minden sebzést és HP veszteséget #b1-re ebben a körben. A Megfoghatatlan minden második körben újra aktiválódik."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Can only lose #b",
+      " more HP this turn.",
+      "Can no longer be harmed this turn."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage."
     ]
   },
   "IntangiblePlayer": {
@@ -975,8 +990,26 @@
     "NAME": "Tetem Robbanás",
     "DESCRIPTIONS": [
       "Mikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet Max HP-jával egyenlő mértékben.",
-	  "Mikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet #bx",
-	  " a Max HP-jával megfelelő mértékben."
+      "Mikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet #bx",
+      " a Max HP-jával megfelelő mértékben."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reactive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its intent."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
     ]
   }
 }

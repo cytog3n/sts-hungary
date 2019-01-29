@@ -672,7 +672,31 @@
     ],
     "NAME": "Múlandó",
     "DIALOG": [
-	  ""
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Shield",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Spire Spear"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Writhing Mass",
+    "DIALOG": [
+      ""
     ]
   }
 }

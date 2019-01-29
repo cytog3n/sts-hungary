@@ -168,13 +168,14 @@
   "SmokeBomb": {
     "NAME": "Smoke Bomb",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "Escape from a non-boss combat. Receive no rewards.",
+	  "I'm Surrounded!"
     ]
   },
   "SneckoOil": {
     "NAME": "Snecko Oil",
     "DESCRIPTIONS": [
-      " Become #yConfused. Draw #b",
+      "Become #yConfused. Draw #b",
       " cards.",
       "card."
     ]
