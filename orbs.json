@@ -1,39 +1,39 @@
 {
   "Dark": {
-    "NAME": "Dark",
+    "NAME": "Sötét",
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
+      "#yPasszív: A kör végén növeli a gömb sebzését, increase this Orb's damage by #b",
+      ". NL #yMegidézés: Deal #b",
       " damage to the enemy with lowest HP."
     ]
   },
   "Empty": {
-    "NAME": "Orb Slot",
+    "NAME": "Gömb foglalat",
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "Ezekbe a foglalatokba gömböket lehet sugározni."
     ]
   },
   "Frost": {
-    "NAME": "Frost",
+    "NAME": "Jég",
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#yPasszív: A köröd végén kapsz #b",
+      " #yVédelmet. NL #yMegidézés: Kapsz #b",
+      " #yVédelmet."
     ]
   },
   "Lightning": {
-    "NAME": "Lightning",
+    "NAME": "Villám",
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#yPasszív: At the end of turn, deal #b",
+      " sebez egy véletlenszerű lényt. NL #yMegidézés: Deal #b",
+      " sebez egy véletlenszerű lényt."
     ]
   },
   "Plasma": {
-    "NAME": "Plasma",
+    "NAME": "Plazma",
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#yPasszív: At the start of turn, gain [B] . NL #yMegidézés: Gain #b",
+      " [B] . NL Plazmára nem hat a #yFókusz."
     ]
   }
 }

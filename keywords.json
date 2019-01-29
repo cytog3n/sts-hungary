@@ -9,7 +9,8 @@
     "BLOCK": {
       "NAMES": [
         "védelem",
-        "véd"
+        "véd",
+		"védelmet"
       ],
       "DESCRIPTION": "A következő körig elhárítja a támadásokat."
     },

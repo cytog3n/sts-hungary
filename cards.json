@@ -1,139 +1,139 @@
 {
   "A Thousand Cuts": {
-    "NAME": "A Thousand Cuts",
-    "DESCRIPTION": "Whenever you play a card, deal !M! damage to ALL enemies."
+    "NAME": "Ezer vágás",
+    "DESCRIPTION": "Amikor kijátszol egy lapot !M! sebzést okoz minden ellenfélnek."
   },
   "Accuracy": {
-    "NAME": "Accuracy",
-    "DESCRIPTION": "Shivs deal !M! additional damage."
+    "NAME": "Pontosság",
+    "DESCRIPTION": "A pengéid !M! plusz sebzést okoznak."
   },
   "Acrobatics": {
-    "NAME": "Acrobatics",
-    "DESCRIPTION": "Draw !M! cards. NL Discard 1 card."
+    "NAME": "Akrobatika",
+    "DESCRIPTION": "Húzz !M! lapot. NL Dobj el 1 lapot."
   },
   "Adrenaline": {
-    "NAME": "Adrenaline",
-    "DESCRIPTION": "Gain [G]. NL Draw 2 cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [G] [G]. NL Draw 2 cards. NL Exhaust."
+    "NAME": "Adrenalin",
+    "DESCRIPTION": "Kapsz [G]. NL Húzz 2 lapot. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Kapsz [G] [G]. NL Húzz 2 lapot. NL Kimerít."
   },
   "After Image": {
-    "NAME": "After Image",
-    "DESCRIPTION": "Whenever you play a card, gain 1 Block.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, gain 1 Block."
+    "NAME": "Utókép",
+    "DESCRIPTION": "Amikor kijátszol egy kártyát, kapsz 1 Védelmet.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL Amikor kijátszol egy kártyát, kapsz 1 Védelmet."
   },
   "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
+    "NAME": "Felhalmoz",
+    "DESCRIPTION": "Kapsz [B] minden !M! kártyáért a húzópaklidban."
   },
   "All For One": {
-    "NAME": "All for One",
-    "DESCRIPTION": "Deal !D! damage. NL Put all cost 0 cards from your discard pile into your hand."
+    "NAME": "Mindenki egyért",
+    "DESCRIPTION": "!D! sebzést okoz. NL Minden 0 költségű lap a kezedbe kerül a dobópaklidból."
   },
   "All Out Attack": {
-    "NAME": "All-Out Attack",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Discard 1 card at random."
+    "NAME": "Ami a csövön kifér",
+    "DESCRIPTION": "!D! sebzést okoz MINDEN ellenfélnek. NL Dobj el egy véletlenszerű lapot."
   },
   "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
+    "NAME": "Kiosztás",
+    "DESCRIPTION": "Kapsz !M! Fókuszt. NL Veszítesz 1 Erőt. NL Veszítesz 1 Ügyességet."
   },
   "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power card is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Power cards are played twice."
+    "NAME": "Erősítő",
+    "DESCRIPTION": "A következő Erő kártyád kétszer jászódik ki ebben a körben.",
+    "UPGRADE_DESCRIPTION": "A következő !M! Erő kártyád kétszer jászódik ki ebben a körben."
   },
   "Anger": {
-    "NAME": "Anger",
-    "DESCRIPTION": "Deal !D! damage. NL Add a copy of this card into your discard pile."
+    "NAME": "Düh",
+    "DESCRIPTION": "!D! sebzést okot. NL Egy másolat is bekerül a dobópaklidba."
   },
   "Apotheosis": {
-    "NAME": "Apotheosis",
-    "DESCRIPTION": "Upgrade ALL your cards for the rest of combat. NL Exhaust."
+    "NAME": "Istenítés",
+    "DESCRIPTION": "Felfejleszti az ÖSSZES kártyádat a harc hátralévő részében. NL Kimerít."
   },
   "Armaments": {
-    "NAME": "Armaments",
-    "DESCRIPTION": "Gain !B! Block. NL Upgrade a card in your hand for the rest of combat.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Upgrade all cards in your hand for the rest of combat."
+    "NAME": "Felszerelés",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Fejlessz egy kezedben lévő kártyát a harc erejéig.",
+    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL A kezedben lévő összes kártyát felfejleszti a harc végéig."
   },
   "AscendersBane": {
-    "NAME": "Ascender's Bane",
-    "DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
+    "NAME": "A Felemelkedő terhe",
+    "DESCRIPTION": "Kijátszhatatlan. NL Földöntúli. NL Nem távolítható el a paklidból."
   },
   "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have no Block, gain !B! Block."
+    "NAME": "Automata pajzs",
+    "DESCRIPTION": "A nincs védelmed, kapsz !B! Védelmet."
   },
   "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+    "NAME": "Fejsze rúgás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Megidézi a következő gömbödet."
   },
   "Backflip": {
-    "NAME": "Backflip",
-    "DESCRIPTION": "Gain !B! Block. NL Draw 2 cards."
+    "NAME": "Hátraszaltó",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Húzz 2 kártyát."
   },
   "Backstab": {
-    "NAME": "Backstab",
-    "DESCRIPTION": "Innate. NL Deal !D! damage. NL Exhaust."
+    "NAME": "Hátba szúr",
+    "DESCRIPTION": "Ösztönös. NL !D! sebzést okoz. NL Kimerít."
   },
   "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
+    "NAME": "Viharlabda",
+    "DESCRIPTION": "!D! sebzést okoz. Sugároz !M! Villámot."
   },
   "Bandage Up": {
-    "NAME": "Bandage Up",
-    "DESCRIPTION": "Heal !M! HP. NL Exhaust."
+    "NAME": "Bekötözés",
+    "DESCRIPTION": "Visszatölt !M! életerőt. NL Kimerít."
   },
   "Bane": {
-    "NAME": "Bane",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy has Poison, deal !D! damage again."
+    "NAME": "Csapás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfél mérgezett, okoz még !D! sebzést."
   },
   "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+    "NAME": "Zárótűz",
+    "DESCRIPTION": "!D! sebzést okoz minden Sugárzott Gömbért."
   },
   "Barricade": {
-    "NAME": "Barricade",
-    "DESCRIPTION": "Block is not removed at the start of your turn."
+    "NAME": "Barikád",
+    "DESCRIPTION": "A Védelmed nem múlik el a köröd elején."
   },
   "Bash": {
-    "NAME": "Bash",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
+    "NAME": "Horpasztás",
+    "DESCRIPTION": "!D! sebzést okoz. NL !M! Sebezhetőséget okoz."
   },
   "Battle Trance": {
-    "NAME": "Battle Trance",
-    "DESCRIPTION": "Draw !M! cards. NL You cannot draw additional cards this turn."
+    "NAME": "Harci szellem",
+    "DESCRIPTION": "Húzz !M! kártyát. NL Nem húzhatsz több kártyát ebben a körben."
   },
   "Beam Cell": {
     "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
+    "DESCRIPTION": "!D! sebzést okoz. NL !M! Sebezhetőséget okoz."
   },
   "Berserk": {
-    "NAME": "Berserk",
-    "DESCRIPTION": "Gain !M! Vulnerable. NL At the start of your turn, gain [R]."
+    "NAME": "Őrjöngés",
+    "DESCRIPTION": "Kapsz !M! Sebezhetőséget. NL A köröd elején kapsz [R]."
   },
   "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of your turn, lose 1 Focus."
+    "NAME": "Elfogult felismerés",
+    "DESCRIPTION": "Kapsz !M! Fókuszt. NL A köröd elején veszítesz 1 Fókuszt."
   },
   "Bite": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
+    "NAME": "Harapás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Visszatölt !M! életerőt."
   },
   "Blade Dance": {
-    "NAME": "Blade Dance",
-    "DESCRIPTION": "Add !M! Shivs into your hand."
+    "NAME": "Penge tánc",
+    "DESCRIPTION": "Kapsz !M! Pengét a kezedbe."
   },
   "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
+    "NAME": "Robbantó",
+    "DESCRIPTION": "!D! sebzést okoz MINDEN ellenfélnek. NL Kapsz [B] minden Sugárzott Gömbért. NL Kimerít."
   },
   "Blind": {
-    "NAME": "Blind",
-    "DESCRIPTION": "Apply !M! Weak.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak to ALL enemies."
+    "NAME": "Vakság",
+    "DESCRIPTION": "!M! Gyengeséget okoz.",
+    "UPGRADE_DESCRIPTION": "!M! Gyengeséget okoz MINDEN ellenfélnek."
   },
   "Blizzard": {
-    "NAME": "Blizzard",
+    "NAME": "Jégeső",
     "DESCRIPTION": "Deal damage equal to !M! times the number of Frost Channeled this combat to ALL enemies.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
@@ -142,95 +142,95 @@
     ]
   },
   "Blood for Blood": {
-    "NAME": "Blood for Blood",
-    "DESCRIPTION": "Costs 1 less [R] NL for each time you lose HP this combat. NL Deal !D! damage."
+    "NAME": "Szemet szemért",
+    "DESCRIPTION": "Egy [R] olcsóbb minden sebződés után a harc alatt. NL !D! sebzést okoz."
   },
   "Bloodletting": {
-    "NAME": "Bloodletting",
-    "DESCRIPTION": "Lose 3 HP. NL Gain [R].",
-    "UPGRADE_DESCRIPTION": "Lose 3 HP. NL Gain [R] [R]."
+    "NAME": "Véreztetés",
+    "DESCRIPTION": "Veszítesz 3 életerőpontot. NL Kapsz [R].",
+    "UPGRADE_DESCRIPTION": "Veszítesz 3 életerőpontot. NL Kapsz [R] [R]."
   },
   "Bludgeon": {
-    "NAME": "Bludgeon",
-    "DESCRIPTION": "Deal !D! damage."
+    "NAME": "Bunkósbot",
+    "DESCRIPTION": "!D! sebzést okoz."
   },
   "Blur": {
-    "NAME": "Blur",
-    "DESCRIPTION": "Gain !B! Block. NL Block is not removed at the start of your next turn."
+    "NAME": "Elhomályosít",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL A Védelem nem múlik el a következő köröd elején."
   },
   "Body Slam": {
     "NAME": "Body Slam",
-    "DESCRIPTION": "Deal damage equal to your Block.",
-    "UPGRADE_DESCRIPTION": " NL (Deals !D! damage.)"
+    "DESCRIPTION": "Védelmednek megfelelő sebzést okoz.",
+    "UPGRADE_DESCRIPTION": " NL (!D! sebzést okoz.)"
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Innate. NL Gain !B! Block. NL Exhaust."
+    "NAME": "Boot sorrend",
+    "DESCRIPTION": "Ösztönös. NL Kapsz !B! Védelmet. NL Kimerít."
   },
   "Bouncing Flask": {
-    "NAME": "Bouncing Flask",
-    "DESCRIPTION": "Apply 3 Poison to a random enemy !M! times."
+    "NAME": "Pattogó lombik",
+    "DESCRIPTION": "3 Mérget rak egy véletlenszerű ellenfélre !M! alkalommal."
   },
   "Brutality": {
-    "NAME": "Brutality",
-    "DESCRIPTION": "At the start of your turn, lose 1 HP and draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and draw 1 card."
+    "NAME": "Brutalitás",
+    "DESCRIPTION": "A köröd elején veszítesz egy életerőpont és húzol egy kártyát.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL A köröd elején veszítesz egy életerőpont és húzol egy kártyát."
   },
   "Buffer": {
     "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
+    "DESCRIPTION": "Megakadályozza a sebződést legközelebb amikor életerőt veszítenél.",
+    "UPGRADE_DESCRIPTION": "Megakadályozza a sebződést a következő !M! alkalommal amikor életerőt veszítenél."
   },
   "Bullet Time": {
-    "NAME": "Bullet Time",
-    "DESCRIPTION": "You cannot draw additional cards this turn. Reduce the cost of all cards in your hand to 0 this turn."
+    "NAME": "Idő fagyasztás",
+    "DESCRIPTION": "Nem húzhatsz több kártyát a körben. Csökkenti minden lap költségét 0-ra ebben a körben."
   },
   "Burn": {
-    "NAME": "Burn",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, take 2 damage.",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL At the end of your turn, take 4 damage."
+    "NAME": "Égés",
+    "DESCRIPTION": "Kijátszhatatlan. NL A köröd végén 2 sebzést szenvedsz el.",
+    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL A köröd végén 4 sebzést szenvedsz el."
   },
   "Burning Pact": {
-    "NAME": "Burning Pact",
-    "DESCRIPTION": "Exhaust 1 card. NL Draw !M! cards."
+    "NAME": "Lángoló paktum",
+    "DESCRIPTION": "Kimerít 1 kártyát. NL Húzz !M! kártyát."
   },
   "Burst": {
-    "NAME": "Burst",
-    "DESCRIPTION": "This turn, your next Skill is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Skills are played twice."
+    "NAME": "Kitörés",
+    "DESCRIPTION": "A következő Képesség kétszer teljesül a körben.",
+    "UPGRADE_DESCRIPTION": "A következő !M! Képesség kétszer teljesül a körben."
   },
   "Calculated Gamble": {
-    "NAME": "Calculated Gamble",
-    "DESCRIPTION": "Discard your hand, NL then draw that many cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Discard your hand, NL then draw that many cards."
+    "NAME": "Számított szerencsejáték",
+    "DESCRIPTION": "Eldobod a kezedben lévő kártyákat, NL majd húzol annyi kártyát amennyit eldobtál. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Eldobod a kezedben lévő kártyákat, NL majd húzol annyi kártyát amennyit eldobtál."
   },
   "Caltrops": {
-    "NAME": "Caltrops",
-    "DESCRIPTION": "Whenever you are attacked, deal !M! damage back."
+    "NAME": "Szögcsapda",
+    "DESCRIPTION": "Amikor megtámadnak !M! sebzést okozol."
   },
   "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slots.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
+    "NAME": "Kondenzátor",
+    "DESCRIPTION": "Kapsz !M! Gömb foglalatot.",
+    "UPGRADE_DESCRIPTION": "Kapsz !M! Gömb foglalatot."
   },
   "Carnage": {
-    "NAME": "Carnage",
-    "DESCRIPTION": "Ethereal. NL Deal !D! damage."
+    "NAME": "Mészárlás",
+    "DESCRIPTION": "Földöntúli. NL !D! sebzést okoz."
   },
   "Catalyst": {
-    "NAME": "Catalyst",
-    "DESCRIPTION": "Double the enemy's Poison. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Triple the enemy's Poison. NL Exhaust."
+    "NAME": "Katalizátor",
+    "DESCRIPTION": "Megduplázza az ellenfél Mérgezését. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Megtriplázza az ellenfél Mérgezését. NL Kimerít."
   },
   "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+    "NAME": "Káosz",
+    "DESCRIPTION": "Sugároz !M! véletlenszerű Gömböt.",
+    "UPGRADE_DESCRIPTION": "Sugároz !M! véletlenszerű Gömböt."
   },
   "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost for each enemy in combat. NL Exhaust."
+    "NAME": "Lehűt",
+    "DESCRIPTION": "Sugároz !M! Jeget minden ellenfélért a harcban. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL Sugároz !M! Jeget minden ellenfélért a harcban. NL Kimerít."
   },
   "Choke": {
     "NAME": "Choke",
