@@ -1,7 +1,7 @@
 {
   "A Thousand Cuts": {
     "NAME": "Ezer vágás",
-    "DESCRIPTION": "Amikor kijátszol egy lapot !M! sebzést okoz minden ellenfélnek."
+    "DESCRIPTION": "Minden kijátszott kártya után !M! sebzést okoz minden ellenfélnek."
   },
   "Accuracy": {
     "NAME": "Pontosság",
@@ -9,17 +9,17 @@
   },
   "Acrobatics": {
     "NAME": "Akrobatika",
-    "DESCRIPTION": "Húzz !M! lapot. NL Dobj el 1 lapot."
+    "DESCRIPTION": "Húzz !M! kártyát. NL Dobj el 1 kártyát."
   },
   "Adrenaline": {
     "NAME": "Adrenalin",
-    "DESCRIPTION": "Kapsz [G]. NL Húzz 2 lapot. NL Kimerít.",
-    "UPGRADE_DESCRIPTION": "Kapsz [G] [G]. NL Húzz 2 lapot. NL Kimerít."
+    "DESCRIPTION": "Kapsz [G]. NL Húzz 2 kártyát. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Kapsz [G] [G]. NL Húzz 2 kártyát. NL Kimerít."
   },
   "After Image": {
     "NAME": "Utókép",
-    "DESCRIPTION": "Amikor kijátszol egy kártyát, kapsz 1 Védelmet.",
-    "UPGRADE_DESCRIPTION": "Ösztönös. NL Amikor kijátszol egy kártyát, kapsz 1 Védelmet."
+    "DESCRIPTION": "Minden kijátszott kártya után kapsz 1 Védelmet.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL Minden kijátszott kártya után kapsz 1 Védelmet."
   },
   "Aggregate": {
     "NAME": "Felhalmoz",
@@ -27,11 +27,11 @@
   },
   "All For One": {
     "NAME": "Mindenki egyért",
-    "DESCRIPTION": "!D! sebzést okoz. NL Minden 0 költségű lap a kezedbe kerül a dobópaklidból."
+    "DESCRIPTION": "!D! sebzést okoz. NL Húzz fel minden 0 költségű kártyát a dobópaklidból."
   },
   "All Out Attack": {
     "NAME": "Ami a csövön kifér",
-    "DESCRIPTION": "!D! sebzést okoz MINDEN ellenfélnek. NL Dobj el egy véletlenszerű lapot."
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Dobj el véletlenszerűen egy kártyát."
   },
   "Allocate": {
     "NAME": "Kiosztás",
@@ -39,12 +39,12 @@
   },
   "Amplify": {
     "NAME": "Erősítő",
-    "DESCRIPTION": "A következő Erő kártyád kétszer jászódik ki ebben a körben.",
-    "UPGRADE_DESCRIPTION": "A következő !M! Erő kártyád kétszer jászódik ki ebben a körben."
+    "DESCRIPTION": "Ebben a körben a következő kijátszott Erő kártyád kétszer teljesül.",
+    "UPGRADE_DESCRIPTION": "Ebben a körben a következő !M! kijátszott Erő kártyád kétszer teljesül."
   },
   "Anger": {
-    "NAME": "Düh",
-    "DESCRIPTION": "!D! sebzést okot. NL Egy másolat is bekerül a dobópaklidba."
+    "NAME": "Harag",
+    "DESCRIPTION": "!D! sebzést okoz. NL Egy másolat is bekerül a dobópaklidba."
   },
   "Apotheosis": {
     "NAME": "Istenítés",
@@ -53,7 +53,7 @@
   "Armaments": {
     "NAME": "Felszerelés",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL Fejlessz egy kezedben lévő kártyát a harc erejéig.",
-    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL A kezedben lévő összes kártyát felfejleszti a harc végéig."
+    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL A kezedben lévő összes kártyát felfejleszti a harc erejéig."
   },
   "AscendersBane": {
     "NAME": "A Felemelkedő terhe",
@@ -61,22 +61,22 @@
   },
   "Auto Shields": {
     "NAME": "Automata pajzs",
-    "DESCRIPTION": "A nincs védelmed, kapsz !B! Védelmet."
+    "DESCRIPTION": "Ha nincs Védelmed, kapsz !B! Védelmet."
   },
   "Axe Kick": {
     "NAME": "Fejsze rúgás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Megidézi a következő gömbödet."
+    "DESCRIPTION": "!D! sebzést okoz. NL Megidézi a következő Gömbödet."
   },
   "Backflip": {
     "NAME": "Hátraszaltó",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL Húzz 2 kártyát."
   },
   "Backstab": {
-    "NAME": "Hátba szúr",
+    "NAME": "Hátba szúrás",
     "DESCRIPTION": "Ösztönös. NL !D! sebzést okoz. NL Kimerít."
   },
   "Ball Lightning": {
-    "NAME": "Viharlabda",
+    "NAME": "Gömbvillám",
     "DESCRIPTION": "!D! sebzést okoz. Sugároz !M! Villámot."
   },
   "Bandage Up": {
@@ -85,7 +85,7 @@
   },
   "Bane": {
     "NAME": "Csapás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfél mérgezett, okoz még !D! sebzést."
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfél mérgezett, okoz még plusz !D! sebzést."
   },
   "Barrage": {
     "NAME": "Zárótűz",
@@ -93,19 +93,19 @@
   },
   "Barricade": {
     "NAME": "Barikád",
-    "DESCRIPTION": "A Védelmed nem múlik el a köröd elején."
+    "DESCRIPTION": "A Védelmed megmarad a köröd elején."
   },
   "Bash": {
     "NAME": "Horpasztás",
-    "DESCRIPTION": "!D! sebzést okoz. NL !M! Sebezhetőséget okoz."
+    "DESCRIPTION": "!D! sebzést és NL !M! Sebezhetőséget okoz."
   },
   "Battle Trance": {
     "NAME": "Harci szellem",
     "DESCRIPTION": "Húzz !M! kártyát. NL Nem húzhatsz több kártyát ebben a körben."
   },
   "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "!D! sebzést okoz. NL !M! Sebezhetőséget okoz."
+    "NAME": "Energiasugár",
+    "DESCRIPTION": "!D! sebzést és NL !M! Sebezhetőséget okoz."
   },
   "Berserk": {
     "NAME": "Őrjöngés",
@@ -120,30 +120,30 @@
     "DESCRIPTION": "!D! sebzést okoz. NL Visszatölt !M! életerőt."
   },
   "Blade Dance": {
-    "NAME": "Penge tánc",
-    "DESCRIPTION": "Kapsz !M! Pengét a kezedbe."
+    "NAME": "Pengék tánca",
+    "DESCRIPTION": "Kapsz !M! pengét a kezedbe."
   },
   "Blaster": {
     "NAME": "Robbantó",
-    "DESCRIPTION": "!D! sebzést okoz MINDEN ellenfélnek. NL Kapsz [B] minden Sugárzott Gömbért. NL Kimerít."
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Kapsz [B] minden Sugárzott Gömbért. NL Kimerít."
   },
   "Blind": {
     "NAME": "Vakság",
     "DESCRIPTION": "!M! Gyengeséget okoz.",
-    "UPGRADE_DESCRIPTION": "!M! Gyengeséget okoz MINDEN ellenfélnek."
+    "UPGRADE_DESCRIPTION": "MINDEN ellenfélnek !M! Gyengeséget okoz."
   },
   "Blizzard": {
-    "NAME": "Jégeső",
-    "DESCRIPTION": "Deal damage equal to !M! times the number of Frost Channeled this combat to ALL enemies.",
+    "NAME": "Hóvihar",
+    "DESCRIPTION": "MINDEN ellenfélnek !M! sebzést okoz minden, a harc alatt Sugárzott Jéggömb után.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)",
+      " NL (!D! sebzést okoz.)",
       ""
     ]
   },
   "Blood for Blood": {
     "NAME": "Szemet szemért",
-    "DESCRIPTION": "Egy [R] olcsóbb minden sebződés után a harc alatt. NL !D! sebzést okoz."
+    "DESCRIPTION": "A harcban elszenvedett minden sebzés után eggyel csökken a [R] költsége. NL !D! sebzést okoz."
   },
   "Bloodletting": {
     "NAME": "Véreztetés",
@@ -156,7 +156,7 @@
   },
   "Blur": {
     "NAME": "Elhomályosít",
-    "DESCRIPTION": "Kapsz !B! Védelmet. NL A Védelem nem múlik el a következő köröd elején."
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL A Védelem megmarad a következő köröd elején."
   },
   "Body Slam": {
     "NAME": "Body Slam",

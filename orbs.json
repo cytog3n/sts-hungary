@@ -2,9 +2,9 @@
   "Dark": {
     "NAME": "Sötét",
     "DESCRIPTION": [
-      "#yPasszív: A kör végén növeli a gömb sebzését, increase this Orb's damage by #b",
-      ". NL #yMegidézés: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#yPasszív: Plusz #b",
+      " sebzést ad a Gömbödnek a köröd végén. NL #yMegidézés: #b",
+      " sebzést okoz a legkevesebb életerejű ellenfélnek."
     ]
   },
   "Empty": {
@@ -24,15 +24,15 @@
   "Lightning": {
     "NAME": "Villám",
     "DESCRIPTION": [
-      "#yPasszív: At the end of turn, deal #b",
-      " sebez egy véletlenszerű lényt. NL #yMegidézés: Deal #b",
-      " sebez egy véletlenszerű lényt."
+      "#yPasszív: A köröd végén #b",
+      " sebzést okoz egy véletlenszerű lénynek. NL #yMegidézés: #b",
+      " sebzést okoz egy véletlenszerű lénynek."
     ]
   },
   "Plasma": {
     "NAME": "Plazma",
     "DESCRIPTION": [
-      "#yPasszív: At the start of turn, gain [B] . NL #yMegidézés: Gain #b",
+      "#yPasszív: A köröd elején kapsz [B] . NL #yMegidézés: Gain #b",
       " [B] . NL Plazmára nem hat a #yFókusz."
     ]
   }
