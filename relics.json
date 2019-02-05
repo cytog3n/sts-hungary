@@ -1,903 +1,903 @@
 {
   "Anchor": {
-    "NAME": "Anchor",
-    "FLAVOR": "Holding this miniature trinket, you feel heavier and more stable.",
+    "NAME": "Horgony",
+    "FLAVOR": "Ezt az apró fülbevalót viselve sokkal nehezebbnek, szilárdabbnak érzed magad.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yBlock."
+      "Minden harc elején kapsz #b",
+      " #yVédelmet."
     ]
   },
   "Ancient Tea Set": {
-    "NAME": "Ancient Tea Set",
-    "FLAVOR": "The key to a refreshing night's rest.",
+    "NAME": "Ősi teáskészlet",
+    "FLAVOR": "Egy frissítő éjszakai pihenés kulcsa.",
     "DESCRIPTIONS": [
-      "Whenever you enter a Rest Site, start the next combat with [E] [E] ."
+      "Amikor pihenőhelyhez érsz, a következő harcban kapsz [E] [E]"
     ]
   },
   "Art of War": {
-    "NAME": "Art of War",
-    "FLAVOR": "This ancient manuscript contains wisdom from a past age.",
+    "NAME": "A háború művészete",
+    "FLAVOR": "Ez az ősi kézirat a múlt bölcsességeit tartalmazza.",
     "DESCRIPTIONS": [
-      "If you do not play any #yAttacks during your turn, gain an additional ",
-      "[E] next turn."
+      "Ha nem játszol ki #yTámadást a körödben, kapsz egy extra ",
+      "[E] a kövekező körben."
     ]
   },
   "Astrolabe": {
-    "NAME": "Astrolabe",
-    "FLAVOR": "A tool to glean invaluable knowledge from the stars.",
+    "NAME": "Asztrolábium",
+    "FLAVOR": "Egy eszköz amivel felbecsülhetetlen tudást szerezhetsz a csillagokról.",
     "DESCRIPTIONS": [
-      "Upon pickup, #yTransform #b3 cards, then #yUpgrade them.",
-      "Choose 3 cards for "
+      "Felvételnél #yÁtalakítja #b3 kártyád, majd #yFelfejleszti azokat.",
+      "Válassz 3 kártyát "
     ]
   },
   "Bag of Marbles": {
-    "NAME": "Bag of Marbles",
-    "FLAVOR": "A once popular toy in the City. Useful for throwing enemies off balance.",
+    "NAME": "Zacskó üveggolyó",
+    "FLAVOR": "Régen népszerű játék volt a városban. Hasznos hogy az ellenfeleket kibbillentsd az egyensúlyukból.",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b",
-      " #yVulnerable to ALL enemies."
+      "Minden harc elején #b",
+      " #ySebezhetőséget okoz MINDEN ellenfélnek."
     ]
   },
   "Bag of Preparation": {
-    "NAME": "Bag of Preparation",
-    "FLAVOR": "Oversized adventurer's pack. Has many pockets and straps.",
+    "NAME": "Előkészített táska",
+    "FLAVOR": "Egy túlméretezett kalandozó hátizsák sok zsebbel és csattal.",
     "DESCRIPTIONS": [
-      "At the start of each combat, draw #b",
-      " additional cards."
+      "Minden harc elején húzz plusz #b",
+      " kártyát."
     ]
   },
   "Bird Faced Urn": {
-    "NAME": "Bird-Faced Urn",
-    "FLAVOR": "This urn shows the crow god Mazaleth looking mischievous.",
+    "NAME": "Madárfejű urna",
+    "FLAVOR": "Ez az urna, a gonoszan néző varjúisten Mazalethet ábrázolja.",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower card, heal #b",
-      " HP."
+      "Amikor #yHatalom kártyát játszol ki, visszatölt #b",
+      " életerőt."
     ]
   },
   "Black Blood": {
-    "NAME": "Black Blood",
-    "FLAVOR": "The rage grows darker.",
+    "NAME": "Fekete vér",
+    "FLAVOR": "A harag sötétebbé válik.",
     "DESCRIPTIONS": [
-      "Replaces #rBurning #rBlood. At the end of combat, heal #b",
-      " HP."
+      "Lecseréli az #rForró #rvért. A harc végén visszatölt #b",
+      " életerőt."
     ]
   },
   "Black Star": {
-    "NAME": "Black Star",
-    "FLAVOR": "Originally discovered in the town of the serpent, beside a solitary candle.",
+    "NAME": "Fekete csillag",
+    "FLAVOR": "Eredetileg a vipera városában találták, egy magányos gyertya mellett.",
     "DESCRIPTIONS": [
-      "Elites drop an additional relic when defeated."
+      "Az elitek plusz relikviát adnak miután legyőzted őket."
     ]
   },
   "Blood Vial": {
-    "NAME": "Blood Vial",
-    "FLAVOR": "A vial containing the blood of a pure and elder vampire.",
+    "NAME": "Véres fiola",
+    "FLAVOR": "Egy fiola ami az Ős vámpír tiszta vérét tartalmazza.",
     "DESCRIPTIONS": [
-      "At the start of each combat, heal #b",
-      " HP."
+      "A harc kezdetén visszatölt #b",
+      " életerőt."
     ]
   },
   "Bloody Idol": {
-    "NAME": "Bloody Idol",
-    "FLAVOR": "The idol now weeps a constant stream of blood.",
+    "NAME": "Véres bálvány",
+    "FLAVOR": "A bálvány szemeiből folyamatosan vér csordogál.",
     "DESCRIPTIONS": [
-      "Whenever you gain #yGold, heal #b",
-      " HP."
+      "Visszatölt #b",
+      " életerőt amikor #yAranyat veszel fel."
     ]
   },
   "Blue Candle": {
-    "NAME": "Blue Candle",
-    "FLAVOR": "The flame ignites when shrouded in darkness.",
+    "NAME": "Kék gyertya",
+    "FLAVOR": "A láng meggyullad ha a sötét körül öleli.",
     "DESCRIPTIONS": [
-      "#yUnplayable #rCurse cards can now be played. NL Whenever you play a #rCurse, lose #b",
-      " HP and #yExhaust it."
+      "#yKijátszhatatlan #rÁtok kártyák mostantól kijátszhatók. NL Amikor #rátkot játszol ki, veszítesz #b",
+      " életerőt és #yKimeríted azt."
     ]
   },
   "Bottled Flame": {
-    "NAME": "Bottled Flame",
-    "FLAVOR": "Inside the bottle resides a flame that eternally burns.",
+    "NAME": "Palackozott láng",
+    "FLAVOR": "A palack belsejében egy láng található, amely az örökkévalóságig ég.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose an #yAttack. Start each combat with this card in your hand.",
-      "Choose a card for ",
-      "Start each combat with ",
-      " in your hand."
+      "Felvételnél válassz egy #yTámadást. Kezdj minden harcot, ezzel a támadással a kezedben.",
+      "Válassz egy kártyát ",
+      "Minden harcot kezdj ",
+      " kártyával a kezedben."
     ]
   },
   "Bottled Lightning": {
-    "NAME": "Bottled Lightning",
-    "FLAVOR": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
+    "NAME": "Palackozott villám",
+    "FLAVOR": "A kavargó viharba tekintve önmagad tükörképe néz vissza rád.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a #ySkill. Start each combat with this card in your hand.",
-      "Choose a card for ",
-      "Start each combat with ",
-      " in your hand."
+      "Felvételnél válassz egy #yKépességet. Kezdj minden harcot, ezzel a képességgel a kezedben.",
+      "Válassz egy kártyát ",
+      "Minden harcot kezdj ",
+      " kártyával a kezedben."
     ]
   },
   "Bottled Tornado": {
-    "NAME": "Bottled Tornado",
-    "FLAVOR": "The bottle gently hums and whirs.",
+    "NAME": "Palackozott tornádó",
+    "FLAVOR": "A palack finoman zúg-búg.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a #yPower card. Start each combat with this card in your hand.",
-      "Choose a card for ",
-      "Start each combat with ",
-      " in your hand."
+      "Felvételnél válassz egy #yHatalmat. Kezdj minden harcot, ezzel az kártyával a kezedben.",
+      "Válassz egy kártyát ",
+      "Minden harcot kezdj ",
+      " kártyával a kezedben."
     ]
   },
   "Bronze Scales": {
-    "NAME": "Bronze Scales",
-    "FLAVOR": "The sharp scales of the Guardian. Rearranges itself to protect its user. ",
+    "NAME": "Bronz pikkely",
+    "FLAVOR": "Az őrző éles pikkelye. A viselője védelme érdekében átalakul.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yThorns."
+      "Minden harc elején kapsz #b",
+      " #yTüskét."
     ]
   },
   "Burning Blood": {
-    "NAME": "Burning Blood",
-    "FLAVOR": "Your body's own blood burns with an undying rage.",
+    "NAME": "Forró vér",
+    "FLAVOR": "A dühtől forr a vér az egész testedben.",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "A harc végén visszatölt #b",
+      " életerőt."
     ]
   },
   "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "NAME": "Aranyozott kábel",
+    "FLAVOR": "\"Érdekes! Még a robotokra is hat a placebó.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
+      "A jobb oldali Gömböd passzív képessége duplán teljesül."
     ]
   },
   "Calipers": {
-    "NAME": "Calipers",
-    "FLAVOR": "\"Mechanical precision leads to greatness\" - The Architect",
+    "NAME": "Körző",
+    "FLAVOR": "\"A mechanikai pontosság nagyszerűséghez vezet\" - Az Építész",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yBlock rather than all of your #yBlock."
+      "A köröd elején veszítesz #b",
+      " #yVédelmet, ahelyett hogy mindet elveszítenéd."
     ]
   },
   "Calling Bell": {
-    "NAME": "Calling Bell",
-    "FLAVOR": "This dark iron bell rang 3 times when you found it, but now stays silent.",
+    "NAME": "Harang",
+    "FLAVOR": "A fekete harang 3 alkalommal szólalt meg, majd örökre elhalgatott.",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain #b3 #rCurses and #b3 relics.",
-      "The Bell Tolls...",
-      "Skip Rewards",
-      "Close"
+      "Felvételnél kapsz #b3 #rÁtkot és #b3 relikviát.",
+      "A harang megszólal...",
+      "Jutalom kihagyása",
+      "Bezárás"
     ]
   },
   "Cauldron": {
-    "NAME": "Cauldron",
-    "FLAVOR": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
+    "NAME": "Üst",
+    "FLAVOR": "A kereskedő valójában egy meglehetősen képzett alkimista. Ha 4-et fizet egy ajádnék jár mellé.",
     "DESCRIPTIONS": [
-      "Upon pickup, brews #b5 random potions.",
+      "Felvételnél főz #b5 véletlenszerű bájitalt.",
       "Blup blip bloop...!"
     ]
   },
   "Centennial Puzzle": {
-    "NAME": "Centennial Puzzle",
-    "FLAVOR": "Upon solving the puzzle, you feel a powerful warmth in your chest.",
+    "NAME": "Centenáriumi kirakós",
+    "FLAVOR": "A kirakóst megoldva erős melegséget érzel a mellkasodban.",
     "DESCRIPTIONS": [
-      "The first time you lose HP each combat, draw #b",
-      " cards."
+      "Az első alkalommal amikor sérülést szenvedsz egy harcban, húzz #b",
+      " kártyát."
     ]
   },
   "Chameleon Ring": {
-    "NAME": "Chameleon Ring",
-    "FLAVOR": "Deprecated",
+    "NAME": "Kaméleon gyűrű",
+    "FLAVOR": "Elavult",
     "DESCRIPTIONS": [
-      "You can now #yBrew at Rest Sites."
+      "Mostantól bírsz bájitalokat #yFőzni a pihenőhelyeken."
     ]
   },
   "Champion Belt": {
-    "NAME": "Champion Belt",
-    "FLAVOR": "Only the greatest may wear this belt.",
+    "NAME": "Bajnoki öv",
+    "FLAVOR": "Csak a leghatalmasabb viselheti az övet.",
     "DESCRIPTIONS": [
-      "Whenever you apply #yVulnerable, apply #b",
-      " #yWeak."
+      "Amikor #ySebezhetőséget okozol, #b",
+      " #yGyengeséget is."
     ]
   },
   "Charon's Ashes": {
-    "NAME": "Charon's Ashes",
-    "FLAVOR": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.",
+    "NAME": "Charon hamvai",
+    "FLAVOR": "Charonról úgy tartják, ő az újjászületés istene. Örök körforgásban feléled majd porrá ég.",
     "DESCRIPTIONS": [
-      "Whenever you #yExhaust a card, deal #b",
-      " damage to ALL enemies."
+      "Amikor #ykimerítesz egy kártyát #b",
+      " sebzést okozol MINDEN ellenfélnek."
     ]
   },
   "Chemical X": {
-    "NAME": "Chemical X",
-    "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
+    "NAME": "X vegyszer",
+    "FLAVOR": "VIGYÁZAT: Ne kombináld cukorral, sóval és minden jóval.",
     "DESCRIPTIONS": [
-      "The effects of your cost #bX cards are increased by #b",
+      "Az #bX költségű kártyák hatásait ennyivel növeli: #b",
       ""
     ]
   },
   "Circlet": {
-    "NAME": "Circlet",
-    "FLAVOR": "You ran out of relics to find. Impressive!",
+    "NAME": "Karika",
+    "FLAVOR": "Kifutottál az összegyűjthető relikviákból... Lenyűgöző!",
     "DESCRIPTIONS": [
-      "Collect as many as you can."
+      "Gyűjts össze amennyit csak bírsz."
     ]
   },
   "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "NAME": "Repedt mag",
+    "FLAVOR": "Titokzatos erő, ami a Tornyon belül az automatákat élteti. Repedtnek tűnik.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "Minden harc elején #ySugároz #b1 #yVillámot."
     ]
   },
   "FrozenCore": {
-    "NAME": "Frozen Core",
-    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "NAME": "Fagyott mag",
+    "FLAVOR": "A magod repedését lüktető, hideg energia tölti ki.",
     "DESCRIPTIONS": [
-      "Replaces #bCracked #bCore. If you end your turn with any empty Orb slots, #yChannel #b1 #yFrost."
+      "Lecseréli a #bRepedt #bmagot. Ha a köröd végén van üres Gömb foglalatod, sugároz #b1 #yJeget."
     ]
   },
   "Cursed Key": {
-    "NAME": "Cursed Key",
-    "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
+    "NAME": "Elátkozott kulcs",
+    "FLAVOR": "A rosszindulatú energiát érezni a kulcsból. A hatalomnak ára van.",
     "DESCRIPTIONS": [
-      " at the start of your turn. Whenever you open a non-Boss chest, obtain a #rCurse.",
-      "Gain [E]"
+      " minden köröd elején. Amikor nem-vezér ládát nyitsz, kapsz egy #rÁtkot.",
+      "Kapsz [E]"
     ]
   },
   "Darkstone Periapt": {
-    "NAME": "Darkstone Periapt",
-    "FLAVOR": "The stone draws power from dark energy, converting it into vitality for the wearer.",
+    "NAME": "Sötétkövű amulett",
+    "FLAVOR": "A kő az átkokból nyeri a sötét energiáját. Ezt az energiát a viselő életerejének növelésére használja.",
     "DESCRIPTIONS": [
-      "Whenever you obtain a #rCurse, increase your Max HP by #b"
+      "Amikor #rÁtkot kapsz, megnöveli a maximális életerődet ennyivel: #b"
     ]
   },
   "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "NAME": "Adatlemez",
+    "FLAVOR": "Ez a lemez értékes adatokat tartalmaz a madarakról és a kígyókról.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yFocus."
+      "Minden harc elején kapsz #b",
+      " #yFókuszt."
     ]
   },
   "Dead Branch": {
-    "NAME": "Dead Branch",
-    "FLAVOR": "The branch of a tree from a forgotten era.",
+    "NAME": "Halott ág",
+    "FLAVOR": "Egy fa ága még az elfeledett korokból.",
     "DESCRIPTIONS": [
-      "Whenever you #yExhaust a card, add a random card into your hand."
+      "Amikor #yKimerítesz egy kártyát, kapsz egy véletlenszerű kártyát a kezedbe."
     ]
   },
   "Derp Rock": {
     "NAME": "Derp Rock",
-    "FLAVOR": "Placeholder",
+    "FLAVOR": "Helyfoglaló",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " Charge. NL (Cannot be removed or transformed.)"
+      "A köröd elején kapsz #b",
+      " Töltést. NL (Nem .)"
     ]
   },
   "Discerning Monocle": {
-    "NAME": "Discerning Monocle",
-    "FLAVOR": "A very dapper looking monocle indeed.",
+    "NAME": "Kifinomult monokli",
+    "FLAVOR": "Valóban takaros kis monoklinak néz ki.",
     "DESCRIPTIONS": [
-      "Merchant prices are reduced by #b20%"
+      "Az árak #b20% -al csökkennek az kereskedőnél."
     ]
   },
   "Dodecahedron": {
-    "NAME": "Runic Dodecahedron",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Dodekaéder rúna",
+    "FLAVOR": "A rúnák megfejthetetlenek.",
     "DESCRIPTIONS": [
-      "If your HP is full, gain ",
-      "[E] at the start of your turn."
+      "Ha nem hiányzik az életerődből, kapsz",
+      " [E] a köröd elején."
     ]
   },
   "Dream Catcher": {
-    "NAME": "Dream Catcher",
-    "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
+    "NAME": "Álomfogó",
+    "FLAVOR": "Az északi törzsek gyakran használják az álomfogókat. Úgy vélik képesek vele önmaguk fejlesztésére.",
     "DESCRIPTIONS": [
-      "Whenever you #yRest, you may add a card into your deck."
+      "Amikor #yAlszol, hozzáadhatsz egy kártyát a paklidhoz."
     ]
   },
   "Du-Vu Doll": {
-    "NAME": "Du-Vu Doll",
-    "FLAVOR": "A doll devised to gain strength from malicious energy.",
+    "NAME": "Du-Vu baba",
+    "FLAVOR": "A baba arra szolgál, hogy rosszindulatú energiából adjon erőt.",
     "DESCRIPTIONS": [
-      "For each #rCurse in your deck, start each combat with #b",
-      " #yStrength.",
-      " You have no #rCurses.",
-      " You have #b",
-      " #rCurses."
+      "Minden #rÁtok után a paklidban, kapsz #b",
+      " #yErőt a harc elején.",
+      " Nincsenek #rÁtkaid.",
+      " #b",
+      " #rÁtkod van."
     ]
   },
   "Ectoplasm": {
-    "NAME": "Ectoplasm",
-    "FLAVOR": "This blob of slime and energy seems to pulse with life.",
+    "NAME": "Ektoplazma",
+    "FLAVOR": "Úgy tűnik, hogy ebben a nyál- és energiafoltban még mindig lüktet az élet.",
     "DESCRIPTIONS": [
-      " You can no longer gain #yGold.",
-      "Gain [E] at the start of your turn."
+      " Nem bírsz több #yAranyat felszedni.",
+      "A köröd elején kapsz [E] ."
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
+    "NAME": "Érzelem csip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn."
+      "Ha veszítettél életerőt az előző körben, elsüti az összes Gömböd passzív képességét a köröd elején."
     ]
   },
   "Enchiridion": {
-    "NAME": "Enchiridion",
-    "FLAVOR": "The legendary journal of an ancient lich.",
+    "NAME": "Kézikönyv",
+    "FLAVOR": "Egy ősi lich legendás naplója.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a random #yPower card into your hand. It costs #b0 for that turn."
+      "Minden harc elején kapsz egy #yHatalom kártyát a kezedbe. A kártya költsége #b0 lesz a körre."
     ]
   },
   "Eternal Feather": {
-    "NAME": "Eternal Feather",
-    "FLAVOR": "This feather appears to be completely indestructible. What bird does this possibly come from?",
+    "NAME": "Örökkétartó madártoll",
+    "FLAVOR": "Ez a toll elpusztíthatatlannak néz ki. Miféle lénytől származhat?",
     "DESCRIPTIONS": [
-      "For every #b",
-      " cards in your deck, heal #b",
-      " HP whenever you enter a Rest Site."
+      "Minden #b",
+      ". kártya után a paklidban, visszatölt #b",
+      " életerőt amikor pihenőhelyhez érsz."
     ]
   },
   "Frozen Egg 2": {
-    "NAME": "Frozen Egg",
-    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "NAME": "Fagyott tojás",
+    "FLAVOR": "A tojás fagyott és tétlen. Sosem fog kikelni.",
     "DESCRIPTIONS": [
-      "Whenever you add a #yPower card into your deck, #yUpgrade it."
+      "Amikor #yHatalom kártyát adsz a paklidhoz, #yFelfejleszti."
     ]
   },
   "Frozen Eye": {
-    "NAME": "Frozen Eye",
-    "FLAVOR": "Staring into the eye, you see a glimpse of your future.",
+    "NAME": "Fagyott szem",
+    "FLAVOR": "A szembe nézve a jövőd egy darabkáját látod.",
     "DESCRIPTIONS": [
-      "When viewing your #yDraw #yPile, the cards are now shown in order."
+      "Amikor megnézed a húzópaklidat, a kártyák sorban jelennek meg."
     ]
   },
   "Gambling Chip": {
-    "NAME": "Gambling Chip",
-    "FLAVOR": "You can see a small inscription on one side. It reads: \"Bear's Lucky Chip!\"",
+    "NAME": "Zseton",
+    "FLAVOR": "Látsz egy kis feliratot az egyik oldalán. Így szól: \"Medve szerencse zsetonja!\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, discard any number of cards, then draw that many cards."
+      "Minden harc elején eldobhatsz bármennyi kártyát a kezedből. NL Húzz annyi kártyát, amennyit eldobtál."
     ]
   },
   "Ginger": {
-    "NAME": "Ginger",
-    "FLAVOR": "A potent tool in many tonics.",
+    "NAME": "Gyömbér",
+    "FLAVOR": "Ez az erős hozzávaló sok üdítőben megtalálható.",
     "DESCRIPTIONS": [
-      "You can no longer become #yWeakened."
+      "Nem leszel többé #yGyenge."
     ]
   },
   "Girya": {
-    "NAME": "Girya",
-    "FLAVOR": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.",
+    "NAME": "Girja",
+    "FLAVOR": "Ez a girja végtelenül nehéz. Edzhetsz vele hogy jelentős erőre tegyél szert.",
     "DESCRIPTIONS": [
-      "You can now gain #yStrength at Rest Sites (up to 3 times)."
+      "Növelheted az #yErődet mostantól a pihenőhelyeken. (3 alkalommal)."
     ]
   },
   "Golden Idol": {
-    "NAME": "Golden Idol",
-    "FLAVOR": "Made of solid gold, you feel richer just holding it.",
+    "NAME": "Arany bálvány",
+    "FLAVOR": "Tömör aranyból készült. Már attól is gazdagabbnak érzed magad hogy magadnál tartod.",
     "DESCRIPTIONS": [
-      "Enemies drop #b25% more #yGold."
+      "Az ellenfelek #b25% -al több #yaranyat adnak."
     ]
   },
   "Gremlin Horn": {
-    "NAME": "Gremlin Horn",
-    "FLAVOR": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
+    "NAME": "Szörny agancs",
+    "FLAVOR": "\"A szörnyek agancsai egészen a halálukig nő. Figyelemre méltó.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever an enemy dies, gain ",
-      "[E] and draw #b1 card."
+      "Amikor egy ellenfél meghal, kapsz ",
+      "[E] és húzol #b1 kártyát."
     ]
   },
   "Happy Flower": {
-    "NAME": "Happy Flower",
-    "FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
+    "NAME": "Mosolygós virág",
+    "FLAVOR": "Ez a szüntelenül örömteli virág népszerű újdonság a nemesek között.",
     "DESCRIPTIONS": [
-      "Every #b",
-      " turns, gain [E] ."
+      "Minden #b",
+      ". körben, kapsz [E] ."
     ]
   },
   "Ice Cream": {
-    "NAME": "Ice Cream",
-    "FLAVOR": "\"Delicious!\"",
+    "NAME": "Fagyi",
+    "FLAVOR": "\"Fincsi!\"",
     "DESCRIPTIONS": [
-      "Energy is now conserved between turns."
+      "Az energiád megmarad a körök között."
     ]
   },
   "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Push. Pull. Stack. Repeat.",
+    "NAME": "Bevezető",
+    "FLAVOR": "Tol. Húz. Rak. Ismétel.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
+      "Minden #b2. körben, kapsz #b1 Gömb foglalatot."
     ]
   },
   "Juzu Bracelet": {
-    "NAME": "Juzu Bracelet",
-    "FLAVOR": "A ward against the unknown.",
+    "NAME": "Juzu karkötő",
+    "FLAVOR": "Megvéd az ismeretlentől.",
     "DESCRIPTIONS": [
-      "Normal enemy combats are no longer encountered in #y? rooms."
+      "Többé nem fordulnak elő normál harcok a #y? szobákban."
     ]
   },
   "Kunai": {
     "NAME": "Kunai",
-    "FLAVOR": "A blade favored by assassins for its lethality at range.",
+    "FLAVOR": "Távolról is halálos, ezért közkedvelt a bérgyilkosok között.",
     "DESCRIPTIONS": [
-      "Every time you play #b",
-      " #yAttacks in a single turn, gain #b",
-      " #yDexterity."
+      "Minden alkalommal amikor #b",
+      " #yTámadást kijátszol egy körben, kapsz #b",
+      " #yÜgyességet."
     ]
   },
   "Lantern": {
-    "NAME": "Lantern",
-    "FLAVOR": "An eerie lantern which illuminates only for the wielder.",
+    "NAME": "Lámpás",
+    "FLAVOR": "Egy kísérteties lámpa, amely csak a viselőnek világít.",
     "DESCRIPTIONS": [
-      "Start each combat with an additional ",
+      "Minden harc elején kapsz ",
       "[E] ",
       ""
     ]
   },
   "Lee's Waffle": {
-    "NAME": "Lee's Waffle",
-    "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+    "NAME": "Lee gofrija",
+    "FLAVOR": "\"A legfinomabb dolog amit a Toronyban találhatsz! Ma lett sütve, csak neked.\"",
     "DESCRIPTIONS": [
-      "Upon pickup, raise your Max HP by #b",
-      " and heal all of your HP."
+      "Felvételnél megnöveli a teljes életerődet #b",
+      " -el és visszatölti az életedet."
     ]
   },
   "Letter Opener": {
-    "NAME": "Letter Opener",
-    "FLAVOR": "Unnaturally sharp.",
+    "NAME": "Levélbontó",
+    "FLAVOR": "Természetellenesen éles.",
     "DESCRIPTIONS": [
-      "Every time you play #b3 #ySkills in a single turn, deal #b",
-      " damage to ALL enemies."
+      "Minden alkalommal amikor kijátszol #b3 #yKépességet egy körben, #b",
+      " sebzést okoz MINDEN ellenfélnek."
     ]
   },
   "Living Blade": {
-    "NAME": "Living Blade",
-    "FLAVOR": "DEPRECATED",
+    "NAME": "Élő penge",
+    "FLAVOR": "Elavult",
     "DESCRIPTIONS": [
-      "You can get any number of any card."
+      "Bármennyi kártyád lehet."
     ]
   },
   "Lizard Tail": {
-    "NAME": "Lizard Tail",
-    "FLAVOR": "A fake tail to trick enemies during combat.",
+    "NAME": "Gyík farok",
+    "FLAVOR": "Egy hamis farokkal becsaphatod az ellenfeleidet a harc során.",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b50% of your Max HP instead (works once)."
+      "Amikor meghalnál, az teljes életerőd #b50% -át visszanyered. (Csak egyszer működik)."
     ]
   },
   "Magic Flower": {
-    "NAME": "Magic Flower",
-    "FLAVOR": "A flower long thought extinct, somehow preserved in perfect condition.",
+    "NAME": "Misztikus virág",
+    "FLAVOR": "Egy rég kihaltnak hitt növény, valahogy teljesen tökéletes állapotban.",
     "DESCRIPTIONS": [
-      "Healing is #b50% more effective during combat."
+      "Az életerőt töltő hatások #b50% -al többet töltenek vissza a harcok alatt."
     ]
   },
   "Mango": {
-    "NAME": "Mango",
-    "FLAVOR": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
+    "NAME": "Mangó",
+    "FLAVOR": "A leginkább áhított elfeledett gyümölcs. Kifogástalan állapotban van, semmi jelét nem látni a Toronyvésznek.",
     "DESCRIPTIONS": [
-      "Upon pickup, raise your Max HP by #b"
+      "Felvételnél megnöveli a maximális életerődet ennyivel: #b"
     ]
   },
   "Mark of Pain": {
-    "NAME": "Mark of Pain",
-    "FLAVOR": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.",
+    "NAME": "Fájdalomjel",
+    "FLAVOR": "Ez az északi törzsek által használt bélyeg azokat a harcosokat jelölte, akik elsajátították a fájdalmat.",
     "DESCRIPTIONS": [
-      "Gain [R] at the start of your turn. At the start of combat, shuffle #b2 #rWounds into your draw pile."
+      "Kapsz [R] a köröd elején. A harc elején #b2 #rSebet kever a húzópaklidba."
     ]
   },
   "Matryoshka": {
-    "NAME": "Matryoshka",
-    "FLAVOR": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
+    "NAME": "Matrjoska",
+    "FLAVOR": "Egymásba rakható festett babák. A festés egy ismeretlen madarat ábrázol, fehér szemekkel és kék tollakkal.",
     "DESCRIPTIONS": [
-      "The next #b2 non-Boss chests you open contain #b2 #yRelics.",
-      "The next non-Boss chest you open contains #b2 #yRelics.",
-      "This relic has been used up."
+      "A következő #b2 nem-vezér ládában #b2 #yRelikviát találsz.",
+      "A következő nem-vezér ládában #b2 #yRelikviát találsz.",
+      "A relikvia elhasználódott."
     ]
   },
   "Meat on the Bone": {
-    "NAME": "Meat on the Bone",
-    "FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
+    "NAME": "Hús a csonton",
+    "FLAVOR": "A hús folyamatosan újraterem a csonton, sosem fogy el.",
     "DESCRIPTIONS": [
-      "If your HP is at or below #b50% at the end of combat, heal #b",
-      " HP."
+      "Ha az életerőd #b50% alatt van a harc végén, visszatölt #b",
+      " életerőt."
     ]
   },
   "Medical Kit": {
-    "NAME": "Medical Kit",
-    "FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
+    "NAME": "Elsősegély csomag",
+    "FLAVOR": "\"Van benne minden ami kellhet! Viszketésgátló, égésgátló krém, ellenméreg és még több is!\"",
     "DESCRIPTIONS": [
-      "#yUnplayable #yStatus cards can now be played. Whenever you play a #yStatus card, #yExhaust it."
+      "A #yKijátszhatatlan #yStátusz kártyákat kijátszhatod. Amikor #yStátusz kártyát játszol ki, #yKimeríted azt."
     ]
   },
   "Membership Card": {
-    "NAME": "Membership Card",
-    "FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
+    "NAME": "Tagsági kártya",
+    "FLAVOR": "\"A legjobb ajánlatok járnak a legértékesebb vásárlóknak!\"",
     "DESCRIPTIONS": [
-      "#b50% discount on all products!"
+      "Minden termék leárazva #b50% -al!"
     ]
   },
   "Mercury Hourglass": {
-    "NAME": "Mercury Hourglass",
-    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "NAME": "Higanyos homokóra",
+    "FLAVOR": "A fejlesztett homokóra végtelenül csöpög.",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal #b",
-      " damage to ALL enemies."
+      "A köröd elején #b",
+      " sebzést okoz MINDEN ellenfélnek."
     ]
   },
   "Molten Egg 2": {
-    "NAME": "Molten Egg",
-    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "NAME": "Olvadt tojás",
+    "FLAVOR": "Egy főnix tojása. Tűzvörösen világít a rajta lévő láva.",
     "DESCRIPTIONS": [
-      "Whenever you add an #yAttack into your deck, #yUpgrade it."
+      "Amikor #yTámadás kártyát adsz a paklidhoz, #yFelfejleszti."
     ]
   },
   "Mummified Hand": {
-    "NAME": "Mummified Hand",
-    "FLAVOR": "Frequently twitches, especially when your pulse is high.",
+    "NAME": "Mumifikált kéz",
+    "FLAVOR": "Gyakran rángatózik... főleg olyankor amikor felmegy a pulzusod.",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower card, a random card in your hand costs #b0 that turn."
+      "Amikor #yHatalom kártyát játszol ki, egy kezedben kártya a költsége #b0 lesz a köröd végéig."
     ]
   },
   "Necronomicon": {
-    "NAME": "Necronomicon",
-    "FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
+    "NAME": "Nekronomikon",
+    "FLAVOR": "Csak az ostobák próbálnák meg használni a gonosz erejét. Esténként az álmaidban a könyv felfalja az elméd.",
     "DESCRIPTIONS": [
-      "The first #yAttack played each turn that costs #b",
-      " or more is played twice. Upon pickup, obtain a special #rCurse.",
-      " or more is played twice."
+      "Minden körben, az első #b",
+      " vagy nagyobb költésgű #yTámadásod kétszer teljesül. Felvételnél kapsz egy speciális #rÁtkot.",
+      " vagy nagyobb költségű, kétszer teljesül."
     ]
   },
   "NeowsBlessing": {
-    "NAME": "Neow's Lament",
-    "FLAVOR": "The blessing of lamentation bestowed by Neow.",
+    "NAME": "Neow gyászéneke",
+    "FLAVOR": "A gyászének áldása amit Neow adományozott neked.",
     "DESCRIPTIONS": [
-      "Enemies in your first #b3 combats will have #b1 HP.",
-      "This relic has been used up."
+      "Az első #b3 harcodban, az ellenfeleknek #b1 életereje lesz.",
+      "A relikvia elhasználódott."
     ]
   },
   "Nilry's Codex": {
-    "NAME": "Nilry's Codex",
-    "FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
+    "NAME": "Nilry kódexe",
+    "FLAVOR": "Maga a játékmester készítette. Úgy tartják azért, hogy bővítse mások látőkörét.",
     "DESCRIPTIONS": [
-      "At the end of your turn, you may shuffle #b1 of #b3 random cards into your draw pile."
+      "A köröd végén bekeverhetsz a húzópaklidba #b1 kártyát #b3 véletlenszerű kártya közül."
     ]
   },
   "Ninja Scroll": {
-    "NAME": "Ninja Scroll",
-    "FLAVOR": "Contains the secrets of assassination.",
+    "NAME": "Ninja tekercs",
+    "FLAVOR": "A gyilkosság titkait tartalmazza.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add #b",
-      " #yShivs into your hand."
+      "Minden harc elején kapsz #b",
+      " #yPengét a kezedbe."
     ]
   },
   "Nloth's Gift": {
-    "NAME": "N'loth's Gift",
-    "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
+    "NAME": "N'loth ajándéka",
+    "FLAVOR": "Egy fura ajándék N'loth részéről. Bármikor kibontod, egy ugyanakkora új ajándékot találsz benne.",
     "DESCRIPTIONS": [
-      "Triple the chance of finding #yRare cards from combat rewards."
+      "Megtriplázza a #yKivételes kártyák megjelenésének esélyét."
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
+    "NAME": "Nukleáris akkumulátor",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "A harc elején, #ySugároz #b1 #yPlazmát."
     ]
   },
   "Nullstone Periapt": {
-    "NAME": "Nullstone Periapt",
-    "FLAVOR": "DEPRECATED.",
+    "NAME": "Semmis kőamulett",
+    "FLAVOR": "Elavult",
     "DESCRIPTIONS": [
-      "Negate the next debuff you receive from an enemy. NL Recharges in #b10 turns."
+      "A következő negatív hatást semmissé teszi. NL #b10 kör míg újratöltődik."
     ]
   },
   "Odd Mushroom": {
-    "NAME": "Odd Mushroom",
-    "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
+    "NAME": "Fura gomba",
+    "FLAVOR": "\" A gomba elfogyasztása után nagyobbnak érzem magam... és kevésbé érzékenynek.\" - Ranwid",
     "DESCRIPTIONS": [
-      "When #yVulnerable, take #b25% more attack damage rather than #b50%."
+      "Amikor #ySebezhetővé válsz, #b25% -al több sebzést szenvedsz el az #b50% helyett."
     ]
   },
   "Oddly Smooth Stone": {
-    "NAME": "Oddly Smooth Stone",
-    "FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
+    "NAME": "Feltűnően sima kő",
+    "FLAVOR": "Soha nem láttál semmit ami ennyire sima lenne. Az Ősök műve kell hogy legyen.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yDexterity."
+      "Minden harc elején kapsz #b",
+      " #yÜgyességet."
     ]
   },
   "Old Coin": {
-    "NAME": "Old Coin",
-    "FLAVOR": "Unique coins are highly valued by merchants for their historical value and rare metallic composition.",
+    "NAME": "Régi érme",
+    "FLAVOR": "Az egyedi érmék sokat érnek a kereskedőknek mind a történelmi értékük, mind pedig az összetételük miatt.",
     "DESCRIPTIONS": [
-      "Upon pickup, gain #b300 #yGold."
+      "Felvételnél kapsz #b300 #yAranyat."
     ]
   },
   "Omamori": {
-    "NAME": "Omamori",
-    "FLAVOR": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
+    "NAME": "Talizmán",
+    "FLAVOR": "Gyakori bűbáj a hitvány szellemek elüldözésére. Úgy tűnik, ez az isteni szikra erejével bír.",
     "DESCRIPTIONS": [
-      "Negate the next #b2 #rCurses you obtain.",
-      "Negate the next #rCurse you obtain.",
-     "This relic has been used up."
+      "Semlegesíti a következő #b2 #rÁtok kártyát amit szerzel.",
+      "Semlegesíti a következő #rÁtok kártyát amit szerzel.",
+      "A relikvia elhasználódott."
     ]
   },
   "Orichalcum": {
-    "NAME": "Orichalcum",
-    "FLAVOR": "A green tinted metal of an unknown origin. Seemingly indestructible.",
+    "NAME": "Orikalkum",
+    "FLAVOR": "Egy ismeretlen eredetű zöld fém. Elpusztíthatatlannak tűnik.",
     "DESCRIPTIONS": [
-      "If you end your turn without #yBlock, gain #b",
-      " #yBlock."
+      "Ha a köröd végén nincsen #yVédelmed, kapsz #b",
+      " #yVédelmet."
     ]
   },
   "Ornamental Fan": {
-    "NAME": "Ornamental Fan",
-    "FLAVOR": "The fan seems to extend and harden as blood is spilled.",
+    "NAME": "Díszes legyező",
+    "FLAVOR": "Úgy tűnik a legyező megnő és megkeményedik a vérontás hatására.",
     "DESCRIPTIONS": [
-      "Every time you play #b3 #yAttacks in a single turn, gain #b",
-      " #yBlock."
+      "Minden alkalommal amikor #b3 #yTámadást játszol ki egy körben, kapsz",
+      " #yVédelmet."
     ]
   },
   "Orrery": {
-    "NAME": "Orrery",
-    "FLAVOR": "\"Once you understand the universe...\" - Zoroth",
+    "NAME": "Planetárium",
+    "FLAVOR": "\"Ha egyszer megérted az univerzum működését...\" - Zoroth",
     "DESCRIPTIONS": [
-      "Upon pickup, choose and add #b5 cards to your deck.",
-      "Knowledge!"
+      "Felvételnél választhatsz #b5 kártyát amit a paklidhoz adhatsz.",
+      "Tudás!"
     ]
   },
   "Pandora's Box": {
-    "NAME": "Pandora's Box",
-    "FLAVOR": "You have a bad feeling about opening this.",
+    "NAME": "Pandora szelencéje",
+    "FLAVOR": "Rossz érzés tör rád ahogy kinyitod.",
     "DESCRIPTIONS": [
-      "Upon pickup, #bTransform all Strike and Defend cards.",
-      "Pandora's Box has been opened..."
+      "Felvételnél #bÁtalakítja az összes Csapás és Védekezés kártyád.",
+      "Pandora szelencéje ki lett nyitva..."
     ]
   },
   "Pantograph": {
-    "NAME": "Pantograph",
-    "FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
+    "NAME": "Pantográf",
+    "FLAVOR": "\"A szilárd alap nem a véletlen műve. A megfelelő szerszámok nélkülezhetetlenek a tervezéshez.\" - Az Építész",
     "DESCRIPTIONS": [
-      "At the start of Boss combats, heal #b",
-      " HP."
+      "Minden Vezér harc elején, visszatölt #b",
+      " életerőt."
     ]
   },
   "Paper Crane": {
-    "NAME": "Paper Krane",
-    "FLAVOR": "An origami of a creature from a past age.",
+    "NAME": "Papír hattyú",
+    "FLAVOR": "A múlt egy lényét ábrázoló origami.",
     "DESCRIPTIONS": [
-      "Enemies with #yWeak deal #b40% less damage rather than #b25%."
+      "A #yGyengített ellenfelek #b40% -al kevesebbett sebeznek a #b25% helyett."
     ]
   },
   "Paper Frog": {
-    "NAME": "Paper Phrog",
-    "FLAVOR": "The paper continually folds and unfolds itself into the shape of a small creature.",
+    "NAME": "Papír béka",
+    "FLAVOR": "A papír folyamatosan összehajtja magát egy állatformára, majd széthajtja magát.",
     "DESCRIPTIONS": [
-      "Enemies with #yVulnerable take #b75% more damage rather than #b50%."
+      "A #ySebezhető ellenfelek #b75% -al több sebzést szenvednek el az #b50% helyett."
     ]
   },
   "Peace Pipe": {
-    "NAME": "Peace Pipe",
-    "FLAVOR": "Clears the mind and cleanses the soul.",
+    "NAME": "Békepipa",
+    "FLAVOR": "Megtisztítja az elmét és a lelket egyaránt.",
     "DESCRIPTIONS": [
-      "You can now remove cards from your deck at Rest Sites."
+      "A pihenőhelyeken mostantól eltávolíthatsz kártyákat a paklidból."
     ]
   },
   "Pear": {
-    "NAME": "Pear",
-    "FLAVOR": "A common fruit before the Spireblight.",
+    "NAME": "Körte",
+    "FLAVOR": "Gyakori gyümölcs volt a Toronyvész előtt.",
     "DESCRIPTIONS": [
-      "Upon pickup, raise your Max HP by #b"
+      "Felvételnél megnöveli a maximális életerődet ennyivel: #b"
     ]
   },
   "Pen Nib": {
-    "NAME": "Pen Nib",
-    "FLAVOR": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.",
+    "NAME": "Tollhegy",
+    "FLAVOR": "A tollat tartva, látod az összes korábbi tulajdonosa által legyőzött ellenfelet. Erőszakos történetek.",
     "DESCRIPTIONS": [
-      "Every #b10th #yAttack you play deals double damage."
+      "Minden #b10. #yTámadás dupla sebzést okoz."
     ]
   },
   "Philosopher's Stone": {
-    "NAME": "Philosopher's Stone",
-    "FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
+    "NAME": "Bölcsek köve",
+    "FLAVOR": "A nyers energia amit a kő sugároz mindenkit felerősít.",
     "DESCRIPTIONS": [
-      "Gain [E] at the start of your turn. ALL enemies start combat with #b",
-	  " #yStrength."
+      "A köröd elején kapsz [E] . Az ÖSSZES ellenfél plusz #b",
+      " #yErőt kap a harc elején."
     ]
   },
   "Potion Belt": {
-    "NAME": "Potion Belt",
-    "FLAVOR": "I can hold more Potions using this belt!",
+    "NAME": "Italtartó öv",
+    "FLAVOR": "Ezt az övet viselve több italt bírok magammal vinni!",
     "DESCRIPTIONS": [
-      "Upon pickup, gain #b2 Potion slots."
+      "Felvételnél kapsz #b2 ital foglalatot."
     ]
   },
   "Prayer Wheel": {
-    "NAME": "Prayer Wheel",
-    "FLAVOR": "The wheel continues to spin, never stopping.",
+    "NAME": "Imakerék",
+    "FLAVOR": "A kerék folyamatosan forog, sosem áll meg.",
     "DESCRIPTIONS": [
-      "Normal enemies drop an additional card reward."
+      "A normál ellenfelek egy plusz kártyát adnak."
     ]
   },
   "Question Card": {
-    "NAME": "Question Card",
-    "FLAVOR": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great",
+    "NAME": "Kérdés kártya",
+    "FLAVOR": "\"Azok, akik több választással rendelkeznek, lassabban haladnak a káosz felé.\" - Kublai a Hatalmas",
     "DESCRIPTIONS": [
-      "Future card rewards have #b1 additional card to choose from."
+      "A következő kártya jutalmaknál #b1 -el több kártya közül választhatsz."
     ]
   },
   "Red Circlet": {
-    "NAME": "Red Circlet",
-    "FLAVOR": "You ran out of relics. Impressive!",
+    "NAME": "Vörös karika",
+    "FLAVOR": "Kifutottál az összegyűjthető relikviákból... Lenyűgöző!",
     "DESCRIPTIONS": [
-      "Looks very pretty."
+      "Csinosnak néz ki."
     ]
   },
   "Red Mask": {
-    "NAME": "Red Mask",
-    "FLAVOR": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
+    "NAME": "Piros maszk",
+    "FLAVOR": "Ez a stílusos maszk a Piros Maszkos Banditák vezetőjéé volt. Most akkor te lettél a vezető?",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b",
-      " #yWeak to ALL enemies."
+      "Minden harc elején",
+      " #yGyengítést okoz MINDEN ellenfélnek."
     ]
   },
   "Red Skull": {
-    "NAME": "Red Skull",
-    "FLAVOR": "A small skull covered in ornamental paint.",
+    "NAME": "Vörös koponya",
+    "FLAVOR": "Egy kisebb koponya festékkel borítva.",
     "DESCRIPTIONS": [
-      "While your HP is at or below #b50%, you have #b",
-      " additional #yStrength."
+      "Amíg az életerőd #b50% alatt van, plusz #b",
+      " #yErőt kapsz."
     ]
   },
   "Regal Pillow": {
-    "NAME": "Regal Pillow",
-    "FLAVOR": "Now you can get a proper night's rest.",
+    "NAME": "Királyi párna",
+    "FLAVOR": "Mostantól megfelelő pihenésben lesz részed esténként.",
     "DESCRIPTIONS": [
-      "Whenever you #yRest, heal an additional #b",
-      " HP."
+      "Amikor #yAlszol, plusz #b",
+      " életerőt visszatölt."
     ]
   },
   "Ring of the Serpent": {
-    "NAME": "Ring of the Serpent",
-	"FLAVOR": "Your ring has morphed and changed forms.",
+    "NAME": "A vipera gyűrűje",
+    "FLAVOR": "A gyűrűd átalakult és formát váltott.",
     "DESCRIPTIONS": [
-      "Replaces #gRing #gof #gthe #gSnake. ",
-      "At the start of your turn, draw #b1 additional card."
+      "Lecseréli a #gKígyó #ggyűrűjét. ",
+      "A minden köröd elején plusz #b1 kártyát húzol."
     ]
   },
   "Ring of the Snake": {
-    "NAME": "Ring of the Snake",
-    "FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
+    "NAME": "A kígyó gyűrűje",
+    "FLAVOR": "Egy kígyó fosszíliából készült. Vadászként hatalmas erőt képvisel.",
     "DESCRIPTIONS": [
-      "At the start of each combat, draw #b",
-      " additional cards."
+      "Minden harc elején húzz plusz #b",
+      " kártyát."
     ]
   },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+    "NAME": "Rúnákkal rótt alkatrész",
+    "FLAVOR": "Minél több, anál jobb.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "Kezdj minden harcot #b3 plusz Gömb foglalattal."
     ]
   },
   "Runic Cube": {
-    "NAME": "Runic Cube",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Rúnákkal rótt kocka",
+    "FLAVOR": "A rúnák megfejthetetlenek.",
     "DESCRIPTIONS": [
-      "Whenever you lose HP, draw #b",
-      " card.",
+      "Minden sebződést után húzz #b",
+      " kártyát.",
       ""
     ]
   },
   "Runic Dome": {
-    "NAME": "Runic Dome",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Rúnákkal rótt kupola",
+    "FLAVOR": "A rúnák megfejthetetlenek.",
     "DESCRIPTIONS": [
-      " at the start of your turn. You can no longer see enemy intents.",
-      "Gain [E]"
+      "  köröd elején. Nem látod az ellenfelek szándékait mostantól.",
+      "Kapsz [E]"
     ]
   },
   "Runic Pyramid": {
-    "NAME": "Runic Pyramid",
-    "FLAVOR": "The runes are indecipherable.",
+    "NAME": "Rúnákkal rótt piramis",
+    "FLAVOR": "A rúnák megfejthetetlenek.",
     "DESCRIPTIONS": [
-      "At the end of your turn, you no longer discard your hand.",
+      "A köröd végén nem dobod el többé a kártyáidat.",
       ""
     ]
   },
   "Self Forming Clay": {
-    "NAME": "Self-Forming Clay",
-    "FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
+    "NAME": "Önformáló agyag",
+    "FLAVOR": "\"Mily érdekes! Úgy tűnik a gondolataim formálják! Telekinetikus agyag?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever you lose HP, gain #b",
-      " #yBlock next turn."
+      "Valahányszor sebződsz, kapsz #b",
+      " #yVédelmet a következő körödre."
     ]
   },
   "Shovel": {
-    "NAME": "Shovel",
-    "FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
+    "NAME": "Ásó",
+    "FLAVOR": "A Torony a múltbeli civilizációkból és a hatalmas kalandoroktól számtalan emléket tartalmaz. Ideje őket kiásni!",
     "DESCRIPTIONS": [
-      "You can now #yDig for relics at Rest Sites."
+      "A pihenőhelyeken #yÁshatsz relikviákat."
     ]
   },
   "Shuriken": {
-    "NAME": "Shuriken",
-    "FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
+    "NAME": "Suriken",
+    "FLAVOR": "Pehelykönnyű dobófegyver. Ajánlott a szemre célozni.",
     "DESCRIPTIONS": [
-      "Every time you play #b",
-      " #yAttacks in a single turn, gain #b",
-      " #yStrength."
+      "Minden alkalommal amikor #b",
+      " #yTámadást kijátszol egy körben, kapsz #b",
+      " #yErőt."
     ]
   },
   "Singing Bowl": {
-    "NAME": "Singing Bowl",
-    "FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
+    "NAME": "Éneklő tál",
+    "FLAVOR": "Ez a sokathasznált ereklye gyönyörűen cseng amikor ütés éri.",
     "DESCRIPTIONS": [
-      "When adding cards into your deck, you may raise your Max HP by #b2 instead."
+      "Amikor kártyát adnál a paklidhoz, növelheted #b2 -vel a maximális életerődet."
     ]
   },
   "Smiling Mask": {
-    "NAME": "Smiling Mask",
-    "FLAVOR": "Mask worn by the Merchant. He must have spares...",
+    "NAME": "Mosolygós maszk",
+    "FLAVOR": "A kereskedő által hordott maszk. Hátha kevesebb kér...",
     "DESCRIPTIONS": [
-      "The Merchant's card removal service now always costs #b",
-      " #yGold."
+      "Az kereskedő kártya eltávolító szolgáltatása mindig #b",
+      " #yAranyba kerül."
     ]
   },
   "Snake Skull": {
-    "NAME": "Snecko Skull",
-    "FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
+    "NAME": "Snecko koponya",
+    "FLAVOR": "Egy snecko koponya tökéletes állapotban. Feltűnően tiszta és sima, a szennyeződés megmagyarázhatatlanul lepereg róla.",
     "DESCRIPTIONS": [
-      "Whenever you apply #yPoison, apply an additional #b",
-      " #yPoison."
+      "Amikor egy ellenfelet mérgezel, plusz #b",
+      " #yMérget kap."
     ]
   },
   "Snecko Eye": {
-    "NAME": "Snecko Eye",
-    "FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
+    "NAME": "Snecko szem",
+    "FLAVOR": "Egy halott Snecko szeme. Jóval nagyobb mint azt korábban gondoltad.",
     "DESCRIPTIONS": [
-      "At the start of your turn, draw #b2 additional cards. Start each combat #yConfused."
+      "A köröd elején plusz #b2 kártyát húzol. Minden harcot #yZavartan kezdesz."
     ]
   },
   "Sozu": {
     "NAME": "Sozu",
-    "FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
+    "FLAVOR": "Úgy tűnik, hogy a varázslatos folyadékok elveszítik tulajdonságaikat, amikor ez a relikvia a közelben van.",
     "DESCRIPTIONS": [
-      " at the start of your turn. You can no longer obtain potions.",
-      "Gain [E]"
+      " a köröd elején. Nem bírsz több italt felszedni.",
+      "Kapsz [E]"
     ]
   },
   "Spirit Poop": {
-    "NAME": "Spirit Poop",
-    "FLAVOR": "The charred remains of your offering to the spirits.",
+    "NAME": "Szellem kaki",
+    "FLAVOR": "A megemésztett maradéka az általad ajánlott kártyának.",
     "DESCRIPTIONS": [
-      "It's unpleasant."
+      "Ez... kellemetlen."
     ]
   },
   "Strange Spoon": {
-    "NAME": "Strange Spoon",
-    "FLAVOR": "Staring at the spoon, it appears to bend and twist around before your eyes.",
+    "NAME": "Különös kanál",
+    "FLAVOR": "A kanalat nézed és úgy tűnik magától hajlik és csavarodik.",
     "DESCRIPTIONS": [
-      "Cards which #yExhaust when played will instead discard #b50% of the time."
+      "A #yKimerített kártyák kijátszásnál #b50% eséllyel a dobópaklidba kerülnek."
     ]
   },
   "Strawberry": {
-    "NAME": "Strawberry",
-    "FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
+    "NAME": "Eper",
+    "FLAVOR": "\"Ízletes! Nem láttam ilyet a vész óta.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Upon pickup, raise your Max HP by #b"
+      "Felvételnél megnöveli a maximális életerőd ennyivel: #b"
     ]
   },
   "Sundial": {
-    "NAME": "Sundial",
-    "FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
+    "NAME": "Napóra",
+    "FLAVOR": "\"A korai ember ostoba megszállottsága az idővel arra késztette őket, hogy útmutatás céljából az égre nézzenek.\" - Zoroth",
     "DESCRIPTIONS": [
-      "Every #b",
-      " times you shuffle your draw pile, gain [E] [E] ."
+      "Minden #b",
+      ". dobópakli visszakeverésnél kapsz [E] [E] ."
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit of bad can do a lot of good...",
+    "NAME": "Szimbiotikus vírus",
+    "FLAVOR": "Egy picike rossz nagyon sok jóra képes...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "Minden harc elején #ySugároz #b1 #ySötétet."
     ]
   },
   "Test 1": {
@@ -963,398 +963,398 @@
     ]
   },
   "The Courier": {
-    "NAME": "The Courier",
-    "FLAVOR": "The Merchant's personal pet!",
+    "NAME": "A futár",
+    "FLAVOR": "A kereskedő személyes kisállata!",
     "DESCRIPTIONS": [
-      "The Merchant restocks cards, relics, and potions. All prices are reduced by #b20%."
+      "A kereskedő visszatölti a kártyáit, relikviáit és bájitalait. NL Minden ár csökken #b20% -al."
     ]
   },
   "The Specimen": {
-    "NAME": "The Specimen",
-    "FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
+    "NAME": "A kísérleti alany",
+    "FLAVOR": "\"Lenyűgöző! Megdöbbentő tulajdonságú mérgezést látni ezen a mutálódott lényen. Elrakom további megfigyelésre.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever an enemy dies, transfer any #yPoison it has to a random enemy."
+      "Amikor egy ellenfél meghal, a rajta lévő #yMérgezést egy másik lény kapja."
     ]
   },
   "Thread and Needle": {
-    "NAME": "Thread and Needle",
-    "FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
+    "NAME": "Tű és cérna",
+    "FLAVOR": "A mágikus fonalat magad köré tekerve úgy érzed nehezebb hozzádérni.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yPlated #yArmor."
+      "Minden harcot #b",
+      " #yErősített #yPáncéllal kezdesz."
     ]
   },
   "Tingsha": {
-    "NAME": "Tingsha",
-    "FLAVOR": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
+    "NAME": "Cintányér",
+    "FLAVOR": "Úgy tűnik, hogy az hangszer által generált hang egész fájdalmas módon tud visszhangozni.",
     "DESCRIPTIONS": [
-      "Whenever you discard a card during your turn, deal #b",
-      " damage to a random enemy."
+      "Amikor eldobsz egy kártyát a körödben, #b",
+      " sebzést okoz egy véletlenszerű ellenfélnek."
     ]
   },
   "Tiny Chest": {
-    "NAME": "Tiny Chest",
-    "FLAVOR": "\"A fine prototype.\" - The Architect",
+    "NAME": "Kis ládikó",
+    "FLAVOR": "\"Egy remek kis prototípus.\" - Az Építész",
     "DESCRIPTIONS": [
-      "Upon pickup, gain #b",
-      " #yGold. You are #b10% more likely to find treasure in #y? rooms.",
-      "You are #b10% more likely to find treasure in #y? rooms."
+      "Felvételnél kapsz #b",
+      " #yAranyat. #b10% -al nagyobb valószínűséggel találsz ládát a #y? szobákban.",
+      "#b10% -al nagyobb valószínűséggel találsz ládát a #y? szobákban."
     ]
   },
   "Tiny House": {
-    "NAME": "Tiny House",
-    "FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
+    "NAME": "Pici házikó",
+    "FLAVOR": "\"Egy majdnem tökéletes miniatűrizálás. Az eddigi legjobb művem, de így sem tökéletes.\" - Az Építész",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain #b1 potion. NL Gain #b",
-      " #yGold. NL Raise your Max HP by #b",
-      ". NL Obtain #b1 card. NL Upgrade #b1 random card.",
-      "Tiny House!"
+      "Felvételnél, kapsz #b1 italt, #b",
+      " #yAranyat, és megnöveli a maximális életerődet #b",
+      " -el. Kapsz #b1 kártyát és felfejleszt #b1 véletlenszerű kártyát.",
+      "Pici házikó!"
     ]
   },
   "Toolbox": {
-    "NAME": "Toolbox",
-    "FLAVOR": "A tool for every job.",
+    "NAME": "Szerszámosláda",
+    "FLAVOR": "Egy láda a mindennapi dolgokhoz.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a random Colorless card into your hand."
+      "Minden harc elején kapsz egy véletlenszerű Szürke kártyát a kezedbe."
     ]
   },
   "Torii": {
     "NAME": "Torii",
-    "FLAVOR": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
+    "FLAVOR": "A kis kaput tartva nyugodtságot és biztonságot érzel az elmédben.",
     "DESCRIPTIONS": [
-      "Whenever you would receive #b",
-      " or less unblocked attack damage, reduce it to #b1."
+      "Amikor #b",
+      " vagy kevesebb életerőt veszítenél, csökkenti a sebződést #b1 -re."
     ]
   },
   "Tough Bandages": {
-    "NAME": "Tough Bandages",
-    "FLAVOR": "Loss gives strength.",
+    "NAME": "Erős kötés",
+    "FLAVOR": "A veszteség erőt ad.",
     "DESCRIPTIONS": [
-      "Whenever you discard a card during your turn, gain #b",
-      " #yBlock."
+      "Amikor eldobsz egy kártyát a körödben, kapsz #b",
+      " #yVédelmet."
     ]
   },
   "Toxic Egg 2": {
-    "NAME": "Toxic Egg",
-    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "NAME": "Toxikus tojás",
+    "FLAVOR": "\"Mily csodálataos felfedezés! Valami mágikus lény tojásának tűnik. Ki vagy mi csinálhatta ezt?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever you add a #ySkill into your deck, #yUpgrade it."
+      "Amikor #yKépesség kártyát adsz a paklidhoz, #yFelfejleszti."
     ]
   },
   "Toy Ornithopter": {
-    "NAME": "Toy Ornithopter",
-    "FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
+    "NAME": "Játék repülő",
+    "FLAVOR": "\"Ez a kis játék tökéletes társa egy magányos kalandornak!\"",
     "DESCRIPTIONS": [
-      "Whenever you use a potion, heal #b",
-      " HP."
+      "Amikor italt használsz, visszatölt #b",
+      " életerőt."
     ]
   },
   "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
+    "NAME": "Fehér répa",
+    "FLAVOR": "Gyömbérrel a legjobb.",
     "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
+      "Nem leszel többé #yTörékeny."
     ]
   },
   "Unceasing Top": {
-    "NAME": "Unceasing Top",
-    "FLAVOR": "The top continues to spin effortlessly as if you were in a dream.",
+    "NAME": "Pörgettyű",
+    "FLAVOR": "A pörgettyű csak forog minden erőfeszítés nélkül mintha csak egy álomban lennél.",
     "DESCRIPTIONS": [
-      "Whenever you have no cards in hand during your turn, draw a card."
+      "Ha nincs több kártya a kezedben a köröd alatt, húzz egy kártyát."
     ]
   },
   "Vajra": {
-    "NAME": "Vajra",
-    "FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
+    "NAME": "Vadzsra",
+    "FLAVOR": "Egy dísz relikvia azon harcosoknak akik dicsően küzdenek a harcban.",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yStrength."
+      "Minden harc elején kapsz #b",
+      " #yErőt."
     ]
   },
   "Velvet Choker": {
     "NAME": "Velvet Choker",
-    "FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
+    "FLAVOR": "\"Óriási hatalom, de túlságosan limitált.\" - Kublai a Hatalmas",
     "DESCRIPTIONS": [
-      " at the start of your turn. You cannot play more than #b",
-      " cards per turn.",
-      "Gain [E]",
-      "I can only play up to NL #r"
+      " a köröd elején. Nem játszhatsz ki több mint #b",
+      " kártyát a körödben.",
+      "Kapsz [E]",
+      "Csak ennyi kártyát játszhatok ki: NL #r"
     ]
   },
   "War Paint": {
-    "NAME": "War Paint",
-    "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
+    "NAME": "Harcifesték",
+    "FLAVOR": "A múltban a Páncélosok mágikus harcifestéket használva különböztették meg az osztagokat a harcban.",
     "DESCRIPTIONS": [
-      "Upon pickup, #yUpgrade #b",
-      " random #ySkills."
+      "Felvételnél #yFelfejleszt #b",
+      " véletlenszerű #yKépességet."
     ]
   },
   "Whetstone": {
-    "NAME": "Whetstone",
-    "FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
+    "NAME": "Köszörűkő",
+    "FLAVOR": "\"A hús sosem fogja legyőzni az acélt.\" - Kublai a Hatalmas",
     "DESCRIPTIONS": [
-      "Upon pickup, #yUpgrade #b",
-      " random #yAttacks."
+      "Felvételnél #yFelfejleszt #b",
+      " véletlenszerű #yTámadást."
     ]
   },
   "White Beast Statue": {
-    "NAME": "White Beast Statue",
-    "FLAVOR": "A small white statue of a creature you have never seen before.",
+    "NAME": "A fehér bestia szobra",
+    "FLAVOR": "Egy általád sosem látott lény pici, fehér szobra.",
     "DESCRIPTIONS": [
-      "Potions always appear in combat rewards."
+      "Minden harc után kapsz italt."
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "A csizma",
+    "FLAVOR": "Sérülésnél, a csizma egyre nagyobb lesz.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked attack damage, increase it to #b5."
+      "Amikor sebzést okoznál ami #b",
+      " vagy kevesebb életerőt sebezne, növeli a sebzést #b5 -re."
     ]
   },
   "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
-    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "NAME": "A kivirágzás jele",
+    "FLAVOR": "A Túlvilágban a gondolat és a valóság egy és ugyan az.",
     "DESCRIPTIONS": [
-      "You can no longer heal."
+      "Nem bírsz több életerőt visszatölteni."
     ]
   },
   "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "NAME": "Törött korona",
+    "FLAVOR": "A Bajnok koronája... vagy csak egy olcsó utánzata?",
     "DESCRIPTIONS": [
-      " at the start of your turn. Future card rewards have #b2 less cards to choose from.",
-      "Gain [E]"
+      " a köröd elején. A következő kártyajutalmaknál #b2 kártyával kevesebb közül választhatsz.",
+      "Kapsz [E]"
     ]
   },
   "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
+    "NAME": "Tömjén füstölő",
+    "FLAVOR": "Eltelíti a viselőt a égő szellemek füstjével.",
     "DESCRIPTIONS": [
-      "Every #b6 turns, gain #b1 #yIntangible."
+      "Minden #b6. körben, kapsz #b1 #yMegfoghatatlanságot."
     ]
   },
   "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "NAME": "Üres ketrec",
+    "FLAVOR": "\"Milyen szokatlan, azt ketrecbe zárni amit imádsz.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Upon pickup, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Felvételnél eltávolíthatsz #b2 kártyát a pakidból.",
+      "Válassz 2 kártyát amit eltávolítanál."
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+    "NAME": "Fúziós kalapács",
+    "FLAVOR": "Ha egyszer megfogják, a viselő sosem tudja elengedni.",
     "DESCRIPTIONS": [
-      " at the start of your turn. You can no longer #ySmith at Rest Sites.",
-      "Gain [E]"
+      " a köröd elején. Nem bírsz mostantól #yKovácsolni a pihenőhelyen.",
+      "Kapsz [E]"
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "NAME": "Kávé csepegtető",
+    "FLAVOR": "\"Igen, még egy kávét kérek. Munkára. Munkára!\" - Az Építész",
     "DESCRIPTIONS": [
-      " at the start of your turn. You can no longer #yRest at Rest Sites.",
-      "Gain [E]"
+      " a köröd elején. Nem bírsz mostantő #yAludni a pihenőhelyen.",
+      "Kapsz [E]"
     ]
   },
   "SsserpentHead": {
-    "NAME": "Ssserpent Head",
-    "FLAVOR": "The most fulfilling of lives is that in which you can buy anything!",
+    "NAME": "Kkkkígyófej",
+    "FLAVOR": "Az a legfontosabb, hogy bármit meg bírj venni!",
     "DESCRIPTIONS": [
-      "Whenever you enter a #y? room, gain #b",
-      " #yGold."
+      "Amikor #y? szobába lépsz, #b",
+      " #yAranyat kapsz."
     ]
   },
   "MutagenicStrength": {
-    "NAME": "Mutagenic Strength",
-    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "NAME": "Mutagén erő",
+    "FLAVOR": "\"Úgy tűnik, hogy az eredmény elmúlik amikor az alany veszélyben van.\" - Ismeretlen",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yStrength. At the end of your first turn, lose #b",
-      " #yStrength."
+      "Minden harc elején kapsz plusz #b",
+      " #yErőt. Az első köröd végén, veszítesz #b",
+      " #yErőt."
     ]
   },
   "FaceOfCleric": {
-    "NAME": "Face Of Cleric",
-    "FLAVOR": "Everyone loves Cleric.",
+    "NAME": "Cleric arca",
+    "FLAVOR": "Clericet mindenki szereti.",
     "DESCRIPTIONS": [
-      "At the end of combat, raise your Max HP by #b1."
+      "Minden harc végén megnöveli a maximális életerődet #b1 -el."
     ]
   },
   "NlothsMask": {
-    "NAME": "N'loth's Hungry Face",
-    "FLAVOR": "You feel hungry.",
+    "NAME": "N'loth éhes arca",
+    "FLAVOR": "Éhséget érzel.",
     "DESCRIPTIONS": [
-      "The next non-Boss chest you open is empty.",
+      "A következő nem-vezér láda üres lesz.",
       ""
     ]
   },
   "GremlinMask": {
-    "NAME": "Gremlin Visage",
-    "FLAVOR": "Time to run.",
+    "NAME": "Szörny maszk",
+    "FLAVOR": "Ideje menekülni.",
     "DESCRIPTIONS": [
-      "Start each combat with #b1 #yWeak."
+      "Minden harc elején kapsz #b1 #yGyengítést."
     ]
   },
   "CultistMask": {
-    "NAME": "Cultist Headpiece",
-    "FLAVOR": "Part of the Flock!",
+    "NAME": "Kultista sisak",
+    "FLAVOR": "A nyáj része vagy!",
     "DESCRIPTIONS": [
-      "You feel more talkative.",
-      "@CAW!@ NL @CAAAW@"
+      "Beszédesebbnek érzed magad.",
+      "@KÁR!@ NL @KÁÁÁÁR@"
     ]
   },
   "TheAbacus": {
-    "NAME": "The Abacus",
-    "FLAVOR": "\"One...Two...Three...\"",
+    "NAME": "Abakusz",
+    "FLAVOR": "\"Egy...Kettő...Három...\"",
     "DESCRIPTIONS": [
-      "Whenever you shuffle your discard pile, gain #b",
-      " #yBlock."
+      "Amikor visszakevered a dobópaklidat, kapsz #b",
+      " #yVédelmet."
     ]
   },
   "DollysMirror": {
-    "NAME": "Dolly's Mirror",
-    "FLAVOR": "\"I look funny in this.\"",
+    "NAME": "Dolly tükre",
+    "FLAVOR": "\"Viccesen nézek ki benne.\"",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain an additional copy of a card in your deck.",
-      "Choose 1 Card to Copy."
+      "Felvételnél készíthetsz egy másolatot az egyik kártyádról.",
+      "Válassz egy kártyát amit lemásolnál."
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
+    "NAME": "Óramű szuvenír",
+    "FLAVOR": "\"Milyen sok kis fogaskerék.\"",
     "DESCRIPTIONS": [
-      "Start each combat with #b1 #yArtifact."
+      "Minden harc elején kapsz #b1 #yKészítményt."
     ]
   },
   "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "NAME": "Ebédjegy",
+    "FLAVOR": "\"Ingyen fasírt minden látogatásnál!\"",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop, heal #b",
-      " HP."
+      "Amikor belépsz egy boltba, visszatölt #b",
+      " életerőt."
     ]
   },
   "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "NAME": "Csavaros tölcsér",
+    "FLAVOR": "\"Én bizony nem innék belőle.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "Minden harc elején #b4 #yMérgezést okoz MINDEN ellenfélnek."
     ]
   },
   "HandDrill": {
-    "NAME": "Hand Drill",
-    "FLAVOR": "\"Spirals are dangerous.\"",
+    "NAME": "Kézi fúró",
+    "FLAVOR": "\"A spirálok veszélyesek.\"",
     "DESCRIPTIONS": [
-      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+      "Amikor megtöröd egy ellenfél #yVédelmét, #b2 #ySebezhetőséget okozol."
     ]
   },
   "HoveringKite": {
-    "NAME": "Hovering Kite",
-    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "NAME": "Papírsárkány",
+    "FLAVOR": "A sárkány csak lebeg a harc alatt, egy misztikus erő hajtja.",
     "DESCRIPTIONS": [
-      "Gain [G] and discard #b2 cards at the start of your turn."
+      "Kapsz [G]  és eldobsz #b2 kártyát a köröd elején."
     ]
   },
   "Sling": {
-    "NAME": "Sling of Courage",
-    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "NAME": "A bátorság parittyája",
+    "FLAVOR": "\"Egy hasznos eszköz a nagyobb ellenfelek legyőzéséhez.\"",
     "DESCRIPTIONS": [
-      "Start each Elite combat with #b",
-      " #yStrength."
+      "Minden Elit harc elején plusz #b",
+      " #yErőt kapsz."
     ]
   },
   "OrangePellets": {
-    "NAME": "Orange Pellets",
-    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "NAME": "Narancssárga golyók",
+    "FLAVOR": "\"Különböző gombákból készültek, amelyeket a Toronyban találtak. Megakadályoz minden szenvedést.\"",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, #yAttack, and #ySkill in the same turn, remove all of your debuffs."
+      "Amikor #yHatalom, #yTámadás és #yKépesség kártyát is játszol egy körben, eltávolít rólad minden negatív hatást."
     ]
   },
   "WristBlade": {
-    "NAME": "Wrist Blade",
-    "FLAVOR": "Handy for assassinations.",
+    "NAME": "Csuklópenge",
+    "FLAVOR": "Jól jön ha el kell tenni valakit láb alól.",
     "DESCRIPTIONS": [
-      "#yAttacks that cost #b0 deal #b3 additional damage."
+      "A #yTámadások amiknek a költsége #b0, plusz #b3 sebzést okoznak."
     ]
   },
   "StoneCalendar": {
-    "NAME": "Stone Calendar",
-    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "NAME": "Azték naptár",
+    "FLAVOR": "Az idő múlását nem érezni a Toronyban.",
     "DESCRIPTIONS": [
-      "At the end of turn #b",
-      ", deal #b",
-      " damage to ALL enemies."
+      "A #b",
+      ". kör végén #b",
+      " sebzést okoz MINDEN ellenfélnek."
     ]
   },
   "Nunchaku": {
     "NAME": "Nunchaku",
-    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "FLAVOR": "Jó gyakorló eszköz. Javítja viselő ügyességét és a kiállását.",
     "DESCRIPTIONS": [
-      "Every time you play #b",
-      " #yAttacks, gain [E] ."
+      "Minden #b",
+      ". #yTámadás után kapsz [E] ."
     ]
   },
   "Brimstone": {
-    "NAME": "Brimstone",
-    "FLAVOR": "Emanates an infernal heat.",
+    "NAME": "Kénkő",
+    "FLAVOR": "Gyenge hőt áraszt magából.",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yStrength and ALL enemies gain #b",
-      " #yStrength."
+      "A köröd elején kapsz plusz #b",
+      " #yErőt és MINDEN ellenfél kap plusz #b",
+      " #yErőt."
     ]
   },
   "PreservedInsect": {
-    "NAME": "Preserved Insect",
-    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "NAME": "Tartósított rovar",
+    "FLAVOR": "A rovar valamiféle zsugorító aurával célozza a nagyobb ellenfeleket.",
     "DESCRIPTIONS": [
-      "Enemies in Elite combats have #b",
-      "% less HP."
+      "Az ellenfelek az Elit harcokban NL #b",
+      "% -al kevesebb életerővel NL rendelkeznek."
     ]
   },
   "Pocketwatch": {
-    "NAME": "Pocketwatch",
-    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "NAME": "Zsebóra",
+    "FLAVOR": "A mutatók megálltak 3 óránál.",
     "DESCRIPTIONS": [
-      "Whenever you play #b3 or less cards during your turn, draw #b3 additional cards at the start of your next turn."
+      "Amikor #b3 vagy kevesebb kártyát játszol ki a körödben, a következő köröd elején plusz #b3 kártyát húzol."
     ]
   },
   "FossilizedHelix": {
-    "NAME": "Fossilized Helix",
-    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "NAME": "Csiga fosszília",
+    "FLAVOR": "Ránézésre elpusztíthatatlan. Gondolkozol miféle lényhez tartozhatott.",
     "DESCRIPTIONS": [
-      "Prevent the first time you would lose HP each combat."
+      "Minden harcban megakadályozza az első életerőveszítést."
     ]
   },
   "PrismaticShard": {
-    "NAME": "Prismatic Shard",
-    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "NAME": "Prizmatikus szilánk",
+    "FLAVOR": "A szilánkon keresztülnézve teljesen más perspektívákat is meglátsz.",
     "DESCRIPTIONS": [
-      "Combat reward screens now contain Colorless cards and cards from other colors."
+      "A harcok után Szürke, Piros, Kék és Zöld kártyák közül is választhatsz."
     ]
   },
   "WarpedTongs": {
-    "NAME": "Warped Tongs",
-    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "NAME": "Megvetemedett fogó",
+    "FLAVOR": "Az elátkozott fogó erős kéztetést sugároz, hogy visszavidd oda ahonnan ellopták.",
     "DESCRIPTIONS": [
-      "At the start of your turn, #yUpgrade a random card in your hand for the rest of combat."
+      "A köröd elején #yFelfejleszt egy véletlenszerű kártyát a kezedben a harc erejéig."
     ]
   },
   "WingedGreaves": {
-    "NAME": "Wing Boots",
-    "FLAVOR": "Stylish.",
+    "NAME": "Szárnyas cipő",
+    "FLAVOR": "Stílusos.",
     "DESCRIPTIONS": [
-      "You may ignore paths when choosing the next room to travel to #b3 times."
+      "Kihagyhatod az utakat amikor a következő szobát kiválasztod. NL #b3 alkalommal használható."
     ]
   },
   "MawBank": {
-    "NAME": "Maw Bank",
-    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "NAME": "Begy bank",
+    "FLAVOR": "Meglepően népszerű, annak ellenére hogy gyakran harapnak.",
     "DESCRIPTIONS": [
-      "Whenever you climb a floor, gain #b",
-      " #yGold. No longer works when you spend any #yGold at a shop.",
-      "This relic has been used up."
+      "Amikor a következő szobába lépsz, kapsz #b",
+      " #yAranyat. Nem működik miután #yAranyat költesz a boltban.",
+      "A relikvia elhasználódott."
     ]
   }
 }

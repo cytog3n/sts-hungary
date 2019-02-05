@@ -2,7 +2,8 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "készítmény"
+        "készítmény",
+        "készítményt"
       ],
       "DESCRIPTION": "Semlegesíti a következő negatív hatást."
     },
@@ -10,7 +11,8 @@
       "NAMES": [
         "védelem",
         "véd",
-		"védelmet"
+        "védelmet",
+        "védelmét"
       ],
       "DESCRIPTION": "A következő körig elhárítja a támadásokat."
     },
@@ -30,20 +32,23 @@
     },
     "CONFUSED": {
       "NAMES": [
-        "zavart"
+        "zavart",
+        "zavartan"
       ],
       "DESCRIPTION": "Bármikor ha kártyát húzol, a költsége véletlenszerű lesz."
     },
     "CURSE": {
       "NAMES": [
-        "átok"
+        "átok",
+        "átkot"
       ],
       "DESCRIPTION": "Az Átok kártyák negatív hatásúak, s nem tűnnek el a paklidból."
     },
     "DARK": {
       "NAMES": [
         "sötét",
-        "sötét+"
+        "sötét+",
+        "sötétet"
       ],
       "DESCRIPTION": "Gömb: Minden körben növekszik a sebzése. Amikor #yMegidéződik, a legkevesebb HP-val rendelkező ellenfelet támadja."
     },
@@ -55,7 +60,8 @@
     },
     "DEXTERITY": {
       "NAMES": [
-        "ügyesség"
+        "ügyesség",
+        "ügyességet"
       ],
       "DESCRIPTION": "Az Ügyesség segítségével több Védelmet szerzel a Kártyákból."
     },
@@ -75,14 +81,16 @@
     "EXHAUST": {
       "NAMES": [
         "kimerít",
-        "kimerített",
-	"kimerít"
+        "kimeríted",
+        "kimerítesz",
+        "kimerített"
       ],
       "DESCRIPTION": "Nem használható ezen Harc alatt."
     },
     "FOCUS": {
       "NAMES": [
-        "fókusz"
+        "fókusz",
+        "fókuszt"
       ],
       "DESCRIPTION": "A Fókusz növeli a #ySugárzott Gömbök hatását."
     },
@@ -94,8 +102,9 @@
     },
     "FROST": {
       "NAMES": [
-        "fagy",
-        "fagy+"
+        "jég",
+        "jég+",
+        "jeget"
       ],
       "DESCRIPTION": "Gömb: #yVédelmet ad."
     },
@@ -107,13 +116,15 @@
     },
     "INTANGIBLE": {
       "NAMES": [
-        "megfoghatatlan"
+        "megfoghatatlan",
+        "megfoghatatlanságot"
       ],
       "DESCRIPTION": "Csökkents le minden bejövő sebzést és HP veszteséget #b1-re."
     },
     "LIGHTNING": {
       "NAMES": [
         "villám",
+        "villámot",
         "villám+"
       ],
       "DESCRIPTION": "Gömb: Véletlenszerű ellenfeleket sebez meg."
@@ -139,14 +150,18 @@
     "PLASMA": {
       "NAMES": [
         "plazma",
-        "plazma+"
+        "plazma+",
+        "plazmát"
       ],
       "DESCRIPTION": "Gömb: Energiát ad."
     },
     "POISON": {
       "NAMES": [
         "mérgezés",
-        "mérgezett"
+        "mérgezést",
+        "mérgezett",
+        "mérgezel",
+        "mérget"
       ],
       "DESCRIPTION": "A mérgezett egyedek életet vesztenek a köreik elején. Minden körben a Mérgezés hatása lecsökken #b1-el."
     },
@@ -159,7 +174,8 @@
     "SHIV": {
       "NAMES": [
         "penge",
-        "pengék"
+        "pengék",
+        "pengét"
       ],
       "DESCRIPTION": "A Pengék #b0 költségű Támadó kártyák, melyek Kimerülnek a használat során."
     },
@@ -171,7 +187,9 @@
     },
     "STRENGTH": {
       "NAMES": [
-        "erő"
+        "erő",
+        "erődet",
+        "erőt"
       ],
       "DESCRIPTION": "Az Erő plusz sebzést ad a támadásaidnak."
     },
@@ -186,7 +204,9 @@
     ],
     "THORNS": {
       "NAMES": [
-        "tüskék"
+        "tüskék",
+        "tüskét",
+        "tüské"
       ],
       "DESCRIPTION": "Amikor #yTámadás-ból kapsz sebzést, vissza sebez."
     },
@@ -202,7 +222,9 @@
     },
     "TRANSFORM": {
       "NAMES": [
-        "átalakul"
+        "átalakul",
+        "átalakít",
+        "átalakítja"
       ],
       "DESCRIPTION": "Az Átalakítás során véletlenszerű ritkaságú és típusú Kártyát kapsz."
     },
@@ -221,7 +243,10 @@
     "UPGRADE": {
       "NAMES": [
         "fejlesztés",
-        "fejlesztett"
+        "fejlesztett",
+        "fejleszt",
+        "felfejleszt",
+        "felfejleszti"
       ],
       "DESCRIPTION": "A fejlesztések még erősebbé teszik a kártyákat. A kártyák csak egyszer fejleszthetőek."
     },
@@ -234,7 +259,9 @@
     },
     "VULNERABLE": {
       "NAMES": [
-        "sebezhető"
+        "sebezhető",
+        "sebezhetővé",
+        "sebezhetőséget"
       ],
       "DESCRIPTION": "A Sebezhető teremtmények #b50%-al több sebzést szenvednek el Támadás során."
     },
@@ -242,15 +269,18 @@
       "NAMES": [
         "gyenge",
         "gyengít",
+        "gyengíteni",
         "legyengített",
-        "gyengít"
+        "gyengítést",
+        "gyengeséget"
       ],
       "DESCRIPTION": "A Legyengült teremtmények #b25%-al kevesebb sebzést okoznak Támadás során."
     },
     "WOUND": {
       "NAMES": [
         "seb",
-        "sebek"
+        "sebek",
+        "sebet"
       ],
       "DESCRIPTION": "A Sebek kijátszhatatlan státusz kártyák."
     }

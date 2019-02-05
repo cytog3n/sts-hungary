@@ -16,9 +16,9 @@
   "Amplify": {
     "NAME": "Erősítés",
     "DESCRIPTIONS": [
-      "Ebben a körben, a következő #yErő-d kétszer játszhatod ki.",
+      "Ebben a körben, a következő #yHatalom kártyád kétszer játszhatod ki.",
       "Ebben a körben, a következő ",
-      " #yErő-id kétszer játszhatod ki."
+      " #yHatalom kártyád kétszer játszhatod ki."
     ]
   },
   "Anger": {
@@ -169,7 +169,7 @@
   "Curiosity": {
     "NAME": "Kíváncsiság",
     "DESCRIPTIONS": [
-      "Bármikor ha #yErő Kártyát játszol ki, nyerj #b",
+      "Bármikor ha #yHatalom Kártyát játszol ki, nyerj #b",
       " #yErő-t."
     ]
   },
@@ -497,7 +497,7 @@
   "Knowledge": {
     "NAME": "Tudás",
     "DESCRIPTIONS": [
-      "Bármikor ha kijátszol egy #yErőt, húzz #b",
+      "Bármikor ha kijátszol egy #yHatalom kártyát, húzol #b",
       " kártyát."
     ]
   },

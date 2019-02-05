@@ -84,7 +84,7 @@
     "DESCRIPTION": "Visszatölt !M! életerőt. NL Kimerít."
   },
   "Bane": {
-    "NAME": "Csapás",
+    "NAME": "Maflás",
     "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfél mérgezett, okoz még plusz !D! sebzést."
   },
   "Barrage": {
@@ -129,8 +129,8 @@
   },
   "Blind": {
     "NAME": "Vakság",
-    "DESCRIPTION": "!M! Gyengeséget okoz.",
-    "UPGRADE_DESCRIPTION": "MINDEN ellenfélnek !M! Gyengeséget okoz."
+    "DESCRIPTION": "!M! Gyengítést okoz.",
+    "UPGRADE_DESCRIPTION": "MINDEN ellenfélnek !M! Gyengítést okoz."
   },
   "Blizzard": {
     "NAME": "Hóvihar",
@@ -147,8 +147,8 @@
   },
   "Bloodletting": {
     "NAME": "Véreztetés",
-    "DESCRIPTION": "Veszítesz 3 életerőpontot. NL Kapsz [R].",
-    "UPGRADE_DESCRIPTION": "Veszítesz 3 életerőpontot. NL Kapsz [R] [R]."
+    "DESCRIPTION": "Veszítesz 3 életerőt. NL Kapsz [R].",
+    "UPGRADE_DESCRIPTION": "Veszítesz 3 életerőt. NL Kapsz [R] [R]."
   },
   "Bludgeon": {
     "NAME": "Bunkósbot",
@@ -156,34 +156,34 @@
   },
   "Blur": {
     "NAME": "Elhomályosít",
-    "DESCRIPTION": "Kapsz !B! Védelmet. NL A Védelem megmarad a következő köröd elején."
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL A Védelmed megmarad a következő köröd elején."
   },
   "Body Slam": {
-    "NAME": "Body Slam",
+    "NAME": "Body Slam//",
     "DESCRIPTION": "Védelmednek megfelelő sebzést okoz.",
     "UPGRADE_DESCRIPTION": " NL (!D! sebzést okoz.)"
   },
   "BootSequence": {
-    "NAME": "Boot sorrend",
+    "NAME": "Indítási sorrend",
     "DESCRIPTION": "Ösztönös. NL Kapsz !B! Védelmet. NL Kimerít."
   },
   "Bouncing Flask": {
-    "NAME": "Pattogó lombik",
+    "NAME": "Pattogó flaska",
     "DESCRIPTION": "3 Mérget rak egy véletlenszerű ellenfélre !M! alkalommal."
   },
   "Brutality": {
     "NAME": "Brutalitás",
-    "DESCRIPTION": "A köröd elején veszítesz egy életerőpont és húzol egy kártyát.",
-    "UPGRADE_DESCRIPTION": "Ösztönös. NL A köröd elején veszítesz egy életerőpont és húzol egy kártyát."
+    "DESCRIPTION": "A köröd elején veszítesz egy életerőt és húzol egy kártyát.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL A köröd elején veszítesz egy életerőt és húzol egy kártyát."
   },
   "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Megakadályozza a sebződést legközelebb amikor életerőt veszítenél.",
-    "UPGRADE_DESCRIPTION": "Megakadályozza a sebződést a következő !M! alkalommal amikor életerőt veszítenél."
+    "NAME": "Tompító",
+    "DESCRIPTION": "A következő alkalommal, amikor életerőt veszítenél, megakadályozza a sebződést.",
+    "UPGRADE_DESCRIPTION": "A következő !M! alkalommal, amikor életerőt veszítenél, megakadályozza a sebződést."
   },
   "Bullet Time": {
-    "NAME": "Idő fagyasztás",
-    "DESCRIPTION": "Nem húzhatsz több kártyát a körben. Csökkenti minden lap költségét 0-ra ebben a körben."
+    "NAME": "Időfagyasztás",
+    "DESCRIPTION": "Nem húzhatsz több kártyát a körben. A kezedben lévő kártyák költségét 0-ra csökkenti erre a körre."
   },
   "Burn": {
     "NAME": "Égés",
@@ -196,17 +196,17 @@
   },
   "Burst": {
     "NAME": "Kitörés",
-    "DESCRIPTION": "A következő Képesség kétszer teljesül a körben.",
-    "UPGRADE_DESCRIPTION": "A következő !M! Képesség kétszer teljesül a körben."
+    "DESCRIPTION": "A következő kijátszott Képesség kártyád kétszer teljesül a körben.",
+    "UPGRADE_DESCRIPTION": "A következő !M! kijátszott Képesség kártyád kétszer teljesül a körben."
   },
   "Calculated Gamble": {
-    "NAME": "Számított szerencsejáték",
-    "DESCRIPTION": "Eldobod a kezedben lévő kártyákat, NL majd húzol annyi kártyát amennyit eldobtál. NL Kimerít.",
-    "UPGRADE_DESCRIPTION": "Eldobod a kezedben lévő kártyákat, NL majd húzol annyi kártyát amennyit eldobtál."
+    "NAME": "Kalkulált szerencsejáték",
+    "DESCRIPTION": "Dobd el a kezedben lévő kártyákat. NL Húzz annyi kártyát, amennyit eldobtál. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Dobd el a kezedben lévő kártyákat. NL Húzz annyi kártyát, amennyit eldobtál."
   },
   "Caltrops": {
-    "NAME": "Szögcsapda",
-    "DESCRIPTION": "Amikor megtámadnak !M! sebzést okozol."
+    "NAME": "Szöges csapda",
+    "DESCRIPTION": "Amikor megtámadnak, !M! sebzést okozol a támadódnak."
   },
   "Capacitor": {
     "NAME": "Kondenzátor",
@@ -228,53 +228,53 @@
     "UPGRADE_DESCRIPTION": "Sugároz !M! véletlenszerű Gömböt."
   },
   "Chill": {
-    "NAME": "Lehűt",
+    "NAME": "Hűvösség",
     "DESCRIPTION": "Sugároz !M! Jeget minden ellenfélért a harcban. NL Kimerít.",
     "UPGRADE_DESCRIPTION": "Ösztönös. NL Sugároz !M! Jeget minden ellenfélért a harcban. NL Kimerít."
   },
   "Choke": {
-    "NAME": "Choke",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play a card this turn, the enemy loses !M! HP."
+    "NAME": "Fojtás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Minden kijátszott kártya után !M! sebzést okoz az ellenfélnek."
   },
   "Chrysalis": {
-    "NAME": "Chrysalis",
-    "DESCRIPTION": "Shuffle !M! random Skills into your draw pile. They cost 0 this combat. NL Exhaust."
+    "NAME": "Gubó",
+    "DESCRIPTION": "Keverj !M! véletlenszerű Képességet a húzópaklidba. NL A költségük 0 lesz a harc erejéig. NL Kimerít."
   },
   "Clash": {
-    "NAME": "Clash",
-    "DESCRIPTION": "Can only be played if every card in your hand is an Attack. NL Deal !D! damage.",
+    "NAME": "Összecsapás",
+    "DESCRIPTION": "Csak akkor játszhatod ki, ha csak Támadások vannak a kezedben. !D! sebzést okoz.",
     "EXTENDED_DESCRIPTION": [
-      "I have non-Attack cards in my hand."
+      "Van olyan kártya a kezemben, ami nem Támadás."
     ]
   },
   "Cleave": {
-    "NAME": "Cleave",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+    "NAME": "Hasítás",
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz."
   },
   "Cloak And Dagger": {
-    "NAME": "Cloak and Dagger",
-    "DESCRIPTION": "Gain !B! Block. NL Add !M! Shiv into your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add !M! Shivs into your hand."
+    "NAME": "Köpeny és tőr",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Kapsz !M! pengét a kezedbe.",
+    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL Kapsz !M! pengét a kezedbe."
   },
   "Clothesline": {
-    "NAME": "Clothesline",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+    "NAME": "Clothesline//",
+    "DESCRIPTION": "!D! sebzést és NL !M! Gyengítést okoz."
   },
   "Clumsy": {
-    "NAME": "Clumsy",
-    "DESCRIPTION": "Unplayable. NL Ethereal."
+    "NAME": "Kétbalkezes",
+    "DESCRIPTION": "Kijátszhatatlan. NL Földöntúli."
   },
   "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
+    "NAME": "Hidegfront",
+    "DESCRIPTION": "!D! sebzést okoz. Sugároz !M! Jeget."
   },
   "Combust": {
-    "NAME": "Combust",
-    "DESCRIPTION": "At the end of your turn, lose 1 HP and deal !M! damage to ALL enemies."
+    "NAME": "Égetés",
+    "DESCRIPTION": "A köröd végén veszítesz 1 életerőt. MINDEN ellenfélnek !M! sebzést okoz."
   },
   "Concentrate": {
-    "NAME": "Concentrate",
-    "DESCRIPTION": "Discard !M! cards. NL Gain [G] [G]."
+    "NAME": "Koncentráció",
+    "DESCRIPTION": "Dobj el !M! kártyát. NL Kapsz [G] [G]."
   },
   "Conserve Battery": {
     "NAME": "Charge Battery",

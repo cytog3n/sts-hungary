@@ -1,36 +1,36 @@
 {
   "Ancient Potion": {
-    "NAME": "Ancient Potion",
+    "NAME": "Ősi bájital",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yArtifact."
+      "Kapsz #b",
+      " #yKészítményt."
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "Támadás itala",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn."
+      "Válassz #b1 -et a #b3 véletlenszerű Támadás közül és vedd a kezedbe. A kártya költsége #b0 lesz a körre."
     ]
   },
   "Block Potion": {
-    "NAME": "Block Potion",
+    "NAME": "Védelem itala",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yBlock."
+      "Kapsz #b",
+      " #yVédelmet."
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "Vér bájital",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "Visszatölti a maximum életerőd #b",
+      "% -át."
     ]
   },
   "Dexterity Potion": {
-    "NAME": "Dexterity Potion",
+    "NAME": "Ügyesség itala",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yDexterity."
+      "Kapsz #b",
+      " #yÜgyességet."
     ]
   },
   "Elixir": {
@@ -38,184 +38,184 @@
     "DESCRIPTIONS": [
       "",
       "",
-      "#yExhaust all #yStatus and #yCurse cards from your hand.",
+      "#yKimeríti az összes #yStátusz és #yÁtok kártyát a kezedből.",
       "",
-      "It had no effect..."
+      "Nem volt semmilyen hatása..."
     ]
   },
   "Energy Potion": {
-    "NAME": "Energy Potion",
+    "NAME": "Energiaital",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Energy."
+      "Kapsz #b",
+      " Eneriát."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Entrópikus főzet",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "Feltölti a üres ital foglalataidat véletlenszerű italokkal."
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence of Steel",
+    "NAME": "Acél esszencia",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "Kapsz #b",
+      " #yErősített #yPáncélt."
     ]
   },
   "Explosive Potion": {
-    "NAME": "Explosive Potion",
+    "NAME": "Robbanó főzet",
     "DESCRIPTIONS": [
-      "Deal #b",
-      " damage to ALL enemies."
+      "#b",
+      " sebzést okoz az ÖSSZES ellenfélnek."
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy in a Bottle",
+    "NAME": "Tündér egy üvegben",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "Amikor meghalnál, az teljes életerőd #b10% -át visszanyered, majd eldobod ezt az italt."
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "Félelem főzet",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "#b",
+      " #ySebezhetőséget okoz."
     ]
   },
   "Fire Potion": {
-    "NAME": "Fire Potion",
+    "NAME": "Tűz főzet",
     "DESCRIPTIONS": [
-      "Deal #b",
-      " damage."
+      "#b",
+      " sebzést okoz."
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "Fókusz ital",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus."
+      "Kapsz #b",
+      " #yFókuszt."
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "Gyümölcslé",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "A teljes életerődhöz kapsz plusz #b",
+      " -t."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "A szerencsejátékos itala",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "Eldobhatsz bármennyi kártyát a kezedből, majd húzol annyit amennyit eldobtál."
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost in a Jar",
+    "NAME": "Palackba zárt szellem",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible."
+      "Kapsz #b",
+      " #yMegfoghatatlanságot."
     ]
   },
   "Health Potion": {
-    "NAME": "Health Potion",
+    "NAME": "Életerő bájital",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " HP."
+      "Visszatölt #b",
+      " életerőt."
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "Folyékony bronz",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "Kapsz #b",
+      " #yTüskét."
     ]
   },
   "Poison Potion": {
-    "NAME": "Poison Potion",
+    "NAME": "Mérgező főzet",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yPoison."
+      "#b",
+      " #yMérgezést okoz."
     ]
   },
   "Potion Slot": {
-    "NAME": "Potion Slot",
+    "NAME": "Ital foglalat",
     "DESCRIPTIONS": [
-      "Use potions during combat to gain #gbonuses or #rhinder enemies.",
-      "Potion Slot"
+      "Használj italokat a harc során hogy #gbónuszokat kapj vagy #rárts velük az ellenfeleidnek.",
+      "Ital foglalat"
     ]
   },
   "PowerPotion": {
-    "NAME": "Power Potion",
+    "NAME": "Erő ital",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn."
+      "Válassz #b1 -et a #b3 véletlenszerű Erő közül és vedd a kezedbe. A kártya költsége #b0 lesz a körre."
     ]
   },
   "Regen Potion": {
-    "NAME": "Regen Potion",
+    "NAME": "Regeneráló ital",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yRegen.",
+      "Kapsz #b",
+      " #yRegenerációt.",
       ""
     ]
   },
   "SkillPotion": {
     "NAME": "Skill Potion",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn."
+      "Válassz #b1 -et a #b3 véletlenszerű Képesség közül és vedd a kezedbe. A kártya költsége #b0 lesz a körre."
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "Füstbomba",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards.",
-	  "I'm Surrounded!"
+      "Menekülj meg egy nem-vezér harcból. Nem kapsz jutalmat a harc után.",
+      "Bekerítettek!"
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "Kígyó olaj",
     "DESCRIPTIONS": [
-      "Become #yConfused. Draw #b",
-      " cards.",
-      "card."
+      "#yZavart leszel. Húzz #b",
+      " kártyát.",
+      "kártya."
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed Potion",
+    "NAME": "Sebesség itala",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yDexterity. At the end of your turn, lose #b",
-      " #yDexterity."
+      "Kapsz #b",
+      " #yÜgyességet. A köröd végén veszítesz #b",
+      " #yÜgyességet."
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid Potion",
+    "NAME": "Szteroid ital",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength. At the end of your turn, lose #b",
-      " #yStrength."
+      "Kapsz #b",
+      " #yErőt. A köröd végén veszítesz #b",
+      " #yErőt."
     ]
   },
   "Strength Potion": {
-    "NAME": "Strength Potion",
+    "NAME": "Hatalmasság itala",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength."
+      "Kapsz #b",
+      " #yErőt."
     ]
   },
   "Swift Potion": {
-    "NAME": "Swift Potion",
+    "NAME": "Gyorsaság ital",
     "DESCRIPTIONS": [
       "",
-      "Draw #b",
-      " cards."
+      "Húzz #b",
+      " kártyát."
     ]
   },
   "Weak Potion": {
-    "NAME": "Weak Potion",
+    "NAME": "Gyengeség itala",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yWeak."
+      "#b",
+      " #yGyengeséget okoz."
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "Dark": {
-    "NAME": "Sötét",
+    "NAME": "Sötétség",
     "DESCRIPTION": [
       "#yPasszív: Plusz #b",
       " sebzést ad a Gömbödnek a köröd végén. NL #yMegidézés: #b",
@@ -10,7 +10,7 @@
   "Empty": {
     "NAME": "Gömb foglalat",
     "DESCRIPTION": [
-      "Ezekbe a foglalatokba gömböket lehet sugározni."
+      "Ezekbe a foglalatokba Gömböket lehet sugározni."
     ]
   },
   "Frost": {
