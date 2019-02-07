@@ -1,170 +1,170 @@
 {
   "Allstar": {
-    "NAME": "All Star",
-    "DESCRIPTION": "Start with 5 colorless cards."
+    "NAME": "Minden csillag",
+    "DESCRIPTION": "Kezdj 5 színtelen kártyával."
   },
   "Binary": {
-    "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
+    "NAME": "Bináris",
+    "DESCRIPTION": "A kártyajutalmaknál csak 2 kártya közül választhatsz."
   },
   "Brewmaster": {
-    "NAME": "[DEPRECATED] Brewmaster",
-    "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
+    "NAME": "[Elavult] Főzőmester",
+    "DESCRIPTION": "Kezdj 5 Alkimista kártyával a paklidban és a Fehér bestaia szobrával."
   },
   "Cursed Run": {
-    "NAME": "Cursed Run",
-    "DESCRIPTION": "Whenever you defeat a Boss, become Cursed. Your starting relic is replaced with Cursed Key, Darkstone Periapt, and Du-Vu Doll."
+    "NAME": "Elátkozott menet",
+    "DESCRIPTION": "Amikor legyőzöl egy vezért, kapsz egy átkot. A kezdőrelikviád helyett kapsz Elátkozott kulcsot, Sötétkövű amulettet és Du-Vu babát."
   },
   "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Cards are not restricted by your character."
+    "NAME": "Változatos",
+    "DESCRIPTION": "A kártyák nem lesznek a karakteredhez kötve."
   },
   "Red Cards": {
-    "NAME": "Red Cards",
-    "DESCRIPTION": "Red cards now appear in rewards and shops."
+    "NAME": "Piros kártyák",
+    "DESCRIPTION": "Piros kártyák jelennek meg jutalomként és a boltban."
   },
   "Green Cards": {
-    "NAME": "Green Cards",
-    "DESCRIPTION": "Green cards now appear in rewards and shops."
+    "NAME": "Zöld kártyák",
+    "DESCRIPTION": "Zöld kártyák jelennek meg jutalomként és a boltban."
   },
   "Blue Cards": {
-    "NAME": "Blue Cards",
-    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+    "NAME": "Kék kártyák",
+    "DESCRIPTION": "Kék kártyák jelennek meg jutalomként és a boltban."
   },
   "Colorless Cards": {
-    "NAME": "Colorless Cards",
-    "DESCRIPTION": "Colorless cards now appear in rewards."
+    "NAME": "Szürke kártyák",
+    "DESCRIPTION": "Szürke kártyák jelennek meg jutalomként."
   },
   "Draft": {
     "NAME": "Draft",
-    "DESCRIPTION": "Draft a custom starting deck of cards."
+    "DESCRIPTION": "Építs egy kezdő paklit a menet elején."
   },
   "Elite Swarm": {
-    "NAME": "Big Game Hunter",
-    "DESCRIPTION": "Elite enemies are now swarming the Spire and drop better rewards."
+    "NAME": "Nagy vadász",
+    "DESCRIPTION": "Az elit ellenfelek hemzsegnek a Toronyban és jobb jutalmakat adnak."
   },
   "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+    "NAME": "Végtelen",
+    "DESCRIPTION": "A győzelem után visszakerülsz az első felvonáshoz a már meglévő pakliddal. De vigyázz, a rontás mindenkit utolér..."
   },
   "Blight Chests": {
-    "NAME": "Blight Chests",
-    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+    "NAME": "Rontás ládák",
+    "DESCRIPTION": "Végtelen módban, a vezér ládákban rontást is találsz a harmadik felvonást követően."
   },
   "Stunted Growth": {
-    "NAME": "Stunted Growth",
-    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
+    "NAME": "Satnya növekedés",
+    "DESCRIPTION": "Végtelen módban, a harcok után nem kapsz kártyajutalmat a harmadik felvonást követően."
   },
   "Heirloom": {
-    "NAME": "Heirloom",
-    "DESCRIPTION": "Start with 1 Rare relic."
+    "NAME": "Örökség",
+    "DESCRIPTION": "Kezdd a menetet egy ritka relikviával."
   },
   "Hoarder": {
-    "NAME": "Hoarder",
-    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
+    "NAME": "Halmozó",
+    "DESCRIPTION": "Amikor kártyát adsz a paklidhoz, kapsz plusz kettő másolatot is. Nem bírod többet az árus kártya eltávolító szolgáltatását használni."
   },
   "Inception": {
-    "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+    "NAME": "Eredet",
+    "DESCRIPTION": "Lecseréli a kezdő relikviádat Pörgyettyűre."
   },
   "Insanity": {
-    "NAME": "Insanity",
-    "DESCRIPTION": "Start with a random deck of 50 cards."
+    "NAME": "Őrület",
+    "DESCRIPTION": "Kezdj 50 véletlenszerű kártyával."
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "You start each combat with +3 Strength. All enemies start combat with +3 Strength."
+    "NAME": "Halálos",
+    "DESCRIPTION": "Minden harc elején kapsz 3 Erőt. MINDEN ellenfél kap 3 Erőt."
   },
   "Midas": {
-    "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
+    "NAME": "Midász",
+    "DESCRIPTION": "Az ellenfelek 200% -al több aranyat adnak, de nem tudsz többé kovácsolni a pihenőhelyen."
   },
   "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+    "NAME": "Az igazi formám",
+    "DESCRIPTION": "Kezdd a menetet egy Démon alak, Képmás és Visszhang kártyákkal."
   },
   "Night Terrors": {
-    "NAME": "Night Terrors",
-    "DESCRIPTION": "Resting at Rest Sites heals 100% of your HP, but costs 5 Max HP."
+    "NAME": "Éjszakai rettegés",
+    "DESCRIPTION": "Alvásnál visszatöltődik az életed 100% -ra, de a maximum életerőd csökken 5 -el."
   },
   "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 Max HP."
+    "NAME": "Egy ütéses csoda",
+    "DESCRIPTION": "Kezdd a játékot 1 maximumális életerővel."
   },
   "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+    "NAME": "Dícsértessék Snecko",
+    "DESCRIPTION": "A kezdő relikviádat lecseréli Snecko szemre."
   },
   "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
+    "NAME": "Fényes",
+    "DESCRIPTION": "A kezdőpaklid helyett kapsz minden kivételes kártyából egyet."
   },
   "Specialized": {
-    "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single card."
+    "NAME": "Specializált",
+    "DESCRIPTION": "Az egyik kártyádról kapsz 5 másolatot."
   },
   "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+    "NAME": "Kezdőpakli",
+    "DESCRIPTION": "Kezdj Törött koronával és Binárissal, így az ellefelek nem adnak többé kártyát."
   },
   "Terminal": {
-    "NAME": "Terminal",
-    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+    "NAME": "Terminál",
+    "DESCRIPTION": "Amikor új szobába lépsz, veszítesz egyet a maximális életerődből. Kezdj minden harcot 5 Erősített Páncéllal."
   },
   "Time Dilation": {
-    "NAME": "Time Dilation",
-    "DESCRIPTION": "All enemies start with the Slow debuff."
+    "NAME": "Idő tágulás",
+    "DESCRIPTION": "MINDEN ellenfél Lassú hatással kezd."
   },
   "Uncertain Future": {
-    "NAME": "Certain Future",
-    "DESCRIPTION": "The map contains only one path."
+    "NAME": "Biztos jövő",
+    "DESCRIPTION": "A térképen csak egyetlen útvonal van."
   },
   "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "Normal Enemies drop relics instead of cards."
+    "NAME": "Szüret",
+    "DESCRIPTION": "Normál ellenfelek relikviákat adnak kártyák helyett."
   },
   "SealedDeck": {
-    "NAME": "Sealed Deck",
-    "DESCRIPTION": "Craft a deck from 30 random cards."
+    "NAME": "Lezárt pakli",
+    "DESCRIPTION": "Készíts paklit 30 véletlenszerű kártyából."
   },
   "Flight": {
-    "NAME": "Flight",
-    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+    "NAME": "Repülő",
+    "DESCRIPTION": "Kihagyhatod az utakat amikor a következő szobát kiválasztod."
   },
   "Chimera": {
-    "NAME": "Chimera",
-    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+    "NAME": "Khimaira",
+    "DESCRIPTION": "A kezdő paklid a 3 karakter fúziójából jön létre."
   },
   "NeowTime": {
-    "NAME": "Neow Time",
-    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
+    "NAME": "Neow idő",
+    "DESCRIPTION": "Kapsz 3 áldást és egy rontást Neowtól."
   },
   "IntelligentEnemies": {
-    "NAME": "Intelligent Enemies",
-    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+    "NAME": "Intelligens ellenfelek",
+    "DESCRIPTION": "Az ellenfeleid nagyobb kihívást jelentő képességekkel rendelkeznek."
   },
   "Careless": {
-    "NAME": "Careless",
-    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+    "NAME": "Figyelmetlen",
+    "DESCRIPTION": "Minden köröd elején, dobd el a húzópaklid tetején lévő kártyát."
   },
   "ControlledChaos": {
-    "NAME": "Controlled Chaos",
-    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+    "NAME": "Kontrollált káosz",
+    "DESCRIPTION": "Fagyott szemmel kezdesz. A köröd elején 10 véletlenszerű kártyát kapsz a húzópaklid aljára."
   },
   "MonsterHunter": {
-    "NAME": "[DEPRECATED] Colossus",
-    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
+    "NAME": "[DEPRECATED] Kolosszus",
+    "DESCRIPTION": "Az ellenfeleidnek több élete van, de jobb jutalmakat adnak."
   },
   "DeadlyEvents": {
-    "NAME": "Deadly Events",
-    "DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
+    "NAME": "Halálos események",
+    "DESCRIPTION": "A ? szobákban lehetnek mostantől Elit ellenfelek, de gyakrabban találkozol ládákkal."
   },
   "Daily Mods": {
-    "NAME": "Daily Mods",
-    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+    "NAME": "Napi mód",
+    "DESCRIPTION": "Kezdj egy menetet pontosan 3 véletlenszeri napi móddal."
   },
   "The Ending": {
-    "NAME": "The Ending",
-    "DESCRIPTION": "Enables the Final Act."
+    "NAME": "A Vég",
+    "DESCRIPTION": "Engedélyezi az utolsó felvonást."
   }
 }

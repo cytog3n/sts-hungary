@@ -7,92 +7,92 @@
     ]
   },
   "ToughEnemies": {
-    "NAME": "Shield of Blight",
+    "NAME": "A rontás Pajzsa",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "Az ellenfeleknek #b",
+      "% -al több az életerejük."
     ]
   },
   "TimeMaze": {
-    "NAME": "Time Maze",
+    "NAME": "Idő labirintus",
     "DESCRIPTION": [
-      "You cannot play more than #b",
-      " cards per turn.",
-      "I can only play up to NL #r"
+      "Nem játszhatsz ki több mint #b",
+      " kártyát egy körben.",
+      "Csak ennyi kártyát játszhatok ki: #r"
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Örvénylő elme",
     "DESCRIPTION": [
-      "At the end of your turn, add #b",
-      " random Status card to the top of your draw pile.",
+      "A köröd végén kapsz #b",
+      " véletlenszerű Státusz kártyát a húzópaklid tetejére.",
       ""
     ]
   },
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "Elátkozott",
     "DESCRIPTION": [
-      "Whenever you defeat a Boss, obtain #b",
-      " random #yCurses.",
+      "Amikor legyőzöl egy Vezért, kapsz #b",
+      " véletlenszerű #yÁtkot.",
       ""
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Kelekótya",
     "DESCRIPTION": [
-      "Draw #b",
-      " less card a turn.",
+      "Húzz #b",
+      " kártyával kevesebbet a körödben.",
       ""
     ]
   },
   "MimicInfestation": {
-    "NAME": "Mimic Infestation",
+    "NAME": "Utánzó invázió",
     "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites. Elites no longer drop relics."
+      "A ládás szobák helyett elit ellenfelek vannak. Az elitek nem adnak több relikviát."
     ]
   },
   "FullBelly": {
-    "NAME": "Muzzle",
+    "NAME": "Szájkosár",
     "DESCRIPTION": [
-      "You can no longer increase your Max HP. All healing is halved."
+      "Nem bírod többé növelni a máximális életerőd. Az életerőt töltő hatások feleződnek."
     ]
   },
   "GrotesqueTrophy": {
-    "NAME": "Grotesque Trophy",
+    "NAME": "Groteszk trófea",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " #rPrides.",
-      "Your Pride is twisted..."
+      "Felvételnél kapsz #b",
+      " #rBüszkeséget.",
+      "A büszkeséged fura..."
     ]
   },
   "BlightedDurian": {
-    "NAME": "Post-Durian",
+    "NAME": "Durián",
     "DESCRIPTION": [
-      "Lose #b",
-      "% of your Max HP."
+      "Elveszíted a maximális életerőd #b",
+      "% -át."
     ]
   },
   "VoidEssence": {
-    "NAME": "Void Essence",
+    "NAME": "Üresség esszencia",
     "DESCRIPTION": [
-      "Gain #b",
-      " less [E] at the start of each turn."
+      "A köröd elején #b",
+      " energiával kevesebbet kapsz."
     ]
   },
   "GraspOfShadows": {
-    "NAME": "Hauntings",
+    "NAME": "Kísértés",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yIntangible."
+      "Az ellenfeleid kapnak #b",
+      " #yMegfoghatatlanságot a harc elején."
     ]
   },
   "MetallicRebirth": {
-    "NAME": "Ancient Augmentation",
+    "NAME": "Ősi növekedés",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yArtifact, #b",
-      " #yPlated #yArmor, and #b",
-      " #yRegenerate."
+      "Az ellenfelek #b",
+      " #yKészítményt, #b",
+      " #yErősített #yPáncélt, és #b",
+      " #yRegenerálódást kapnak."
     ]
   }
 }

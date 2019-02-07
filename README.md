@@ -26,5 +26,5 @@ Status:
 - tutorials.json
 - ui.json - translated by Spartalos
 
-Need revision because of the updates: powers, characters, monsters, ui.
+Need revision because of the updates: powers.
 

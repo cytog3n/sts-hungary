@@ -1,221 +1,221 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
+      "Ha a húzópaklid üres, a dobópaklid lesz visszakeverve. NL NL Kattints, hogy megnézd a kártyákat a dobópaklidban."
     ],
     "LABEL": [
-      "Discard Pile"
+      "Dobópakli"
     ]
   },
   "Draw Tip": {
     "TEXT": [
-      "At the start of each turn, NL #b",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      "Minden kör elején, NL #b",
+      " innen húzol kártyát. NL NL Kattints, hogy megnézd a húzópaklidban lévő kártyákat. (kevert).",
+      " innen húzol kártyát. NL NL Kattints, hogy megnézd a húzópaklidban lévő kártyákat."
     ],
     "LABEL": [
-      "Draw Pile"
+      "Húzópakli"
     ]
   },
   "End Turn Tip": {
     "TEXT": [
-      "Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
-      " cards, then it will be your turn again."
+      "Ezt a gombot megnyomva befejezed a körödet. NL NL Eldobod a kezedben lévő kártyákat, az ellenfelek lejátszák a körüket, majd megint húzol ",
+      " kártyát és kezdődik a következő köröd."
     ],
     "LABEL": [
-      "End Turn"
+      "Kör vége"
     ]
   },
   "Energy Panel Tip": {
     "TEXT": [
-      "Your current energy count. Cards require energy to play."
+      "A jelenlegi energiád. A kártyák kijászásához energia szükséges."
     ],
     "LABEL": [
-      "Energy"
+      "Energia"
     ]
   },
   "Energy Tip": {
     "TEXT": [
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn."
+      "A kártyák kijászásához energia szükséges! NL A gömb bal oldalt alul mutatja a maradék energiád."
     ],
     "LABEL": [
-      "Energy Cost"
+      "Energia költség"
     ]
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Kattints hogy megnézd a harcban Kimerített kártyáidat."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Kimerített kártyák"
     ]
   },
   "FTUE Tips": {
     "TEXT": [],
     "LABEL": [
-      "Tip: ",
-      "Got It"
+      "Tipp: ",
+      "Értem"
     ]
   },
   "Main Tutorial": {
     "TEXT": [
-      "Defeat enemies by playing cards from your hand! NL NL Cards require #yEnergy to play. NL Once you are out, end your turn. NL NL At the start of your turn, new cards are drawn and your #yEnergy is replenished.",
-      "Play defensive cards to gain #yBlock when enemies are about to attack you. NL NL #yBlock reduces incoming attack damage but NL #rwears #roff at the start of your next turn.",
-      "During your turn, you can observe an enemy's #yIntent above them. NL NL If an enemy is intent on attacking you, be sure to gain some #yBlock!"
+      "Győzd le az ellenfeleidet a kezedben lévő kártyák kijátszásával. NL NL A kártyák kijátszásához #yEnergiára van szükséged. NL Ha elfogyott az energiád, fejezd be a körödet. NL NL A köröd elején új kártyákat húzol és az #yEnergiád is visszatöltődik.",
+      "Játsz ki védekező kártyákat hogy #yVédelmet halmozz fel amikor az ellenfelek támadni szándékoznak. NL NL A #yVédelem csökkenti a sebzést, de #rmegszűnik a következő köröd elején.",
+      "A köröd alatt megtekintheted az ellenfeled #yszándékát a lény felett. NL NL Ha az ellenfél támadni szándékozik, gondoskodj a megfelelő mennyiségű #yVédelemről!"
     ],
     "LABEL": [
-      "Next",
-      "I'm Ready!",
-      "Tutorial",
-      "(Page ",
-      " of 3)"
+      "Következő!",
+      "Készenállok!",
+      "Bemutató",
+      "(Oldal ",
+      " / 3)"
     ]
   },
   "Options Tip": {
     "TEXT": [
-      "Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
-      "Slay the Spire runs the fastest when running in true fullscreen. Recommended for macOS as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
-      "As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
-      "Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate.",
-      "Controller support incomplete for this screen."
+      "A játékmenetre vonatkozó adatokat és hibajelentéseket a Mega Crit megkapja a játék javítása érdekében. NL NL Személyes azonosításra szolgáló adatokat NEM kerülnek gyűjtésre.",
+      "A Slay the Spire teljes képernyőben a legygyorsabb. Ajánlott macOS esetén, mivel eltünteti a Dock-ot és a Menüt. NL Megj.: Számítógépen az ALT-TAB nem működik, csak szegély nélküli módban.",
+      "Mivel a Slay the Spire nem egy nagy igényeket támasztó játék, mi a szegély nélküli teljes képernyőt ajánljuk a gyors ALT-TAB miatt. Számítógépen a legjobb.",
+      "Megj.: Ha a VSync be van kapcsolva, a maximum képsebesség nem lehet több mint a monitor frissítési frekvenciája.",
+      "A játékvezérlő támogatás nem teljes ezen a képernyőn."
     ],
     "LABEL": [
-      "Metrics",
-      "Fullscreen",
-      "Borderless Fullscreen",
-      "Max Framerate"
+      "Adatok",
+      "Teljes képernyő",
+      "Szegélymentes teljes képernyő",
+      "Maximum képsebesség"
     ]
   },
   "Player Tips": {
     "TEXT": [
-      "This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
-      "Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn.",
-      "My #rHand #ris #rFull!",
-      "#rMaximum Orb capacity has been met.",
-      "I have no Orb slots."
+      "Ez a kártya Hatalommal ruház fel ha kijátszod. NL A Hatalmak passzív képességek amiknek a hatása megmarad a harc erejéig.",
+      "A kártyák kijászásához energia szükséges! NL A gömb bal oldalt alul mutatja a maradék energiád.",
+      "A #rKezem #rtele #rvan!",
+      "Elértem a #rmaximum gömbök számát.",
+      "Nincsen gömb foglalatom."
     ],
     "LABEL": [
-      "Power Cards",
-      "Energy Cost"
+      "Hatalom kártyák",
+      "Energia költség"
     ]
   },
   "Potion Panel Tip": {
     "TEXT": [
-      "Throws this potion at your enemy.",
-      "Consume this potion.",
-      "Discards this potion NL #r(cannot #rbe #rundone)"
+      "Hajítsd ezt az italt az ellenfelednek.",
+      "Fogyaszd el ezt az italt.",
+      "Dobd el ezt az italt. NL #r(nem #rlehet #rvisszacsinálni)"
     ],
     "LABEL": [
-      "Throw",
-      "Drink",
-      "Discard"
+      "Hajítás",
+      "Ivás",
+      "Eldobás"
     ]
   },
   "Potion Tip": {
     "TEXT": [
-      "Drink or throw potions during combat! NL Potions stay with you between rooms."
+      "Idd meg vagy hajítsd el az italokat a harc alatt! NL Az italok megmaradnak veled a szobák között."
     ],
     "LABEL": [
-      "Potions"
+      "Italok"
     ]
   },
   "Random Tips": {
     "TEXT": [
-      "Engage with other players to discover new and effective strategies.",
-      "There is always a rest site before a boss.",
-      "Spend gold at shops! (Tip paid for by Merchant)",
-      "Take a break every now and then.",
-      "You can right click cards on the card reward screen to see extra info.",
-      "Percentage-based calculations always round down at the end.",
-      "During combat, you can view the contents of your draw and discard piles.",
-      "Useful information can be revealed by hovering over most objects.",
-      "Toggle tips on/off by clicking on the ? button in the top right corner.",
-      "Right click will release any cards you are dragging.",
-      "Hover over an enemy to see their name and Power information.",
-      "Use the scroll wheel or click and drag the screen to scroll.",
-      "If you can inspect an item, your cursor will become a magnifying glass.",
-      "There is no limit to how many relics you can carry.",
-      "Chests will always drop a relic.",
-      "Every path you take will always have at least 1 treasure room.",
-      "Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
-      "Elite enemies will always drop a relic.",
-      "You will never see the same relic twice in one run.",
-      "Uncommon cards have a blue frame and banner.",
-      "Rare cards have a golden frame and banner.",
-      "The rarity of a card is visible on the card itself.",
-      "It is not always wise to add cards to your deck.",
-      "Cards exhausted during combat are not removed from your deck.",
-      "You can only have up to 10 cards in your hand.",
-      "Status cards go away at the end of combat.",
-      "Curses cannot be upgraded. Why would you?",
-      "Upgraded cards may appear in rewards past Act 1.",
-      "Unknown rooms may contain treasures, monsters, shops, or events.",
-      "The Merchant doesn't offer refunds. He is a jerk.",
-      "The card removal service increases in price whenever you use it.",
-      "The card removal service can only be used once at each shop.",
-      "Damage from potions, relics, and powers are not considered attack damage.",
-	  "Effects that generate random cards during combat will never heal you."
+      "Beszélgess más játékosokkal hogy új stratégiákat ismerj meg.",
+      "Minden vezér előtt van egy pihenőhely.",
+      "Költsd el az aranyad a boltokban! (Fizetett reklám)",
+      "Néha tarts egy kis szünetet.",
+      "Ha jobb klikkel kattintasz egy kártyára, extra információkat tudhatsz meg róla.",
+      "A százalék alapú számítások mindig lefele vannak kerekítve.",
+      "Harc alatt megnézheted a húzó- és dobópaklid tartalmát.",
+      "Hasznos információkat tudhatsz meg a legtöbb dologról ha ráviszed az egeret.",
+      "A jobb felső sarokban lévő ? -re kattintva kapcsolhatod ki/be a tippeket.",
+      "A jobb klikk elengedi az éppen húzott kártyádat.",
+      "Vidd rá az egeret az ellenfélre hogy lásd a nevét és aktív Hatalmait.",
+      "Használd az egérgörgőt vagy kattints és húzd a képernyőt a görgetéshez.",
+      "Ha meg bírsz vizsgálni egy tárgyat, az egered nagyítóvá változik.",
+      "Nincsen limitálva hogy mennyi relikviát hordhatsz magadnál.",
+      "A ládákban mindig van relikvia.",
+      "Minden útvonalon van legalább egy láda.",
+      "Használd az egérgörgőt vagy kattints és húzd a képernyőt a térképen, kártya- és egyéb képernyőn lévő görgetéshez.",
+      "Az elit ellenfelek mindig adnak relikviát.",
+      "Sosem fogod ugyan azt a relikviát kétszer látni egy menetben.",
+      "A ritka kártyák kék színű kerettel rendelkeznek.",
+      "A kivételes kártyák arany színű kerettel rendelkeznek.",
+      "A kártya ritkasága látható magán a kártyán.",
+      "Nem mindig bölcs kártyát adni a paklidhoz.",
+      "A kártyák amiket a harc alatt kimerítesz, nem lesznek eltávolítva a paklidból.",
+      "Egyszerre maximum 10 kártya lehet a kezedben.",
+      "A státusz kártyák eltűnnek a harc végén.",
+      "Az átkokat nem bírod fejleszteni. Miért tennéd?",
+      "Fejlesztett kártyák csak az első felvonás után jelennek meg jutalomként.",
+      "Az ismeretlen szobákban lehet láda, szörny, bolt vagy pedig esemény.",
+      "A kereskedő nem térít vissza semmit. Ő egy surmó.",
+      "A kártya eltávolító szolgáltatás növeli az árát amikor használod.",
+      "A kártya eltávolító szolgáltatást boltonként csak egyszer használhatod.",
+      "Az ital, relikvia és hatalom által okozott sebzések nem számítanak támadásnak.",
+      "Az effektek amik véletlenszerű kártyát generálnak harc alatt, soha nem töltenek vissza életerőt."
     ],
     "LABEL": [
-      "You can discard potions to make room for others."
+      "Eldobhatsz italokat hogy másik italnak szabadíts fel helyet."
     ]
   },
   "Relic Tip": {
     "TEXT": [
-      "Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
-      "This relic remains to be seen.",
-      "This relic is used up."
+      "A relikviák a Toronyban egyedi bónuszokat adnak és megmaradnak a menet hátralevő részére. NL Megtalálhatók erős szörnyeknél és a ládákban.",
+      "Ez a relikvia látható marad.",
+      "Ez a relikvia elhasználódott."
     ],
     "LABEL": [
-      "Relics",
-      "Unknown",
-      "This relic has yet to be unlocked.",
-      "Locked"
+      "Relikviák",
+      "Ismeretlen",
+      "Ez a relikvia nem lett még feloldva.",
+      "Lezárva"
     ]
   },
   "Rewards Tip": {
     "TEXT": [
-      "Don't forget your rewards! NL Just click on them to pick them up."
+      "Ne feledd a jutalmakat! NL Csak kattints rájuk hogy felvedd őket."
     ],
     "LABEL": [
-      "Rewards"
+      "Jutalmak"
     ]
   },
   "Shop Tip": {
     "TEXT": [
-      "Remove a card from your deck. The cost of this service increases by #b",
-      " for the rest of this run."
+      "Távolíts el egy kártyát a paklidból. A költsége a szolgáltatásnak nő #b",
+      " arannyal a menet hátralevő részében."
     ],
     "LABEL": [
-      "Card Removal Service"
+      "Kártya eltávolító szolgáltatás"
     ]
   },
   "Shuffle Tip": {
     "TEXT": [
-      "NL If there are no cards to draw, your discard pile is shuffled into the draw pile."
+      "NL Ha nem maradt több kártya amit felhúzhatnál, a dobópaklid lesz visszakeverve a húzópaklidba."
     ],
     "LABEL": [
-      "No More Cards?"
+      "Nincs több kártyád?"
     ]
   },
   "Top Panel Tips": {
     "TEXT": [
-      "Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
-      "View all of the cards in your deck.",
-      "View this current dungeon's map.",
-      "If you run out of HP, you die.",
-      "Shows how much gold you are carrying. Gold is the currency within the Spire.",
+      "Megnyitja a játék menüjét. NL NL Módosítsd a grafikai, hang és játék beállításaidat itt.",
+      "Nézd meg az összes kártyát a paklidban.",
+      "Nézd meg a jelenlegi pálya térképét.",
+      "Ha elfogy az életerőd, elbuksz.",
+      "Megmutatja mennyi aranyat cipelsz. A Toronyban az arany a pénznem.",
       "",
       "",
-      "Elapsed time for this run."
+      "Az eltelt idő."
     ],
     "LABEL": [
-      "Settings",
-      "Deck",
-      "Map",
-      "Hit Points (HP)",
-      "Money Pouch",
-      "Run Timer"
+      "Beállítások",
+      "Pakli",
+      "Térkép",
+      "Életerőpont",
+      "Pénzeszsák",
+      "Menetidő"
     ]
   }
 }

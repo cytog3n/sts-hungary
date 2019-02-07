@@ -19,7 +19,7 @@
     "TEXT": [
       "Halott",
       "Hárított",
-      "Max HP +",
+      "Maximum életerő +",
       "Kábult!",
       "Félbeszakított!",
       "Ereklyék"
@@ -28,7 +28,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Folytatás",
-      "Blights:"
+      "Rontások:"
     ]
   },
   "AbstractMonster": {
@@ -44,7 +44,7 @@
       " alkalommal.",
       "Ez az ellenfél #yErősít és #yTámadni fog #b sebzéssel.",
       "Taktikus",
-      "Ez az ellenfél #yNegatív #yHatást akar rád rakni és #yTámadni fog #b",
+      "Ez az ellenfél #yNegatív #yHatást okoz és #yTámadni fog #b",
       "Ez az ellenfél #yVédekezni és #yTámadni fog #b sebzéssel.",
       "Védekező",
       "Gyáva",
@@ -53,13 +53,13 @@
       "Elkábított",
       "Ismeretlen",
       "Ez az ellenfél #yErősíteni fog.",
-      "Ez az ellenfél #yNegatív #yHatást akar rád rakni.",
-      "Ez az ellenfél erőteljes #yNegatív #yHatást akar rád rakni.",
+      "Ez az ellenfél #yNegatív #yHatást okoz.",
+      "Ez az ellenfél erőteljes #yNegatív #yHatást okoz.",
       "Ez az ellenfél #yVédekezni fog a körében.",
       "Ez az ellenfél #yVédekezni fog és #yNegatív #yHatást tesz rád.",
       "Ez az ellenfél #yVédekezni fog és #yErősíti magát.",
-      "Ez az ellenfél #yMenekülni szeretne.",
-      "Ez az ellenfél titokzatos #yMágiát szeretne használni a körében.",
+      "Ez az ellenfél #yMenekülni fog.",
+      "Ez az ellenfél titokzatos #yMágiát fog használni a körében.",
       "Ez az ellenfél elaludt.",
       "Ez az ellenfél #yKábult a körében.",
       "Ez az ellenfél #yIsmeretlen (nem támadó) szándékú.",
@@ -87,8 +87,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Válassz egy Kártyát, hogy hozzáadd a kezedhez.",
-      "Válassz több Kártyát hogy hozzáadd a kezedhez."
+      "Válassz egy kártyát, hogy a kezedbe vedd.",
+      "Válassz több kártyát hogy a kezedbe vedd."
     ]
   },
   "ApplyPowerAction": {
@@ -106,42 +106,42 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Az Elitek gyakrabban jelennek meg.",
-      "A Normál ellenfelek halálosabbak.",
-      "Az Elitek halálosabbak.",
-      "A Vezérek halálosabbak.",
-      "A Vezérek elleni csaták után kevesebbet gyógyulsz.",
+      "Az elitek gyakrabban jelennek meg.",
+      "A normál ellenfelek halálosabbak.",
+      "Az elitek halálosabbak.",
+      "A vezérek halálosabbak.",
+      "A vezérek elleni csaták után kevesebbet gyógyulsz.",
       "Kezdj minden menetet sebesülten.",
-      "A Normál ellenfelek erősebbek.",
-      "Az Elitek erősebbek.",
-      "A Vezérek erősebbek.",
-      "Kezdj minden menetet Elátkozva.",
-      "Kevesebb hely a Bájitaloknak.",
-      "Fejlesztett Kártyák kevesebbszer jelennek meg.",
-      "Szegény Vezérek.",
-      "Kevesebb a Max HP-d.",
-      "Kedvezőtlen Események.",
+      "A normál ellenfelek erősebbek.",
+      "Az elitek erősebbek.",
+      "A vezérek erősebbek.",
+      "Kezdj minden menetet elátkozva.",
+      "Kevesebb hely a bájitaloknak.",
+      "Fejlesztett kártyák ritkábban jelennek meg.",
+      "Szegény vezérek.",
+      "Kevesebb a maximális életerőd.",
+      "Kedvezőtlen események.",
       "A boltok sokkal drágábbak.",
-      "A Normál ellenfelek nagyobb kihívást jelentő képességekkel rendelkeznek.",
-      "Az Elitek ellenfelek nagyobb kihívást jelentő képességekkel rendelkeznek.",
-      "A Vezérek nagyobb kihívást jelentő képességekkel rendelkeznek.",
-      "(Max Szint) Dupla vezér."
+      "A normál ellenfelek nagyobb kihívást jelentő képességekkel rendelkeznek.",
+      "Az elitek ellenfelek nagyobb kihívást jelentő képességekkel rendelkeznek.",
+      "A vezérek nagyobb kihívást jelentő képességekkel rendelkeznek.",
+      "(Max Szint) Dupla vezér a harmadik felvonásban."
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Felemelkedési Mód ",
-      " Feloldva!"
+      "Felemelkedési mód ",
+      " feloldva!"
     ]
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Felemelkedés Feloldva!"
+      "Felemelkedés feloldva!"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Válassz egy Támadást hogy Hozzáadd a Kezedhez."
+      "Válassz egy Támadást hogy kezedbe vedd."
     ]
   },
   "BattleStartEffect": {
@@ -161,17 +161,17 @@
     "TEXT": [
       "Megerősít",
       "Erősítsd meg a választásod",
-      "Válassz egy Ereklyét",
+      "Válassz egy relikviát",
       "Kihagyás",
       "SZAVAZZ MOST: ",
       " maradt.",
-      "Válassz egy Rontást"
+      "Válassz egy rontást"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Válassz egy Kártyát, hogy áthelyezd a Húzópaklid Tetejére.",
-      "Válassz Kártyákat, hogy áthelyezd őket a Húzópaklid Tetejére."
+      "Válassz egy kártyát, hogy a húzópaklid tetejére tedd.",
+      "Válassz kártyákat, hogy a húzópaklid tetejére tedd."
     ]
   },
   "CampfireSleepEffect": {
@@ -181,12 +181,12 @@
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Válassz egy Kártyát a Fejlesztéshez"
+      "Válassz egy kártyát a fejlesztéshez."
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Válasszon egy Kártyát az Eltávolításhoz."
+      "Válassz egy kártyát amit eltávolítanál."
     ]
   },
   "CampfireUI": {
@@ -202,12 +202,12 @@
   },
   "Cancel Button": {
     "TEXT": [
-      "Mentés Törlése"
+      "Mentés törlése"
     ]
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "Gyakoríság",
+      "Gyakoriság",
       "Típus",
       "A-Z",
       "Költség",
@@ -220,57 +220,57 @@
       "Piros",
       "Zöld",
       "Kék",
-      "Színtelen",
+      "Szürke",
       "Átkok",
       "Státuszok",
-      "Fejlesztés Megtekintése"
+      "Fejlesztés megtekintése"
     ]
   },
   "CardRewardScreen": {
     "TEXT": [
       "Kihagyás",
-      "Válassz egy Kártyát",
-      "+2 Max HP",
+      "Válassz egy kártyát",
+      "+2 max élet",
       "SZAVAZZ: ",
       "maradt",
-      "Fejlesztés Megtekintése"
+      "Fejlesztés megtekintése"
     ]
   },
   "CharacterOption": {
     "TEXT": [
       "Zárolt",
       "Ez a karakter feloldható egy menet teljesítésével.",
-      "Ez a karakter még mindig nem elérhető a Korai Hozzáférés időszakában.",
-      "Ez a karakter feloldható ha teljesítesz egy menetet A Szótlan-nal.",
-      "HP: ",
+      "Ez a karakter még nem elérhető a korai hozzáférés időszakában.",
+      "Ez a karakter feloldható ha teljesítesz egy menetet a Szótlannal.",
+      "Életerő: ",
       "Arany: ",
-      " Feloldás Hátramaradt",
+      " Feloldás hátramaradt",
       "Ismeretlen",
       "???",
-      " A Következő Feloldáshoz"
+      " A Következő feloldáshoz"
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
       "Válaszd ki a karaktered",
-      "Nekikezd",
+      "Kezdés",
       "A Páncélos",
       "A Szótlan",
       "A Hiányos",
       "Vissza",
       "Felemelkedés",
       "Szint ",
-      "Felemelkedés Mód",
-      "A menetek egyre nehezebbek minden győzelemmel... (Winstreak-ek nincsenek hatással erre)",
+      "Felemelkedés mód",
+      "A menetek egyre nehezebbek minden győzelemmel... (winstreak-ek nincsenek hatással erre)//",
       "Seed ",
-      "Véletlen Seed",
+      "Véletlen seed",
       "A kezdő seed határozza meg, hogy mi fog generálódni a menet során.",
-      "Seed Beállítása"
+      "Seed beállítása"
     ]
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "Válassz ki egyet"
+      "Válassz egyet"
     ]
   },
   "CombatRewardScreen": {
@@ -324,14 +324,14 @@
       "Mai karakter: ",
       "dd/MM/yyyy HH:mm:ss",
       "Hátralevő idő: ",
-      "#ySzint #yElérve: NL  ",
+      "#ySzint #yelérve: NL  ",
       " NL NL  #yPakli: NL ",
-      " NL NL  #yEreklyék: NL  ",
-      " NL Mai kihívás: NL #yClass: NL ",
-      " NL #yMods: ",
+      " NL NL  #yRelikviák: NL  ",
+      " NL Mai kihívás: NL #yKarakter: NL ",
+      " NL #yModifikációk: ",
       "Modifikációk: ",
       "Eredményjelző",
-      "*Achievmenteket nem lehet elérni a napi kihívások során.",
+      "*Teljesítményeket nem lehet elérni a napi kihívások során.",
       "  [OFFLINE MÓD]"
     ]
   },
@@ -351,7 +351,7 @@
       "Meggyalázott",
       "Pusztulás",
       "Leigázott",
-      "Le Lettél Mészárolva!",
+      "Elbuktál!",
       "Egy ismerős érzés.",
       "Egy kis pihenés jól hangzik.",
       "Ki mint vet, úgy arat.",
@@ -371,48 +371,48 @@
       "Elfogadás",
       "Folytatás",
       "Újra",
-      "Fő Menü",
+      "Főmenü",
       "Folytatás",
       "Felold",
-      "Fő Menü",
+      "Főmenü",
       "Újra",
       "Folytatás",
       "Felold",
-      "Feloldás Hátravan: ",
-      "Feloldás Hátravan: ",
-      "Ellenfelek Legyőzve",
-      "Elitek Megölve",
-      "Elköltetlen Arany",
-      "HP Bónusz"
+      "Feloldás hátravan: ",
+      "Feloldás hátravan: ",
+      "Legyőzött ellenfelek",
+      "Legyőzött elitek",
+      "Félretett arany",
+      "Életerő bónusz"
     ],
     "EXTRA_TEXT": [
-      "Bevezető Elitek Megölve",
-      "Városi Elitek Megölve",
-      "Másvilági Elitek Megölve",
+      "Bevezető elitek legyőzve",
+      "Városi elitek legyőzve",
+      "Másvilági elitek legyőzve",
       "Gyorshajtó",
-      "LFény Sebesség",
+      "Fénysebesség",
       "Hegylakó",
-      "Gyűjtemény",
-      "Teljes Felszerelés",
+      "Gyűjögető",
+      "Teljes felszerelés",
       "Koldus",
       "Könyvtáros",
-      "Enciklopédia",
-      "Jól Táplált",
-      "Tele Töltött",
+      "Művelt",
+      "Jóllakott",
+      "Kitömött",
       "Átkozott!",
-      "Saját Feltételek Mellett",
+      "Az én feltételeimmel",
       "Bajnok",
       "Tökéletes",
-      "Tökéletesen Túl",
+      "Tökéletesen túl",
       "Túlzás",
-      "K-K-K-Kombó",
+      "K-k-k-kombó",
       ""
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Felemelkedés Mód Szint ",
-      " Feloldva!"
+      "Felemelkedés mód szint ",
+      " feloldva!"
     ]
   },
   "DeletePopup": {
@@ -426,7 +426,7 @@
   "Dig Option": {
     "TEXT": [
       "Ásás",
-      "Áss fel egy véletlenszerű ereklyét."
+      "Áss ki egy véletlenszerű relikviát."
     ]
   },
   "DiscardAction": {
@@ -436,35 +436,35 @@
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "A Dobópaklim #rüres."
+      "A dobópaklim #rüres."
     ]
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Válassz egy Kártyát, hogy visszahelyezd a Kezedbe."
+      "Válassz egy kártyát, hogy a kezedbe vedd."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Válassz egy Kártyát, hogy visszahelyezd a Húzópaklid tetejére."
+      "Válassz egy kártyát, hogy húzópaklid tetejére tedd."
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Az itt levő Kártyák összekeverve visszakerülnek a Húzópaklidba ha az kiürül.",
+      "Az itt lévő kártyák összekeverve visszakerülnek a húzópaklidba ha az kiürül.",
       "Vissza",
       "Dobópakli"
     ]
   },
   "DrawPilePanel": {
     "TEXT": [
-      "A Húzópaklim #rüres."
+      "A húzópaklim #rüres."
     ]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-      "Minden kör elején innen húzunk Kártyákat.",
-      "(Gyakoriság alapján vannak rendezve a Kártyák)",
+      "Minden kör elején innen húzol.",
+      "(Gyakoriság alapján vannak rendezve a kártyák)",
       "Vissza",
       "Húzópakli"
     ]
@@ -476,7 +476,7 @@
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Válassz egy Kezdő Szobát",
+      "Válassz egy kezdő szobát",
       "Vissza"
     ]
   },
@@ -484,21 +484,21 @@
     "TEXT": [
       "Oktatás",
       "Szeretnél kapni tippeket a játékod során?",
-      "1. Fejezet",
+      "1. Felvonás",
       "Bevezető",
       "2. Fejezezet",
       "A Város",
-      "3. Fejezet",
+      "3. Felvonás",
       "A Másvilág",
-      "?. Fejezet",
+      "?. Felvonás",
       "???",
-      "Kattints valahova a Folytatáshoz"
+      "Kattints a folytatáshoz"
     ]
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "Mi az a Korai Hozzáférés?",
-      "Mi az a Nyílt Béta?",
+      "Mi az a korai hozzáférés?",
+      "Mi az a nyílt béta?",
       "Slay the Spire jelenleg is aktív fejlesztés alatt van! NL Számtalan funkció, kártya, és ellenfél folyamatos változásokon megy keresztül. NL NL Ha valami problémába ütközöl vagy lenne visszajelzésed, kérjük tudasd a #bSteam #bDiscussions oldalunkon. NL NL Ennyi elég is az olvasásból, hajrá, van egy torony amit meg kell másznod!",
       "Slay the Spire jelenleg is aktív fejlesztés alatt van! NL Ezen felül, te még a Béta a verziójával játszol a játéknak. NL NL Kérjük tudasd velünk, ha bármi problémába ütközöl, és ne lepődj meg ha ideiglenes megoldásokkal találkozol. NL NL Ennyi elég is az olvasásból, hajrá, van egy torony amit meg kell másznod!",
       "Kattints a kezdéshez!",
@@ -524,7 +524,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Válassz egy Kártyát, hogy visszatedd a Kezedbe"
+      "Válassz egy kártyát, hogy a kezedbe vedd"
     ]
   },
   "ExitGameButton": {
@@ -539,7 +539,7 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Kicserél (Szerencsejátékos zseton)",
+      "Kicserél (Zseton)",
       "Kicserél"
     ]
   },
@@ -563,12 +563,12 @@
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Erősítsd meg a Kártyát, hogy ",
-      "Erősítsd meg a Kártyákat, hogy ",
+      "Erősítsd meg a kártyát, hogy ",
+      "Erősítsd meg a kártyákat, hogy ",
       "Válassz ",
-      " Kártyákat, hogy ",
-      "Válassz Kártyákat, hogy ",
-      "Válassz egy Kártyát, hogy "
+      " kártyákat, hogy ",
+      "Válassz kártyákat, hogy ",
+      "Válassz egy kártyát, hogy "
     ]
   },
   "HiddenChamberAction": {
@@ -607,22 +607,22 @@
       "Kör vége",
       "Balra",
       "Jobbra",
-      "#1. Kártya Kiválasztása",
-      "#2. Kártya Kiválasztása",
-      "#3. Kártya Kiválasztása",
-      "#4. Kártya Kiválasztása",
-      "#5. Kártya Kiválasztása",
-      "#6. Kártya Kiválasztása",
-      "#7. Kártya Kiválasztása",
-      "#8. Kártya Kiválasztása",
-      "#9. Kártya Kiválasztása",
-      "#10. Kártya Kiválasztása",
+      "#1. Kártya kiválasztása",
+      "#2. Kártya kiválasztása",
+      "#3. Kártya kiválasztása",
+      "#4. Kártya kiválasztása",
+      "#5. Kártya kiválasztása",
+      "#6. Kártya kiválasztása",
+      "#7. Kártya kiválasztása",
+      "#8. Kártya kiválasztása",
+      "#9. Kártya kiválasztása",
+      "#10. Kártya kiválasztása",
       "Kártya elengedése",
       "Kiválaszt*",
       "Mégsem*",
       "Felső Panel*",
       "Folytatás / Kör Vége*",
-      "Balra Tab / Pakli Megtekintése*",
+      "Balra Tab / Pakli megtekintése*",
       "Jobbra Tab / Elhasznált pakli*",
       "Térkép*",
       "Beállítások*",
@@ -674,11 +674,11 @@
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Páncélos",
+      "A Páncélos",
       "A Szótlan",
-      "Hiányos",
+      "A Hiányos",
       "Átlagosan elért szint (Utolsó 20 próbálkozás)",
-      "Átlagos pontszám Utolsó 20 próbálkozás)",
+      "Átlagos pontszám (Utolsó 20 próbálkozás)",
       "Leghosszabb győzelmi sorozat",
       "Leggyorsabb győzelem",
       "Legtöbb pontszám",
@@ -694,14 +694,14 @@
       "Karakter",
       "Régió",
       "Típus",
-      "Mutasd a Pontszámomat",
+      "Mutasd a pontszámomat",
       "Rang",
       "Név",
       "Pontszám",
       "Adatok lekérdezése...",
       "Toplista (MEGJEGYZÉS: Hetente törlésre kerül)",
       "Nincs csatlakozva a Steam-hez",
-      "Nem elérhetőek a pontszámok \n Menj, Küzd Le a Tornyot!"
+      "Nem elérhetőek a pontszámok \n Menj, küzdd le a Tornyot!"
     ]
   },
   "Legend": {
@@ -714,30 +714,30 @@
       "Egy titokzatos kereskedő árulja a portékáját ezen a helyen. NL NL Költsd el a nehezen megszerzett #yAranyad itt!",
       "Kincs",
       "Kincses termek",
-      "#yEreklyék és #yArany találhatóak ezekben az áhított szobákban.",
+      "#yRelikvia és #yArany található ezekben az áhított szobákban.",
       "Pihen",
       "Pihenő helyek",
-      "Állj meg ezekben a szobákban hogy #gGyógyulj néhány HP-t vagy, hogy #yFejlessz egy Kártyát.",
+      "Állj meg ezekben a szobákban hogy #gvisszatölts valamennyi életerőt vagy, hogy #yFejlessz egy kártyát.",
       "Ellenfél",
       "Ellenfelek",
       "Ellenséges ellenfelek találhatóak ezekben a szobákban..",
       "Elit",
       "Elitek",
-      "Erős ellenségek vannak ezekben a szobákban. NL NL Legyőzésük után Ereklyéket szerezhetsz.",
+      "Erős ellenségek vannak ezekben a szobákban. NL NL Legyőzésük után relikviákat szerezhetsz.",
       "Jelmagyarázat"
     ]
   },
   "Lift Option": {
     "TEXT": [
       "Edzés",
-      "Kezd a csatákat +1 Erővel. (Maximum +3)",
+      "Növelheted az #yErődet. (3 alkalommal)",
       ""
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
       "#yVerzió: ",
-      "Nekikezd",
+      "Elkezd",
       "Vissza",
       "kattints a szerkesztéshez",
       "a szerkesztéshez"
@@ -745,7 +745,7 @@
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "Minden csatádat az itt látható kártyákkal kezded.",
+      "Minden harcot ezekkel a kártyákkal kezded.",
       "Vissza"
     ]
   },
@@ -760,7 +760,7 @@
       "Statisztikák",
       "",
       "Kilépés",
-      "Változás napló",
+      "Változások",
       "Menet feladása",
       "",
       "Beállítások",
@@ -770,21 +770,21 @@
   },
   "MenuPanels": {
     "TEXT": [
-      "Standard",
+      "Sztenderd",
       "",
-      "Kezdj neki a küldetésednek, hogy Legyőzd a Tornyot-t.",
-      "Napi Küzdelem",
+      "Kezdj neki a küldetésednek, hogy legyőzd a Tornyot.",
+      "Napi küzdelem",
       "",
       "Minden nap új kihívás vár itt rád.\n\nVersenyezz más játékosokkal a legmagasabb pontszámért!",
       "Felemelkedés",
       "",
-      "A Spire minden egyes győzelemmel egyre erősebb lesz.\n\nTeszteld a legjobb stratégiáid határaid.",
-      "Kártya Könyvtár",
+      "A Torony minden egyes győzelemmel egyre erősebb lesz.\n\nTeszteld a legjobb stratégiáid határaid.",
+      "Kollekció",
       "",
-      "Nézd meg az összes kártyát amivel találkoztál a Spire felé menetelés során.",
-      "Ereklye Gyűjtemény",
+      "Nézd meg az összes kártyát amivel találkoztál a Toronyban.",
+      "Relikvia gyűjtemény",
       "",
-      "Vizsgáld meg az összes tárgyat és ereklyét amivel a meneteid során találkoztál.",
+      "Vizsgáld meg az összes tárgyat és relikviát amivel a Toronyban találkoztál.",
       "Bestiárium",
       "",
       "Ez a funkció még nem elérhető.",
@@ -796,18 +796,18 @@
       "Nézd és hasonlítsd össze a pontszámodat a barátaiddal és a többi játékossal.",
       "Korábbi menetek",
       "",
-      "Tekintsd át a Spire megölésére tett kísérleteid eredményeit.",
-      "Játék Beállítások",
+      "Tekintsd át a Torony legyőzésére tett kísérleteid eredményeit.",
+      "Játék beállítások",
       "",
       "Állítsd be a felbontást és kapcsolj be vagy ki néhány funkciót.",
-      "Irányítás Beállítások",
+      "Irányítás beállítások",
       "",
-      "Állítsd be az irányításokat és a gyors gombjaidat.",
+      "Állítsd be az irányítást és a gyors gombjaidat.",
       "Névjegyzék",
       "",
       "Nézd meg kik vettek részt a Slay the Spire fejlesztésében!",
       "Ismeretlen",
-      "Játsz egyet a Napi Küzdelem-el, hogy felold ezt a menüpontot.",
+      "Játsz egy Napi Küzdelemet, hogy felold ezt a menüpontot.",
       "Ez a funkció még nem használható.",
       "Egyéni",
       "Állítsd be a játékot a saját ízlésed szerint."
@@ -815,7 +815,7 @@
   },
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Kártya Eltávolítás",
+      "Kártya eltávolítás",
       "KIÁRUSÍTÁS",
       "Nem eladó",
       "Elfogyott",
@@ -830,16 +830,16 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Játék Beállítások",
+      "Játék beállítások",
       "Grafika",
       "Felbontás: NL Max Framerate:",
-      "Teljes képernyő NL Szegélymentes Teljes képernyő(ajánlott) NL Képernyő rezgés",
+      "Teljes képernyő NL Szegélymentes teljes képernyő(ajánlott) NL Képernyő rezgés",
       "Hang",
-      "Fő Hangerő NL Zene Hangereje NL Effektek Hangereje",
+      "Fő hangerő NL Zene hangereje NL Effektek hangereje",
       "Környezeti hanghatások NL Némítás ha háttérben van",
       "Beállítások",
-      "Az összeadott sebzés legyen arany színű NL A Blokkolt sebzés legyen kék színű. NL A megerősítés letiltása ha 1 kártyát választunk",
-      "Gyors Mód",
+      "Az összeadott sebzés legyen arany színű NL A levédett sebzés legyen kék színű. NL A megerősítés letiltása ha 1 kártyát választunk",
+      "Gyors mód",
       "",
       "Egyéb",
       "Nyelv:",
@@ -847,26 +847,26 @@
       "Kilépés a Játékból",
       "Mentés & Kilépés",
       "NL NL VSync",
-      "Playtester Art Mode",
-      "Mutasd a Kártyát Gyors Választó Gombok",
+      "Tesztelő rajz mód",
+      "Mutasd a kártya gyorsgombjait",
       "Irányítás Beállítások",
-      "Disable Particle Effects"
+      "Részecske hatások kikapcsolása"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
       "Vissza",
-      "#yPatch #yNotes",
+      "#yFrissítések",
       " NL (IDEIGLENES: Használd a nyilakat a logok közti navigáláshoz)"
     ]
   },
   "PotionPopUp": {
     "TEXT": [
-      "Rádob",
+      "Nekihajít",
       "Ivás",
       "Eldob",
       "Nem tudom használni ezeket a bájitalokat!",
-      "Nem tehetem ezt meg csata közben!"
+      "Nem tehetem ezt csata közben!"
     ]
   },
   "PowerExpireTextEffect": {
@@ -881,13 +881,13 @@
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "a Húzópaklid tetejére tedd"
+      "a húzópaklid tetejére tedd"
     ]
   },
   "Recall Option": {
     "TEXT": [
-      "Recall",
-      "Obtain the Ruby Key."
+      "Emlékezés",
+      "Szerezd meg a Rubint kulcsot."
     ]
   },
   "RecycleAction": {
@@ -899,19 +899,19 @@
     "TEXT": [
       "Vissza",
       "Kezdő:",
-      "Ezekkel az ereklyékkel kezdenek a Karakterek.",
+      "Ezekkel az relikviákkal kezdenek a Karakterek.",
       "Közönséges:",
-      "Gyakran felbukkanó közönséges ereklyék.",
+      "Gyakran felbukkanó közönséges relikviák.",
       "Ritka:",
-      "Erősebb ereklyék, melyek ritkábban találhatóak meg mint a közönséges társaik.",
+      "Erősebb relikviák, melyek ritkábban találhatóak meg mint a közönséges társaik.",
       "Kivételes:",
-      "Egyedi és erőteljes ereklyék melyeket csak ritkán lehet megszerezni.",
+      "Egyedi és erőteljes relikviák melyeket csak ritkán lehet megszerezni.",
       "Vezér:",
-      "Főellenfelek ládáiban megtalálható ereklyék.",
+      "Vezérek ládáiban megtalálható relikviák.",
       "Esemény:",
-      "Eseményeken keresztül megszerezhető ereklyék.",
+      "Eseményeken keresztül megszerezhető relikviák.",
       "Bolt:",
-      "A Kereskedőnél megszerezhető ereklyék."
+      "A Kereskedőnél megszerezhető relikviák."
     ]
   },
   "RenamePanel": {
@@ -935,9 +935,9 @@
   "Rest Option": {
     "TEXT": [
       "Pihenés",
-      "Gyógyítsd vissza a Max HP 100%-t (",
-      " HP from ",
-      "Gyógyítsd vissza a Max HP 30%-t (",
+      "Töltsd vissza az életerőd 100% -át. (",
+      " életerőt ",
+      "Töltsd vissza a maximális életerőd 30% -át (",
       ""
     ]
   },
@@ -953,15 +953,15 @@
   },
   "RewardItem": {
     "TEXT": [
-      " Arany (Vissza lopva)",
+      " Arany (Visszalopva)",
       " Arany",
-      "Adj egy Kártyát a Paklidhoz",
+      "Adj egy kártyát a paklidhoz",
       "",
-      "Válassz egy Kártyát",
-      "Emerald Key",
-      "Sapphire Key",
-      "Linked",
-      "Obtaining this will remove ",
+      "Válassz egy kártyát",
+      "Smaragd kulcs",
+      "Zafír kulcs",
+      "Összekötött",
+      "Ezt felvéve, elveszíted: ",
       "."
     ]
   },
@@ -972,81 +972,81 @@
       "Elit",
       "Esemény",
       "Vezér",
-      "Kincs",
-      "Vezér Kincs",
+      "Láda",
+      "Vezér láda",
       "Pihenő",
       "Kereskedő",
       "Ismeretlen (Ellenség)",
       "Ismeretlen (Kereskedő)",
-      "Ismeretlen (Kincs)",
+      "Ismeretlen (Láda)",
       "Szint %1$s - %2$s",
       "Szint %s",
       "#r%s Sebzés",
       "#r%s Kör",
-      "#r%s #r/ #r%s #rHP",
+      "#r%s #r/ #r%s #rélet",
       "#y%s #yArany",
       "#yMegszerzett:",
       "#yKihagyott:",
       "Hiányzó Info",
-      "+2 Max HP",
+      "+2 max élet",
       "[C] ",
       "[T] ",
       "[P] ",
       "[S] ",
       "#bPihent",
-      "%s #bFejlesztve",
+      "%s #bfelfejlesztve",
       "%s #bEltávolítva",
       "#bÁsott",
-      "#bGyúrt %s/%s",
+      "#bEdzett %s/%s",
       "#yMegvásárolt:",
-      "#rSpent ",
-      "#rTook ",
-      "#rLost ",
-      "%s Max HP",
-      "#bHealed ",
-      "#bGained ",
-      "#bIgnored ",
-      "%s HP",
-      "#bObtained %s",
-      "#rCursed #rwith #r%s",
-      "%s Damage",
-      "#bUpgraded %s",
-      "#bTransformed %s",
-      "#rLost %s",
-      "#bRecalled"
+      "#rKöltött ",
+      "#rElveszített ",
+      "#rElveszített ",
+      "%s maximális életerő",
+      "#bVisszatöltött ",
+      "#bKapott ",
+      "#bKihagyva ",
+      "%s életet",
+      "#bMegszerzett %s",
+      "#rMegátkozva vele: #r%s",
+      "%s életerőt",
+      "%s #bfelfejlesztve ",
+      "#bÁtalakított %s",
+      "#rElvesztett %s",
+      "#bVisszaemlékezett"
     ]
   },
   "RunHistoryMonsterNames": {
     "TEXT": [
-      "Szörnyek Bandája",
-      "Nagy Amóba",
-      "Bevezető Banditái",
-      "Bevezető Állatvilága",
+      "Szörnyek bandája",
+      "Főamőba",
+      "Bevezető banditái",
+      "Bevezető állatvilága",
       "Amőbák sokasága",
       "Kis amőbák",
-      "Város Rablói",
-      "Három Varlyú",
+      "Város rablói",
+      "Három varlyú",
       "Négy varlyú",
-      "Tripla Kultista",
+      "Tripla kultista",
       "Kiválasztott nyáj",
       "Őrszem és a Gömbszerű őr",
-      "Centurio és a misztikus",
-      "Parazita és a Gombás Lény",
+      "Centurio és a Misztikus",
+      "Parazita és a gombás Lény",
       "Maszkos Banditák Csoportja",
-      "Colosseum Szörnyei",
-      "Colosseum Rabszolgái",
-      "Három Alakzat",
+      "Kolosszeum szörnyei",
+      "Kolosszeum rabszolgái",
+      "Három alakzat",
       "Állkapcsos kukac hordája",
       "Négy Alakzat",
       "Gömbszerű Őr és az Alakzatok",
-      "Dupla Lépegető Gömb",
+      "Dupla lépegető gömb",
       "Donu és Deca",
       "Őrszemek",
       "Kiválaszott és Kultista",
-      "(Deprecated) Flame Bruiser",
-      "(Deprecated) Slaver and Parasite",
-      "(Deprecated) Snecko and Mystics",
-      "Shield and Spear"
+      "(Elévült) Tüzes őr",
+      "(Elévült) Rabszolgatartó a parazita",
+      "(Elévült) Snecko és a Misztikus",
+      "Pajsz és dárda"
     ]
   },
   "RunHistoryScreen": {
@@ -1057,7 +1057,7 @@
       "Vissza",
       "Nem találhatóak előzmények. NL Menj Győzd le a Tornyot!",
       "Felemelkedési szint: ",
-      "Lemészárolva a %1$d szinten %2$s által.",
+      "Elbuktál a %1$d szinten. %2$s legyőzött téged.",
       "Menet feladva a %d szinten.",
       "Győzelem!",
       "Kártyák",
@@ -1093,7 +1093,7 @@
       "Adj meg egy egyedi Seed-et:",
       "Megerősít",
       "Mégsem",
-      "*Az Achievement-ek és a Ranglista nem elérhetőek egyedi Seed esetén."
+      "*A teljesítmények és a Ranglista nem elérhetőek egyedi Seed esetén."
     ]
   },
   "SettingsScreen": {
@@ -1118,7 +1118,7 @@
   },
   "ShopRoom": {
     "TEXT": [
-      "Kereskedő Kihagyása"
+      "Kereskedő kihagyása"
     ]
   },
   "SingleCardViewPopup": {
@@ -1129,7 +1129,7 @@
       "Átok",
       "Lezárt",
       "Ismeretlen",
-      "Fejlesztés Megtekintése",
+      "Fejlesztés megtekintése",
       "Státusz",
       "",
       "Csak a saját körömben játszhatok ki kártyákat.",
@@ -1137,7 +1137,7 @@
       "Nincs elég #rEnergiám.",
       "Nincs elég #rTöltet.",
       "Nem játszhatom ki NL ezt a kártyát.",
-      "Beta Art"
+      "Béta rajz"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1152,14 +1152,14 @@
       "Ritka",
       "Lezárt",
       "Ismeretlen",
-      " Ereklye",
+      " Relikvia",
       "Ezt az ereklyét fel kell még oldani.",
-      "Ez az ereklye látható marad."
+      "Ez az Relikvia látható marad."
     ]
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Válassz egy Képességet, hogy a Kezedbe helyezd."
+      "Válassz egy Képességet, hogy a kezedbe vedd"
     ]
   },
   "Smith Option": {
@@ -1171,7 +1171,7 @@
   },
   "StorePotion": {
     "TEXT": [
-      "Nincs helyedre ehhez"
+      "Ez már nem fér el"
     ]
   },
   "TheBeyond": {
@@ -1186,7 +1186,7 @@
   },
   "TheEnding": {
     "TEXT": [
-      "The Ending"
+      "A Vég"
     ]
   },
   "TipHelper": {
@@ -1231,30 +1231,30 @@
     "TEXT": [
       "Kártyák Feloldva!",
       "",
-      "Ereklyék Feloldva!",
+      "Relikviák Feloldva!",
       "Új Karakter",
       "Megjegyzés: A feloldott kártyák megjelennek a jövőbeli meneteid során.",
-      "Megjegyzés: A feloldott ereklyék megjelennek a jövőbeli meneteid során."
+      "Megjegyzés: A feloldott relikviák megjelennek a jövőbeli meneteid során."
     ]
   },
   "UnlockScreen": {
     "TEXT": [
-      "Kártyák Feloldva!",
-      "Ereklyék Feloldva!",
+      "Kártyák feloldva!",
+      "Relikviák feloldva!",
       "Új Karakter",
       "Megjegyzés: A feloldott kártyák megjelennek a jövőbeli meneteid során.",
-      "Megjegyzés: A feloldott ereklyék megjelennek a jövőbeli meneteid során."
+      "Megjegyzés: A feloldott relikviák megjelennek a jövőbeli meneteid során."
     ]
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "Új Feloldás!"
+      "Új feloldás!"
     ]
   },
   "CustomModeScreen": {
     "TEXT": [
       "Egyedi Mód",
-      "Achievement-ek és Ranglista ki van kapcsolva.",
+      "Teljesítmények és Ranglista ki van kapcsolva.",
       "Karakter",
       "Felemelkedés",
       "Szint ",
@@ -1272,26 +1272,26 @@
   },
   "SaveSlotScreen": {
     "TEXT": [
-      "Válassz egy Mentési Helyet",
+      "Válassz egy mentési helyet",
       "Átnevez",
       "Mentés törlése"
     ]
   },
   "VictoryScreen": {
     "TEXT": [
-      "Proceed",
-      "Floors Climbed",
-      "Bosses Defeated",
-      "Play Time",
-      "Score",
-      "Unlock",
-      "Unlocks Remaining: ",
-      "Unlock Remaining: ",
-      "Enemies Slain",
-      "Elites Killed",
-      "Unspent Gold",
-      "HP Bonus",
-      "Victory!"
+      "Tovább",
+      "Szintek megmászva",
+      "Vezérek legyőzve",
+      "Játékidő",
+      "Pontszám",
+      "Felold",
+      "Feloldás hátravan: ",
+      "Feloldás hátravan: ",
+      "Ellenfelek legyőzve",
+      "Vezérek legyőzve",
+      "Elköltetlen arany",
+      "Életerő bónusz",
+      "Győzelem!"
     ]
   },
   "Period": {
@@ -1301,18 +1301,18 @@
   },
   "BetaArtUnlockEffect": {
     "TEXT": [
-      "Ironclad Beta Card Art Unlocked!",
-      "The Silent Beta Card Art Unlocked!",
-      "Defect Beta Card Art Unlocked!",
-      "All Beta Card Art Unlocked!"
+      "A Páncélos béta kártya rajzait feloldottad!",
+      "A Szótlan béta kártya rajzait feloldottad!",
+      "A Hiányos béta kártya rajzait feloldottad!",
+      "MINDEN béta kártya rajzot feloldottál!"
     ]
   },
   "RichPresence": {
     "TEXT": [
-      "Daily - Floor %s",
-      "Custom - Floor %s",
-      " - Floor %s",
-      "Main Menu"
+      "Napi - Szint %s",
+      "Saját - Szint %s",
+      " - Szint %s",
+      "Főmenü"
     ]
   }
 }
