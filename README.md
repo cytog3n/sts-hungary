@@ -11,20 +11,20 @@ Usage:
 Status:
 
 - achievements.json -- done by Cyto
-- blights.json
+- blights.json -- done by Cyto
 - cards.json -- started by Cyto
-- characters.json - translated by Spartalos based on SlendyProject work
-- credits.json
+- characters.json - translated by Spartalos based on SlendyProject work, updated by Cyto
+- credits.json -- started by Cyto
 - events.json -- started by Z
 - keywords.json - translated by Spartalos
-- monsters.json - translated by baliame
+- monsters.json - translated by baliame, updated by Cyto
 - orbs.json -- done by Cyto
 - potions.json -- done by Cyto
 - powers.json -- done by Spartalos
 - relics.json -- done by Cyto
-- score_bonuses.json
-- tutorials.json
-- ui.json - translated by Spartalos
+- score_bonuses.json -- done by Cyto
+- tutorials.json -- done by Cyto
+- ui.json - translated by Spartalos, updated by Cyto
 
 Need revision because of the updates: powers.
 
