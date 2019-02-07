@@ -14,7 +14,7 @@ Status:
 - blights.json -- done by Cyto
 - cards.json -- started by Cyto
 - characters.json - translated by Spartalos based on SlendyProject work, updated by Cyto
-- credits.json -- started by Cyto
+- credits.json -- done by Cyto
 - events.json -- started by Z
 - keywords.json - translated by Spartalos
 - monsters.json - translated by baliame, updated by Cyto

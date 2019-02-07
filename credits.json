@@ -1,37 +1,36 @@
 {
   "ANIMATION": {
-    "HEADER": "Character Animation",
+    "HEADER": "Karakter animációk",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
     ]
   },
   "DEV": {
-    "HEADER": "Development & Design",
+    "HEADER": "Fejlesztés & Dizájn",
     "NAMES": [
       "Anthony Giovannetti",
       "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Promo & Background Illustration",
+    "HEADER": "Promóció & Háttér Illusztráció",
     "NAMES": [
       "Bruce Brenneise"
     ]
   },
   "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+    "HEADER": "Plusz Fordítások",
     "NAMES": [
       "MoGi Group"
     ]
   },
   "LOC_CAT": {
-    "HEADER": "Catalan Localization",
-    "NAMES": [
-    ]
-  },  
+    "HEADER": "Katalán fordítás",
+    "NAMES": []
+  },
   "LOC_DEU": {
-    "HEADER": "German Localization",
+    "HEADER": "Német fordítás",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
@@ -44,7 +43,7 @@
     ]
   },
   "LOC_DUT": {
-    "HEADER": "Dutch Localization",
+    "HEADER": "Holland fordítás",
     "NAMES": [
       "Gremlin Leader:",
       "Jelle Steinmann \"NotADitto\"",
@@ -58,13 +57,13 @@
     ]
   },
   "LOC_EPO": {
-    "HEADER": "Esperanto Localization",
+    "HEADER": "Eszperantó fordítás",
     "NAMES": [
       "Vincent \"Babelismoj\" Oostelbos"
     ]
   },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "Francia fordítás",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -80,13 +79,13 @@
     ]
   },
   "LOC_GRE": {
-    "HEADER": "Greek Localization",
+    "HEADER": "Görög fordítás",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
     ]
   },
   "LOC_IND": {
-    "HEADER": "Indonesian Localization",
+    "HEADER": "Indonéziai fordítás",
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
@@ -95,7 +94,7 @@
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "Olasz fordítás",
     "NAMES": [
       "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
@@ -103,45 +102,45 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "Japán fordítás",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
+    "HEADER": "Koreai fordítás",
     "NAMES": [
-      "Translation Manager:",
+      "Fordítás felügyelő:",
       "Eteriny",
-      "Translation:",
+      "Fordítás:",
       "Simcoding",
       "DesFrog",
       "Fissh",
       "insight",
       "K4lium",
       "hina",
-      "Steam Page Translation:",
+      "Steam oldal fordítása:",
       "GyeRyak"
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Norwegian Localization",
+    "HEADER": "Norvég fordítás",
     "NAMES": [
       "Eystein Jarp"
     ]
   },
   "LOC_POL": {
-    "HEADER": "Polish Localization",
+    "HEADER": "Lengyel fordítás",
     "NAMES": [
-      "Translation and Coordination:",
+      "Fordítás és koordináció:",
       "Stanis³aw \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
-      "Additional Translations:",
+      "Plusz fordítások:",
       "Adrian \"xeros\" Rolka",
       "Marek \"Skorpionex\" Mazur",
-      "Proofreading:",
+      "Korrektúraolvasás:",
       "Oskar \"volf3n\" Nowak",
-      "Suggestions and Feedback:",
+      "Javaslatok és észrevételek:",
       "Kasper \"Awokado\" Beræ",
       "Pawe³ \"BASTIL\" Kaleta",
       "Grzegorz \"GregPL\" Bogus³awski",
@@ -151,7 +150,7 @@
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Brazilian-Portuguese Localization",
+    "HEADER": "Brazíl-Portugál fordítás",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -162,13 +161,13 @@
     ]
   },
   "LOC_RUS": {
-    "HEADER": "Russian Localization",
+    "HEADER": "Orosz fordítás",
     "NAMES": [
-      "Translation:",
+      "Fordítás:",
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
-      "Additional Translation:",
+      "Plusz fordítás:",
       "Dmitry \"Gentle Giant\" Gitsman",
       "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
@@ -178,59 +177,70 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
-      "Shop Asset Translation:",
+      "Tárgyak fordítása:",
       "Urist McFerrum"
     ]
   },
   "LOC_SPA": {
-    "HEADER": "Spanish Localization",
+    "HEADER": "Spanyol fordítás",
     "NAMES": [
-      "Translation and Coordination:",
+      "Fordítás és koordináció:",
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Translation:",
       "Xavier \"xabad98\" Abad Salinas",
       "Sergio \"Skiddome\" Malagón",
       "Juanjo \"ajuanjojjj\" Martinez",
       "Pedro J. \"PJJLegend\" Jiménez",
-      "Grammar and Cleanup:",
+      "Nyelvtan és végső símítás:",
       "Joaquín \"Pip1n\" López"
     ]
   },
   "LOC_SRB": {
-    "HEADER": "Serbian Localization",
+    "HEADER": "Szerb fordítás",
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "Török fordítás",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
   "LOC_UKR": {
-    "HEADER": "Ukrainian Localization",
+    "HEADER": "Ukrán fordítás",
     "NAMES": [
-      "Translation and Coordination:",
+      "Fordítás és koordináció:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-      "Corrections and Translation:",
+      "Javítások és fodítás:",
       "Vasyl \"RDSk\" Mykhaliuk",
       "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+    "HEADER": "Kínai (egyszerűsített) fordítás",
     "NAMES": [
       "Sound of Mystery",
       "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+    "HEADER": "Kínai (hagyományos) fordítás",
     "NAMES": [
       "professor",
       "bowans",
       "Angryfox"
+    ]
+  },
+  "LOC_HUN": {
+    "HEADER": "Magyar fordítás",
+    "NAMES": [
+      "Cytog3n",
+      "Zed",
+      "Vickipszilon",
+      "Spartalos",
+      "Baliame",
+      "SlendyProject"
     ]
   },
   "OPS": {
@@ -241,19 +251,19 @@
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Card Portraits & Event Art",
+    "HEADER": "Kártya & Esemény rajzok",
     "NAMES": [
       "Anailis Dorta"
     ]
   },
   "SOUND": {
-    "HEADER": "Music & Sounds",
+    "HEADER": "Zene & Hangok",
     "NAMES": [
       "Clark Aboud"
     ]
   },
   "SPECIAL": {
-    "HEADER": "Special Thanks",
+    "HEADER": "Külön köszönet",
     "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
@@ -264,11 +274,11 @@
       "Evan Howell",
       "Justin Myhres",
       "robojumper",
-	  "Tony \"kiooeht\" Moore"
+      "Tony \"kiooeht\" Moore"
     ]
   },
   "TEST": {
-    "HEADER": "Playtesters",
+    "HEADER": "Tesztelők",
     "NAMES": [
       "Agari",
       "Daria Anderson",
@@ -297,18 +307,18 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-	  "David \"divadus\" Withington",
-	  "Jason \"Wyrm\" Deng", 
-	  "Jonas \"bigunit3000\" Wilson",
-	  "TBytemaster"
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
     ]
   },
   "THANKS_MSG": {
-    "HEADER": "...and thank YOU for playing!",
+    "HEADER": "...és köszönjük NEKED hogy játszol!",
     "NAMES": []
   },
   "VOICE": {
-    "HEADER": "Voice Talent",
+    "HEADER": "Szinkron színészek",
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
