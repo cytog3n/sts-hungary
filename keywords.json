@@ -12,7 +12,8 @@
         "védelem",
         "véd",
         "védelmet",
-        "védelmét"
+        "védelmét",
+        "védelmed"
       ],
       "DESCRIPTION": "A következő körig elhárítja a támadásokat."
     },
@@ -125,7 +126,8 @@
       "NAMES": [
         "villám",
         "villámot",
-        "villám+"
+        "villám+",
+        "villámlás"
       ],
       "DESCRIPTION": "Gömb: Véletlenszerű ellenfeleket sebez meg."
     },

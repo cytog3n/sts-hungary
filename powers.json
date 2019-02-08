@@ -2,50 +2,50 @@
   "Accuracy": {
     "NAME": "Pontosság",
     "DESCRIPTIONS": [
-      "A #yPengék +#b",
+      "A #yPengék plusz #b",
       " sebzést okoznak."
     ]
   },
   "After Image": {
-    "NAME": "Utóérzés",
+    "NAME": "Utókép",
     "DESCRIPTIONS": [
-      "Bármikor ha kijátszol egy kártyát, kapsz #b",
+      "Minden kijátszott kártya után kapsz #b",
       " #yVédelmet."
     ]
   },
   "Amplify": {
     "NAME": "Erősítés",
     "DESCRIPTIONS": [
-      "Ebben a körben, a következő #yHatalom kártyád kétszer játszhatod ki.",
+      "Ebben a körben, a következő kijátszott #yHatalom kártyád kétszer teljesül.",
       "Ebben a körben, a következő ",
-      " #yHatalom kártyád kétszer játszhatod ki."
+      " kijátszott #yHatalom  kártyád kétszer teljesül."
     ]
   },
   "Anger": {
     "NAME": "Feldühödött",
     "DESCRIPTIONS": [
-      "Bármikor ha kijátszol egy #yKépességet, #b",
-      " #yErő-t nyer."
+      "Minden kijátszott #yKépesség után kap #b",
+      " #yErőt."
     ]
   },
   "Angry": {
     "NAME": "Mérges",
     "DESCRIPTIONS": [
-      "Bármikor ha",
-      " #yTámadásból sebződik, #b",
-      " #yErőt nyer."
+      "Ha",
+      " #yTámadástól sebződik, #b",
+      " #yErőt kap."
     ]
   },
   "Artifact": {
     "NAME": "Készítmény",
     "DESCRIPTIONS": [
       "Semlegesít #b",
-      " debuff-ot.",
-      " debuff-okat."
+      " negatív hatást.",
+      " negatív hatást."
     ]
   },
   "Attack Burn": {
-    "NAME": "Támadás Égetés",
+    "NAME": "Kimerítő támadás",
     "DESCRIPTIONS": [
       "#b",
       " körön keresztül, ha #yTámadást játszol ki, #yKimeríted azt.",
@@ -56,132 +56,132 @@
   "Barricade": {
     "NAME": "Barikád",
     "DESCRIPTIONS": [
-      "A #yVédelem nem szűnik meg a köreid elején.",
+      "A #yVédelmed nem szűnik meg a köreid elején.",
       "A #yVédelem nem szűnik meg a körök elején."
     ]
   },
   "Berserk": {
-    "NAME": "Megvadult",
+    "NAME": "Őrjöngés",
     "DESCRIPTIONS": [
-      "Nyerj ",
+      "Kapsz ",
       "  a köröd elején."
     ]
   },
   "Bias": {
     "NAME": "Bágyadt",
     "DESCRIPTIONS": [
-      "A köröd kezdetén, veszíts el #b",
+      "A köröd kezdetén, veszítesz el #b",
       " #yFókusz-t."
     ]
   },
   "Blur": {
-    "NAME": "Elmosódás",
+    "NAME": "Elhomályosít",
     "DESCRIPTIONS": [
-      "A #yVédelem nem szűnik meg a következő köröd elején.",
-      "A #yVédelem nem szűnik meg a következő #b",
+      "A #yVédelmed megmarad a következő köröd elején.",
+      "A #yVédelmed megmarad a következő #b",
       " köröd elején."
     ]
   },
   "Brutality": {
     "NAME": "Brutalitás",
     "DESCRIPTIONS": [
-      "A köröd kezdetén, veszíts el #b",
-      " HP-t és húzz #b",
+      "A köröd elején veszítesz #b",
+      " életerőt és húzol #b",
       " kártyát.",
-      "A köröd kezdetén, veszíts el #b",
-      " HP-t és húzz #b",
+      "A köröd elején veszítesz #b",
+      " életerőt és húzol #b",
       " kártyát."
     ]
   },
   "Buffer": {
     "NAME": "Tompítás",
     "DESCRIPTIONS": [
-      "Megakadályozza a következő alkalommal, hogy HP-t veszíts.",
-      "Megakadályozza, hogy a következő #b",
-      " alkalommal HP-t veszíts."
+      "A következő alkalommal, amikor életerőt veszítenél, megakadályozza a sebződést.",
+      "A következő #b",
+      " alkalommal, amikor életerőt veszítenél, megakadályozza a sebződést."
     ]
   },
   "Bullet Time": {
-    "NAME": "Idő lassítás",
+    "NAME": "Időfagyasztás",
     "DESCRIPTIONS": [
-      "Az összes Zöld kártya energia költsége mostantól #b0."
+      "A kezedben lévő Zöld kártyák költségét #b0 -ra csökkenti erre a körre."
     ]
   },
   "Burst": {
     "NAME": "Kitörés",
     "DESCRIPTIONS": [
-      "Ebben a körben, a következő #yKépesség-ed játszd ki kétszer.",
-      "Ebben a körben, a következő ",
-      " #yKépességeid játszd ki kétszer."
+      "A következő kijátszott #yKépesség kártyád kétszer teljesül a körben.",
+      "A következő ",
+      " kijátszott #yKépesség kártyád kétszer teljesül a körben."
     ]
   },
   "Choked": {
     "NAME": "Fojtogatva",
     "DESCRIPTIONS": [
-      "Elveszít #b",
-      " HP-t minden egyes kártya kijátszásnál ebben a körben."
+      "Minden ebben a körben kijátszott kártya után veszít #b",
+      " életerőt."
     ]
   },
   "Combust": {
-    "NAME": "Éget",
+    "NAME": "Égetés",
     "DESCRIPTIONS": [
-      "A köröd végén, veszíts el #b",
-      " HP-t és sebezd meg #b",
-      " sebzéssel MINDEN ellenfeled."
+      "A köröd végén veszítesz #b",
+      " életerőt. MINDEN ellenfelednek #b",
+      " sebzést okoz."
     ]
   },
   "Confusion": {
-    "NAME": "Összezavart",
+    "NAME": "Zavart",
     "DESCRIPTIONS": [
-      "Minden húzott kártyának, véletlenszerű lesz a költsége."
+      "Minden húzott kártyának véletlenszerű lesz a költsége."
     ]
   },
   "Conserve": {
     "NAME": "Megőrzés",
     "DESCRIPTIONS": [
-      "Az #yEnergia nem vész el ennek körnek a végén.",
+      "Az #yEnergia nem vész el a kör végén.",
       "Az #yEnergia nem vész el a következő #b",
-      " körben."
+      " kör végén."
     ]
   },
   "Constricted": {
     "NAME": "Szorítás",
     "DESCRIPTIONS": [
-      "A köröd végén elszenvedsz #b",
-      " sebzést."
+      "A köröd végén #b",
+      " sebzést szenvedsz el."
     ]
   },
   "Corruption": {
-    "NAME": "Rontás",
+    "NAME": "Romlás",
     "DESCRIPTIONS": [
-      "A Képességek #b0 költségűek. Bármikor ha kijátszol egy #yKépességet, #yKimeríted.",
-      "Bármikor ha kijátszol egy #yKépességet, #yKimeríted."
+      "A Képességek #b0 költségűek. Bármikor ha kijátszol egy #yKépességet, #yKimeríted azt.",
+      "Bármikor ha kijátszol egy #yKépességet, #yKimeríted azt."
     ]
   },
   "Creative AI": {
     "NAME": "Kreatív MI",
     "DESCRIPTIONS": [
-      "A köröd elején, adj #b",
-      " véletlenszerű Erő kártyát a kezedbe.",
-      " véletlenszerű Erő kártyákat a kezedbe."
+      "A köröd elején, kapsz #b",
+      " véletlenszerű Hatalom kártyát a kezedbe.",
+      " véletlenszerű Hatalom kártyákat a kezedbe."
     ]
   },
   "Curiosity": {
     "NAME": "Kíváncsiság",
     "DESCRIPTIONS": [
-      "Bármikor ha #yHatalom Kártyát játszol ki, nyerj #b",
-      " #yErő-t."
+      "Minden kijátszott #yHatalom kártya után kapsz #b",
+      " #yErőt."
     ]
   },
   "Curl Up": {
     "NAME": "Összegömbölyödik",
     "DESCRIPTIONS": [
-      "#yTámadáskor elszenvedett sebzés esetén, összegömbölyödik és ",
-      " #yVédelmet nyer. (Csatánként egyszer)"
+      "#yTámadástól elszenvedett sebzés esetén, összegömbölyödik és ",
+      " #yVédelmet nyer. (Harconként egyszer)"
     ]
   },
   "Dance Puppet": {
-    "NAME": "Táncoló Báb",
+    "NAME": "Táncoló Báb//",
     "DESCRIPTIONS": [
       "Bármikor ha Nem-Képesség kártyát játszol ki, szenvedj el #b",
       " sebzést. (A Kártya típus körönként változik)",
@@ -190,33 +190,33 @@
     ]
   },
   "Dark Embrace": {
-    "NAME": "Sötét Ölelés",
+    "NAME": "Sötét ölelés",
     "DESCRIPTIONS": [
-      "Bármikor ha egy Kártya #yKimerül, húzz #b1 kártyát.",
+      "Minden #yKimerített kártya után, húzz #b1 kártyát.",
       "Bármikor ha egy Kártya #yKimerül, húzz #b",
       " kártyát."
     ]
   },
   "Demon Form": {
-    "NAME": "Démoni Alak",
+    "NAME": "Démoni alak",
     "DESCRIPTIONS": [
-      "A köröd kezdetén, kapsz #b",
+      "A köröd elején, kapsz #b",
       " #yErőt."
     ]
   },
   "DexLoss": {
-    "NAME": "Elvesztett Ügyesség",
+    "NAME": "Elvesztett ügyesség",
     "DESCRIPTIONS": [
-      "A köröd végén, veszíts el #b",
+      "A köröd végén, veszítesz #b",
       " #yÜgyességet."
     ]
   },
   "Dexterity": {
     "NAME": "Ügyesség",
     "DESCRIPTIONS": [
-      "+#b #yVédelmet nyersz a kártyákból",
-      "-#b #yVédelmet nyersz a kártyákból",
-      "."
+      "+#b",
+      "-#b",
+      " #yVédelmet kapsz a kártyákból."
     ]
   },
   "Double Damage": {
@@ -230,9 +230,9 @@
   "Double Tap": {
     "NAME": "Dupla Csapás",
     "DESCRIPTIONS": [
-      "Ebben a körben, játszd meg a következő #yTámadásod kétszer.",
-      "Ebben a körben, játszd meg a következő ",
-      " #yTámadásod kétszer."
+      "Ebben a körben, a következő kijátszott #yTámadásod kétszer teljesül.",
+      "Ebben a körben, a következő ",
+      " kijátszott #yTámadásod kétszer teljesül."
     ]
   },
   "Draw": {
@@ -246,15 +246,15 @@
     ]
   },
   "Draw Card": {
-    "NAME": "Kártya Húzás",
+    "NAME": "Kártya húzás",
     "DESCRIPTIONS": [
-      "Húzz #b",
-      " kártyákat a következő körben.",
+      "Húzz plusz #b",
+      " kártyát a következő körben.",
       " kártyát a következő körben."
     ]
   },
   "Draw Down": {
-    "NAME": "Elvesztett Húzások",
+    "NAME": "Elvesztett húzások",
     "DESCRIPTIONS": [
       "Húzz #b",
       " kártyával kevesebbet a következő körben.",
@@ -262,7 +262,7 @@
     ]
   },
   "Draw Reduction": {
-    "NAME": "Csökkenő Húzások",
+    "NAME": "Csökkentett húzás",
     "DESCRIPTIONS": [
       "Húzz #b1 kártyával kevesebbet a következő körben.",
       "Húzz #b1 kártáyval kevesebbet #b",
@@ -270,11 +270,11 @@
     ]
   },
   "Echo Form": {
-    "NAME": "Visszhang Alak",
+    "NAME": "Visszhang alak",
     "DESCRIPTIONS": [
-      "Az első kártya amit kijátszol a körödben kétszer fejti ki a hatását.",
-      "Az első #b",
-      " kártya amit kijátszol a körödben kétszer fejti ki a hatását."
+      "Minden körben, az első kijátszott kártyád kétszer teljesül.",
+      "Minden körben, az első #b",
+      " kijátszott kártyád kétszer teljesül."
     ]
   },
   "Electro": {
@@ -288,39 +288,39 @@
   "Energized": {
     "NAME": "Életerős",
     "DESCRIPTIONS": [
-      "Nyerj #b",
-      " plusz [G]-t a következő körben.",
-      " plusz [G]-t a következő körben.",
+      "A következő köröd elején kapsz #b",
+      " [G] .",
+      " [G] .",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "EnergizedBlue": {
     "NAME": "Életerős",
     "DESCRIPTIONS": [
-      "Nyerj #b",
-      " plusz [G]-t a következő körben.",
-      " plusz [G]-t a következő körben.",
+      "A következő köröd elején kapsz #b",
+      " [G] .",
+      " [G] .",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "Entangled": {
-    "NAME": "Megzavart",
+    "NAME": "Lefogott",
     "DESCRIPTIONS": [
-      "Nem tudsz #yTámadásokat kijátszani egy körön keresztül."
+      "Nem játszhatsz ki #yTámadást a körben."
     ]
   },
   "Envenom": {
-    "NAME": "Megmérgez",
+    "NAME": "Mérgezett penge",
     "DESCRIPTIONS": [
-      "Bármikor ha blokkolatlan #yTámadást viszel be, #b",
-      " #yMérgezést szenved el az ellenfeled."
+      "Minden le nem védett sebzés amit #yTámadással okozol, #b",
+      " #yMérgezést okoz az ellenfélnek."
     ]
   },
   "Evolve": {
     "NAME": "Fejlődés",
     "DESCRIPTIONS": [
-      "Bármikor ha #yStátusz-t húzol, húzz még egy kártyát.",
-      "Bármikor ha #yStátusz-t húzol, húzz még #b",
+      "Minden felhúzott #yStátusz kártya után, húzz még egy kártyát.",
+      "Minden felhúzott #yStátusz kártya után, húzz még #b",
       " kártyát."
     ]
   },
@@ -334,7 +334,7 @@
     ]
   },
   "Extra Cards": {
-    "NAME": "Extra Kártyák",
+    "NAME": "Extra kártyák",
     "DESCRIPTIONS": [
       "Húzz #b1 kártyával többet a következő körben.",
       "Húzz #b",
@@ -342,52 +342,52 @@
     ]
   },
   "Feel No Pain": {
-    "NAME": "Ne Érezz Fájdalmat",
+    "NAME": "Nem érzel fájdalmat",
     "DESCRIPTIONS": [
-      "Bármikor ha egy kártya #yKimerített lesz, nyerj #b",
+      "Minden #yKimerített kártya után kapsz #b",
       " #yVédelmet."
     ]
   },
   "Fire Breathing": {
-    "NAME": "Tűz Lehellet",
+    "NAME": "Tűz lehellet",
     "DESCRIPTIONS": [
-      "A köröd végén, minden egyes a körben kijátszott #yTámadásért sebezz #b",
-      " sebzést MINDEN ellenfelednek."
+      "A köröd végén, minden egyes a körben kijátszott #yTámadásért #b",
+      " sebzést okozol MINDEN ellenfélnek."
     ]
   },
   "Flame Barrier": {
-    "NAME": "Láng Fal",
+    "NAME": "Láng fal",
     "DESCRIPTIONS": [
-      "Amikor #yTámadási sebzés ér, ossz ki #b",
+      "Amikor #yTámadási sebzés ér, visszasebez #b",
       " sebzést az ellenfelednek."
     ]
   },
   "Flex": {
-    "NAME": "Csökkenő Erő",
+    "NAME": "Csökkenő erő",
     "DESCRIPTIONS": [
-      "A köröd végén, veszíts el #b",
-      " #yErő-t."
+      "A köröd végén, elveszítesz #b",
+      " #yErőt."
     ]
   },
   "Flight": {
     "NAME": "Repülés",
     "DESCRIPTIONS": [
-      "Csökkenti a #yTámadások sebzését #b50%-al. Megszűnik ha #yTámadási sebzést visznek be #b",
+      "Csökkenti a #yTámadások sebzését #b50% -al. Megszűnik ha #yTámadási sebzést visznek be #b",
       " alkalommal egy kör során."
     ]
   },
   "Focus": {
     "NAME": "Fókusz",
     "DESCRIPTIONS": [
-      "A Gömbök plusz #b hatással rendelkeznek",
-      "A Gömbök mínusz #b hatással rendelkeznek",
+      "Erősíti a Gömbök hatását ennyivel: #b",
+      "Erősíti a Gömbök hatását ennyivel: #b",
       "."
     ]
   },
   "Frail": {
     "NAME": "Törékeny",
     "DESCRIPTIONS": [
-      "#b25%-al kevesebb #yVédelmet nyer a kártyákból #b",
+      "#b25%-al kevesebb #yVédelmet kapsz a kártyákból #b",
       " körig.",
       " körig."
     ]
@@ -396,29 +396,29 @@
     "NAME": "Áldozat",
     "DESCRIPTIONS": [
       "#b",
-      " kör után, nyerj ",
-      " körök után, nyer ",
+      " kör után, kapsz ",
+      " kör után, kapsz ",
       " [B] ."
     ]
   },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "A kör végén, nyer #b",
+      "A kör végén, kapsz #b",
       " #yErőt."
     ]
   },
   "GrowthPower": {
     "NAME": "Növekedés",
     "DESCRIPTIONS": [
-      "A kör végén, nyer #b",
+      "A kör végén, kapsz #b",
       " #yErőt."
     ]
   },
   "Heatsink": {
     "NAME": "Hűtőborda",
     "DESCRIPTIONS": [
-      "Bármikor ha Erő kártyát játszol ki, húzz #b",
+      "Minden kijátszott #yHatalom kártya után, húzz #b",
       " kártyát.",
       " kártyát."
     ]
@@ -426,16 +426,16 @@
   "Hello": {
     "NAME": "Hello",
     "DESCRIPTIONS": [
-      "A köröd kezdetén, adj #b",
-      " véletlenszerű Közönséges kártyát a kezedhez.",
-      " véletlenszerű Közönséges kártyát a kezedhez."
+      "A köröd elején, kapsz #b",
+      " véletlenszerű közönséges kártyát a kezedhez.",
+      " véletlenszerű közönséges kártyát a kezedhez."
     ]
   },
   "Hex": {
     "NAME": "Hex",
     "DESCRIPTIONS": [
-      "Bármikor ha nem-Támadás kártyát játszol ki, keverj #b",
-      " #yKábult kártyát a húzópaklidba."
+      "Minden kijátszott nem-támadás kártya után #b",
+      " #yKábult kártya kerül a húzópaklidba."
     ]
   },
   "Hide": {
@@ -449,100 +449,100 @@
   "Infinite Blades": {
     "NAME": "Végtelen Pengék",
     "DESCRIPTIONS": [
-      "A köröd kezdetén, adj #b",
-      " #yPengét a kezedhez.",
-      " #yPengét a kezedhez."
+      "A köröd elején, kapsz #b",
+      " #yPengét a kezedbe.",
+      " #yPengét a kezedbe."
     ]
   },
   "Intangible": {
     "NAME": "Megfoghatatlan",
     "DESCRIPTIONS": [
-      "Lecsökkent minden sebzést és HP veszteséget #b1-re ebben a körben. A Megfoghatatlan minden második körben újra aktiválódik."
+      "Lecsökkent minden sebzést és életerő veszteséget #b1-re ebben a körben. A Megfoghatatlanság minden második körben újra aktiválódik."
     ]
   },
   "Invincible": {
-    "NAME": "Invincible",
+    "NAME": "Sérthetetlen",
     "DESCRIPTIONS": [
-      "Can only lose #b",
-      " more HP this turn.",
-      "Can no longer be harmed this turn."
+      "Csak #b",
+      " életet veszíthet ebben a körben.",
+      "Nem lehet tovább sebezni a körben."
     ]
   },
   "BeatOfDeath": {
-    "NAME": "Beat Of Death",
+    "NAME": "A Halál szívverése",
     "DESCRIPTIONS": [
-      "Whenever you play a card, take #b",
-      " damage."
+      "Minden kijátszott kártya után, #b",
+      " sebzést szenvedsz el."
     ]
   },
   "IntangiblePlayer": {
     "NAME": "Megfoghatatlan",
     "DESCRIPTIONS": [
-      "Lecsökkent minden sebzést és HP veszteséget #b1-re."
+      "Minden sebzést #b1 -re csökkent."
     ]
   },
   "Inverted": {
     "NAME": "Felcserélt",
     "DESCRIPTIONS": [
-      "Immunis a sebzésre. Bármikor ha valamennyi #yVédelmet szerzel, annyi HP-t elveszít."
+      "Immunis a sebzésre. Minden szerzett #yVédelem után, ugyanannyi életerőt elveszít."
     ]
   },
   "Juggernaut": {
-    "NAME": "Eltipró Erő",
+    "NAME": "Eltipró erő",
     "DESCRIPTIONS": [
-      "Bármikor ha valamennyi #yVédelmet szerzel, annyi #b",
+      "Amikor #yVédelmet kapsz #b",
       " sebzést okozol egy véletlenszerű ellenfélnek."
     ]
   },
   "Knowledge": {
     "NAME": "Tudás",
     "DESCRIPTIONS": [
-      "Bármikor ha kijátszol egy #yHatalom kártyát, húzol #b",
+      "Minden kijátszott #yHatalom kártya, után #b",
       " kártyát."
     ]
   },
   "Life Link": {
     "NAME": "Életkapocs",
     "DESCRIPTIONS": [
-      "Ha a többi ellenfél még életben van, #b2 kör után újraéled #b50% HP-val."
+      "Ha a többi ellenfél még életben van, #b2 kör után újraéled #b50% életerővel."
     ]
   },
   "Lockon": {
     "NAME": "Célpont bemérve",
     "DESCRIPTIONS": [
-      "Adj #b",
-      "%-al több sebzést a Gömbök által #b",
-      " körön keresztül.",
-      " keresztül."
+      "#b",
+      "%-al több sebzést okoznak a Gömbök #b",
+      " körönig.",
+      " körönig."
     ]
   },
   "Loop": {
     "NAME": "Hurok",
     "DESCRIPTIONS": [
-      "A köröd elején, aktiváld a következő Gömböd passzív képességét.",
-      "A köröd elején, aktiváld a következő Gömböd passzív képességét #b",
+      "A köröd elején, aktiválja a következő Gömböd passzív képességét.",
+      "A köröd elején, aktiválja a következő Gömböd passzív képességét #b",
       " alkalommal."
     ]
   },
   "Machine Learning": {
     "NAME": "Gépi Tanulás",
     "DESCRIPTIONS": [
-      "Húzz #b",
-      " további kártyát a köreid elején.",
-      " további kártyát a köreid elején."
+      "Húzz plusz #b",
+      " kártyát a köröd elején.",
+      " kártyát a köröd elején."
     ]
   },
   "Magnetism": {
     "NAME": "Mágnesesség",
     "DESCRIPTIONS": [
-      "A köröd elején, adj #b%s véletlenszerű színtelen kártyát a kezedhez.",
-      "A köröd elején, adj #b%s véletlenszerű színtelen kártyát a kezedhez."
+      "A köröd elején, kapsz #b%s véletlenszerű szürke kártyát a kezedbe.",
+      "A köröd elején, kapsz #b%s véletlenszerű szürke kártyát a kezedbe."
     ]
   },
   "Malleable": {
     "NAME": "Nyújtható",
     "DESCRIPTIONS": [
-      "#yTámadási sebzést elszenvedve, nyerj #b",
+      "#yTámadási sebzést elszenvedve, kapsz #b",
       " #yVédelmet. A #yVédelem növekedés növekszik amint ",
       " kiváltja. Visszaáll #b értékre",
       " a köröd elején."

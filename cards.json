@@ -30,7 +30,7 @@
     "DESCRIPTION": "!D! sebzést okoz. NL Húzz fel minden 0 költségű kártyát a dobópaklidból."
   },
   "All Out Attack": {
-    "NAME": "Ami a csövön kifér",
+    "NAME": "Bunyó",
     "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Dobj el véletlenszerűen egy kártyát."
   },
   "Allocate": {
@@ -39,8 +39,8 @@
   },
   "Amplify": {
     "NAME": "Erősítő",
-    "DESCRIPTION": "Ebben a körben a következő kijátszott Erő kártyád kétszer teljesül.",
-    "UPGRADE_DESCRIPTION": "Ebben a körben a következő !M! kijátszott Erő kártyád kétszer teljesül."
+    "DESCRIPTION": "Ebben a körben, a következő kijátszott Hatalom kártyád kétszer teljesül.",
+    "UPGRADE_DESCRIPTION": "Ebben a körben, a következő !M! kijátszott Hatalom kártyád kétszer teljesül."
   },
   "Anger": {
     "NAME": "Harag",
@@ -234,7 +234,7 @@
   },
   "Choke": {
     "NAME": "Fojtás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Minden kijátszott kártya után !M! sebzést okoz az ellenfélnek."
+    "DESCRIPTION": "!D! sebzést okoz. NL Minden kijátszott kártya után !M! sebzést okoz az ellenfélnek ebben a körben."
   },
   "Chrysalis": {
     "NAME": "Gubó",
