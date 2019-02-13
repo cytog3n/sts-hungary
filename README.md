@@ -20,11 +20,9 @@ Status:
 - monsters.json - translated by baliame, updated by Cyto
 - orbs.json -- done by Cyto
 - potions.json -- done by Cyto
-- powers.json -- done by Spartalos
+- powers.json -- done by Spartalos, updated by Cyto
 - relics.json -- done by Cyto
 - score_bonuses.json -- done by Cyto
 - tutorials.json -- done by Cyto
 - ui.json - translated by Spartalos, updated by Cyto
-
-Need revision because of the updates: powers.
 

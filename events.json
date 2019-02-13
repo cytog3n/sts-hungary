@@ -26,7 +26,7 @@
     ],
     "OPTIONS": [
       "[Adakozol] #y",
-      " #yGold: #gObtain #ga #gRelic.",
+      " #yaranyat: #gKapsz #gegy #gRelikviát.",
       "[Lezárva] Szükséges: ",
       " arany.",
       "[Meglopod] #gKapsz #gegy #gRelikviát. #rSzégyen #rÁtkot #rkapsz.",
@@ -101,7 +101,7 @@
     "OPTIONS": [
       "[Folytatás]",
       "[Távozol]",
-      "[Ajánlj] Receive a reward based on the offer.",
+      "[Ajánlj] Kapsz egy jutalmat az ajánlásod alapján.",
       "Válassz egy kártyát amit felajánlanál."
     ]
   },
