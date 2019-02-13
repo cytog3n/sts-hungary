@@ -551,49 +551,49 @@
   "Mayhem": {
     "NAME": "Megcsonkítás",
     "DESCRIPTIONS": [
-      "A köröd elején, játszd ki a húzópaklid legfelső lapját.",
-      "A köröd elején, játszd ki #b",
+      "A köröd elején, kijátszod a húzópaklid legfelső kártyáját.",
+      "A köröd elején, kijátszod a  #b",
       " kártyát a húzópaklidból."
     ]
   },
   "Metallicize": {
     "NAME": "Fémesedés",
     "DESCRIPTIONS": [
-      "Nyerj #b",
+      "Kapsz #b",
       " #yVédelmet a köröd elején.",
-      "Nyerj #b",
+      "Kap #b",
       " #yVédelmet a köre elején."
     ]
   },
   "Minion": {
     "NAME": "Csatlós",
     "DESCRIPTIONS": [
-      "A csatlósok elmenekülnek a csatából a vezetőjük nélkül."
+      "A csatlósok elmenekülnek a csatából ha a vezetőjük elbukik."
     ]
   },
   "Mode Shift": {
     "NAME": "Alakváltás",
     "DESCRIPTIONS": [
-      "#b sebzés elszenvedése után",
-      " védekező módba vált."
+      "#b",
+      "  sebzés elszenvedése után védekező módba vált."
     ]
   },
   "Next Turn Block": {
-    "NAME": "Következő Körös Védelem",
+    "NAME": "Következő körös védelem",
     "DESCRIPTIONS": [
-      "A következő köröd elején, szerezz #b",
+      "A következő köröd elején, kapsz #b",
       " #yVédelmet."
     ]
   },
   "Night Terror": {
     "NAME": "Rémálom",
     "DESCRIPTIONS": [
-      "A következő köröd elején, adj #b",
-      " kártyát a kezedhez."
+      "A következő köröd elején, kapsz #b",
+      " kártyát a kezedbe."
     ]
   },
   "No Attack": {
-    "NAME": "Nincs Támadás",
+    "NAME": "Nincs támadás",
     "DESCRIPTIONS": [
       "Nem játszhatsz ki #yTámadásokat ebben a körben."
     ]
@@ -605,14 +605,14 @@
     ]
   },
   "Noxious Fumes": {
-    "NAME": "Káros Füst",
+    "NAME": "Káros füst",
     "DESCRIPTIONS": [
-      "A köröd elején, adj #b",
-      " #yMérgezést MINDEN ellenfelednek."
+      "A köröd elején #b",
+      " #yMérgezést okozol MINDEN ellenfelednek."
     ]
   },
   "Nullify Attack": {
-    "NAME": "Támadás Semlegesítés",
+    "NAME": "Támadás semlegesítés",
     "DESCRIPTIONS": [
       "Teljesen #yKivéd egy #yTámadást minden körben."
     ]
@@ -620,16 +620,16 @@
   "Painful Stabs": {
     "NAME": "Fájdalmas Szúrás",
     "DESCRIPTIONS": [
-      "Bármikor ha megsebez ez az ellenfél, adj egy #ySebet a Dobó Paklidba."
+      "Bármikor ha megsebez ez az ellenfél, kapsz egy #ySebet a dobópaklidba."
     ]
   },
   "Panache": {
     "NAME": "Magabiztosság",
     "DESCRIPTIONS": [
-      "Ha kijátszol #b",
-      " kártyánál többet ebben a körben, okozz #b",
-      " sebzést MINDEN ellenfelednek.",
-      " kártyánál többet ebben a körben, okozz #b"
+      "Ha #b",
+      " kártyánál többet játszol ki ebben a körben, #b",
+      " sebzést okozol MINDEN ellenfelednek.",
+      " kártyánál többet játszol ki ebben a körben, #b"
     ]
   },
   "Pen Nib": {
@@ -642,31 +642,31 @@
     "NAME": "Fantomszerű",
     "DESCRIPTIONS": [
       "#yDupla #ySebzést okoz a következő körben.",
-      "#ydupla #ySebzést okoz a következő ",
+      "#yDupla #ySebzést okoz a következő ",
       " körben."
     ]
   },
   "Plated Armor": {
     "NAME": "Erősített Páncél",
     "DESCRIPTIONS": [
+      "Kapsz #b",
+      " #yVédelmet a köröd végén. Támadástól elszenvedett életvesztés csökkenti az #yErősített #yPáncélt #b1-el.",
       "Nyer #b",
-      " #yVédelmet a köröd végén. Támadásból elszenvedett HP vesztés csökkenti az #yErősített #yPáncél erejét #b1-el.",
-      "Nyer #b",
-      " #yVédelmet a köröd végén. Támadásból elszenvedett HP vesztés csökkenti az #yErősített #yPáncél erejét #b1-el."
+      " #yVédelmet a köröd végén. Támadástól elszenvedett életvesztés csökkenti az #yErősített #yPáncélt #b1-el."
     ]
   },
   "Poison": {
     "NAME": "Méreg",
     "DESCRIPTIONS": [
-      "A köröd elején, elveszít #b",
-      " HP-t, majd csökkenti a #yMéreg hatását #b1-el.",
+      "A köröd elején, elveszítesz #b",
+      " életerőt, majd csökkenti a #yMéreg hatását #b1-el.",
       "A köre elején, elveszít #b"
     ]
   },
   "Prime": {
     "NAME": "Tökéletesség",
     "DESCRIPTIONS": [
-      "Bármikor ha #yMegidézel egy Gömböt, húzz #b",
+      "Bármikor ha #ySugárzol egy Gömböt, húzz #b",
       " kártyát.",
       " kártyát."
     ]
@@ -674,7 +674,7 @@
   "Primitive": {
     "NAME": "Primitív",
     "DESCRIPTIONS": [
-      "Bármikor ha kijátszol egy közönséges kártyát, húzz még #b",
+      "Minden kijátszott közönséges kártya után húzz még #b",
       " kártyát.",
       " kártyát."
     ]
@@ -682,44 +682,44 @@
   "Rage": {
     "NAME": "Düh",
     "DESCRIPTIONS": [
-      "Bármikor ha Támadást játszol ki ebben a körben, nyerj #b",
+      "Minden kijátszott #yTámadás után, kapsz #b",
       " #yVédelmet."
     ]
   },
   "Rebound": {
     "NAME": "Visszapattanás",
     "DESCRIPTIONS": [
-      "A következő kártya amit ebben a körben kijátszol visszakerül a húzópaklid tetejére.",
+      "A következő kártya amit ebben a körben kijátszol, visszakerül a húzópaklid tetejére.",
       "A következő #b",
-      " kártya amit ebben a körben kijátszol visszakerül a húzópaklid tetejére."
+      " kártya amit ebben a körben kijátszol, visszakerül a húzópaklid tetejére."
     ]
   },
   "Reduce Damage": {
     "NAME": "Sebzés Lecsökkentése",
     "DESCRIPTIONS": [
-      "Lecsökkenti a sebzést #b értékkel."
+      "Csökkenti a sebzést ennyivel: #b"
     ]
   },
   "Regenerate": {
     "NAME": "Regenerálódás",
     "DESCRIPTIONS": [
-      "Gyógyít #b",
-      " #yHP-t a köre a végén."
+      "Visszatölt #b",
+      " #yéleterőt a köre a végén."
     ]
   },
   "Regeneration": {
     "NAME": "Regenerálódás",
     "DESCRIPTIONS": [
-      "A köröd végén, gyógyulsz #b",
-      " #yHP-t, majd a #yRegenerálóds értéke csökken #b1-el.",
+      "A köröd végén, visszatölt #b",
+      " #yéleterőt, majd a #yRegenerálódás értéke csökken #b1-el.",
       ""
     ]
   },
   "Repair": {
-    "NAME": "Megjavít",
+    "NAME": "Javítás",
     "DESCRIPTIONS": [
-      "A köröd végén, gyógyulj #b",
-      " HP-t."
+      "A köröd végén, visszatölt #b",
+      " életerőt."
     ]
   },
   "Repulse": {
@@ -730,7 +730,7 @@
     ]
   },
   "Retain Cards": {
-    "NAME": "Kártyák Megtartása",
+    "NAME": "Kártyák megtartása",
     "DESCRIPTIONS": [
       "A köröd végén megtarthatsz #b",
       " kártyát.",
@@ -738,39 +738,39 @@
     ]
   },
   "Retain Hand": {
-    "NAME": "Lapok Megtartása",
+    "NAME": "Kéz megtartása",
     "DESCRIPTIONS": [
-      "A köröd végén, nem dobod el a kezedben levő lapokat #b",
+      "A köröd végén, nem dobod el a kezedben levő kártyákat #b",
       " körön át.",
-      "A köröd végén, nem dobod el a kezedben levő lapokat."
+      "A köröd végén, nem dobod el a kezedben levő kártyákat."
     ]
   },
   "Riposte": {
     "NAME": "Visszavágás",
     "DESCRIPTIONS": [
-      "Körönként egyszer, visszatámad #b",
-      " sebzéssel ha #yTámadást játszol ki ellene."
+      "Körönként egyszer, #b",
+      " sebzést okoz ha #yTámadást játszol ki ellene."
     ]
   },
   "Ritual": {
     "NAME": "Szertartás",
     "DESCRIPTIONS": [
-      "A köre végén, nyer #b",
+      "A köre végén, kap #b",
       " #yErőt."
     ]
   },
   "Rupture": {
     "NAME": "Törés",
     "DESCRIPTIONS": [
-      "Ha Kártya miatt vesztesz HP-t, nyerj #b",
+      "Ha Kártya miatt vesztesz életerőt, kapsz #b",
       " #yErőt."
     ]
   },
   "Sadistic": {
     "NAME": "Szadista",
     "DESCRIPTIONS": [
-      "Bármikor ha Debuff-ot raksz az ellenfeledre, okozz #b",
-      " sebzést."
+      "Bármikor ha negatív hatást okozol egy ellenfélnek, #b",
+      " sebzést is elszenved."
     ]
   },
   "Serpentine": {
@@ -787,16 +787,16 @@
     ]
   },
   "Sharp Hide": {
-    "NAME": "Éles Bőr",
+    "NAME": "Éles bőr",
     "DESCRIPTIONS": [
-      "Bármikor ha #yTámadást játszol ki, megsebződsz #b",
-      " sebzéssel."
+      "Bármikor ha #yTámadást játszol ki, #b",
+      " sebzést szenvedsz el."
     ]
   },
   "Shriek From Beyond": {
     "NAME": "Sikoly a Másvilágról",
     "DESCRIPTIONS": [
-      "Bármikor ha #yTámadást játszol ki, dobj el egy véletlenszerű lapot."
+      "Minden kijátszott #yTámadás után, eldobsz egy véletlenszerű kártyát."
     ]
   },
   "Skill Burn": {
@@ -812,23 +812,23 @@
     "NAME": "Lassú",
     "DESCRIPTIONS": [
       "Minden ebben a körben kijátszott kártya után, ",
-      " #b10%-al több sebzést szenved el a #yTámadásaid után.",
+      " #b10%-al több sebzést szenved el a #yTámadásoktól.",
       " (#b",
-      "%-al több sebzést szerez)"
+      "% -al több sebzést szenved el)"
     ]
   },
   "Split": {
     "NAME": "Osztódás",
     "DESCRIPTIONS": [
-      "Ha az életereje #b50% alá csökken, #b2 kisebb slime-ra osztódik a megmaradt ",
-      "HP-val."
+      "Ha az életereje #b50% alá csökken, #b2 kisebb amőbára osztódik a megmaradt ",
+      "életerejével."
     ]
   },
   "Spore Cloud": {
-    "NAME": "Spóra Felhő",
+    "NAME": "Spóra felhő",
     "DESCRIPTIONS": [
-      "Halálakor, #ySebezhetőséget rak rád #b",
-      " körön át."
+      "Halálakor #b",
+      " #ySebezhetőséget okoz."
     ]
   },
   "Stasis": {
@@ -839,32 +839,32 @@
     ]
   },
   "StaticDischarge": {
-    "NAME": "Statikus Kisülés",
+    "NAME": "Statikus kisülés",
     "DESCRIPTIONS": [
-      "#yTámadási sebzés elszenvedése során, #yMegidéz #b",
+      "Ha életerőt veszítesz #yTámadástól, #ySugároz #b",
       " #yVillámlást."
     ]
   },
   "Storm": {
     "NAME": "Vihar",
     "DESCRIPTIONS": [
-      "Bármikor ha #bErő kártyát játszol ki, #yMegidéz #b",
+      "Minden kijátszott #bHatalom kártya után, #ySugároz #b",
       " #yVillámlást."
     ]
   },
   "Strength": {
     "NAME": "Erő",
     "DESCRIPTIONS": [
-      "Megnöveli a támadási sebzést #b értékkel",
-      "Lecsökkenti a támadási sebzést #b értékkel",
-      "."
+      "A támadásaid plusz #b",
+      "A támadásaid mínusz #b",
+      " sebzést okoznak."
     ]
   },
   "TheBomb": {
     "NAME": "A Bomba",
     "DESCRIPTIONS": [
-      "Az %1$s köre végén, %2$s sebzést okoz MINDEN ellenfélnek.",
-      "A köre végén, %1$s sebzést okoz MINDEN ellenfélnek."
+      "Az #b%1$. köre végén, #b%2$ sebzést okoz MINDEN ellenfélnek.",
+      "A köre végén, #b%1$ sebzést okoz MINDEN ellenfélnek."
     ]
   },
   "Thievery": {
@@ -877,29 +877,29 @@
   "Thorns": {
     "NAME": "Tüskék",
     "DESCRIPTIONS": [
-      "Ha #yTámadási sebzést kap, #b",
-      " sebzéssel visszatámad."
+      "Ha #yTámadási sebzést szenved el, #b",
+      " sebzést okoz a támadónak."
     ]
   },
   "Thousand Cuts": {
-    "NAME": "Ezernyi Vágás",
+    "NAME": "Ezernyi vágás",
     "DESCRIPTIONS": [
-      "Bármikor ha Kártyát játszol ki, okozz #b",
-      " sebzést minden ellenfélnek."
+      "Minden kijátszott kártya után #b",
+      " sebzést okoz MINDEN ellenfélnek."
     ]
   },
   "Time Warp": {
     "NAME": "Időcsavar",
     "DESCRIPTIONS": [
       "Ha kijátszol #b",
-      " kártyát, akkor a köröd véget ér és a Time Eater nyer #b",
+      " kártyát, véget ér a köröd és az Időfaló kap #b",
       " #yErőt."
     ]
   },
   "Tools Of The Trade": {
-    "NAME": "A Kereskedelem Eszköze",
+    "NAME": "A kereskedelem eszköze",
     "DESCRIPTIONS": [
-      "A köröd elején húzz #b",
+      "A köröd elején húzz plusz #b",
       " kártyát és dobj el #b",
       " kártyát.",
       " kártyát és dobj el #b",
@@ -909,7 +909,7 @@
   "Unawakened": {
     "NAME": "Alvó",
     "DESCRIPTIONS": [
-      "Ez az ellenfél még nem éledt fel..."
+      "Ez az ellenfél még nem ébredt fel..."
     ]
   },
   "Unstable": {
@@ -919,17 +919,17 @@
     ]
   },
   "Venomology": {
-    "NAME": "Méregológia",
+    "NAME": "Méregtan",
     "DESCRIPTIONS": [
-      "#yA méreg növekszik #b értékkel",
-      " minden körben ahelyett, hogy csökkenne."
+      "A #yMérgezés ennyivel növekedik minden körben: #b",
+      ". Nem csökken tovább a mérgezés a körök végén."
     ]
   },
   "Vulnerable": {
     "NAME": "Sebezhető",
     "DESCRIPTIONS": [
-      "Szerezz #b",
-      "%-al több sebzést #yTámadásokból #b",
+      "#b",
+      "% -al több sebzést szenvedsz el a #yTámadásoktól #b",
       " körig.",
       " körig."
     ]
@@ -937,24 +937,24 @@
   "Weakened": {
     "NAME": "Legyengített",
     "DESCRIPTIONS": [
-      "#yTámadások #b",
-      "%-al kevesebb sebzést okoznak #b",
+      "A #yTámadásaid #b",
+      "% -al kevesebb sebzést okoznak #b",
       " körig.",
       " körig."
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Kísértet Forma",
+    "NAME": "Kísértet alak",
     "DESCRIPTIONS": [
-      "A köröd végén, veszíts el #b",
+      "A köröd végén, veszítesz #b",
       " #yÜgyességet."
     ]
   },
   "Equilibrium": {
     "NAME": "Higgadtság",
     "DESCRIPTIONS": [
-      "Tartsd meg a kezedben levő lapokat a köröd végén.",
-      "Tartsd meg a kezedben levő lapokat #b",
+      "Tartsd meg a kezedben levő kártyákat a köröd végén.",
+      "Tartsd meg a kezedben levő kártyákat #b",
       " körön át."
     ]
   },
@@ -969,47 +969,47 @@
   "Shifting": {
     "NAME": "Alakváltás",
     "DESCRIPTIONS": [
-      "Bármikor ",
-      " ha sebződik, elveszít a sebzésnek megfelelő mennyiségű #yErőt a kör végéig."
+      "",
+      "Amikor sebződik, elveszít a sebzésnek megfelelő mennyiségű #yErőt a köre végéig."
     ]
   },
   "TimeMazePower": {
-    "NAME": "Idő Labirintus",
+    "NAME": "Idő labirintus",
     "DESCRIPTIONS": [
-      "Ha kijátszol még #b",
-      " kártyát, a köröd véget ér"
+      "Ha kijátszol #b",
+      " kártyát, a köröd véget ér."
     ]
   },
   "NoBlockPower": {
-    "NAME": "Nincs Védelem",
+    "NAME": "Nincs védelem",
     "DESCRIPTIONS": [
       "Nem tudsz #yVédelmet szerezni a kártyákból."
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Tetem Robbanás",
+    "NAME": "Tetem robbantás",
     "DESCRIPTIONS": [
-      "Mikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet Max HP-jával egyenlő mértékben.",
-      "Mikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet #bx",
-      " a Max HP-jával megfelelő mértékben."
+      "Amikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével egyenlő mértékben.",
+      "Amikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével, #b",
+      " alkalommal."
     ]
   },
   "Surrounded": {
-    "NAME": "Surrounded",
+    "NAME": "Bekerített",
     "DESCRIPTIONS": [
-      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
+      "#b50% -al több sebzést szenvedsz el hátulról. Használj célzós támadásokat vagy italokat hogy megfordulj."
     ]
   },
   "Compulsive": {
-    "NAME": "Reactive",
+    "NAME": "Reaktív",
     "DESCRIPTIONS": [
-      "Upon receiving attack damage, changes its intent."
+      "Ha életerőt veszít, változik a szándéka."
     ]
   },
   "BackAttack": {
-    "NAME": "Back Attack",
+    "NAME": "Hátsó támadás",
     "DESCRIPTIONS": [
-      "Deals #b50% more damage as it is attacking you from behind."
+      "#b50% -al több sebzést okoz mert hátulról támad."
     ]
   }
 }
