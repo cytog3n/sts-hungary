@@ -154,14 +154,14 @@
   "Corruption": {
     "NAME": "Romlás",
     "DESCRIPTIONS": [
-      "A Képességek #b0 költségűek. Bármikor ha kijátszol egy #yKépességet, #yKimeríted azt.",
-      "Bármikor ha kijátszol egy #yKépességet, #yKimeríted azt."
+      "A Képességek #b0 költségűek. Amikor kijátszol egy #yKépességet, #yKimeríted azt.",
+      "Amikor kijátszol egy #yKépességet, #yKimeríted azt."
     ]
   },
   "Creative AI": {
     "NAME": "Kreatív MI",
     "DESCRIPTIONS": [
-      "A köröd elején, kapsz #b",
+      "A köröd elején kapsz #b",
       " véletlenszerű Hatalom kártyát a kezedbe.",
       " véletlenszerű Hatalom kártyákat a kezedbe."
     ]
@@ -183,9 +183,9 @@
   "Dance Puppet": {
     "NAME": "Táncoló Báb//",
     "DESCRIPTIONS": [
-      "Bármikor ha Nem-Képesség kártyát játszol ki, szenvedj el #b",
+      "Amikor Nem-Képesség kártyát játszol ki, szenvedj el #b",
       " sebzést. (A Kártya típus körönként változik)",
-      "Bármikor ha Nem-Támadás kártyát játszol ki, szenvedj el #b",
+      "Amikor Nem-Támadás kártyát játszol ki, szenvedj el #b",
       "+1 Táncoló Báb"
     ]
   },
@@ -193,7 +193,7 @@
     "NAME": "Sötét ölelés",
     "DESCRIPTIONS": [
       "Minden #yKimerített kártya után, húzz #b1 kártyát.",
-      "Bármikor ha egy Kártya #yKimerül, húzz #b",
+      "Amikor egy Kártya #yKimerül, húzz #b",
       " kártyát."
     ]
   },
@@ -620,7 +620,7 @@
   "Painful Stabs": {
     "NAME": "Fájdalmas Szúrás",
     "DESCRIPTIONS": [
-      "Bármikor ha megsebez ez az ellenfél, kapsz egy #ySebet a dobópaklidba."
+      "Amikor megsebez ez az ellenfél, kapsz egy #ySebet a dobópaklidba."
     ]
   },
   "Panache": {
@@ -666,7 +666,7 @@
   "Prime": {
     "NAME": "Tökéletesség",
     "DESCRIPTIONS": [
-      "Bármikor ha #ySugárzol egy Gömböt, húzz #b",
+      "Amikor #ySugárzol egy Gömböt, húzz #b",
       " kártyát.",
       " kártyát."
     ]
@@ -769,7 +769,7 @@
   "Sadistic": {
     "NAME": "Szadista",
     "DESCRIPTIONS": [
-      "Bármikor ha negatív hatást okozol egy ellenfélnek, #b",
+      "Amikor negatív hatást okozol egy ellenfélnek, #b",
       " sebzést is elszenved."
     ]
   },
@@ -789,7 +789,7 @@
   "Sharp Hide": {
     "NAME": "Éles bőr",
     "DESCRIPTIONS": [
-      "Bármikor ha #yTámadást játszol ki, #b",
+      "Amikor #yTámadást játszol ki, #b",
       " sebzést szenvedsz el."
     ]
   },
@@ -987,7 +987,7 @@
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Tetem robbantás",
+    "NAME": "Robbanó hulla",
     "DESCRIPTIONS": [
       "Amikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével egyenlő mértékben.",
       "Amikor ez az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével, #b",

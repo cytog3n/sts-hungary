@@ -31,7 +31,7 @@
   },
   "All Out Attack": {
     "NAME": "Bunyó",
-    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Dobj el véletlenszerűen egy kártyát."
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Dobj el véletlenszerűen 1 kártyát."
   },
   "Allocate": {
     "NAME": "Kiosztás",
@@ -89,7 +89,7 @@
   },
   "Barrage": {
     "NAME": "Zárótűz",
-    "DESCRIPTION": "!D! sebzést okoz minden Sugárzott Gömbért."
+    "DESCRIPTION": "Minden Sugárzott Gömbért !D! sebzést okoz."
   },
   "Barricade": {
     "NAME": "Barikád",
@@ -169,12 +169,12 @@
   },
   "Bouncing Flask": {
     "NAME": "Pattogó flaska",
-    "DESCRIPTION": "3 Mérget rak egy véletlenszerű ellenfélre !M! alkalommal."
+    "DESCRIPTION": "3 Mérgezést rak egy véletlenszerű ellenfélre !M! alkalommal."
   },
   "Brutality": {
     "NAME": "Brutalitás",
-    "DESCRIPTION": "A köröd elején veszítesz egy életerőt és húzol egy kártyát.",
-    "UPGRADE_DESCRIPTION": "Ösztönös. NL A köröd elején veszítesz egy életerőt és húzol egy kártyát."
+    "DESCRIPTION": "A köröd elején veszítesz 1 életerőt és húzol 1 kártyát.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL A köröd elején veszítesz 1 életerőt és húzol 1 kártyát."
   },
   "Buffer": {
     "NAME": "Tompító",
@@ -277,159 +277,159 @@
     "DESCRIPTION": "Dobj el !M! kártyát. NL Kapsz [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Charge Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Next turn, gain [B]."
+    "NAME": "Akkumulátor töltés",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL A következő körben kapsz [B]."
   },
   "Consume": {
-    "NAME": "Consume",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb slot."
+    "NAME": "Felemészt",
+    "DESCRIPTION": "Kapsz !M! Fókuszt. NL Elveszítesz 1 Gömb foglalatot."
   },
   "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
+    "NAME": "Hidegfejű",
+    "DESCRIPTION": "Sugároz 1 Jeget. NL Húzz !M! kártyát.",
+    "UPGRADE_DESCRIPTION": "Sugároz 1 Jeget. NL Húzz !M! kártyát."
   },
   "Corpse Explosion": {
-    "NAME": "Corpse Explosion",
-    "DESCRIPTION": "Apply !M! Poison. NL When the enemy dies, deal damage equal to its Max HP to ALL enemies.",
+    "NAME": "Robbanó hulla",
+    "DESCRIPTION": "!M! Mérgezést okoz. NL Amikor az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével egyenlő mértékben.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
     ]
   },
   "Corruption": {
-    "NAME": "Corruption",
-    "DESCRIPTION": "Skills cost 0. NL Whenever you play a Skill, Exhaust it."
+    "NAME": "Romlás",
+    "DESCRIPTION": "A Képességek 0 költségűek. Amikor kijátszol egy Képességet, Kimeríted azt."
   },
   "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of your turn, add a random Power card into your hand."
+    "NAME": "Kreatív MI",
+    "DESCRIPTION": "A köröd elején kapsz 1 véletlenszerű Hatalom kártyát a kezedbe."
   },
   "Crippling Poison": {
-    "NAME": "Crippling Cloud",
-    "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust."
+    "NAME": "Bénító felhő",
+    "DESCRIPTION": "MINDEN ellenfélnek !M! Mérgezést és 2 Gyengítést okoz. NL Kimerít."
   },
   "Dagger Spray": {
-    "NAME": "Dagger Spray",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies twice."
+    "NAME": "Késeső",
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz kétszer."
   },
   "Dagger Throw": {
-    "NAME": "Dagger Throw",
-    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Discard 1 card."
+    "NAME": "Tőrhajítás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Húzz 1 kártyát. NL Dobj el 1 kártyát."
   },
   "Dark Embrace": {
-    "NAME": "Dark Embrace",
-    "DESCRIPTION": "Whenever a card is Exhausted, NL draw 1 card."
+    "NAME": "Sötét ölelés",
+    "DESCRIPTION": "Minden Kimerített kártya után húzz 1 kártyát."
   },
   "Dark Shackles": {
-    "NAME": "Dark Shackles",
-    "DESCRIPTION": "Enemy loses !M! Strength this turn. NL Exhaust."
+    "NAME": "Sötét bilincsek",
+    "DESCRIPTION": "Az ellenfél !M! Erőt veszít erre a körre. NL Kimerít."
   },
   "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Channel !M! Dark. NL Trigger the passive ability of all Dark orbs."
+    "NAME": "Sötétség",
+    "DESCRIPTION": "Sugároz !M! Sötétséget.",
+    "UPGRADE_DESCRIPTION": "Sugároz !M! Sötétséget. NL Aktiválja az összes Sötét Gömböd passzív képességét."
   },
   "Dash": {
-    "NAME": "Dash",
-    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
+    "NAME": "Csattanás",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL !D! sebzést okoz."
   },
   "Dazed": {
-    "NAME": "Dazed",
-    "DESCRIPTION": "Unplayable. NL Ethereal."
+    "NAME": "Kábult",
+    "DESCRIPTION": "Kijátszhatatlan. NL Földöntúli."
   },
   "Deadly Poison": {
-    "NAME": "Deadly Poison",
-    "DESCRIPTION": "Apply !M! Poison."
+    "NAME": "Halálos méreg",
+    "DESCRIPTION": "!M! Mérgezést okoz."
   },
   "Decay": {
-    "NAME": "Decay",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, take 2 damage."
+    "NAME": "Hanyatlás",
+    "DESCRIPTION": "Kijátszhatatlan. NL A köröd végén 2 sebzést szenvedsz el."
   },
   "Deep Breath": {
-    "NAME": "Deep Breath",
-    "DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! cards."
+    "NAME": "Mély lélegzet",
+    "DESCRIPTION": "Keverd a dobópaklidat a húzópaklidba. NL Húzz !M! kártyát.",
+    "UPGRADE_DESCRIPTION": "Keverd a dobópaklidat a húzópaklidba. NL Húzz !M! kártyát."
   },
   "Defend_B": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "Védelem",
+    "DESCRIPTION": "Kapsz !B! Védelmet."
   },
   "Defend_G": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "Védelem",
+    "DESCRIPTION": "Kapsz !B! Védelmet."
   },
   "Defend_R": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "Védelem",
+    "DESCRIPTION": "Kapsz !B! Védelmet."
   },
   "Deflect": {
-    "NAME": "Deflect",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "Hárítás",
+    "DESCRIPTION": "Kapsz !B! Védelmet."
   },
   "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
+    "NAME": "Defragmentálás",
+    "DESCRIPTION": "Kapsz !M! Fókszt."
   },
   "Demon Form": {
-    "NAME": "Demon Form",
-    "DESCRIPTION": "At the start of your turn, gain !M! Strength."
+    "NAME": "Démoni alak",
+    "DESCRIPTION": "A köröd elején kapsz !M! Erőt."
   },
   "Die Die Die": {
-    "NAME": "Die Die Die",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Exhaust."
+    "NAME": "Halál, halál, halál!",
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Kimerít."
   },
   "Disarm": {
-    "NAME": "Disarm",
-    "DESCRIPTION": "Enemy loses !M! Strength. NL Exhaust."
+    "NAME": "Lefegyverzés",
+    "DESCRIPTION": "Az ellenfél veszít !M! Erőt. NL Kimerít."
   },
   "Distraction": {
-    "NAME": "Distraction",
-    "DESCRIPTION": "Add a random Skill into your hand. NL It costs 0 this turn. NL Exhaust."
+    "NAME": "Elterelés",
+    "DESCRIPTION": "Kapsz egy véletlenszerű Képesség kártyát a kezedbe. NL A költsége 0 lesz erre a körre. NL Kimerít."
   },
   "Dodge and Roll": {
-    "NAME": "Dodge and Roll",
-    "DESCRIPTION": "Gain !B! Block. NL Next turn, gain !B! Block."
+    "NAME": "Dodge and Roll//",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL A következő körben kapsz !B! Védelmet."
   },
   "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
+    "NAME": "Sötétség és végzet",
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Sugároz !M! Sötétséget."
   },
   "Doppelganger": {
-    "NAME": "Doppelganger",
-    "DESCRIPTION": "Next turn, draw X cards and gain X [G]. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Next turn, draw X+1 cards and gain X+1 [G]. NL Exhaust."
+    "NAME": "Hasonmás",
+    "DESCRIPTION": "A következő körben húzz X kártyát és kapsz [G]. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "A következő körben húzz X+1 kártyát és kapsz [G]. NL Kimerít."
   },
   "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
+    "NAME": "Dupla energia",
+    "DESCRIPTION": "Megduplázza az Energiádat. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Megduplázza az Energiádat."
   },
   "Double Tap": {
-    "NAME": "Double Tap",
-    "DESCRIPTION": "This turn, your next Attack is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Attacks are played twice."
+    "NAME": "Dupla lövés",
+    "DESCRIPTION": "A következő kijátszott Támadás kártyád kétszer teljesül a körben.",
+    "UPGRADE_DESCRIPTION": "A következő !M! kijátszott Támadás kártyád kétszer teljesül a körben."
   },
   "Doubt": {
-    "NAME": "Doubt",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Weak."
+    "NAME": "Kétely",
+    "DESCRIPTION": "Kijátszhatatlan. NL A köröd végén 1 Gyengítést kapsz."
   },
   "Dramatic Entrance": {
-    "NAME": "Dramatic Entrance",
-    "DESCRIPTION": "Innate. NL Deal !D! damage to ALL enemies. NL Exhaust."
+    "NAME": "Drámai belépő",
+    "DESCRIPTION": "Ösztönös. NL MINDEN ellenfélnek !D! sebzést okoz. NL Kimerít."
   },
   "Dropkick": {
-    "NAME": "Dropkick",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy has Vulnerable, NL gain [R] and NL draw 1 card."
+    "NAME": "Ugró rúgás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfél Sebezhető, kapsz [R] és húzz 1 kártyát."
   },
   "Dual Wield": {
-    "NAME": "Dual Wield",
-    "DESCRIPTION": "Choose an Attack or Power card. Add a copy of that card into your hand.",
-    "UPGRADE_DESCRIPTION": "Choose an Attack or Power card. Add 2 copies of that card into your hand."
+    "NAME": "Kétkezes",
+    "DESCRIPTION": "Válassz egy kezedben lévő Támadás vagy Hatalom kártyát. Kapsz 1 másolatot a kezedbe.",
+    "UPGRADE_DESCRIPTION": "Válassz egy kezedben lévő Támadás vagy Hatalom kártyát. Kapsz 2 másolatot a kezedbe."
   },
   "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb twice."
+    "NAME": "Dupla idézés",
+    "DESCRIPTION": "Kétszer megidézi a következő Gömbödet."
   },
   "Echo Form": {
     "NAME": "Echo Form",

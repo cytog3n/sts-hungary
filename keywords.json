@@ -49,7 +49,8 @@
       "NAMES": [
         "sötét",
         "sötét+",
-        "sötétet"
+        "sötétet",
+        "sötétséget"
       ],
       "DESCRIPTION": "Gömb: Minden körben növekszik a sebzése. Amikor #yMegidéződik, a legkevesebb HP-val rendelkező ellenfelet támadja."
     },

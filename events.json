@@ -75,7 +75,7 @@
       "Megeszed a #yfánkot. Pont amire vágytál! A maximális életerőd megnövekedett.",
       "",
       "Megragadod a dobozt. Találsz benne egy #yrelikviát!",
-      " NL Habár, az a fánk ínycsiklandozónak nézett ki... NL Elfog a ~szomorúság,~ de legfőképpen a  #rmegbánás."
+      " NL Habár, az a fánk ínycsiklandozónak nézett ki... NL Elfog a ~szomorúság,~ de legfőképpen a  #rMegbánás."
     ],
     "OPTIONS": [
       "[Banán] #gVisszatölt #g",
@@ -131,17 +131,17 @@
   "Dead Adventurer": {
     "NAME": "Halott kalandozó",
     "DESCRIPTIONS": [
-      "While searching the adventurer you are caught off guard!",
-      "You exit without a sound.",
-      "You come across a #rdead #radventurer on the floor. NL His #bpants have been stolen! Also, ",
-      "the armor and face appear to be #r@scoured@ #r@by@ #r@flames.@ ",
-      "it looks as though he's been #r@gouged@ #r@and@ #r@trampled@ by a horned beast. ",
-      "he looks to have been #r@eviscerated@ #r@and@ #r@chopped@ by giant claws. ",
-      "NL Though his #ypossessions #yare #ystill #yintact, you're in no mind to find out what happened here...",
-      "You found some #ygold! NL Continue searching?",
-      "Hmm, couldn't find anything... NL Continue searching?",
-      "You found a #yrelic! NL Continue searching?",
-      "Looks like you searched all his belongings without a hitch!"
+      "Amíg kutakodtál lankadt a figyelmed és megtámadtak!",
+      "Hang nélkül távozol.",
+      "Egy #rhalott #rkalandozóra bukkansz a földön. NL A nadrágját ellopták! Sőt, ",
+      "a páncélja és az arca #r@megégett@ .",
+      "úgy tűnik #r@eltaposták@ és #r@átszúrta@ egy szörny a szarvával. egy it looks as though he's been #r@gouged@ #r@and@ #r@trampled@ by a horned beast. ",
+      "úgy tűnik #r@kizsigerelték@ #r@és@ #r@felszeletelték@ hatalmas karmokkal. ",
+      "NL Annak ellenére hogy a többi tárgya #ysértetlennek tűnik, nem akarod kideríteni mi történt itt...",
+      "Találtál némi #yaranyat! NL Folytatod a keresést?",
+      "Hmm, nem találtá semmit... NL Folytatod a keresést?",
+      "Találtál egy #yrelikviát! NL Folytatod a keresést?",
+      "Úgy tűnik teljesen átkutattad a testet mindenféle akadály nélkül!"
     ],
     "OPTIONS": [
       "[Kutatás] #gZsákmány #gkeresése. #r",
@@ -171,9 +171,9 @@
   "Duplicator": {
     "NAME": "Duplázó",
     "DESCRIPTIONS": [
-      "Before you lies a decorated altar to some ancient entity.",
-      "You kneel respectfully. A ghastly mirror image appears from the shrine and collides into you.",
-      "You ignore the shrine, confident in your choice."
+      "Egy díszített oltár fekszik előtted amit néhány ősi entitásnak készíthettek.",
+      "Tiszteletteljesen letérdelsz. Egy kísérteties tükörkép jön elő a szentélyből és belédolvad.",
+      "Figyelmen kívül hagyod a szentélyt... Magabiztos vagy a döntéseddel kapcsolatban."
     ],
     "OPTIONS": [
       "[Imádkozás] #gKészíts #gegy #gmásolatot #gaz #gegyik #gkártyádról.",
@@ -193,12 +193,12 @@
     ],
     "OPTIONS": [
       "[Folytatás]",
-      "[Landolás] #rLose ",
+      "[Landolás] #rVeszítesz ",
       "[Lezárva] Szükséges: Képesség kártya",
-      "[Sugárzás] #rLose ",
-      "[Lezárva] Requires: Hatalom kártya",
-      "[Csapás] #rLose ",
-      "[Lezárva] Requires: Támadás kártya",
+      "[Sugárzás] #rVeszítesz ",
+      "[Lezárva] Szükséges: Hatalom kártya",
+      "[Csapás] #rVeszítesz ",
+      "[Lezárva] Szükséges: Támadás kártya",
       "[Távozás]",
       "[Landolás] "
     ]
@@ -274,10 +274,10 @@
   "Golden Shrine": {
     "NAME": "Arany szentély",
     "DESCRIPTIONS": [
-      "Before you lies an elaborate shrine to an ancient spirit. ",
+      "Egy oltár fekszik előtted amit egy ősi szellemnek állítottak.",
       "As your hand touches the shrine, #ygold rains from the ceiling ~showering~ ~you~ ~in~ ~riches.~ ",
       "Each time you strike the shrine, #ygold pours forth again and again! NL NL As you pocket the riches, something #rweighs #rheavily #ron #ryou.",
-      "You ignore the shrine."
+      "Figyelmen kívül hagyod a szentélyt."
     ],
     "OPTIONS": [
       "[Imádkozol] #gKapsz #g",
@@ -376,14 +376,14 @@
   "Masked Bandits": {
     "NAME": "Maszkos banditák",
     "DESCRIPTIONS": [
-      "Hehehe.. Thanks for the #ygold! NL Oh, I love #ygold. It's so nice. NL #y~shiny~ #y~shiny~ chits they are!",
-      "Hey #bBear, hey! NL This guy gave us all his #ygold! What a sucker, right? NL Get this, I just had to ask nicely. Who knew?! NL I certainly didn't! What a chump!",
-      "Gang, let's all have a laugh for this wondrous occasion! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
-      "Oh? You're still here? NL Did you overhear something? Didn't think so. NL #r@*snerk*@ ~...loser....~ @Hahaha@ ~haaah~",
-      "You encounter a group of bandits wearing large #rred #rmasks. NL \"Hello, pay up to pass... a reasonable fee of @ALL@ your #ygold will do! Heh heh!\""
+      "Hehehe.. Köszi az #yaranyat! NL Ó, szeretem az #yaranyat. Olyan jó... NL #y~csillogós~ #y~fényes~ kis darabkák!",
+      "Hé #bMedve, hé! NL Ez a srác odaadta minden #yaranyát! A kis hülye, mi? NL Ezt kapd ki, csak szépen kellett kérnem. Ki gondolta volna?! NL Én biztosan nem! Mekkora tuskó!",
+      "Banda, örüljünk ennek a csodálatos alkalmonak! NL @Hahaah@ NL @Ha @HAH@ ~haha!~ NL ~Hah!~",
+      "Ó? Még mindig itt vagy? NL Esetleg mondtál valamit? Nem hiszem. NL #r@*Pff*@ ~...vesztes....~ @Hahaha@ ~haaah~",
+      "Találkozol egy bandával akik nagy #rpiros #rmaszkot viselnek. NL \"Helló, fizess a továbbhaladásért... egy ésszerű árat... mondjuk @MINDEN@ #yaranyadat! Hehe!\""
     ],
     "OPTIONS": [
-      "[Fizetsz] #rLose #rALL of your #yGold.",
+      "[Fizetsz] #rElveszíted #rMINDEN #yaranyadat.",
       "[Harc!]",
       "[Folytatás]",
       "[Távozol]"
@@ -392,9 +392,9 @@
   "Match and Keep!": {
     "NAME": "Memória!",
     "DESCRIPTIONS": [
-      "\" #bTwelve cards! Match them to keep them! #bFive tries, no do-overs. NL Are you ready? Let's start!\"",
-      "You complete the gremlin's game and look up. NL He disappeared?",
-      "A gremlin is madly shuffling cards on a table. This monster seems to be a harmless one. You approach him out of curiosity."
+      "\" #bTizenkettő kártya! Párosítsd össze őket hogy megtarthasd! #bÖt próbálkozás, nem több. NL Készen állsz? Kezdjük!\"",
+      "Teljesítetted a szörny játékát és felnézel. NL Hová tűnt?",
+      "Egy szörny vadul keverget egy kártyapaklit az asztalnál... ártalmatlannak tűnik. Kíváncsiságodban megközelíted."
     ],
     "OPTIONS": [
       "[Folytatás]",
@@ -452,9 +452,9 @@
   "Purifier": {
     "NAME": "Tisztító",
     "DESCRIPTIONS": [
-      "Before you lies an elaborate shrine to a forgotten spirit.",
-      "As you kneel in reverence, you feel a weight lifted off your shoulders.",
-      "You ignore the shrine."
+      "Egy oltár fekszik előtted amit egy ősi szellemnek állítottak.",
+      "Ahogy tiszteletteljesen letérdelsz, érzed hogy nagy teher esik le rólad.",
+      "Figyelmen kívül hagyod a szentélyt."
     ],
     "OPTIONS": [
       "[Imádkozol] #gTávolíts #gel #gegy #gkártyát #ga #gpaklidból.",
@@ -688,9 +688,9 @@
   "Transmorgrifier": {
     "NAME": "Átalakító",
     "DESCRIPTIONS": [
-      "Before you lies an elaborate shrine to a forgotten spirit.",
+      "Egy oltár fekszik előtted amit egy ősi szellemnek állítottak.",
       "As the power of the shrine flows through you, your mind feels altered.",
-      "You ignore the shrine."
+      "Figyelmen kívül hagyod a szentélyt."
     ],
     "OPTIONS": [
       "[Imádkozol] #gÁtalakítasz #gegy #gkártyát.",
@@ -701,9 +701,9 @@
   "Upgrade Shrine": {
     "NAME": "Upgrade Shrine",
     "DESCRIPTIONS": [
-      "Before you lies an elaborate shrine to a forgotten spirit.",
-      "The shrine's energy flows into you, making you stronger.",
-      "You ignore the shrine."
+      "Egy oltár fekszik előtted amit egy ősi szellemnek állítottak.",
+      "Az oltár energiája átáramlik beléd, ezzel is erősebbé téve téged.",
+      "Figyelmen kívül hagyod a szentélyt."
     ],
     "OPTIONS": [
       "[Imádkozol] #gFejlessz #gegy #gkáryát.",
@@ -734,18 +734,18 @@
   "Wheel of Change": {
     "NAME": "Szerencsekerék",
     "DESCRIPTIONS": [
-      "You come upon a dapper looking, cheery gremlin. NL \"It's time to spin the wheel! Are you ~R~ ~E~ ~A~ ~D~ ~Y~ ~?~ Of course you are!\"",
-      "\"You win some #yGOLD! NL YAY!!!!\"",
-      "\"Ah, a #ggift! NL Enjoy!\"",
-      "\"Oooh, a free #gHeal for you!\"",
-      "\"Looks like you won a #pCurse! NL That's not good. NL Oh well! Better luck next time!\"",
-      "\"Ohh, the power of #r~darkness...~ NL Choose a card to remove from your deck!\"",
-      "\"Uh oh! NL You lose!\" NL You spot him readying a shiv...",
-      "You slash at the crazy gremlin but he's simply too quick! NL He gets you a few times with a crude shiv. NL \"The price has been paid!!\" NL and with that, both the gremlin and its wheel disappear in a puff of smoke."
+      "Egy jól öltözött, vidám szörnnyel találkozol. NL \"Itt az idő a forgatásra! Készen ~Á~ ~L~ ~L~ ~S~ ~Z~ ~?~ Hát persze hogy!\"",
+      "\"Nyertél némi #yARANYAT! NL JUHÚÚ!!!!\"",
+      "\"Á, egy #gajándék! NL Használd egészséggel!\"",
+      "\"Ó, egy ingyenes #géleterőtöltés!\"",
+      "\"Úgy tűnik egy #pÁtkot nyertél! NL Az bizony nemjó. NL Nos, több szerencsét legközelebb!\"",
+      "\"Ó, a #r~sötétség~ ereje... NL Válassz egy kártyát amit eltávolítanál a paklidból!\"",
+      "\"Ú, ó! NL Életerőt veszítesz\" NL Kiszúrod hogy egy bökőt vesz elő... ",
+      "Megpróbálod lecsapni az őrült szörnyet de egyszerűen túl gyors. NL Pár alkalommal sikerül megszúrnia. NL \"A tartozás kifizetve!!\" NL és egy szempillantás alatt eltűnik mind a szörny, mind pedig a kerék."
     ],
     "OPTIONS": [
       "[Játék]",
-      "[Nyeremény!] YAY!!!!",
+      "[Nyeremény!] JUHÚÚ!!!!",
       "[Nyeremény!] #gNyertél #gegy #grelikviát.",
       "[Nyeremény!] #gVisszatölti #gaz #géleterődet.",
       "[Nyeremény?!] #rHanyatlás #rÁtkot #rkapsz.",
@@ -779,9 +779,9 @@
   "World of Goop": {
     "NAME": "Trutymó világa",
     "DESCRIPTIONS": [
-      "You fall into a puddle. NL @IT'S@ @MADE@ @OF@ #g@SLIME@ #g@GOOP!!@ NL Frantically, you claw yourself out over several minutes as you feel the goop starting to burn. NL You can feel goop in your ears, goop in your nose, goop everywhere. NL NL Climbing out, you notice that some of your #ygold is missing. Looking back to the puddle you see your missing coins combined with #ygold from unfortunate adventurers mixed together in the puddle.",
-      "Feeling the sting of the goop as the prolonged exposure starts to melt away at your skin, you manage to fish out the #ygold.",
-      "You decide that mess is not worth it."
+      "Egy nagy adag trutyiba esel. NL @EZ@ #g@AMŐBA@ #g@TRUTYIBÓL@ VAN!!@ NL Kétségbeesetten kapálózva sikerül a szélére úsznod, ekkor érzed hogy a trutyi égeti a bőröd. NL Érzed a füledben, orrodban, mindenhol. NL NL Miután kimásztál észreveszed hogy az #garanyad egy része hiányzik. Visszanézel a trutyiba és látod ahogy az #yaranyad és korábbi szerencsétlen kalandorok ott hevernek a trutymóban.",
+      "Érzed ahogy a maró trutymótól megolvadt a bőröd, de sikerült kihalászni az #yaranyat.",
+      "Úgy döntöttél nem éri meg."
     ],
     "OPTIONS": [
       "[Összeszeded az aranyat] #gKapsz #g",
@@ -915,11 +915,11 @@
   "Colosseum": {
     "NAME": "A Kolosszeum",
     "DESCRIPTIONS": [
-      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
-      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
-      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
-      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
-      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+      "@Puff!!!@ NL .. NL ...... NL ... NL ~Kiütöttek~ ~téged...~",
+      "~Szédülve~ és @sajgó@ fejjel, egy masszív aréna közepén találod magad. A nézőtér csordultig van #bRabszolgatartókkal, #pKultistákkal és egyéb városlakókkal! NL ",
+      " NL Egy páncélozott óriás #yarany #ykoronával a fején lenéz rád. NL @\"KEZDJÜK@ @HÁT@ @",
+      ".@ @CSATÁNKAT!!!!\"@ NL Egy kapu nyílik a túloldalt...",
+      "@\"SZÉP@ @VOLT,@ @KIS@ @NYÁPIC!\"@ NL Az óriás gúnyosan tapsol és feltüzeli a nézőket a túlzó mozdulataival. NL #y~Aranyat~ ~és~ #y~konfettiesőt!~ NL @\"ITT@ @AZ@ @IDŐ@ @AZ@ @IGAZI@ @KIHÍVÁSHOZ!!\"@ NL NL Az utolsó harc alatt egy kis nyílás keletkezett a Kolosszeum falán. Könnyedén elmenekülhetsz míg senki sem figyel. NL Maradsz küzdeni vagy elmenekülsz?"
     ],
     "OPTIONS": [
       "[Folytatás]",
