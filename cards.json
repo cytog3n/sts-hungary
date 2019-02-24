@@ -143,7 +143,7 @@
   },
   "Blood for Blood": {
     "NAME": "Szemet szemért",
-    "DESCRIPTION": "A harcban elszenvedett minden sebzés után eggyel csökken a [R] költsége. NL !D! sebzést okoz."
+    "DESCRIPTION": "A harcban elszenvedett minden sebzés után eggyel csökken a költsége. NL !D! sebzést okoz."
   },
   "Bloodletting": {
     "NAME": "Véreztetés",
@@ -277,7 +277,7 @@
     "DESCRIPTION": "Dobj el !M! kártyát. NL Kapsz [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Akkumulátor töltés",
+    "NAME": "Mag töltés",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL A következő körben kapsz [B]."
   },
   "Consume": {
@@ -424,8 +424,8 @@
   },
   "Dual Wield": {
     "NAME": "Kétkezes",
-    "DESCRIPTION": "Válassz egy kezedben lévő Támadás vagy Hatalom kártyát. Kapsz 1 másolatot a kezedbe.",
-    "UPGRADE_DESCRIPTION": "Válassz egy kezedben lévő Támadás vagy Hatalom kártyát. Kapsz 2 másolatot a kezedbe."
+    "DESCRIPTION": "Válassz egy Támadás vagy Hatalom kártyát a kezedből. Kapsz 1 másolatot a kezedbe.",
+    "UPGRADE_DESCRIPTION": "Válassz egy Támadás vagy Hatalom kártyát a kezedből. Kapsz 2 másolatot a kezedbe."
   },
   "Dualcast": {
     "NAME": "Dupla idézés",
@@ -504,7 +504,7 @@
   },
   "Fiend Fire": {
     "NAME": "Démoni tűz",
-    "DESCRIPTION": "Kimerít minden kártyát a kezdben. NL !D! sebzést okoz minden kimerített kártyáért. NL Kimerít."
+    "DESCRIPTION": "Kimerít minden kártyát a kezdben. !D! sebzést okoz minden kimerített kártyáért. NL Kimerít."
   },
   "Finesse": {
     "NAME": "Ravaszság",
@@ -610,7 +610,7 @@
   },
   "Havoc": {
     "NAME": "Pusztítás",
-    "DESCRIPTION": "Játszd ki a húzópaklid legfelső kártyáját és Merítsd ki"
+    "DESCRIPTION": "Játszd ki a húzópaklid legfelső kártyáját. NL A felhúzott kártyát Kimeríted."
   },
   "Headbutt": {
     "NAME": "Fejelés",
@@ -805,7 +805,7 @@
       " cards per turn.",
       " cards per turn. NL You have played ",
       " card this turn.",
-	  " cards this turn."
+      " cards this turn."
     ]
   },
   "Noxious Fumes": {
@@ -1292,6 +1292,5 @@
     "NAME": "Felfedezés",
     "DESCRIPTION": "Válassz 1 kártyát 3 véletlenszerű kártya közül és vedd a kezedbe. A költsége 0 lesz a körre. NL Kimerít.",
     "UPGRADE_DESCRIPTION": "Válassz 1 kártyát 3 véletlenszerű kártya közül és vedd a kezedbe. A költsége 0 lesz a körre."
-
   }
 }
