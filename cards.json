@@ -433,7 +433,7 @@
   },
   "Echo Form": {
     "NAME": "Visszhang alak",
-    "DESCRIPTION": "Földöntúli. NL Az elsö kijátszott kártya minden körben duplán teljesül."",
+    "DESCRIPTION": "Földöntúli. NL Az elsö kijátszott kártya minden körben duplán teljesül.",
     "UPGRADE_DESCRIPTION": "Az elsö kijátszott kártya minden körben duplán teljesül."
   },
   "Electrodynamics": {
@@ -452,8 +452,8 @@
   },
   "Enlightenment": {
     "NAME": "Megvilágosodás",
-    "DESCRIPTION": "Minden kezedben lévö kártya költségét 1 -re csökkenti a köröd végéig.",
-    "UPGRADE_DESCRIPTION": "Minden kezedben lévö kártya költségét 1 -re csökkenti a harc végéig."
+    "DESCRIPTION": "Minden kezedben lévő kártya költségét 1 -re csökkenti a köröd végéig.",
+    "UPGRADE_DESCRIPTION": "Minden kezedben lévő kártya költségét 1 -re csökkenti a harc erejéig."
   },
   "Entrench": {
     "NAME": "Entrench",
@@ -547,22 +547,22 @@
   },
   "Flex": {
     "NAME": "Feszítés",
-    "DESCRIPTION": "Kapsz !M! Eröt. NL A köröd végén veszítesz !M! Eröt."
+    "DESCRIPTION": "Kapsz !M! Erőt. NL A köröd végén veszítesz !M! Erőt."
   },
   "Flux Capacitor": {
     "NAME": "Fluxus kondenzátor",
     "DESCRIPTION": "Minden sugárzott Gömbödet lecseréli Plazmára. NL Kimerít."
   },
   "Flying Knee": {
-    "NAME": "Repülö térd",
-    "DESCRIPTION": "!D! sebzést okoz. NL A következö körben kapsz [G] ."
+    "NAME": "Térdrúgás",
+    "DESCRIPTION": "!D! sebzést okoz. NL A következő körben kapsz [G] ."
   },
   "Footwork": {
     "NAME": "Lábmunka",
     "DESCRIPTION": "Kapsz !M! Ügyességet."
   },
   "Force Field": {
-    "NAME": "Erötér",
+    "NAME": "Erőtér",
     "DESCRIPTION": "Eggyel csökken a költsége, minden kijátszott Hatalom kártya után. NL Kapsz !B! Védelmet."
   },
   "Fusion": {
@@ -592,8 +592,8 @@
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
   },
   "Glass Knife": {
-    "NAME": "Glass Knife",
-    "DESCRIPTION": "Deal !D! damage twice. Decrease the damage of this card by 2 this combat."
+    "NAME": "Öveg kés",
+    "DESCRIPTION": "!D! sebzést okoz kétszer. A kártya sebzése csökken 2 -vel a harc erejéig."
   },
   "Go for the Eyes": {
     "NAME": "Go for the Eyes",
@@ -1106,7 +1106,7 @@
     "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, gain [B] [B] [B]."
   },
   "Survivor": {
-    "NAME": "Túlélö//",
+    "NAME": "Túlélő",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL Dobj el 1 kártyát."
   },
   "Sweeping Beam": {
@@ -1119,12 +1119,12 @@
   },
   "Sword Boomerang": {
     "NAME": "Kard bumeráng",
-    "DESCRIPTION": "Egy véletlenszerü ellenfélnek !D! sebzést okoz. !M! alkalommal ismétlödik."
+    "DESCRIPTION": "Egy véletlenszerű ellenfélnek !D! sebzést okoz. !M! alkalommal ismétlődik."
   },
   "Tactician": {
     "NAME": "Taktikus",
-    "DESCRIPTION": "Kijátszhatatlan. NL Ha ezt a kártyát eldobod a kezedböl, kapsz [G].",
-    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL Ha ezt a kártyát eldobod a kezedböl, kapsz [G] [G].",
+    "DESCRIPTION": "Kijátszhatatlan. NL Ha ezt a kártyát eldobod a kezedből, kapsz [G].",
+    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL Ha ezt a kártyát eldobod a kezedből, kapsz [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Ezt a kártyát nem játszhatom ki."
     ]
@@ -1169,8 +1169,8 @@
   },
   "Trip": {
     "NAME": "Csúszás",
-    "DESCRIPTION": "!M! Sebezhetöséget okoz.",
-    "UPGRADE_DESCRIPTION": "MINDEN ellenfélnek !M! Sebezhetöséget okoz."
+    "DESCRIPTION": "!M! Sebezhetőséget okoz.",
+    "UPGRADE_DESCRIPTION": "MINDEN ellenfélnek !M! Sebezhetőséget okoz."
   },
   "True Grit": {
     "NAME": "True Grit",
@@ -1199,11 +1199,11 @@
   },
   "Unload": {
     "NAME": "Szórás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Dobd el az összes nem-Támadás kártyát a kezedböl."
+    "DESCRIPTION": "!D! sebzést okoz. NL Dobd el az összes nem-Támadás kártyát a kezedből."
   },
   "Uppercut": {
     "NAME": "Horogütés",
-    "DESCRIPTION": "!D! sebzést, NL !M! Gyengeséget és !M! Sebezhetöséget okoz."
+    "DESCRIPTION": "!D! sebzést, NL !M! Gyengeséget és !M! Sebezhetőséget okoz."
   },
   "Venomology": {
     "NAME": "Alchemize",
@@ -1215,8 +1215,8 @@
   },
   "Warcry": {
     "NAME": "Csatakiáltás",
-    "DESCRIPTION": "Húzz !M! kártyát. NL Tegyél egy kártyát a kezedböl a húzópaklid tetejére. NL Kimerít.",
-    "UPGRADE_DESCRIPTION": "Húzz !M! kártyát. NL Tegyél egy kártyát a kezedböl a húzópaklid tetejére. NL Kimerít."
+    "DESCRIPTION": "Húzz !M! kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Húzz !M! kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL Kimerít."
   },
   "Well Laid Plans": {
     "NAME": "Well-Laid Plans",
@@ -1229,7 +1229,7 @@
   },
   "White Noise": {
     "NAME": "Fehér zaj",
-    "DESCRIPTION": "Kapsz egy véletlenszerü Hatalom kártyát a kezedbe. NL A költsége 0 lesz a körre. Kimerít."
+    "DESCRIPTION": "Kapsz egy véletlenszerű Hatalom kártyát a kezedbe. NL A költsége 0 lesz a körre. Kimerít."
   },
   "Wild Strike": {
     "NAME": "Vad csapás",
@@ -1265,7 +1265,7 @@
   },
   "Pride": {
     "NAME": "Büszkeség",
-    "DESCRIPTION": "Ösztönös. NL A köröd végén készít egy másolatot erröl a kártyáról a húzópaklid tetejére. Kimerít."
+    "DESCRIPTION": "Ösztönös. NL A köröd végén készít egy másolatot erről a kártyáról a húzópaklid tetejére. Kimerít."
   },
   "PanicButton": {
     "NAME": "Pánik gomb",
@@ -1276,8 +1276,8 @@
     "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
   },
   "Violence": {
-    "NAME": "Eröszak",
-    "DESCRIPTION": "Húzz !M! véletlenszerü támadást a húzópaklidból. NL Kimerít."
+    "NAME": "Erőszak",
+    "DESCRIPTION": "Húzz !M! véletlenszerű támadást a húzópaklidból. NL Kimerít."
   },
   "Impatience": {
     "NAME": "Türelmetlenség",
@@ -1290,8 +1290,8 @@
   },
   "Discovery": {
     "NAME": "Felfedezés",
-    "DESCRIPTION": "Válassz 1 kártyát 3 véletlenszerü kártya közül és vedd a kezedbe. A költsége 0 lesz a körre. NL Kimerít.",
-    "UPGRADE_DESCRIPTION": "Válassz 1 kártyát 3 véletlenszerü kártya közül és vedd a kezedbe. A költsége 0 lesz a körre."
+    "DESCRIPTION": "Válassz 1 kártyát 3 véletlenszerű kártya közül és vedd a kezedbe. A költsége 0 lesz a körre. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Válassz 1 kártyát 3 véletlenszerű kártya közül és vedd a kezedbe. A költsége 0 lesz a körre."
 
   }
 }
