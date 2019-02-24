@@ -20,8 +20,8 @@
   "Addict": {
     "NAME": "Esedező csavargó",
     "DESCRIPTIONS": [
-      "Éppen elsétálsz pár köpenyes alak mellett, amikor is egyikük odalép hozzád. NL \"Barátom, mid van számomra? Talán... némi #ypénz?\" NL \"Szükségem van egy helyre ahol meghúzhatom magam. Van némi kincs nálam amit elcserélhetnénk...\" NL Kicsit bolondnak néz ki, de ártalmatlan.",
-      "\"ó igen, ~igen!~ Tessék tessék, jó üzlet!\"",
+      "Éppen elsétálsz pár köpenyes alak mellett, amikor is egyikük odalép hozzád. NL \"Barátom, mid van számomra? Talán... némi #ypénz ?\" NL \"Szükségem van egy helyre ahol meghúzhatom magam. Van némi kincs nálam amit elcserélhetnénk...\" NL Kicsit bolondnak néz ki, de ártalmatlan.",
+      "\"Ó igen, ~igen!~ Tessék tessék, jó üzlet!\"",
       "Kiragadsz egy értékes #yrelikviát a zsákjából és elsétálsz. NL Utánad kiált, NL \"Nem szégyenled magad? ~NEM~ ~SZÉGYENLED~ ~MAGAAAAAD?!\"~ NL Elfog egy érzés, a #pszégyen."
     ],
     "OPTIONS": [
@@ -52,7 +52,7 @@
   "Beggar": {
     "NAME": "Öreg kéregető",
     "DESCRIPTIONS": [
-      "Egy öreg koldus rongyokba burkolózva feléd nyújtja a kezét ahogy elhaladsz mellette. \"Némi aprót, gyermekem?\"",
+      "Egy öreg koldus rongyokba burkolózva feléd nyújtja a kezét, ahogy elhaladsz mellette. \"Némi aprót, gyermekem?\"",
       "A koldus a földre szegezi a szemét ahogy elsétálsz mellette. NL \"Soha nem fogsz változást hozni... Soha.\"",
       "A koldus lerántja a leplet magaról, felfedve, hogy ő #bCleric! NL @\"Te@ @egy@ @rendes@ @lélek@ @vagy.@ @Most@ @megtisztítalak!\"@ kiáltja. NL Nem vagy benne biztos, hogy ez hála vagy büntetés.",
       "@\"Remélem@ @ezúttal@ @jobbnak@ @bizonyulsz,@ @barátom!\"@ kiáltja. NL Miközben ott hagyod a koldust azon tűnődsz vajon mit érthetett ez alatt ."
@@ -779,7 +779,7 @@
   "World of Goop": {
     "NAME": "Trutymó világa",
     "DESCRIPTIONS": [
-      "Egy nagy adag trutyiba esel. NL @EZ@ #g@AMŐBA@ #g@TRUTYIBÓL@ VAN!!@ NL Kétségbeesetten kapálózva sikerül a szélére úsznod, ekkor érzed hogy a trutyi égeti a bőröd. NL Érzed a füledben, orrodban, mindenhol. NL NL Miután kimásztál észreveszed hogy az #garanyad egy része hiányzik. Visszanézel a trutyiba és látod ahogy az #yaranyad és korábbi szerencsétlen kalandorok ott hevernek a trutymóban.",
+      "Egy nagy adag trutyiba esel. NL @EZ@ #g@AMŐBA@ #g@TRUTYIBÓL@ #g@VAN!!@ NL Kétségbeesetten kapálózva sikerül a szélére úsznod, ekkor érzed hogy a trutyi égeti a bőröd. NL Érzed a füledben, orrodban, mindenhol. NL NL Miután kimásztál észreveszed hogy az #garanyad egy része hiányzik. Visszanézel a trutyiba és látod ahogy az #yaranyad és korábbi szerencsétlen kalandorok ott hevernek a trutymóban.",
       "Érzed ahogy a maró trutymótól megolvadt a bőröd, de sikerült kihalászni az #yaranyat.",
       "Úgy döntöttél nem éri meg."
     ],

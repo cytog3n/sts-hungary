@@ -458,7 +458,7 @@
     "NAME": "Gyík farok",
     "FLAVOR": "Egy hamis farokkal becsaphatod az ellenfeleidet a harc során.",
     "DESCRIPTIONS": [
-      "Amikor meghalnál, az teljes életerőd #b50% -át visszanyered. (Csak egyszer működik)."
+      "Amikor meghalnál, a teljes életerőd #b50% -át visszanyered. (Csak egyszer működik)."
     ]
   },
   "Magic Flower": {

@@ -73,7 +73,7 @@
   "FairyPotion": {
     "NAME": "Tündér egy üvegben",
     "DESCRIPTIONS": [
-      "Amikor meghalnál, az teljes életerőd #b10% -át visszanyered, majd eldobod ezt az italt."
+      "Amikor meghalnál, a teljes életerőd #b10% -át visszanyered, majd eldobod ezt az italt."
     ]
   },
   "FearPotion": {
