@@ -214,8 +214,8 @@
   "Dexterity": {
     "NAME": "Ügyesség",
     "DESCRIPTIONS": [
-      "+#b",
-      "-#b",
+      "+ #b",
+      "- #b",
       " #yVédelmet kapsz a kártyákból."
     ]
   },
