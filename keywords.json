@@ -85,7 +85,8 @@
         "kimerít",
         "kimeríted",
         "kimerítesz",
-        "kimerített"
+        "kimerített",
+        "merítsd ki"
       ],
       "DESCRIPTION": "Nem használható ezen Harc alatt."
     },
@@ -141,9 +142,10 @@
     },
     "LOCK_ON": {
       "NAMES": [
-        "célzás"
+        "bemért",
+        "bemérés"
       ],
-      "DESCRIPTION": "A megcélzott célpontok #b50%-al több sebzést szenvednek el a Gömböktől."
+      "DESCRIPTION": "A bemért célpontok #b50%-al több sebzést szenvednek el a Gömböktől."
     },
     "OPENER": {
       "NAMES": [

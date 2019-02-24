@@ -519,8 +519,8 @@
   "Loop": {
     "NAME": "Hurok",
     "DESCRIPTIONS": [
-      "A köröd elején, aktiválja a következő Gömböd passzív képességét.",
-      "A köröd elején, aktiválja a következő Gömböd passzív képességét #b",
+      "A köröd elején aktiválja a következő Gömböd passzív képességét.",
+      "A köröd elején aktiválja a következő Gömböd passzív képességét #b",
       " alkalommal."
     ]
   },
@@ -535,8 +535,8 @@
   "Magnetism": {
     "NAME": "Mágnesesség",
     "DESCRIPTIONS": [
-      "A köröd elején, kapsz #b%s véletlenszerű szürke kártyát a kezedbe.",
-      "A köröd elején, kapsz #b%s véletlenszerű szürke kártyát a kezedbe."
+      "A köröd elején kapsz #b%s véletlenszerű szürke kártyát a kezedbe.",
+      "A köröd elején kapsz #b%s véletlenszerű szürke kártyát a kezedbe."
     ]
   },
   "Malleable": {
