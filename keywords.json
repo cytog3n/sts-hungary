@@ -76,7 +76,8 @@
     "EVOKE": {
       "NAMES": [
         "megidéz",
-        "megidézett"
+        "megidézett",
+        "megidéztél"
       ],
       "DESCRIPTION": "Használd el a legjobboldali Gömb-ödet és Idézd meg a hatását."
     },
@@ -86,7 +87,7 @@
         "kimeríted",
         "kimerítesz",
         "kimerített",
-        "merítsd ki"
+        "kimeríthetsz"
       ],
       "DESCRIPTION": "Nem használható ezen Harc alatt."
     },

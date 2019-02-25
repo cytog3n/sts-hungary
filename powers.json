@@ -312,7 +312,7 @@
   "Envenom": {
     "NAME": "Mérgezett penge",
     "DESCRIPTIONS": [
-      "Minden le nem védett sebzés amit #yTámadással okozol, #b",
+      "Minden le nem védett sebzés, amit #yTámadással okozol, #b",
       " #yMérgezést okoz az ellenfélnek."
     ]
   },
@@ -560,9 +560,9 @@
     "NAME": "Fémesedés",
     "DESCRIPTIONS": [
       "Kapsz #b",
-      " #yVédelmet a köröd elején.",
+      " #yVédelmet a köröd végén.",
       "Kap #b",
-      " #yVédelmet a köre elején."
+      " #yVédelmet a köre végén."
     ]
   },
   "Minion": {
@@ -650,9 +650,9 @@
     "NAME": "Erősített Páncél",
     "DESCRIPTIONS": [
       "Kapsz #b",
-      " #yVédelmet a köröd végén. Támadástól elszenvedett életvesztés csökkenti az #yErősített #yPáncélt #b1-el.",
+      " #yVédelmet a köröd végén. Minden le nem védett sebzés csökkenti az #yErősített #yPáncélt #b1-el.",
       "Nyer #b",
-      " #yVédelmet a köröd végén. Támadástól elszenvedett életvesztés csökkenti az #yErősített #yPáncélt #b1-el."
+      " #yVédelmet a köröd végén. Minden le nem védett sebzés csökkenti az #yErősített #yPáncélt #b1-el."
     ]
   },
   "Poison": {
@@ -689,9 +689,9 @@
   "Rebound": {
     "NAME": "Visszapattanás",
     "DESCRIPTIONS": [
-      "A következő kártya amit ebben a körben kijátszol, visszakerül a húzópaklid tetejére.",
+      "A következő kártya, amit ebben a körben kijátszol, visszakerül a húzópaklid tetejére.",
       "A következő #b",
-      " kártya amit ebben a körben kijátszol, visszakerül a húzópaklid tetejére."
+      " kártya, amit ebben a körben kijátszol, visszakerül a húzópaklid tetejére."
     ]
   },
   "Reduce Damage": {
