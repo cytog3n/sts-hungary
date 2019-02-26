@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "Őrjöngés",
-    "DESCRIPTION": "Kapsz !M! Sebezhetőséget. NL A köröd elején kapsz [R]."
+    "DESCRIPTION": "Kapsz !M! Sebezhetőséget. A köröd elején NL kapsz [R]."
   },
   "Biased Cognition": {
     "NAME": "Elfogult felismerés",
@@ -151,7 +151,7 @@
     "UPGRADE_DESCRIPTION": "Veszítesz 3 életerőt. NL Kapsz [R] [R]."
   },
   "Bludgeon": {
-    "NAME": "Bunkósbot",
+    "NAME": "Harci kalapács",
     "DESCRIPTION": "!D! sebzést okoz."
   },
   "Blur": {
@@ -159,7 +159,7 @@
     "DESCRIPTION": "Kapsz !B! Védelmet. NL A Védelmed megmarad a következő köröd elején."
   },
   "Body Slam": {
-    "NAME": "Body Slam//",
+    "NAME": "Csapódás",
     "DESCRIPTION": "Védelmednek megfelelő sebzést okoz.",
     "UPGRADE_DESCRIPTION": " NL (!D! sebzést okoz.)"
   },
@@ -191,7 +191,7 @@
     "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL A köröd végén 4 sebzést szenvedsz el."
   },
   "Burning Pact": {
-    "NAME": "Lángoló paktum",
+    "NAME": "Izzó paktum",
     "DESCRIPTION": "Kimerít 1 kártyát. NL Húzz !M! kártyát."
   },
   "Burst": {
@@ -242,9 +242,9 @@
   },
   "Clash": {
     "NAME": "Összecsapás",
-    "DESCRIPTION": "Csak akkor játszhatod ki, ha csak Támadások vannak a kezedben. !D! sebzést okoz.",
+    "DESCRIPTION": "Csak akkor játszható ki, ha csak Támadások vannak a kezedben. NL !D! sebzést okoz.",
     "EXTENDED_DESCRIPTION": [
-      "Van olyan kártya a kezemben, ami nem Támadás."
+      "Van nem-Támadás kártya a kezemben."
     ]
   },
   "Cleave": {
@@ -257,7 +257,7 @@
     "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL Kapsz !M! pengét a kezedbe."
   },
   "Clothesline": {
-    "NAME": "Clothesline//",
+    "NAME": "Jobbhorog",
     "DESCRIPTION": "!D! sebzést és NL !M! Gyengítést okoz."
   },
   "Clumsy": {
@@ -299,7 +299,7 @@
   },
   "Corruption": {
     "NAME": "Romlás",
-    "DESCRIPTION": "A Képességek 0 költségűek. Amikor kijátszol egy Képességet, Kimeríted azt."
+    "DESCRIPTION": "A Képességek költsége 0 lesz. Amikor kijátszol egy Képességet, Kimeríted azt."
   },
   "Creative AI": {
     "NAME": "Kreatív MI",
@@ -496,15 +496,15 @@
   },
   "Feed": {
     "NAME": "Evés",
-    "DESCRIPTION": "!D! sebzést okoz. NL Ha egy nem-Csatlós lényt pusztítasz el ezzel a kártyával, plusz !M! maximális életerőt kapsz. Kimerít."
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha egy nem-Csatlós lényt ölsz meg ezzel a kártyával, plusz !M! maximum életerőt kapsz. Kimerít."
   },
   "Feel No Pain": {
-    "NAME": "Nincs több fájdalom",
+    "NAME": "Fájdalom vége",
     "DESCRIPTION": "Minden Kimerített kártya után kapsz !M! Védelmet."
   },
   "Fiend Fire": {
     "NAME": "Démoni tűz",
-    "DESCRIPTION": "Kimerít minden kártyát a kezdben. !D! sebzést okoz minden kimerített kártyáért. NL Kimerít."
+    "DESCRIPTION": "Kimerít minden kártyát a kezdben. NL !D! sebzést okoz minden kimerített kártyáért. NL Kimerít."
   },
   "Finesse": {
     "NAME": "Ravaszság",
@@ -530,7 +530,7 @@
   },
   "Flame Barrier": {
     "NAME": "Lángoló akadály",
-    "DESCRIPTION": "Kapsz !B! Védelmet. NL Minden alkalommal amikor megtámadnak, !M! sebzést okozol a támadódnak a körben."
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor megtámadnak, !M! sebzést okozol a támadódnak a körben."
   },
   "Flash of Steel": {
     "NAME": "Acél villanása",
@@ -662,7 +662,7 @@
   },
   "Infernal Blade": {
     "NAME": "Ördögi penge",
-    "DESCRIPTION": "Kapsz egy véletlenszerű Támadást a kezedbe. NL A költsége 0 lesz erre a körre. NL Kimerít."
+    "DESCRIPTION": "Kapsz a kezedbe egy véletlenszerű Támadást. A költsége 0 lesz a körre. NL Kimerít."
   },
   "Infinite Blades": {
     "NAME": "Végtelen penge",
@@ -840,8 +840,8 @@
   },
   "Perfected Strike": {
     "NAME": "Tökéletes csapás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz MINDEN egyes kártyáért a paklidban, aminek a nevében \"Csapás\" van.",
-    "UPGRADE_DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz MINDEN egyes kártyáért a paklidban, aminek a nevében \"Csapás\" van."
+    "DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz MINDEN kártyádért, aminek a nevében \"Csapás\" van.",
+    "UPGRADE_DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz MINDEN kártyádért, aminek a nevében \"Csapás\" van."
   },
   "Phantasmal Killer": {
     "NAME": "Fantomszerű gyilkos",
@@ -874,7 +874,7 @@
     "UPGRADE_DESCRIPTION": "Húzz !M! kártyát. NL Dobj el !M! kártyát."
   },
   "Pummel": {
-    "NAME": "Megsoroz",
+    "NAME": "Megsorozás",
     "DESCRIPTION": "!D! sebzést okoz !M! alkalommal. NL Kimerít.",
     "UPGRADE_DESCRIPTION": "!D! sebzést okoz !M! alkalommal. NL Kimerít."
   },
@@ -897,11 +897,11 @@
   },
   "Rampage": {
     "NAME": "Tombolás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz a harc erejéig."
+    "DESCRIPTION": "!D! sebzést okoz. NL A kártya plusz !M! sebzést okoz a harc erejéig."
   },
   "Reaper": {
     "NAME": "Kaszás",
-    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. Minden le nem védett sebzés visszatölti az életerőd. NL Kimerít."
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. A le nem védett sebzés életerőt tölt vissza. NL Kimerít."
   },
   "Reboot": {
     "NAME": "Újraindítás",
@@ -925,165 +925,165 @@
   },
   "Reflex": {
     "NAME": "Reflex",
-    "DESCRIPTION": "Kijátszhatatlan. NL If this card is discarded from your hand, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL If this card is discarded from your hand, draw !M! cards.",
+    "DESCRIPTION": "Kijátszhatatlan. NL Ha ezt a kártyát eldobod a kezedből, húzz !M! kártyát.",
+    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL Ha ezt a kártyát eldobod a kezedből, húzz !M! kártyát.",
     "EXTENDED_DESCRIPTION": [
-      "I can't play this card."
+      "Ezt a kártyát nem játszhatom ki."
     ]
   },
   "Regret": {
-    "NAME": "Regret",
-    "DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, lose HP equal to the number of cards in your hand."
+    "NAME": "Megbánás",
+    "DESCRIPTION": "Kijátszhatatlan. NL A köröd végén annyi életerőt veszítesz, amennyi kártya marad a kezedben."
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
+    "NAME": "Megerősített test",
+    "DESCRIPTION": "Kapsz !B! Védelmet X alkalommal."
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "NAME": "Újraprogramozás",
+    "DESCRIPTION": "Nézd meg a húzópaklid felső !M! kártyáját. Eldobhatsz belőle bármennyit.",
+    "UPGRADE_DESCRIPTION": "Nézd meg a húzópaklid felső !M! kártyáját. Eldobhatsz belőle bármennyit.."
   },
   "Riddle With Holes": {
-    "NAME": "Riddle with Holes",
-    "DESCRIPTION": "Deal !D! damage 5 times."
+    "NAME": "Szitává lyuggatás",
+    "DESCRIPTION": "!D! sebzést okoz 5 alkalommal."
   },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to a random enemy twice."
+    "NAME": "Tépés és szakítás",
+    "DESCRIPTION": "!D! sebzést okoz egy véletlenszerű ellenfélnek két alkalommal."
   },
   "Rupture": {
-    "NAME": "Rupture",
-    "DESCRIPTION": "Whenever you lose HP from a card, NL gain 1 Strength."
+    "NAME": "Megtörés",
+    "DESCRIPTION": "Minden életerő veszítés után kapsz 1 Erőt."
   },
   "Sadistic Nature": {
-    "NAME": "Sadistic Nature",
-    "DESCRIPTION": "Whenever you apply a debuff to an enemy, they take !M! damage."
+    "NAME": "Szadista természet",
+    "DESCRIPTION": "Amikor negatív hatást okozol egy ellenfélnek, !M! sebzést is elszenvednek."
   },
   "Scrape": {
-    "NAME": "Scrape",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
+    "NAME": "Kaparás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Húzz !M! kártyát. NL Dobd el a húzott kártyák közül azokat, amiknek a költsége több mint 0."
   },
   "Searing Blow": {
-    "NAME": "Searing Blow",
-    "DESCRIPTION": "Deal !D! damage. NL Can be upgraded any number of times."
+    "NAME": "Perzselő ütés",
+    "DESCRIPTION": "!D! sebzést okoz. NL Akárhányszor lehet Fejleszteni."
   },
   "Second Wind": {
-    "NAME": "Second Wind",
-    "DESCRIPTION": "Exhaust all non-Attack cards in your hand. Gain !B! Block for each card Exhausted."
+    "NAME": "Utolsó lehetőség",
+    "DESCRIPTION": "Kimerít minden nem-Támadást a kezedből. Kapsz !B! Védelmet minden Kimerített kártyáért."
   },
   "Secret Technique": {
-    "NAME": "Secret Technique",
-    "DESCRIPTION": "Put a Skill from your draw pile into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Put a Skill from your draw pile into your hand.",
+    "NAME": "Titkos technika",
+    "DESCRIPTION": "Vegyél a kezedbe egy Képesség kártyát a húzópaklidból. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Vegyél a kezedbe egy Képesség kártyát a húzópaklidból.",
     "EXTENDED_DESCRIPTION": [
-      "There are no Skills NL in my draw pile."
+      "Nincsen több Képesség a húzópaklimban."
     ]
   },
   "Secret Weapon": {
-    "NAME": "Secret Weapon",
-    "DESCRIPTION": "Put an Attack from your draw pile into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Put an Attack from your draw pile into your hand.",
+    "NAME": "Titkos fegyver",
+    "DESCRIPTION": "Vegyél a kezedbe egy Támadás kártyát a húzópaklidból. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Vegyél a kezedbe egy Támadás kártyát a húzópaklidból.",
     "EXTENDED_DESCRIPTION": [
-      "There are no Attacks NL in my draw pile."
+      "Nincsen több Támadás a húzópaklimban."
     ]
   },
   "Seeing Red": {
-    "NAME": "Seeing Red",
-    "DESCRIPTION": "Gain [R] [R]. NL Exhaust."
+    "NAME": "Vörös látás",
+    "DESCRIPTION": "Kapsz [R] [R]. NL Kimerít."
   },
   "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Put !M! card from your draw pile into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Put !M! cards from your draw pile into your hand. NL Exhaust."
+    "NAME": "Kutatás",
+    "DESCRIPTION": "Vegyél a kezedbe !M! kártyát a húzópaklidból. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Vegyél a kezedbe !M! kártyát a húzópaklidból. NL Kimerít."
   },
   "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "NAME": "Önjavítás",
+    "DESCRIPTION": "A harc végén visszatölt !M! életerőt."
   },
   "Sentinel": {
-    "NAME": "Sentinel",
-    "DESCRIPTION": "Gain !B! Block. NL If this card is Exhausted, NL gain [R] [R].",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL If this card is Exhausted, NL gain [R] [R] [R]."
+    "NAME": "Őrszem",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor ezt a kártyát Kimeríted NL kapsz [R] [R].",
+    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor ezt a kártyát Kimeríted NL kapsz [R] [R] [R]."
   },
   "Setup": {
-    "NAME": "Setup",
-    "DESCRIPTION": "Put a card from your hand on top of your draw pile. NL It costs 0 until played."
+    "NAME": "Előkészület",
+    "DESCRIPTION": "Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL A költsége 0 lesz míg ki nem játszod."
   },
   "Sever Soul": {
-    "NAME": "Sever Soul",
-    "DESCRIPTION": "Exhaust all non-Attack cards in your hand. NL Deal !D! damage."
+    "NAME": "Lélek hasítás",
+    "DESCRIPTION": "Kimerít minden nem-Támadás kártyát a kezedből. NL !D! sebzést okoz."
   },
   "Shame": {
-    "NAME": "Shame",
-    "DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, gain 1 Frail."
+    "NAME": "Szégyen",
+    "DESCRIPTION": "Kijátszhatatlan. NL A köröd végén kapsz 1 Törékenységet."
   },
   "Shiv": {
-    "NAME": "Shiv",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+    "NAME": "Penge",
+    "DESCRIPTION": "!D! sebzést okoz. NL Kimerít."
   },
   "Shockwave": {
-    "NAME": "Shockwave",
-    "DESCRIPTION": "Apply !M! Weak and Vulnerable to ALL enemies. NL Exhaust."
+    "NAME": "Lökéshullám",
+    "DESCRIPTION": "!M! Gyengítést és !M! Sebezhetőséget okoz MINDEN ellenfélnek. NL Kimerít."
   },
   "Shrug It Off": {
-    "NAME": "Shrug It Off",
-    "DESCRIPTION": "Gain !B! Block. NL Draw 1 card."
+    "NAME": "Rázd le",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Húzz 1 kártyát."
   },
   "Skewer": {
-    "NAME": "Skewer",
-    "DESCRIPTION": "Deal !D! damage X times."
+    "NAME": "Felnyársalás",
+    "DESCRIPTION": "!D! sebzést okoz X alkalommal."
   },
   "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
+    "NAME": "Felnyit",
+    "DESCRIPTION": "Húzz !M! kártyát."
   },
   "Slice": {
-    "NAME": "Slice",
-    "DESCRIPTION": "Deal !D! damage."
+    "NAME": "Szeletelés",
+    "DESCRIPTION": "!D! sebzést okoz."
   },
   "Slimed": {
-    "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
+    "NAME": "Trutymó",
+    "DESCRIPTION": "Kimerít."
   },
   "Spot Weakness": {
-    "NAME": "Spot Weakness",
-    "DESCRIPTION": "If the enemy intends to attack, gain !M! Strength."
+    "NAME": "Gyenge pont",
+    "DESCRIPTION": "Ha az ellenfelél Támadni szándékozik, kapsz !M! Erőt."
   },
   "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile +3.",
+    "NAME": "Verem",
+    "DESCRIPTION": "Kapsz annyi Védelmet amennyi kártyád van a dobópaklidban.",
+    "UPGRADE_DESCRIPTION": "Kapsz annyi Védelmet amennyi kártyád van a dobópaklidban plusz még 3 -at.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
+      " NL (Kapsz !B! Védelmet.)"
     ]
   },
   "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you receive attack damage, Channel !M! Lightning.",
-    "UPGRADE_DESCRIPTION": "Whenever you receive attack damage, Channel !M! Lightning."
+    "NAME": "Statikus kisülés",
+    "DESCRIPTION": "Minden le nem védett sebzés után Sugároz !M! Villámot.",
+    "UPGRADE_DESCRIPTION": "Minden le nem védett sebzés után Sugároz !M! Villámot."
   },
   "Steam": {
-    "NAME": "Steam Barrier",
-    "DESCRIPTION": "Gain !B! Block. Decrease this card's Block by 1 this combat."
+    "NAME": "Füstfelhő",
+    "DESCRIPTION": "Kapsz !B! Védelmet. A harc erejéig eggyel csökken a kártya Védelme használat után."
   },
   "Steam Power": {
-    "NAME": "Overclock",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "Tuningolás",
+    "DESCRIPTION": "Húzz !M! kártyát. NL Kapsz egy Égés kártyát a dobópaklidba."
   },
   "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power card, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power card, Channel 1 Lightning."
+    "NAME": "Vihar",
+    "DESCRIPTION": "Minden kijátszott Hatalom kártya után Sugároz 1 Villámot.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL Minden kijátszott Hatalom kártya után Sugároz 1 Villámot."
   },
   "Storm of Steel": {
-    "NAME": "Storm of Steel",
-    "DESCRIPTION": "Discard your hand. NL Add 1 Shiv into your hand for each card discarded.",
-    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv into your hand for each card discarded."
+    "NAME": "Acél vihar",
+    "DESCRIPTION": "Dobj el minden kártyát a kezedből. NL Minden eldobott kártyáért kapsz 1 Pengét a kezedbe.",
+    "UPGRADE_DESCRIPTION": "Dobj el minden kártyát a kezedből. NL Minden eldobott kártyáért kapsz 1 fejlesztett Pengét a kezedbe."
   },
   "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Reduce this card's cost by !M! this combat."
+    "NAME": "Áramvonal",
+    "DESCRIPTION": "!D! sebzést okoz. NL A kártya költsége csökken !M! -el a harc erejéig."
   },
   "Strike_B": {
     "NAME": "Csapás",
@@ -1098,20 +1098,20 @@
     "DESCRIPTION": "!D! sebzést okoz."
   },
   "Sucker Punch": {
-    "NAME": "Sucker Punch",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+    "NAME": "Váratlan ütés",
+    "DESCRIPTION": "!D! sebzést és !M! Gyengítést okoz."
   },
   "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, gain [B] [B] [B]."
+    "NAME": "Elválasztás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfelet elpusztítod, kapsz [B] [B] [B]."
   },
   "Survivor": {
     "NAME": "Túlélő",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL Dobj el 1 kártyát."
   },
   "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "Elsöprő sugár",
+    "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Húzz !M! kártyát."
   },
   "Swift Strike": {
     "NAME": "Gyors csapás",
@@ -1130,42 +1130,42 @@
     ]
   },
   "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+    "NAME": "Orkán",
+    "DESCRIPTION": "Sugároz X Villámot. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Sugároz X+1 Villámot. NL Kimerít."
   },
   "Terror": {
     "NAME": "Terror",
-    "DESCRIPTION": "Apply 99 Vulnerable. NL Exhaust."
+    "DESCRIPTION": "99 Sebezhetőséget okoz. NL Kimerít."
   },
   "The Bomb": {
     "NAME": "A Bomba",
     "DESCRIPTION": "A 3. kör végén, MINDEN ellenfélnek !M! sebzést okoz."
   },
   "Thinking Ahead": {
-    "NAME": "Thinking Ahead",
-    "DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
+    "NAME": "Előre gondolkodás",
+    "DESCRIPTION": "Húzz 2 kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére. Kimerít. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Húzz 2 kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére."
   },
   "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat.",
+    "NAME": "Villámcsapás",
+    "DESCRIPTION": "!D! sebzést okoz egy véletlenszerű ellenfélnek minden, a harcban Sugárzott Villámért.",
     "EXTENDED_DESCRIPTION": [
-      " (Channeled !M! Lightning.)"
+      " (!M! Villám Sugározva.)"
     ]
   },
   "Thunderclap": {
-    "NAME": "Thunderclap",
-    "DESCRIPTION": "Deal !D! damage and apply 1 Vulnerable to ALL enemies."
+    "NAME": "Mennydörgés",
+    "DESCRIPTION": "!D! sebzést és 1 Sebezhetőséget okoz MINDEN ellenfélnek."
   },
   "Tools of the Trade": {
-    "NAME": "Tools of the Trade",
-    "DESCRIPTION": "At the start of your turn, draw 1 card and discard 1 card."
+    "NAME": "A kereskedelem eszköze",
+    "DESCRIPTION": "A köröd elején húzz plusz 1 kártyát, és dobj el 1 kártyát."
   },
   "Transmutation": {
-    "NAME": "Transmutation",
-    "DESCRIPTION": "Add X random Colorless cards into your hand. They cost 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add X random upgraded Colorless cards into your hand. They cost 0 this turn. NL Exhaust."
+    "NAME": "Transzmutáció",
+    "DESCRIPTION": "Kapsz X véletlenszerú Szürke kártyát a kezedbe. A költségük 0 lesz a körre. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Kapsz X véletlenszerú fejlesztett Szürke kártyát a kezedbe. A költségük 0 lesz a körre. NL Kimerít."
   },
   "Trip": {
     "NAME": "Csúszás",
@@ -1173,9 +1173,9 @@
     "UPGRADE_DESCRIPTION": "MINDEN ellenfélnek !M! Sebezhetőséget okoz."
   },
   "True Grit": {
-    "NAME": "True Grit",
-    "DESCRIPTION": "Gain !B! Block. NL Exhaust a random card in your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Exhaust a card in your hand."
+    "NAME": "Rendíthetetlen",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Kimerít egy véletlenszerű kártyát a kezedből.",
+    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL Kimerít egy kártyát a kezedből."
   },
   "Turbo": {
     "NAME": "TURBÓ",
@@ -1187,10 +1187,10 @@
     "DESCRIPTION": "!D! sebzést okoz kétszer."
   },
   "Underhanded Strike": {
-    "NAME": "Sneaky Strike",
-    "DESCRIPTION": "Deal !D! damage. NL If you have discarded a card this turn, NL gain [G] [G].",
+    "NAME": "Alattomos csapás",
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha dobtál el lapot ebben a körben, kapsz NL [G] [G] .",
     "EXTENDED_DESCRIPTION": [
-      "I can't play this card."
+      "Ezt a kártyát nem játszhatom ki."
     ]
   },
   "Undo": {
@@ -1206,8 +1206,8 @@
     "DESCRIPTION": "!D! sebzést, NL !M! Gyengítést és !M! Sebezhetőséget okoz."
   },
   "Venomology": {
-    "NAME": "Alchemize",
-    "DESCRIPTION": "Obtain a random potion. NL Exhaust."
+    "NAME": "Alkímia",
+    "DESCRIPTION": "Kapsz egy véletlenszerű italt. NL Kimerít."
   },
   "Void": {
     "NAME": "Üresség",
@@ -1219,9 +1219,9 @@
     "UPGRADE_DESCRIPTION": "Húzz !M! kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL Kimerít."
   },
   "Well Laid Plans": {
-    "NAME": "Well-Laid Plans",
-    "DESCRIPTION": "At the end of your turn, Retain up to !M! card.",
-    "UPGRADE_DESCRIPTION": "At the end of your turn, Retain up to !M! cards."
+    "NAME": "Átgondolt terv",
+    "DESCRIPTION": "A köröd végén megtarthatsz !M! kártyát.",
+    "UPGRADE_DESCRIPTION": "A köröd végén megtarthatsz !M! kártyát.."
   },
   "Whirlwind": {
     "NAME": "Forgószél",
@@ -1240,24 +1240,24 @@
     "DESCRIPTION": "Kijátszhatatlan."
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
+    "NAME": "Kísértet alak",
+    "DESCRIPTION": "Kapsz !M! Megfoghatatlanságot. NL A köröd végén veszítesz 1 Ügyességet."
   },
   "Writhe": {
-    "NAME": "Writhe",
-    "DESCRIPTION": "Kijátszhatatlan. NL Innate."
+    "NAME": "Húzódás",
+    "DESCRIPTION": "Kijátszhatatlan. NL Ösztönös."
   },
   "Zap": {
-    "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+    "NAME": "Elektromosság",
+    "DESCRIPTION": "Sugároz !M! Villámot."
   },
   "Core Surge": {
-    "NAME": "Core Surge",
+    "NAME": "Túltöltés",
     "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
   },
   "Compile Driver": {
-    "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+    "NAME": "Fordtó eszköz",
+    "DESCRIPTION": "!D! sebzést okoz. NL Húzz !M! kártyát minden különböző Gömbödért."
   },
   "RitualDagger": {
     "NAME": "Rituális kés ",
@@ -1272,8 +1272,8 @@
     "DESCRIPTION": "Kapsz !B! Védelmet. A kártyáid !M! körig nem adnak védelmet. NL Kimerít."
   },
   "HandOfGreed": {
-    "NAME": "Hand of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+    "NAME": "Kapzsiság keze",
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha egy nem-Csatlós lényt pusztítasz el ezzel a kártyával, kapsz !M! aranyat."
   },
   "Violence": {
     "NAME": "Erőszak",
@@ -1284,8 +1284,8 @@
     "DESCRIPTION": "Ha nincs Támadás a kezedben, húzz !M! kártyát."
   },
   "Forethought": {
-    "NAME": "Forethought",
-    "DESCRIPTION": "Put a card from your hand to the bottom of your draw pile. It costs 0 until played.",
+    "NAME": "Előre tervezés",
+    "DESCRIPTION": "Tegyél egy kártyát a kezedből a húzópaklid aljára. A költsége 0 lesz míg ki nem játszod.",
     "UPGRADE_DESCRIPTION": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
   },
   "Discovery": {

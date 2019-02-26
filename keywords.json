@@ -27,7 +27,9 @@
     "CHANNEL": {
       "NAMES": [
         "sugárzás",
-        "sugároz"
+        "sugároz",
+        "sugárzott",
+        "sugározva"
       ],
       "DESCRIPTION": "Egy Gömb sugárzása során, azt az első üres helyre hozza létre. Ha nincs üres helyed, az első helyen álló Gömböd #yMegidéződik, hogy felszabadítson egy helyet."
     },
@@ -100,7 +102,8 @@
     },
     "FRAIL": {
       "NAMES": [
-        "törékeny"
+        "törékeny",
+        "törékenységet"
       ],
       "DESCRIPTION": "Mikor Törékeny vagy, #b25%-al kevesebb #yVédelmet kapsz a kártyákból."
     },
@@ -175,7 +178,8 @@
     },
     "RETAIN": {
       "NAMES": [
-        "megtartás"
+        "megtartás",
+        "megtarthatsz"
       ],
       "DESCRIPTION": "A megtartott kártyák, nem dobódnak el a köröd végén."
     },
@@ -197,7 +201,8 @@
       "NAMES": [
         "erő",
         "erődet",
-        "erőt"
+        "erőt",
+        "erőd"
       ],
       "DESCRIPTION": "Az Erő plusz sebzést ad a támadásaidnak."
     },
@@ -275,6 +280,7 @@
     },
     "WEAK": {
       "NAMES": [
+        "gyengeség",
         "gyenge",
         "gyengít",
         "gyengíteni",
