@@ -47,14 +47,14 @@
       "A kedvenc színem a kék. NL Neked?"
     ],
     "OPTIONS": [
-      "How did I get here? NL Beats me.",
-      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "Hogy kerültem ide? NL Ötletem sincs.",
+      "Az utolsó lehetőség hogy vegyé' valamit! NL ~*kacsint*~ ~*kacsint*~",
       "..... NL .... NL .........",
-      "I'm a cat person.",
-      "No rush. NL No rush.",
-      "Now isn't this @exciting!?@",
-      "I used to be like you.",
-      "Heading up?"
+      "Én a cicákat szeretem.",
+      "Semmi sietség. NL Semmi sietség.",
+      "Hát nem @izgalmas!?@",
+      "Régen olyan voltam mint te.",
+      "Felfelé mész?"
     ]
   },
   "Neow Event": {
@@ -65,12 +65,12 @@
       "~Üdvözletem...~ NL ~Én..~ ~Neow~ ~vagyok...~",
       "~Hello...~ NL ~Ismét..~",
       "~Üdvözletem...~",
-      "~Még egy~ NL ~próbálkozás...?~",
-      "~Érd el~ ~a~ ~vezért...~ NL ~hogy~ ~megkapd~ ~az..~ ~áldásom...~",
-      "~Legalább~ ~ütközz...~ ~meg~ NL ~az~ ~első~ ~vezérrel...~",
+      "~Még~ ~egy~ NL ~próbálkozás...?~",
+      "~Érd~ ~el~ ~a~ ~vezért...~ NL ~hogy~ ~megkapd~ ~az..~ ~áldásom...~",
+      "~Legalább~ ~az~ ~első...~ NL ~vezérrel~ ~ütközz~ ~meg...~",
       "~Visszahoztalak...~",
       "~Válassz...~",
-      "~Biztosítva...~",
+      "~Legyen...~",
       "~Kockázat...~ NL ~..jutalom....~",
       "~Itt~ ~az~ ~idő~ ~egy~ NL ~KIHÍVÁSRA...~",
       "Jutalmak",
@@ -86,47 +86,47 @@
       "[Beszéd]",
       "[Kihagy]",
       "[Kilép]",
-      "Choose 10 cards to add to your deck."
+      "Adj 10 kártyát a paklidhoz."
     ]
   },
   "Neow Reward": {
     "NAMES": [],
     "TEXT": [
-      "[ #gVálassz #gegy #gKártyát, #ghogy #gmegszerezd ]",
-      "[ #gVálassz #gegy #gvéletlenszerű #gkivételes #gKártyát ]",
-      "[ #gVálassz #gegy #gKártyát #ga #gpaklidból ]",
-      "[ #gFejlessz #gegy #gKártyát ]",
-      "[ #gAlakíts #gát #gegy #gKártyát ]",
-      "[ #gSzerezz #gmeg #g3 #gvéletlenszerű #gBájitalt ]",
-      "[ #gSzerezz #g meg #gegy #gvéletlenszerű #gközönséges #gEreklyét ]",
-      "[ #gMax #gHP #g+",
-      "[ #gSzerezz #gmeg #g",
+      "[ #gVálassz #gegy #gkártyát, #ghogy #gmegszerezd ]",
+      "[ #gVálassz #gegy #gvéletlenszerű #gkivételes #gkártyát ]",
+      "[ #gTávolíts #gel #gegy #gkártyát #ga #gpaklidból ]",
+      "[ #gFejlessz #gegy #gkártyát ]",
+      "[ #gAlakíts #gát #gegy #gkártyát ]",
+      "[ #gSzerezz #g3 #gvéletlenszerű #gbájitalt ]",
+      "[ #gSzerezz #gegy #gvéletlenszerű #gközönséges #gRelikviát ]",
+      "[ #gMaximum #géleterő #g+",
+      "[ #gSzerezz #g",
       " #gAranyat ]",
-      "#gTávolíts #gel #g2 #gKártyát ]",
-      "#gSzerezz #gmeg #gegy #gvéletlenszerű #gkivételes #gEreklyét ]",
-      "#gSzerezz #gmeg #gegy #gkivételes #gKártyát ]",
-      "#gNyerj #g",
+      "#gtávolíts #gel #g2 #gkártyát ]",
+      "#gkapsz #gegy #gvéletlenszerű #gkivételes #grelikviát ]",
+      "#gszerezz #gegy #gkivételes #gkártyát ]",
+      "#gkapsz #g",
       " #gAranyat ]",
-      "#gAlakíts #gát #g2 #gKártyát ]",
-      "#gMax #gHP #g+",
-      "[ #rVeszíts #rel #r",
-      " #rMax #rHP-t ",
-      "[ #rVeszítsd #rel #raz #rösszes #rAranyad ",
-      "[ #rSzerezz #rmeg #regy #rÁtkot ",
-      "[ #rSzenvedj #rel ",
-      "Válassz egy Kártyát",
-      "Válassz egy Kártyát, hogy Eltávolítsd",
-      "Válassz 2 Kártyát, hogy Eltávolítsd",
-      "Válassz egy Kártyát, hogy Átalakítsd",
-      "Válassz 2 Kártyát, hogy Átalakítsd",
-      "Válassz egy Kártyát, hogy Fejleszd",
-      "[ #gAz #gEllenfeleid #ga #gkövetkező #ghárom #gcsatában #g1 #gHP-val #gkezdenek ]",
+      "#gAlakíts #gát #g2 #gkártyát ]",
+      "#gMaximális #géleterő #g+",
+      "[ #rVeszítesz #r",
+      " #rmaximális #réleterőt ",
+      "[ #rElveszíted #raz #rAranyad, ",
+      "[ #rKapsz #regy #rÁtkot, ",
+      "[ #rElszenvedsz ",
+      "Válassz egy kártyát",
+      "Válassz egy kártyát, hogy eltávolítsd",
+      "Válassz 2 kártyát, hogy eltávolítsd",
+      "Válassz egy kártyát, hogy átalakítsd",
+      "Válassz 2 kártyát, hogy átalakítsd",
+      "Válassz egy kártyát, hogy felfejleszd",
+      "[ #gA #gkövetkező #g3 #gcsatában #gaz #gellenfelek #g1 #gélettel #gkezdenek ]",
       " #rsebzést",
-      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
-      "#gObtain #g2 #grandom #gcolorless #gCards ]"
+      "[ #gSzerezz #gegy #gvéletlenszerű #gritka #gszürke #gkártyát ]",
+      "#gSzerezz #g2 #gvéletlenszerű #gszürke #gkártyát ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rVeszítsd #rel #ra #rkezdő #rEreklyéd, #ghogy #gKapj #gegy #gvéletlenszerű #gboss #gEreklyét ]"
+      "[ #rLecseréled #ra #rkezdő #rrelikviádat #gegy #gvéletlenszerű #gvezér #grelikviára ]"
     ]
   },
   "Shop Screen": {
@@ -144,7 +144,7 @@
       "Nincs visszatérítés.",
       "Legyen szép napod.",
       "Kilép",
-      "Válassz egy kártyát, amit eltávolítasz a paklidból."
+      "Válassz egy kártyát, hogy eltávolítsd a paklidból."
     ],
     "TEXT": [
       "Szia! NL Vegyél valamit! NL Vegyél vegyél vegyél!",
@@ -154,9 +154,9 @@
       "~Veszélyesnek~ tűnsz, NL hehe...",
       "Használd ki az idődet... NL ..... NL ... vagy ne",
       "Tetszik ez a szőnyeg? NL Nem eladó!",
-      "Támogasd a kis vállalkozásokat!",
+      "Támogasd a kisvállalkozásokat!",
       "A maszkok menők, én már csak tudom!",
-      "Hmm... NL ...hmm... NL Oh!",
+      "Hmm... NL ...hmm... NL Ó!",
       "Maradj még egy kicsit és hallgass meg!",
       "Veszélyes egyedül járkálni! Add oda minden aranyad!",
       "Vegyé' valamit",
@@ -170,7 +170,7 @@
       "A Szótlan"
     ],
     "TEXT": [
-      "Egy halálos vadásznő a ködvidékről. NL Ellenségeit tőrökkel és mérgekkel pusztítja el."
+      "Egy halálos vadásznő a ködvidékről. NL Ellenségeit tőrökkel és méreggel pusztítja el."
     ]
   },
   "PostCreditsNeow": {
