@@ -837,13 +837,13 @@
     "NAME": "Mosolygós maszk",
     "FLAVOR": "A kereskedő által hordott maszk. Hátha kevesebb kér...",
     "DESCRIPTIONS": [
-      "Az kereskedő kártya eltávolító szolgáltatása mindig #b",
+      "Az kereskedő kártyaeltávolító szolgáltatása mindig #b",
       " #yAranyba kerül."
     ]
   },
   "Snake Skull": {
     "NAME": "Snecko koponya",
-    "FLAVOR": "Egy snecko koponya tökéletes állapotban. Feltűnően tiszta és sima, a szennyeződés megmagyarázhatatlanul lepereg róla.",
+    "FLAVOR": "Egy tökéletes állapotban lévő snecko koponya. Feltűnően tiszta és sima, a szennyeződés megmagyarázhatatlanul lepereg róla.",
     "DESCRIPTIONS": [
       "Amikor egy ellenfelet mérgezel, plusz #b",
       " #yMérget kap."

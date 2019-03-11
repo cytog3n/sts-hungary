@@ -22,7 +22,7 @@
       "Maximum életerő +",
       "Kábult!",
       "Félbeszakított!",
-      "Ereklyék"
+      "Relikviák"
     ]
   },
   "AbstractDungeon": {
@@ -242,7 +242,7 @@
       "Ez a karakter feloldható egy menet teljesítésével.",
       "Ez a karakter még nem elérhető a korai hozzáférés időszakában.",
       "Ez a karakter feloldható ha teljesítesz egy menetet a Szótlannal.",
-      "Életerő: ",
+      "Élet: ",
       "Arany: ",
       " Feloldás hátramaradt",
       "Ismeretlen",
@@ -279,7 +279,7 @@
       "Kártya kihagyása",
       "Arany kihagyása",
       "Bájital kihagyása",
-      "Ereklye kihagyása",
+      "Relikvia kihagyása",
       "Jutalmak kihagyása",
       "Bezárás",
       "Kincs!",
@@ -431,7 +431,7 @@
   },
   "DiscardAction": {
     "TEXT": [
-      "Eldob"
+      "eldobd"
     ]
   },
   "DiscardPilePanel": {
@@ -603,7 +603,7 @@
       "Pakli megtekintése",
       "Húzópakli",
       "Dobópakli",
-      "Elhasznált pakli",
+      "Kimerített kártyák",
       "Kör vége",
       "Balra",
       "Jobbra",
@@ -623,7 +623,7 @@
       "Felső Panel*",
       "Folytatás / Kör Vége*",
       "Balra Tab / Pakli megtekintése*",
-      "Jobbra Tab / Elhasznált pakli*",
+      "Jobbra Tab / Kimerített kártyák*",
       "Térkép*",
       "Beállítások*",
       "Húzópakli*",
@@ -770,7 +770,7 @@
   },
   "MenuPanels": {
     "TEXT": [
-      "Sztenderd",
+      "Normál",
       "",
       "Kezdj neki a küldetésednek, hogy legyőzd a Tornyot.",
       "Napi küzdelem",
@@ -1118,7 +1118,7 @@
   },
   "ShopRoom": {
     "TEXT": [
-      "Kereskedő kihagyása"
+      "Kihagyás"
     ]
   },
   "SingleCardViewPopup": {
@@ -1129,11 +1129,11 @@
       "Átok",
       "Lezárt",
       "Ismeretlen",
-      "Fejlesztés megtekintése",
+      "Fejlesztett verzió",
       "Státusz",
       "",
       "Csak a saját körömben játszhatok ki kártyákat.",
-      "#rÖsszezavarodtam! NL Nem tudok Támadni",
+      "#rLefogtak! NL Nem bírok Támadást kijátszani",
       "Nincs elég #rEnergiám.",
       "Nincs elég #rTöltet.",
       "Nem játszhatom ki NL ezt a kártyát.",

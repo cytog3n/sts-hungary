@@ -82,7 +82,7 @@
     "LABEL": [
       "Adatok",
       "Teljes képernyő",
-      "Szegélymentes teljes képernyő",
+      "Szegélymentes képernyő",
       "Maximum képsebesség"
     ]
   },
@@ -151,8 +151,8 @@
       "Fejlesztett kártyák csak az első felvonás után jelennek meg jutalomként.",
       "Az ismeretlen szobákban lehet láda, szörny, bolt vagy pedig esemény.",
       "A kereskedő nem térít vissza semmit. Ő egy surmó.",
-      "A kártya eltávolító szolgáltatás növeli az árát amikor használod.",
-      "A kártya eltávolító szolgáltatást boltonként csak egyszer használhatod.",
+      "A kártyaeltávolítás növeli az árát amikor használod.",
+      "A kártyaeltávolítás boltonként csak egyszer használhatod.",
       "Az ital, relikvia és hatalom által okozott sebzések nem számítanak támadásnak.",
       "Az effektek amik véletlenszerű kártyát generálnak harc alatt, soha nem töltenek vissza életerőt."
     ],
@@ -187,7 +187,7 @@
       " arannyal a menet hátralevő részében."
     ],
     "LABEL": [
-      "Kártya eltávolító szolgáltatás"
+      "Kártya eltávolítása"
     ]
   },
   "Shuffle Tip": {
