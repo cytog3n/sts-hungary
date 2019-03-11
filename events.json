@@ -500,10 +500,10 @@
       "#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~"
     ],
     "OPTIONS": [
-      "[Emlékezés] #gHozzáadhatsz #g1 #gszürke #gkártyát #ga #paklidhoz.",
-      "[Emlékezés] #gHozzáadhatsz #g2 #gszürke #gkártyát #ga #paklidhoz. #rVeszítesz #r",
-      "[Emlékezés] #gHozzáadhatsz #g3 #gszürke #gkártyát #ga #paklidhoz. #rVeszítesz #r",
-      " #réleterőt.",
+      "[Emlékezés] #gKapsz #g1 #gszürke #gkártyát #ga #ppaklidba.",
+      "[Emlékezés] #gKapsz #g2 #gszürke #gkártyát #ga #ppaklidba. #rVeszítesz #r",
+      "[Emlékezés] #gKapsz #g3 #gszürke #gkártyát #ga #ppaklidba. #rVeszítesz #r",
+      " #réletet.",
       "[Távozás]",
       "[Interakció]"
     ]
@@ -723,11 +723,11 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
-      "[Elfogadod] #gEltávolítha #gaz #gösszes Csapásodat. #gKapsz #g5 Harapást. #rVeszítesz #r",
-      "% #rmaximális #réleterőt.",
+      "[Elfogadod] #gElveszíted #gaz #gösszes Csapásodat. #gKapsz #g5 Harapást. #rVeszítesz #r",
+      "% #rmax #réletet.",
       "[Elutasítod]",
       "[Elveszíted: ",
-      "] #gEltávolítja #gaz #gösszes Csapásodat. #gKapsz #g5 Harapást.",
+      "] #gElveszíted #gaz #gösszes Csapásodat. #gKapsz #g5 Harapást.",
       "[Leave]"
     ]
   },
