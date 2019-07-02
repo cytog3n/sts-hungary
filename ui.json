@@ -211,7 +211,8 @@
       "Típus",
       "A-Z",
       "Költség",
-      "Ugrás:"
+      "Ugrás:",
+      "Megszerezve"
     ]
   },
   "CardLibraryScreen": {
@@ -332,7 +333,9 @@
       "Modifikációk: ",
       "Eredményjelző",
       "*Teljesítményeket nem lehet elérni a napi kihívások során.",
-      "  [OFFLINE MÓD]"
+      "  [OFFLINE MÓD]",
+      "MMMM dd, yyyy",
+      "*Trophies are off for Daily Climb."
     ]
   },
   "DeathScreen": {
@@ -638,7 +641,8 @@
       "Jobbra (Alt)*",
       "Fel",
       "Le",
-      "Kontroller engedélyezve"
+      "Kontroller engedélyezve",
+      "Touchscreen Mode"
     ]
   },
   "LanguageDropdown": {
@@ -810,7 +814,9 @@
       "Játsz egy Napi Küzdelemet, hogy felold ezt a menüpontot.",
       "Ez a funkció még nem használható.",
       "Egyéni",
-      "Állítsd be a játékot a saját ízlésed szerint."
+      "Állítsd be a játékot a saját ízlésed szerint.",
+      "Change your controls.",
+      "Change your graphics, audio, and gameplay preferences."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -850,7 +856,11 @@
       "Tesztelő rajz mód",
       "Mutasd a kártya gyorsgombjait",
       "Irányítás Beállítások",
-      "Részecske hatások kikapcsolása"
+      "Részecske hatások kikapcsolása",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen.",
+      "Long-press Confirmations"
     ]
   },
   "PatchNotesScreen": {
@@ -1084,7 +1094,8 @@
       "Csak Felemelkedés",
       "Csak Napi Kihívás",
       "Seed: %s",
-      "Egyedi Seed: %s"
+      "Egyedi Seed: %s",
+      "M/d/yyyy, h:mm a"
     ]
   },
   "SeedPanel": {
@@ -1093,7 +1104,8 @@
       "Adj meg egy egyedi Seed-et:",
       "Megerősít",
       "Mégsem",
-      "*A teljesítmények és a Ranglista nem elérhetőek egyedi Seed esetén."
+      "*A teljesítmények és a Ranglista nem elérhetőek egyedi Seed esetén.",
+      "*Trophies and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "SettingsScreen": {
@@ -1261,7 +1273,8 @@
       "Felemelkedés Mód",
       "Módosítók",
       "Seed",
-      "Seed Beállítása"
+      "Seed Beállítása",
+      "Trophies and Leaderboards are off."
     ]
   },
   "SaveSlot": {
@@ -1312,7 +1325,15 @@
       "Napi - Szint %s",
       "Saját - Szint %s",
       " - Szint %s",
-      "Főmenü"
+      "Főmenü",
+      " (A%s)"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
     ]
   }
 }

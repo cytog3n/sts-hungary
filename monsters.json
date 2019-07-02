@@ -5,7 +5,7 @@
       "Osztódás",
       "Nyalás"
     ],
-    "NAME": "Korrózív Amőba (L)",
+    "NAME": "Korrózív Amőba (N)",
     "DIALOG": [
       ""
     ]
@@ -15,14 +15,14 @@
       "Korrózív Köpet",
       "Nyalás"
     ],
-    "NAME": "Korrózív Amőba (M)",
+    "NAME": "Korrózív Amőba (K)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Korrózív Amőba (S)",
+    "NAME": "Korrózív Amőba (P)",
     "DIALOG": [
       ""
     ]
@@ -585,7 +585,7 @@
       "Nyalás",
       "Osztódás"
     ],
-    "NAME": "Tüskés Amőba (L)",
+    "NAME": "Tüskés Amőba (N)",
     "DIALOG": [
       ""
     ]
@@ -594,14 +594,14 @@
     "MOVES": [
       "Nyalás"
     ],
-    "NAME": "Tüskés Amőba (M)",
+    "NAME": "Tüskés Amőba (K)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Tüskés Amőba (S)",
+    "NAME": "Tüskés Amőba (P)",
     "DIALOG": [
       ""
     ]

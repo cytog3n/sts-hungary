@@ -146,9 +146,9 @@
     ]
   },
   "PowerPotion": {
-    "NAME": "Erő ital",
+    "NAME": "Hatalom ital",
     "DESCRIPTIONS": [
-      "Válassz #b1 -et a #b3 véletlenszerű Erő közül és vedd a kezedbe. A kártya költsége #b0 lesz a körre."
+      "Válassz #b1 -et a #b3 véletlenszerű Hatalom kártya közül és vedd a kezedbe. A kártya költsége #b0 lesz a körre."
     ]
   },
   "Regen Potion": {
@@ -162,7 +162,7 @@
   "SkillPotion": {
     "NAME": "Skill Potion",
     "DESCRIPTIONS": [
-      "Válassz #b1 -et a #b3 véletlenszerű Képesség közül és vedd a kezedbe. A kártya költsége #b0 lesz a körre."
+      "Válassz #b1 -et a #b3 véletlenszerű Képesség kártya közül és vedd a kezedbe. A kártya költsége #b0 lesz a körre."
     ]
   },
   "SmokeBomb": {
@@ -197,7 +197,7 @@
     ]
   },
   "Strength Potion": {
-    "NAME": "Hatalmasság itala",
+    "NAME": "Erő ital",
     "DESCRIPTIONS": [
       "Kapsz #b",
       " #yErőt."

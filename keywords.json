@@ -126,7 +126,7 @@
         "megfoghatatlan",
         "megfoghatatlanságot"
       ],
-      "DESCRIPTION": "Csökkents le minden bejövő sebzést és HP veszteséget #b1-re."
+      "DESCRIPTION": "Lecsökkent minden bejövő sebzést és élet veszteséget #b1 -re."
     },
     "LIGHTNING": {
       "NAMES": [
@@ -174,7 +174,7 @@
         "mérgezel",
         "mérget"
       ],
-      "DESCRIPTION": "A mérgezett egyedek életet vesztenek a köreik elején. Minden körben a Mérgezés hatása lecsökken #b1-el."
+      "DESCRIPTION": "A mérgezett egyedek életet vesztenek a köreik elején. Minden körben a Mérgezés hatása lecsökken #b1 -el."
     },
     "RETAIN": {
       "NAMES": [

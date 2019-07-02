@@ -27,7 +27,8 @@
   },
   "LOC_CAT": {
     "HEADER": "Katalán fordítás",
-    "NAMES": []
+    "NAMES": [
+    ]
   },
   "LOC_DEU": {
     "HEADER": "Német fordítás",
@@ -104,7 +105,8 @@
   "LOC_JPN": {
     "HEADER": "Japán fordítás",
     "NAMES": [
-      "Grezzz"
+      "Grezzz (Közösségi fordítás)",
+      "Kakehashi Games (Hivatalos fordítás)"
     ]
   },
   "LOC_KOR": {
@@ -133,7 +135,7 @@
     "HEADER": "Lengyel fordítás",
     "NAMES": [
       "Fordítás és koordináció:",
-      "Stanis³aw \"ST4H\" Borkowski",
+      "Stanisław \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
       "Plusz fordítások:",
       "Adrian \"xeros\" Rolka",
@@ -142,11 +144,11 @@
       "Oskar \"volf3n\" Nowak",
       "Javaslatok és észrevételek:",
       "Kasper \"Awokado\" Beræ",
-      "Pawe³ \"BASTIL\" Kaleta",
-      "Grzegorz \"GregPL\" Bogus³awski",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
-      "Rafa³ \"SponTon83\" Szyszko"
+      "Rafał \"SponTon83\" Szyszko"
     ]
   },
   "LOC_PTB": {
@@ -192,7 +194,8 @@
       "Juanjo \"ajuanjojjj\" Martinez",
       "Pedro J. \"PJJLegend\" Jiménez",
       "Nyelvtan és végső símítás:",
-      "Joaquín \"Pip1n\" López"
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer"
     ]
   },
   "LOC_SRB": {
@@ -201,10 +204,25 @@
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
+  "LOC_THA": {
+    "HEADER": "Thai fordítás",
+    "NAMES": [
+      "Fordítás és koordináció:",
+      "Noppon Varapaiboon (PlearnGaming)",
+      "Additional Translations:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Betűtípusok:",
+      "CSChatThaiUI by raveetavan@gmail.com",
+      "Layiji MaHaNiYom by layiji@gmail.com"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "Török fordítás",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\""
     ]
   },
   "LOC_UKR": {
@@ -250,10 +268,42 @@
       "Jake Rabinowitz"
     ]
   },
+  "PORTING": {
+    "HEADER": "Console and Mobile Ports",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
   "PORTRAITS": {
     "HEADER": "Kártya & Esemény rajzok",
     "NAMES": [
       "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "GM:  Alan Patmore",
+      "CBO:  Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release Manager: Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
     ]
   },
   "SOUND": {
@@ -274,7 +324,11 @@
       "Evan Howell",
       "Justin Myhres",
       "robojumper",
-      "Tony \"kiooeht\" Moore"
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
     ]
   },
   "TEST": {
@@ -322,6 +376,14 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Official Translation):",
+      "Japanese Publishing Support:  Kakehashi Games",
+      "Japanese Localization:  Rie Ihara"
     ]
   }
 }

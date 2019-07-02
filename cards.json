@@ -112,7 +112,7 @@
     "DESCRIPTION": "Kapsz !M! Sebezhetőséget. A köröd elején NL kapsz [R]."
   },
   "Biased Cognition": {
-    "NAME": "Elfogult felismerés",
+    "NAME": "Elfogult kutatás",
     "DESCRIPTION": "Kapsz !M! Fókuszt. NL A köröd elején veszítesz 1 Fókuszt."
   },
   "Bite": {
@@ -164,7 +164,7 @@
     "UPGRADE_DESCRIPTION": " NL (!D! sebzést okoz.)"
   },
   "BootSequence": {
-    "NAME": "Indítási sorrend",
+    "NAME": "Inicializálás",
     "DESCRIPTION": "Ösztönös. NL Kapsz !B! Védelmet. NL Kimerít."
   },
   "Bouncing Flask": {
@@ -200,7 +200,7 @@
     "UPGRADE_DESCRIPTION": "A következő !M! kijátszott Képesség kártyád kétszer teljesül a körben."
   },
   "Calculated Gamble": {
-    "NAME": "Kalkulált szerencsejáték",
+    "NAME": "Lapszámolás",
     "DESCRIPTION": "Dobd el a kezedben lévő kártyákat. NL Húzz annyi kártyát, amennyit eldobtál. NL Kimerít.",
     "UPGRADE_DESCRIPTION": "Dobd el a kezedben lévő kártyákat. NL Húzz annyi kártyát, amennyit eldobtál."
   },
@@ -238,7 +238,7 @@
   },
   "Chrysalis": {
     "NAME": "Gubó",
-    "DESCRIPTION": "Keverj !M! véletlenszerű Képességet a húzópaklidba. NL A költségük 0 lesz a harc erejéig. NL Kimerít."
+    "DESCRIPTION": "!M! véletlenszerű Képességet kever a húzópaklidba. NL A költségük 0 lesz a harc erejéig. NL Kimerít."
   },
   "Clash": {
     "NAME": "Összecsapás",
@@ -290,8 +290,8 @@
     "UPGRADE_DESCRIPTION": "Sugároz 1 Jeget. NL Húzz !M! kártyát."
   },
   "Corpse Explosion": {
-    "NAME": "Robbanó hulla",
-    "DESCRIPTION": "!M! Mérgezést okoz. NL Amikor az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével egyenlő mértékben.",
+    "NAME": "Robbanó tetem",
+    "DESCRIPTION": "!M! Mérgezést okoz. NL Amikor az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
@@ -376,7 +376,7 @@
     "DESCRIPTION": "A köröd elején kapsz !M! Erőt."
   },
   "Die Die Die": {
-    "NAME": "Halál, halál, halál!",
+    "NAME": "Halál, halál!",
     "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Kimerít."
   },
   "Disarm": {
@@ -388,7 +388,7 @@
     "DESCRIPTION": "Kapsz egy véletlenszerű Képesség kártyát a kezedbe. NL A költsége 0 lesz erre a körre. NL Kimerít."
   },
   "Dodge and Roll": {
-    "NAME": "Dodge and Roll//",
+    "NAME": "Kitérés",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL A következő körben kapsz !B! Védelmet."
   },
   "Doom and Gloom": {
@@ -461,7 +461,7 @@
     "UPGRADE_DESCRIPTION": "Megduplázza a Védelmed."
   },
   "Envenom": {
-    "NAME": "Megmérgez",
+    "NAME": "Tőr mérgezés",
     "DESCRIPTION": "Minden le nem védett sebzés 1 Mérgezést okoz."
   },
   "Escape Plan": {
@@ -529,7 +529,7 @@
     "UPGRADE_DESCRIPTION": "Megidézi minden Gömböd. Kapsz [B] és húzol !M! kártyát minden megidézett Gömbért. NL Kimerít."
   },
   "Flame Barrier": {
-    "NAME": "Lángoló akadály",
+    "NAME": "Lángoló fal",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor megtámadnak, !M! sebzést okozol a támadódnak a körben."
   },
   "Flash of Steel": {
@@ -574,7 +574,7 @@
     "DESCRIPTION": "!D! sebzést okoz. NL MINDEN Karom kártyád plusz !M! sebzést okoz a harc erejéig."
   },
   "Genetic Algorithm": {
-    "NAME": "Genetikus Algoritmus",
+    "NAME": "Élő páncélzat",
     "DESCRIPTION": "Kapsz !B! Védelmet. A kártya mostantól plusz !M! Védelmet ad. NL Kimerít."
   },
   "Ghostly": {
@@ -712,7 +712,7 @@
     "UPGRADE_DESCRIPTION": "Megduplázza az Erődet."
   },
   "Lockon": {
-    "NAME": "Bikaszem",
+    "NAME": "Célkereszt",
     "DESCRIPTION": "!D! sebzést okoz. NL !M! Bemérést okoz."
   },
   "Loop": {
@@ -761,7 +761,7 @@
   },
   "Metamorphosis": {
     "NAME": "Metamorfózis",
-    "DESCRIPTION": "Keverj !M! véletlenszerű Támadást a húzópaklidba. A költségük 0 lesz a harc erejéig. NL Kimerít."
+    "DESCRIPTION": "!M! véletlenszerű Támadást kever a húzópaklidba. A költségük 0 lesz a harc erejéig. NL Kimerít."
   },
   "Meteor Strike": {
     "NAME": "Meteor csapás",
@@ -844,7 +844,7 @@
     "UPGRADE_DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz MINDEN kártyádért, aminek a nevében \"Csapás\" van."
   },
   "Phantasmal Killer": {
-    "NAME": "Fantomszerű gyilkos",
+    "NAME": "Fantom gyilkos",
     "DESCRIPTION": "A következő körben minden Támadásod duplát sebez."
   },
   "PiercingWail": {
@@ -908,8 +908,8 @@
     "DESCRIPTION": "Keverd MINDEN kártyád a húzópaklidba. NL Húzz !M! kártyát. NL Kimerít."
   },
   "Rebound": {
-    "NAME": "Visszapattanás",
-    "DESCRIPTION": "!D! sebzést okoz. NL A következő kártya, amit ebben a körben kijátszol, visszakerül a húzópaklid tetejére."
+    "NAME": "Pattintás",
+    "DESCRIPTION": "!D! sebzést okoz. NL A következő ebben a körben kijátszott kártya visszakerül a húzópaklid tetejére."
   },
   "Reckless Charge": {
     "NAME": "Vakmerő roham",
@@ -921,7 +921,7 @@
   },
   "Redo": {
     "NAME": "Rekurzió",
-    "DESCRIPTION": "Megidézi a következő Gömbödet. NL Sugározz egy olyan Gömböt, amilyet Megidéztél."
+    "DESCRIPTION": "Megidézi a soron következő Gömbödet. NL Sugároz egyet a Megidézett Gömbből."
   },
   "Reflex": {
     "NAME": "Reflex",
@@ -936,20 +936,20 @@
     "DESCRIPTION": "Kijátszhatatlan. NL A köröd végén annyi életerőt veszítesz, amennyi kártya marad a kezedben."
   },
   "Reinforced Body": {
-    "NAME": "Megerősített test",
+    "NAME": "Acélváz",
     "DESCRIPTION": "Kapsz !B! Védelmet X alkalommal."
   },
   "Reprogram": {
-    "NAME": "Újraprogramozás",
+    "NAME": "Programozás",
     "DESCRIPTION": "Nézd meg a húzópaklid felső !M! kártyáját. Eldobhatsz belőle bármennyit.",
     "UPGRADE_DESCRIPTION": "Nézd meg a húzópaklid felső !M! kártyáját. Eldobhatsz belőle bármennyit.."
   },
   "Riddle With Holes": {
-    "NAME": "Szitává lyuggatás",
+    "NAME": "Lyuggatás",
     "DESCRIPTION": "!D! sebzést okoz 5 alkalommal."
   },
   "Rip and Tear": {
-    "NAME": "Tépés és szakítás",
+    "NAME": "Szakítás",
     "DESCRIPTION": "!D! sebzést okoz egy véletlenszerű ellenfélnek két alkalommal."
   },
   "Rupture": {
@@ -998,7 +998,7 @@
     "UPGRADE_DESCRIPTION": "Vegyél a kezedbe !M! kártyát a húzópaklidból. NL Kimerít."
   },
   "Self Repair": {
-    "NAME": "Önjavítás",
+    "NAME": "Javítás",
     "DESCRIPTION": "A harc végén visszatölt !M! életerőt."
   },
   "Sentinel": {
@@ -1119,7 +1119,7 @@
   },
   "Sword Boomerang": {
     "NAME": "Kard bumeráng",
-    "DESCRIPTION": "Egy véletlenszerű ellenfélnek !D! sebzést okoz. !M! alkalommal ismétlődik."
+    "DESCRIPTION": "Egy véletlenszerű ellenfélnek !D! sebzést okoz. Ismétlődik !M! alkalommal ."
   },
   "Tactician": {
     "NAME": "Taktikus",
@@ -1144,7 +1144,7 @@
   },
   "Thinking Ahead": {
     "NAME": "Előre gondolkodás",
-    "DESCRIPTION": "Húzz 2 kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére. Kimerít. NL Exhaust.",
+    "DESCRIPTION": "Húzz 2 kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL Kimerít.",
     "UPGRADE_DESCRIPTION": "Húzz 2 kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére."
   },
   "Thunder Strike": {
@@ -1164,7 +1164,7 @@
   },
   "Transmutation": {
     "NAME": "Transzmutáció",
-    "DESCRIPTION": "Kapsz X véletlenszerú Szürke kártyát a kezedbe. A költségük 0 lesz a körre. NL Kimerít.",
+    "DESCRIPTION": "X véletlenszerú Szürke kártyát kapsz a kezedbe. A költségük 0 lesz a körre. NL Kimerít.",
     "UPGRADE_DESCRIPTION": "Kapsz X véletlenszerú fejlesztett Szürke kártyát a kezedbe. A költségük 0 lesz a körre. NL Kimerít."
   },
   "Trip": {
@@ -1187,7 +1187,7 @@
     "DESCRIPTION": "!D! sebzést okoz kétszer."
   },
   "Underhanded Strike": {
-    "NAME": "Alattomos csapás",
+    "NAME": "Öv alá",
     "DESCRIPTION": "!D! sebzést okoz. NL Ha dobtál el lapot ebben a körben, kapsz NL [G] [G] .",
     "EXTENDED_DESCRIPTION": [
       "Ezt a kártyát nem játszhatom ki."
@@ -1261,7 +1261,7 @@
   },
   "RitualDagger": {
     "NAME": "Rituális kés ",
-    "DESCRIPTION": "!D! sebzést okoz. Ha megölsz egy ellenfelet ezzel a kártyával, véglegesen megnöveli a sebzését !M! -al. NL Kimerít."
+    "DESCRIPTION": "!D! sebzést okoz. Minden ezzel megölt ellenfél véglegesen megnöveli a kártya sebzését !M! -al. NL Kimerít."
   },
   "Pride": {
     "NAME": "Büszkeség",

@@ -1,7 +1,8 @@
 {
   "Discard Tip": {
     "TEXT": [
-      "Ha a húzópaklid üres, a dobópaklid lesz visszakeverve. NL NL Kattints, hogy megnézd a kártyákat a dobópaklidban."
+      "Ha a húzópaklid üres, a dobópaklid lesz visszakeverve. NL NL Kattints, hogy megnézd a kártyákat a dobópaklidban.",
+      "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
     ],
     "LABEL": [
       "Dobópakli"
@@ -11,7 +12,9 @@
     "TEXT": [
       "Minden kör elején, NL #b",
       " innen húzol kártyát. NL NL Kattints, hogy megnézd a húzópaklidban lévő kártyákat. (kevert).",
-      " innen húzol kártyát. NL NL Kattints, hogy megnézd a húzópaklidban lévő kártyákat."
+      " innen húzol kártyát. NL NL Kattints, hogy megnézd a húzópaklidban lévő kártyákat.",
+      " cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+      " cards are drawn from here. NL NL View the cards in your draw pile."
     ],
     "LABEL": [
       "Húzópakli"
@@ -44,7 +47,8 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Kattints, hogy megnézd a harcban Kimerített kártyáidat."
+      "Kattints, hogy megnézd a harcban Kimerített kártyáidat.",
+      "View cards Exhausted this combat."
     ],
     "LABEL": [
       "Kimerített kártyák"
@@ -125,19 +129,11 @@
       "Minden vezér előtt van egy pihenőhely.",
       "Költsd el az aranyad a boltokban! (Fizetett reklám)",
       "Néha tarts egy kis szünetet.",
-      "Ha jobb klikkel kattintasz egy kártyára, extra információkat tudhatsz meg róla.",
       "A százalék alapú számítások mindig lefele vannak kerekítve.",
       "Harc alatt megnézheted a húzó- és dobópaklid tartalmát.",
-      "Hasznos információkat tudhatsz meg a legtöbb dologról ha ráviszed az egeret.",
-      "A jobb felső sarokban lévő ? -re kattintva kapcsolhatod ki/be a tippeket.",
-      "A jobb klikk elengedi az éppen húzott kártyádat.",
-      "Vidd rá az egeret az ellenfélre hogy lásd a nevét és aktív Hatalmait.",
-      "Használd az egérgörgőt vagy kattints és húzd a képernyőt a görgetéshez.",
-      "Ha meg bírsz vizsgálni egy tárgyat, az egered nagyítóvá változik.",
       "Nincsen limitálva hogy mennyi relikviát hordhatsz magadnál.",
       "A ládákban mindig van relikvia.",
       "Minden útvonalon van legalább egy láda.",
-      "Használd az egérgörgőt vagy kattints és húzd a képernyőt a térképen, a kártya- és egyéb képernyőn való görgetéshez.",
       "Az elit ellenfelek mindig adnak relikviát.",
       "Sosem fogod ugyan azt a relikviát kétszer látni egy menetben.",
       "A ritka kártyák kék színű kerettel rendelkeznek.",
@@ -175,7 +171,8 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "Ne feledd a jutalmakat! NL Csak kattints rájuk hogy felvedd őket."
+      "Ne feledd a jutalmakat! NL Csak kattints rájuk hogy felvedd őket.",
+      "Don't forget your rewards!"
     ],
     "LABEL": [
       "Jutalmak"
@@ -216,6 +213,18 @@
       "Életerőpont",
       "Pénzeszsák",
       "Menetidő"
+    ]
+  },
+  "PC Tips": {
+    "LABEL": [],
+    "TEXT": [
+      "Ha jobb klikkel kattintasz egy kártyára, extra információkat tudhatsz meg róla.",
+      "Hasznos információkat tudhatsz meg a legtöbb dologról ha ráviszed az egeret.",
+      "A jobb klikk elengedi az éppen húzott kártyádat.",
+      "Vidd rá az egeret az ellenfélre hogy lásd a nevét és aktív Hatalmait.",
+      "Használd az egérgörgőt vagy kattints és húzd a képernyőt a görgetéshez.",
+      "Ha meg bírsz vizsgálni egy tárgyat, az egered nagyítóvá változik.",
+      "Használd az egérgörgőt vagy kattints és húzd a képernyőt a térképen, a kártya- és egyéb képernyőn való görgetéshez."
     ]
   }
 }

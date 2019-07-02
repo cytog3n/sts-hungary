@@ -45,7 +45,8 @@
       "Rubint+",
       "Smaragd+",
       "Zafír+",
-      "A Vég?"
+      "A Vég?",
+      "Az örökkévaló"
     ],
     "TEXT": [
       "Nyerj csatát 1 életerővel.",
@@ -80,7 +81,7 @@
       "Oldd fel a Felemelkedési módot.",
       "Teljesítsd a 10. szintű felemelkedést.",
       "Nyerd meg a játékot 5 vagy annál kevesebb lapos paklival.",
-      "Győzd le Donu-t úgy hogy Megeszed //TODO.",
+      "Győzd le Donu-t 'Evés' kártyával.",
       "Nyerd meg a játékot a Hiányossal.",
       "Nyerd meg a játékot olyan paklival amiben nincsen se ritka, se kivételes kártya.",
       "Legyen 25 vagy több fókuszod egy csatában.",
@@ -92,7 +93,8 @@
       "Teljesítsd a befejezést a Páncélossal.",
       "Teljesítsd a befejezést a Szótlannal.",
       "Teljesítsd a befejezést a Hiányossal.",
-      "Teljesítsd a befejezést a Páncélossal, Szótlannal és a Hiányossal."
+      "Teljesítsd a befejezést a Páncélossal, Szótlannal és a Hiányossal.",
+      "Teljesítsd az összes többi teljesítményt."
     ]
   },
   "CharStat": {
@@ -122,6 +124,14 @@
       "Legyőzött ellenfelek: #y",
       "Leghosszabb győzelmi sorozat: #y",
       "Legmagasabb pontszám: #y"
+    ]
+  },
+  "PS4Trophy": {
+    "NAMES": [
+      "Az örökkévaló"
+    ],
+    "TEXT": [
+      "Teljesítsd az összes többi teljesítményt."
     ]
   },
   "StatsScreen": {
