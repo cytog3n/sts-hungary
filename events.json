@@ -89,14 +89,14 @@
   "Bonfire Elementals": {
     "NAME": "Tábortűzi szellemek",
     "DESCRIPTIONS": [
-      "You happen upon a group of what looks like #ppurple #pfire #pspirits ~dancing~ around a large bonfire. NL ",
-      "The spirits toss small bones and fragments into the fire, which ~brilliantly~ ~erupts~ each time. NL As you approach, the spirits all turn to you, expectantly...",
-      "You toss an offering into the bonfire. NL NL ",
-      "However, the spirits aren't happy that you offered a #pCurse... The card fizzles a meek black smoke. You receive a... #p~something~ in return.",
-      "Nothing happens... NL The spirits seem to be ignoring you now. Disappointing...",
-      "The flames grow slightly brighter. NL The spirits continue dancing. You feel slightly warmer from their presence.. NL You #gheal #b5 HP.",
-      "The flames erupt, growing significantly stronger! NL The spirits dance around you excitedly, filling you with a ~sense~ ~of~ ~warmth.~ NL You are #ghealed to full HP.",
-      "The flames @burst,@ nearly knocking you off your feet, as the fire @doubles@ in strength. NL The spirits dance around you excitedly before ~merging~ ~into~ ~your~ ~form,~ filling you with warmth and strength. NL Your Max HP increases by #b10 and you are #ghealed to full HP."
+      "Belebotlasz egy csapatnyi lénybe, egy csapatnyi #plila #ptűz #pszellem ~táncol~ egy nagy tűzrakás körül. NL ",
+      "A szellemek kis csontokat és csontdarabokat dobálnak a tűzre, amik ~gyönyörűen~ ~belobbantják~ a tüzet minden alkalommal. NL Ahogy közeledsz, a szellemek feléd fordulnak... ",
+      "A felajánlásod a tűzre dobod. NL NL ",
+      "Azonban a szellemek nem boldogok a felajánlott #pÁtkod miat.... A kárgya sistereg és sűrű fekete füst keletkezik. Kapsz egy... #p~valamit~ cserébe.",
+      "Semmi nem történt... NL A szellemek figyelmen kívül hagynak téged. Kiábrándító...",
+      "A lángok valamivel világosabbak lesznek. NL A szellemek folytatják a táncukat. Melegség tölti el a szívedet a jelenlétüktől. NL #gVisszatöltenek #b5 életerőt.",
+      "A tűz belobban, jelentősen megnövelve annak erejét. NL A szellemek izgatottan táncolják körbe amitől ~melegség~ ~érzése~ fog el. NL Teljes életerődet #gvisszatölti e melegség.",
+      "A tűz egyenesen @berobban,@ majdnem felborít ahogy a tűz ereje @megkétszereződik.@ NL A szellemek izgatottan körbetáncolnak mielőtt ~beleolvadnak~ ~a~ ~testedbe~. Melegséget és erőt érzel. NL A maximális életerőd növekedik #b10 -el és #gvisszatöltődik a teljes életerőd."
     ],
     "OPTIONS": [
       "[Folytatás]",
@@ -108,14 +108,14 @@
   "Cursed Tome": {
     "NAME": "Elátkozott könyv",
     "DESCRIPTIONS": [
-      "In an abandoned temple, you find a giant book, open, riddled with #p@cryptic@ #p@writings.@ NL NL As you try to interpret the elaborate script, it begins to #b~shift~ and #b~morph~ into writing you are familiar with.",
-      "Odd. The book seems to be about an #yAncient named #yNeow. NL NL This piques your interest, but you have a general feeling of #p~malaise.~",
-      "The Ancient of Resurrection, #yNeow, was exiled to the bottom of the Spire. NL NL You feel compelled to read more, but your body begins to #r~ache.~",
-      "Seeking vengeance, #yNeow blesses outsiders, using them for her own purposes. NL NL You are starting to feel very #r~weak~ #r~and~ #r~tired...~",
-      "Those resurrected by #yNeow remember only fragments of their past selves, cursed to fight for eternity. NL NL As you near the final page, your #r@old@ #r@wounds@ #r@begin@ #r@to@ #r@reopen!@",
-      "Upon finishing the tome, you decide to take it with you. With proof in hand, will you retain your memories?",
-      "You exit, feeling a #p~dark~ #p~energy~ #p~emanating~ from the book on the pedestal.",
-      "With incredible strain and willpower, you resist the trance of the tome and @SLAM@ it shut. NL You turn and exit the temple, feeling #b~drained...~"
+      "Egy elhagyatott templomban egy óriási könyvre bukkansz. Kinyitod, valamiféle #p@titkos@ #p@írás.@ NL NL Ahogy elkezded megfejteni a szöveget, elkezd #b~változni~ és #b~módosul~ a szöveg valami általad ismert írásra.",
+      "Érdekes. A könyv egy #yNeow nevű #yŐsről szól. NL NL Ez megragadja a figyelmedet, de alapvetően #p~rossz~ #p~érzés~ fog el.",
+      "Az Újraéledés Őse, #yNeow száműzve lett a Torony legaljára. NL NL Kéztetés érzel hogy tovább olvass, de a testedben hasító #r~fájdalmat~ kezdesz érezni.",
+      "Bosszúból #yNeow kívülállókat áld meg, hogy saját céljaira használja fel őket. NL NL Kezded magad nagyon #r~gyengének~ #r~és~ #r~fáradtnak~ érezni...",
+      "Azok, kiket #yNeow újraéleszt csupán emlékeik töredékét birtokolják. Arra kárhoztattak hogy az örökkévalóságig küzdjenek. NL NL Ahogy az utolsó laphoz közeledsz, a #r@régi@ #r@sebeid@ #r@elkezdenek@ #r@felszakadni!@",
+      "Befejezve a könyvet, úgy döntesz hogy magaddal viszed. Bizonyítékként, megmaradnak vajon az emlékeid ezáltal?",
+      "Távozol, érzed hogy #p~sötét~ #p~energia~ #p~árad~ a talapzaton fekvő könyvből.",
+      "Hihetetlen idegzettel és akaraterővel ellenálsz a könyv csábításának és @BUMM@ összecsapod azt. NL Megfordulsz és távozol a templomból, úgy érzed #b~leszívott a könyv...~"
     ],
     "OPTIONS": [
       "[Olvasás]",
@@ -154,10 +154,10 @@
   "Drug Dealer": {
     "NAME": "Díler",
     "DESCRIPTIONS": [
-      "A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish.\" NL NL ~\"Whad'ya~ ~say?\"~",
-      "~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with a #b~glowing~ #b~liquid~ before skulking off into a shadowy alleyway.",
-      "~\"Superb.\"~ NL The man injects you with three unknown substances and pulls out a notepad. As you begin to feel light-headed, he starts to frantically write down notes. NL Losing track of time completely, by the time you regain your senses, the shady character has disappeared.",
-      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
+      "Egy szemkötős ember ördigi vigyorral az arcán odalép hozzád. NL \"Szervusz idegen. Érdekel egy kis haladó tudomány? Erősebbé tehetlek mint bármilyen edzés vagy áldás. Szükséged lesz rá ha egy vagy az újraélesztett hősök közül.\" NL NL ~\"Na, mit mondasz?\"~",
+      "~\"Remek.\"~ NL Az ember átnyújt egy veszélyesnek tűnő fecskendőt amiben #b~világító~ #b~zöld~ #b~folyadék~ van, majd a sikátor sötétében eltűnik.",
+      "~\"Szuper.\"~ NL Az ember belédszúr három különböző anyagot és elővesz egy jegyzetfüzetet. Ahogy elkezdesz picit szédülni, látod az arcán a kétségbeesést a jegyzetelése közben. NL Végül teljesen kidőlsz, mire magadhoz térsz a gyanús embernek nyoma vész.",
+      "~\"Csodás.\"~ NL Nagy kortyokban megiszod a  You quaff the rejtélyes anyagot. Azonnal felpezsdít és érzed ahogy az izomzatod @megfeszül@."
     ],
     "OPTIONS": [
       "[J.A.X. kipróbálása] #gJAXXED #gmegszerzése.",
