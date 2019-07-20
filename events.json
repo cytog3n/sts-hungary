@@ -184,12 +184,12 @@
   "Falling": {
     "NAME": "Zuhanás",
     "DESCRIPTIONS": [
-      "As you head upwards hopping from one floating shape to another, you slip. NL NL You begin to fall.",
-      "While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
-      "You land with extreme grace before continuing on.",
-      "Harnessing and expending some of your raw power, you manage to land unhurt.",
-      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
-      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+      "Ahogy felfelé haladsz az egymás felett lebegő platformokon, megcsúszol. NL NL Zuhanni kezdesz.",
+      "A szabadesés közepette három lehetséges opción gondolkodsz: NL Biztonságosan landolsz, a legjobb technikádat használva. NL Egy Hatalmad segítségével túléled a zuhanást. NL Csapás segítségével a falba kapaszkodsz.",
+      "Csodálatra méltó kecsességgel landolsz mielőtt továbbálsz.",
+      "A Hatalmad csapolása segítségével sikerült sértetlenül landolnod.",
+      "Sikerült a kardodat a falba szúrni, így könnyedén átugrasz a legközelebbi stabil platformra.",
+      "Olyan lassan hullasz a mélybe mint egy toll, karcolás nélkül megúszod a zuhanást."
     ],
     "OPTIONS": [
       "[Folytatás]",
@@ -206,13 +206,13 @@
   "Forgotten Altar": {
     "NAME": "Elfeledett oltár",
     "DESCRIPTIONS": [
-      "In front of you sits an altar to a forgotten god. NL Atop the altar sits an ornate female statue with arms outstretched. NL She calls out to you, demanding sacrifice.",
-      "As you gently set the idol onto the altar a #bcold wind swirls throughout the room. NL The arms of the statue begin to discolor and crumble. NL NL Your #ygolden #yidol begins to dull in color and begins bleeding from its eyes. NL The bleeding never ceases.",
-      "You stand on the altar and cut your wrists. NL As the #rblood spills out in sacrifice, the arms of the statue reach out and close around your eyes. NL Everything goes dark. NL You wake up a short time later feeling a new potential surging through you.",
-      "You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your bones."
+      "Egy elfeledett isten oltárát találod magad előtt. NL Az oltár felett csücsül egy női szobor kinyújtott karokkal. NL Megszólít téged, áldozatot követel.",
+      "Ahogy finoman felhelyezed a bálványt, #bhideg szél fúj keresztül a szobán. NL A szobor karja elszíneződni és repedezni látszik. NL NL Az #yarany #ybálvány színe egyre csak fakul, és szeméből vér kezd csorogni. NL A vérzés nem áll el.",
+      "Felállsz az oltárra és megvágod a karodat. NL Ahogy a #rvéred kifröccsen, a szobor karjai feléd nyúlnak és eltakarják a szemed. NL Minden sötétbe borul. NL Visszanyered az eszméletedet rövid időn belül és érzed magadban a potenciált ahogy továbbhaladsz.",
+      "Szétzúzod az előtted álló szobrot mire a helység mágikus szorítása teljesen elmúlik. NL Egy sötét sikoly visszhangzik körülötted és érzed #p~megátkoztak~ ."
     ],
     "OPTIONS": [
-      "[Felajánl: Arany bálvány] #gKapsz #gegy #gspeciális #grelikviát. #rElveszíted #raz #rArany #rBálványt.",
+      "[Felajánlás: Arany bálvány] #gKapsz #gegy #gspeciális #grelikviát. #rElveszíted #raz #rArany #rBálványt.",
       "[Lezárva] Szükséges: Arany bálvány.",
       "[Áldozat] #gKapsz plusz #g",
       " #gmaximum #géleterőt. #rVeszítesz #r",
@@ -224,9 +224,9 @@
   "Fountain of Cleansing": {
     "NAME": "Az isteni kút",
     "DESCRIPTIONS": [
-      "You come across #b~shimmering~ #b~water~ flowing endlessly from a fountain on a nearby wall.",
-      "As you drink the #b~water,~ you feel a #pdark #pgrasp loosen.",
-      "Unsure of the nature of this water, you continue on your way, parched."
+      "Találkozol egy szökőkúttal a fal mellett, melyből #b~csillogó~ #b~víz~ folyik végtelenül.",
+      "Ahogy iszol a #b~vízből~ érzed ahogy a sötét szorítása enyhül.",
+      "Nem vagy biztos a víz eredetében, szomjasan tovább folytatod az utadat."
     ],
     "OPTIONS": [
       "[Iszol] #gMegtisztítja #ga #gpaklidat #gaz #átkoktól.",
@@ -236,10 +236,10 @@
   "Ghosts": {
     "NAME": "A szellemek tanácsa",
     "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKES@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "Ahogy folytatod a mászást, #p~sűrű~ #p~fekete~ #p~füst~ kezd végigfolyni a falon és a földön. Amikor a füst körbevett, három maszkos forma jelenik meg és beszélni kezdenek. NL NL ~\"Neow~ ~egy~ ~újabb~ #y~bábja,~ ~ha~ ~jól~ ~gondolom.\"~ NL #r@\"ÚGYVAN!@ #r@MINDIG@ #r@Ő@ #r@CSINÁLJA@ #r@A@ #r@LEGVICCESEBB@ #r@JÁTÉKOKAT!\"@ NL NL Észreveszed ahogy egy túlméretezett vigyor fogad a harmadik részéről. NL \"Ne is foglalkozz a többiekkel... Szeretnél egy kis kóstolót a #y~hatalmunkból?\"~ ",
       "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      "#y\"Tökéletes!\" NL Ahogy a szellemszerű alak beszél, észreveszed hogy az óriási szája egyre szélesebbre nyílik. #p~Sűrű~ #p~fekete~ #p~füst~ ömlik a szájából és tölti be a szobát. Nem látsz semmit, és levegőt sem kapsz... NL NL Pont mielőtt elveszítenéd az eszméletedet, az érzés elmúlik. NL NL Bármik is voltak azok, már eltűntek. Folytatod az utad, #bürességet érzel magadban.",
+      "\"Mily kiábrándító...\" NL ~\"Előbb~ ~utóbb~ ~úgyis~ ~csatlakozol~ ~hozzánk~ ~.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Az alakok elhalványúlnak, csak a nyugtalanító nevetésük visszhangzik a füledben.",
       ""
     ],
     "OPTIONS": [
@@ -254,12 +254,12 @@
   "Golden Idol": {
     "NAME": "Arany bálvány",
     "DESCRIPTIONS": [
-      "You come across an inconspicuous pedestal with a #yshining #ygold #yidol sitting peacefully atop. It looks incredibly valuable. NL NL You sure don't see any traps nearby.",
-      "As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you. NL You realize that the floor is slanted downwards as the boulder starts to roll towards you.",
-      "@RUUUUUUUUUUN!@ NL You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.",
-      "You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.",
-      "@SQUISH!@ NL The boulder flattens you a little as it passes by, but otherwise you can get out of here.",
-      "If there was ever an obvious trap, this would be it. NL You decide not to interfere with objects placed upon pedestals."
+      "Egy emelvénybe botlasz, és látod hogy egy #ycsillogó #yarany #ybálvány csücsül a tetején. Nagyon értékesnek néz ki. NL NL Biztos vagy benne, hogy nincs csapda a közelben.",
+      "Ahogy leemeled a bálványt az emelvényről, egy óriási szikla esik melléd. NL Észreveszed hogy a talaj lejt, és a szikla feléd kezd gurulni.",
+      "@FUTÁÁÁÁÁÁÁÁS!@ NL Éppenhogy sikerült egy oldalsó járatba bemenekülnöd a szikla elől. Sajnos úgy néz ki meghúztad valamidet a rohanás közepette.",
+      "Minden erődet összeszedve nekirohansz a sziklának. Amikor elül a porfelhő, biztonságosan tovább bírsz haladni.",
+      "@PLACCS!@ NL A szikla kilapít ahogy utolér, de bírod folytatni az utad.",
+      "Ha bármi nyilvánvaló csapda lenne a helyen, ez volna az. NL Úgy döntesz nem érintkezel az emelvény tetején lévő tárggyal."
     ],
     "OPTIONS": [
       "[Elveszed] #gElveszed #gaz #gArany #gbálványt. #rElsütöd #ra #rcsapdát.",
@@ -289,10 +289,10 @@
   "Golden Wing": {
     "NAME": "Szárny szobor",
     "DESCRIPTIONS": [
-      "Among the stone and boulders, you notice an intricate large blue statue resembling a wing. NL You find #ygold spilling from its cracks. Maybe there is more inside...",
-      "Someone once told you of a cult that worshipped a giant bird. As you kneel in prayer, you begin to ~feel~ ... ~lightheaded~ . NL NL You wake up some time later, feeling strangely fleet of foot.",
-      "With all your might, you hack away at the statue. NL It soon @crumbles,@ revealing a #ypile #yof #ygold. You grab as much as you can and continue onwards.",
-      "The statue makes you feel ~uneasy.~ You walk past and continue onward."
+      "A kövek és törmelékek között látsz egy nagy kék szobrot ami egy szárnyra emlékeztet. NL #yAranyat látsz a repedésekben. Lehet több is van még belül...",
+      "Valaki egyszer mesélt neked egy kultuszról ami egy óriási madarad istenített. Ahogy letérdelsz, ~érzed~ ahogy ~megkönnyebbülsz~ . NL NL Nem sokkal később felébredsz, furán könnyedek a lépéseid.",
+      "Minden erődet összeszedve a szobor felé csapsz. NL Hamar darabokra @hullik@ és felfed egy #yhalom #yaranyat. Elraksz amennyit csak tudsz, majd továbbhaladsz.",
+      "A szobortól ~kényelmetlenül~ érzed magad. Elsétálsz mellette és folytatod az utad."
     ],
     "OPTIONS": [
       "[Imádkozol] #gEltávolítasz #gegy #gkártyát #ga #gpaklidból. #rVeszítesz #r",
@@ -308,16 +308,16 @@
     ]
   },
   "Knowing Skull": {
-    "NAME": "Knowing Skull",
+    "NAME": "Tudálékos koponya",
     "DESCRIPTIONS": [
-      "You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you.",
-      "\"WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?\" NL In sync with its final words, the door behind you @slams@ @shut.@",
-      " NL NL \"ANYTHING ELSE?\"",
+      "Egy ősi, díszes kamrában találod magad. A szoba közepén egy óriási koponya csücsül egy emelvényen. Ahogy közeledsz, a koponya #g@lángokba@ #g@borul@ és feléd fordul.",
+      "\"MIT KERESEL? MIT TUDSZ ÉRTE AJÁNLANI?\" NL Az utolsó szava után, a hátad mögött @becsapódott@ az ajtó.",
+      " NL NL \"VALAMI MÁS ESETLEG?\"",
       " ",
-      "\"DRINK UP!\" NL You obtain a potion.",
-      "\"PERHAPS THIS WILL HELP?\" NL You obtain a card.",
-      "\"YOU MORTALS NEVER CHANGE. IT IS DONE.\" NL #yGold rains down on you!",
-      "\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."
+      "\"FENÉKIG!\" NL Szert teszel egy italra.",
+      "\"TALÁN EZ SEGÍTENE?\" NL Szert teszel egy kártyára.",
+      "\"TI HALANDÓK SOSE VÁLTOZTOK. TELJESÍTVE.\" NL #yAranyeső hullik rád!",
+      "\"MÖGÖTTED, HALANDÓ.\" NL A koponya mögé pillantasz. Bizonyára ott egy ajtó."
     ],
     "OPTIONS": [
       "[Folytatás]",
@@ -334,7 +334,7 @@
   "Lab": {
     "NAME": "Laboratórium",
     "DESCRIPTIONS": [
-      "You find yourself in a room filled with racks of test tubes, beakers, flasks, forceps, pinch clamps, stirring rods, tongs, goggles, funnels, pipets, cylinders, condensers, and even a rare spiral tube of glass. NL NL Why do you know the name of all these tools? It doesn't matter, you take a look around."
+      "Egy szobában találod magad ami televan kémcsövekkel, serlegekkel, palackokkal, fogókkal, Bunsen-égőkkel, keverő rudakkal, fogókkal, szemüvegekkel, tölcsérekkel, pipettákkal, kondenzátorokkal, sőt még ritka csavaros üveg csövet is látsz. NL NL Miért tudod egyáltalán ezeknek a szerszámokan a nevét? Nem számít, körbenézel."
     ],
     "OPTIONS": [
       "[Kutatás] #gKeress #gpár #gitalt!"
@@ -343,10 +343,10 @@
   "Liars Game": {
     "NAME": "A kígyó",
     "DESCRIPTIONS": [
-      "You walk into a room to find a large hole in the ground. As you approach the hole, an enormous serpent creature appears from within. NL NL ~\"Ho~ ~hooo!~ ~Hello~ ~hello!~ ~what~ ~have~ ~we~ ~got~ ~here?~ Hello adventurer, I ask a simple question. NL The most fulfilling of lives is that in which you can #y~buy~ #y~anything!~ NL Do you agree?\"",
-      "~\"Yeeeeeeessssssssssessss!~ NL ~Thisss~ ~will~ ~all~ ~be~ ~worthhh~ ~it.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
-      "The serpent stares at you with a look of extreme disappointment.",
-      "The serpent rears its head and blasts a stream of #ygold upwards! NL It is amazing and terrifying simultaneously. NL You gather all the #ygold, thank the snake, and get going."
+      "Belépsz a szobába és egy óriási lyukat látsz a padlóban. Ahogy megközelíted a lyukat, egy hatalmas kígyó kúszik ki belőle. NL NL ~\"Ho~ ~hóóó!~ ~Helló~ ~helló!~ ~mit~ ~látnak~ ~szemeim~ ~itt?~ Üdvözletem kalandozó, egy egyszerű kérdést teszek fel. NL  Az élet akkor a legjobb, ha #y~bármit~ #y~megvehetsz!~ NL Egyetértesz?\"",
+      "~\"Persssssszee!~ NL ~Ezzz~ ~mindent~ ~megér.~ NL ~..ssSSsz.....~ ~ss...~ ~sssssz....!\"~",
+      "A kígyó különös kiábrándultsággal tekint le rád.",
+      "A kígyó felágaskodik, és hatalmas sugárban #yaranyat lő a szájából! NL Egyszerre csodálatos és rémísztő látvány. NL Asszegyüjtöd az összes #yaranyat, megköszönöd a kígyónak és továbbálsz."
     ],
     "OPTIONS": [
       "[Elfogadod] #gKapsz #g",
@@ -359,8 +359,8 @@
   "Living Wall": {
     "NAME": "Élő fal",
     "DESCRIPTIONS": [
-      "As you come to a dead-end and begin to turn around, walls @slam@ @down@ from the ceiling, trapping you! NL NL Three faces materialize from the walls and speak. NL #b\"Forget #bwhat #byou #bknow, #band #bI'll #blet #byou #bgo.\" NL #p\"I #prequire #pchange #pto #psee #pa #pnew #pspace.\" NL #y\"If #yyou #ywant #yto #ypass #yme, #ythen #yyou #ymust #ygrow.\"",
-      "Satisfied, the walls in front of you merge back into the ceiling, leaving a path forward."
+      "Ahogy egy zsákutcába érve épp megfordulsz, hirtelen falak jelennek meg előtted és @csapódnak@ @a@ @földbe!@ NL NL Három arc jelenik meg a falon és beszélni kezdenek NL #b\"Felejtsd #bel #bamit #btudsz, #bés #btovább #bengedlek.\" NL #p\"Én #parra #pkérlek #pláss #pegy #púj #pvilágot.\" NL #y\"Ha #yrajtam #yakarsz #ytovábbhaladni #yakkor, #ynőnöd #ykell.\"",
+      "Elégedettek, a falak visszakúsznak a mennyezetbe. Az utad immáron tiszta."
     ],
     "OPTIONS": [
       "[Felejtés] #gTávolíts #gel #gegy #gkártyát #ga #gpaklidból.",
@@ -406,9 +406,9 @@
   "Mushrooms": {
     "NAME": "Gombák",
     "DESCRIPTIONS": [
-      "You give in to the unnatural desire to eat. As you consume mushroom after mushroom, you feel yourself entering into a daze and pass out. As you awake, you feel very odd. NL You #gHeal #b25% of your HP, but you also get #rinfected.",
-      "#r@Ambushed!!@ NL Rodents infested by the mushrooms appear out of nowhere!",
-      "You enter a corridor full of #b~hypnotizing~ #b~colored~ #b~mushrooms.~ NL Due to your lack of specialization in mycology you are unable to identify the specimens. NL You want to escape, but feel oddly compelled to eat a #b~mushroom...~"
+      "Hirtelen természetfeletti éhség fog el. Ahogy megeszed a gombákat szédülés fog el, majd elájulsz. Ahogy felébredsz, különösen érzed magad. NL #gVisszatölt #b25% életerőt, de #rfertőzött leszel.",
+      "#r@Rajtad@ #r@ütöttek!!@ NL Gombával fertőzött rágcsálók jelennek meg a semmiből!",
+      "Egy folyosóra érsz amit benőtt valami #b~hipnotizáló~ #b~színes~ #b~gomba.~ NL Gombaismeret hiányából kifolyólag nem bírod beazonosítani a gombákat. NL Távozni akarsz, de őrült kéztetést érzel hogy megegyél egy #b~gombát...~"
     ],
     "OPTIONS": [
       "[Széttapos] #rFeldühíted #ra #rgombákat.",
@@ -423,7 +423,7 @@
     "DESCRIPTIONS": [
       "Jutting from the chaotic terrain around you, a bony sphere surrounds a mysterious glowing object within. NL While you are curious what lies inside, you notice some sentries keeping an eye on it.",
       "As soon as you strike the sphere, the sentries spring to life around you!",
-      "No need to be greedy."
+      "Nem kell kapzsinak lenni."
     ],
     "OPTIONS": [
       "[Kinyitod a gömböt] #rHarc. #gKapsz #gegy #gritka #grelikviát.",
@@ -629,7 +629,7 @@
       "You stumble across something that feels *very* out of place. Before you, an enormous stony head emerges from a large wall segment that does not shift and change like the rest of this area. NL The head's mouth is wide open, and it reveals large intimidating teeth stained red with blood. The surface of the statue is riddled with pictographs that seem to indicate people throwing themselves into the mouth of this head and being devoured. Why would anyone do that?",
       "At first when you step up into the mouth of the statue, nothing happens. As you start to feel more than a little foolish, the huge molars slam down from above, crushing you whole. NL @Darkness.@ NL Sometime later from within the dark, you see a sliver of light, and hear what you now realize is the sound of stony teeth slowly rising upwards. NL NL NL You leave confused.",
       "You jump back a little as the gigantic molars smash down on the idol, smashing it into dust. As the teeth start to rise up again, #ygold pours forth in a torrent from the opening, flooding you with riches.",
-      "You leave, wondering what could have been."
+      "Távozol, azon tűnődve hogy mi történhetett volna."
     ],
     "OPTIONS": [
       "[Beugrasz] #gVisszatölti #ga #gteljse #géleterődet. #rVeszítesz #r",
@@ -643,7 +643,7 @@
     "NAME": "A kék ruhás hölgy",
     "DESCRIPTIONS": [
       "From the darkness, an arm pulls you into a small shop. As your eyes adjust, you see a pale woman in sharp clothes gesturing towards a wall of potions. NL \"Buy a potion. Now!\" she states.",
-      "\"Good. Now leave.\" NL You exit the shop cautiously.",
+      "\"Remek. Most távozz.\" NL Óvatosan elhagyod a boltot.",
       "#r@WHAM@ NL Her gloved fist collides with your face, nearly knocking you off your feet. NL \"Get out before I litter the floor with your guts.\" You take her word and exit with your guts still safely in your body."
     ],
     "OPTIONS": [
@@ -847,10 +847,10 @@
   "NoteForYourself": {
     "NAME": "Jegyzet magamnak",
     "DESCRIPTIONS": [
-      "You spot a loose brick within a pillar that catches your eye.",
-      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
-      "Choose a Card to Store.",
-      "What is going on?"
+      "Az előtted álló oszlopban egy laza téglát látsz.",
+      "Egy félbehajtott üzenetet és egy #ykártyát találsz mögötte. Az áll rajta, hogy NL \"Vár a Szív.\" NL NL Ez a te kézírásod.",
+      "Válassz egy Kártyát amit eltárolnál.",
+      "Mi történik?"
     ],
     "OPTIONS": [
       "[Folytatás]",
