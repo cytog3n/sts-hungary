@@ -13,7 +13,8 @@
         "véd",
         "védelmet",
         "védelmét",
-        "védelmed"
+        "védelmed",
+        "védelme"
       ],
       "DESCRIPTION": "A következő körig elhárítja a támadásokat."
     },
@@ -79,7 +80,8 @@
       "NAMES": [
         "megidéz",
         "megidézett",
-        "megidéztél"
+        "megidéztél",
+        "megidézi"
       ],
       "DESCRIPTION": "Használd el a legjobboldali Gömb-ödet és Idézd meg a hatását."
     },

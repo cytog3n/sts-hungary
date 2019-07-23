@@ -23,7 +23,7 @@
   },
   "Aggregate": {
     "NAME": "Felhalmoz",
-    "DESCRIPTION": "Kapsz [B] minden !M! kártyáért a húzópaklidban."
+    "DESCRIPTION": "Kapsz [B] minden !M!. kártyáért a húzópaklidban."
   },
   "All For One": {
     "NAME": "Mindenki egyért",
@@ -39,8 +39,8 @@
   },
   "Amplify": {
     "NAME": "Erősítő",
-    "DESCRIPTION": "Ebben a körben, a következő kijátszott Hatalom kártyád kétszer teljesül.",
-    "UPGRADE_DESCRIPTION": "Ebben a körben, a következő !M! kijátszott Hatalom kártyád kétszer teljesül."
+    "DESCRIPTION": "Ebben a körben a következő kijátszott Hatalom kártyád kétszer teljesül.",
+    "UPGRADE_DESCRIPTION": "Ebben a körben a következő !M! kijátszott Hatalom kártyád kétszer teljesül."
   },
   "Anger": {
     "NAME": "Harag",
@@ -169,7 +169,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Pattogó flaska",
-    "DESCRIPTION": "3 Mérgezést rak egy véletlenszerű ellenfélre !M! alkalommal."
+    "DESCRIPTION": "3 Mérgezést kap egy-egy véletlenszerű ellenfél !M! alkalommal."
   },
   "Brutality": {
     "NAME": "Brutalitás",
@@ -183,7 +183,7 @@
   },
   "Bullet Time": {
     "NAME": "Időfagyasztás",
-    "DESCRIPTION": "Nem húzhatsz több kártyát a körben. A kezedben lévő kártyák költségét 0-ra csökkenti erre a körre."
+    "DESCRIPTION": "Nem húzhatsz több kártyát a körben. NL A kezedben lévő kártyák költsége 0 lesz a körre."
   },
   "Burn": {
     "NAME": "Égés",
@@ -196,8 +196,8 @@
   },
   "Burst": {
     "NAME": "Kitörés",
-    "DESCRIPTION": "A következő kijátszott Képesség kártyád kétszer teljesül a körben.",
-    "UPGRADE_DESCRIPTION": "A következő !M! kijátszott Képesség kártyád kétszer teljesül a körben."
+    "DESCRIPTION": "Ebben a körben a következő kijátszott Képesség kártyád kétszer teljesül.",
+    "UPGRADE_DESCRIPTION": "Ebben a körben a következő !M! kijátszott Képesség kártyád kétszer teljesül."
   },
   "Calculated Gamble": {
     "NAME": "Lapszámolás",
@@ -234,14 +234,14 @@
   },
   "Choke": {
     "NAME": "Fojtás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Minden kijátszott kártya után !M! sebzést okoz az ellenfélnek ebben a körben."
+    "DESCRIPTION": "!D! sebzést okoz. NL Minden kijátszott kártya !M! sebzést okoz az ellenfélnek ebben a körben."
   },
   "Chrysalis": {
     "NAME": "Gubó",
     "DESCRIPTION": "!M! véletlenszerű Képességet kever a húzópaklidba. NL A költségük 0 lesz a harc erejéig. NL Kimerít."
   },
   "Clash": {
-    "NAME": "Összecsapás",
+    "NAME": "Ütközés",
     "DESCRIPTION": "Csak akkor játszható ki, ha csak Támadások vannak a kezedben. NL !D! sebzést okoz.",
     "EXTENDED_DESCRIPTION": [
       "Van nem-Támadás kártya a kezemben."
@@ -277,7 +277,7 @@
     "DESCRIPTION": "Dobj el !M! kártyát. NL Kapsz [G] [G]."
   },
   "Conserve Battery": {
-    "NAME": "Mag töltés",
+    "NAME": "Magtöltés",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL A következő körben kapsz [B]."
   },
   "Consume": {
@@ -285,13 +285,13 @@
     "DESCRIPTION": "Kapsz !M! Fókuszt. NL Elveszítesz 1 Gömb foglalatot."
   },
   "Coolheaded": {
-    "NAME": "Hidegfejű",
+    "NAME": "Hidegfejjel",
     "DESCRIPTION": "Sugároz 1 Jeget. NL Húzz !M! kártyát.",
     "UPGRADE_DESCRIPTION": "Sugároz 1 Jeget. NL Húzz !M! kártyát."
   },
   "Corpse Explosion": {
     "NAME": "Robbanó tetem",
-    "DESCRIPTION": "!M! Mérgezést okoz. NL Amikor az ellenfél meghal, megsebzi az ÖSSZES ellenfelet a maximum életerejével.",
+    "DESCRIPTION": "!M! Mérgezést okoz. NL Amikor az ellenfél meghal, a maximum életerejével sebez MINDEN ellenfelet.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
@@ -314,7 +314,7 @@
     "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz kétszer."
   },
   "Dagger Throw": {
-    "NAME": "Tőrhajítás",
+    "NAME": "Késdobálás",
     "DESCRIPTION": "!D! sebzést okoz. NL Húzz 1 kártyát. NL Dobj el 1 kártyát."
   },
   "Dark Embrace": {
@@ -368,7 +368,7 @@
     "DESCRIPTION": "Kapsz !B! Védelmet."
   },
   "Defragment": {
-    "NAME": "Defragmentálás",
+    "NAME": "Rendezettség",
     "DESCRIPTION": "Kapsz !M! Fókuszt."
   },
   "Demon Form": {
@@ -385,14 +385,14 @@
   },
   "Distraction": {
     "NAME": "Elterelés",
-    "DESCRIPTION": "Kapsz egy véletlenszerű Képesség kártyát a kezedbe. NL A költsége 0 lesz erre a körre. NL Kimerít."
+    "DESCRIPTION": "Egy véletlenszerű Képesség kártyát kapsz a kezedbe. A költsége 0 lesz a körre. Kimerít."
   },
   "Dodge and Roll": {
     "NAME": "Kitérés",
     "DESCRIPTION": "Kapsz !B! Védelmet. NL A következő körben kapsz !B! Védelmet."
   },
   "Doom and Gloom": {
-    "NAME": "Sötétség és végzet",
+    "NAME": "Sötét végzet",
     "DESCRIPTION": "MINDEN ellenfélnek !D! sebzést okoz. NL Sugároz !M! Sötétséget."
   },
   "Doppelganger": {
@@ -443,7 +443,7 @@
   },
   "Endless Agony": {
     "NAME": "Végtelen kín",
-    "DESCRIPTION": "Amikor felhúzod ezt a kártyát, kapsz egy másolatot róla a kezedbe. NL !D! sebzést okoz. NL Kimerít."
+    "DESCRIPTION": "Felhúzásnál egy másolatot is kapsz a kezedbe. NL !D! sebzést okoz. NL Kimerít."
   },
   "Energy Pulse": {
     "NAME": "Energiaimpulzus",
@@ -461,16 +461,16 @@
     "UPGRADE_DESCRIPTION": "Megduplázza a Védelmed."
   },
   "Envenom": {
-    "NAME": "Tőr mérgezés",
-    "DESCRIPTION": "Minden le nem védett sebzés 1 Mérgezést okoz."
+    "NAME": "Tőrmérgezés",
+    "DESCRIPTION": "Minden le nem védett sebződés 1 Mérgezést okoz."
   },
   "Escape Plan": {
-    "NAME": "Menekülési terv",
+    "NAME": "B terv",
     "DESCRIPTION": "Húzz 1 kártyát. NL Ha a húzott kártya Képesség, kapsz !B! Védelmet."
   },
   "Eviscerate": {
     "NAME": "Zsigerelés",
-    "DESCRIPTION": "Minden ebben a körben eldobott kártya után, eggyel csökken a költsége. NL !D! sebzést okoz 3 alkalommal."
+    "DESCRIPTION": "Minden, a körben eldobott kártya eggyel csökkenti a költségét. !D! sebzést okoz 3 alkalommal."
   },
   "Evolve": {
     "NAME": "Fejlődés",
@@ -483,7 +483,7 @@
   },
   "Expertise": {
     "NAME": "Tapasztalat",
-    "DESCRIPTION": "Húzz addig, amíg !M! kártya nincs a kezedben."
+    "DESCRIPTION": "Húzz addig, amíg !M! kártya nem lesz a kezedben."
   },
   "FTL": {
     "NAME": "Fénysebesség",
@@ -496,7 +496,7 @@
   },
   "Feed": {
     "NAME": "Evés",
-    "DESCRIPTION": "!D! sebzést okoz. NL Ha egy nem-Csatlós lényt ölsz meg ezzel a kártyával, plusz !M! maximum életerőt kapsz. Kimerít."
+    "DESCRIPTION": "!D! sebzést okoz. Ha nem-Csatlós lényt ölsz meg ezzel, plusz !M! maximum életerőt kapsz. Kimerít."
   },
   "Feel No Pain": {
     "NAME": "Fájdalom vége",
@@ -504,7 +504,7 @@
   },
   "Fiend Fire": {
     "NAME": "Démoni tűz",
-    "DESCRIPTION": "Kimerít minden kártyát a kezdben. NL !D! sebzést okoz minden kimerített kártyáért. NL Kimerít."
+    "DESCRIPTION": "Kimerít minden kártyát a kezedből. NL !D! sebzést okoz minden kimerített kártyáért. Kimerít."
   },
   "Finesse": {
     "NAME": "Ravaszság",
@@ -512,7 +512,7 @@
   },
   "Finisher": {
     "NAME": "Befejezés",
-    "DESCRIPTION": "Minden ebben a körben kijátszott Támadás után, !D! sebzést okoz.",
+    "DESCRIPTION": "Minden, ebben a körben kijátszott Támadás után !D! sebzést okoz.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " Támadás kijátszva.)",
@@ -521,16 +521,16 @@
   },
   "Fire Breathing": {
     "NAME": "Tüzes lehellet",
-    "DESCRIPTION": "Minden, ebben a körben kijátszott Támadás után 1 sebzést okoz MINDEN ellenfélnek a köröd végén."
+    "DESCRIPTION": "A köröd végén minden, a körben kijátszott Támadás után 1 sebzést okoz MINDEN ellenfélnek."
   },
   "Fission": {
     "NAME": "Maghasadás",
-    "DESCRIPTION": "Elveszíted minden Gömböd. Kapsz [B] és húzol !M! kártyát minden elveszített Gömbért. NL Kimerít.",
-    "UPGRADE_DESCRIPTION": "Megidézi minden Gömböd. Kapsz [B] és húzol !M! kártyát minden megidézett Gömbért. NL Kimerít."
+    "DESCRIPTION": "Elveszíted minden Gömböd. Kapsz [B] és húzol !M! kártyát minden elveszített Gömbért. Kimerít.",
+    "UPGRADE_DESCRIPTION": "Megidézi minden Gömböd. Kapsz [B] és húzol !M! kártyát minden megidézett Gömbért. Kimerít."
   },
   "Flame Barrier": {
     "NAME": "Lángoló fal",
-    "DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor megtámadnak, !M! sebzést okozol a támadódnak a körben."
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Ha megtámadnak, !M! sebzést okozol a támadódnak a körben."
   },
   "Flash of Steel": {
     "NAME": "Acél villanása",
@@ -538,7 +538,7 @@
   },
   "Flechettes": {
     "NAME": "Acél nyíl",
-    "DESCRIPTION": "Minden Képességért a kezedben, !D! sebzést okoz.",
+    "DESCRIPTION": "Minden, a kezedben lévő Képességért !D! sebzést okoz.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " Képességed van).",
@@ -563,7 +563,7 @@
   },
   "Force Field": {
     "NAME": "Erőtér",
-    "DESCRIPTION": "Eggyel csökken a költsége, minden kijátszott Hatalom kártya után. NL Kapsz !B! Védelmet."
+    "DESCRIPTION": "Minden kijátszott Hatalom kártya után eggyel csökken a költsége. NL Kapsz !B! Védelmet."
   },
   "Fusion": {
     "NAME": "Fúzió",
@@ -593,7 +593,7 @@
   },
   "Glass Knife": {
     "NAME": "Üveg kés",
-    "DESCRIPTION": "!D! sebzést okoz kétszer. A kártya sebzése csökken 2 -vel a harc erejéig."
+    "DESCRIPTION": "!D! sebzést okoz kétszer. A kártya sebzése 2-vel csökken a harc erejéig."
   },
   "Go for the Eyes": {
     "NAME": "Csak a szemét",
@@ -605,7 +605,7 @@
   },
   "Grand Finale": {
     "NAME": "Nagy finálé",
-    "DESCRIPTION": "Csak akkor játszható ki, ha nincs több kártyád a húzópaklidban. NL MINDEN ellenfélnek !D! sebzést okoz.",
+    "DESCRIPTION": "Csak akkor játszhatod ki, ha a húzópaklid üres. NL MINDEN ellenfélnek !D! sebzést okoz.",
     "UPGRADE_DESCRIPTION": "A húzópaklimnak #rÜresnek kell NL lennie."
   },
   "Havoc": {
@@ -662,12 +662,12 @@
   },
   "Infernal Blade": {
     "NAME": "Ördögi penge",
-    "DESCRIPTION": "Kapsz a kezedbe egy véletlenszerű Támadást. A költsége 0 lesz a körre. NL Kimerít."
+    "DESCRIPTION": "Kapsz a kezedbe egy véletlenszerű Támadást. A költsége 0 lesz a körre. Kimerít."
   },
   "Infinite Blades": {
     "NAME": "Végtelen penge",
-    "DESCRIPTION": "A köröd elején kapsz egy Pengét a kezedbe.",
-    "UPGRADE_DESCRIPTION": "Ösztönös. NL A köröd elején kapsz egy Pengét a kezedbe."
+    "DESCRIPTION": "A köröd elején kapsz egy pengét a kezedbe.",
+    "UPGRADE_DESCRIPTION": "Ösztönös. NL A köröd elején kapsz egy pengét a kezedbe."
   },
   "Inflame": {
     "NAME": "Fellángolás",
@@ -744,7 +744,7 @@
   },
   "Masterful Stab": {
     "NAME": "Mesteri szúrás",
-    "DESCRIPTION": "Eggyel nő a költsége minden alkalommal amikor életerőt veszítesz. NL !D! sebzést okoz.",
+    "DESCRIPTION": "Eggyel nő a költsége minden alkalommal, amikor életerőt veszítesz. NL !D! sebzést okoz.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
@@ -764,7 +764,7 @@
     "DESCRIPTION": "!M! véletlenszerű Támadást kever a húzópaklidba. A költségük 0 lesz a harc erejéig. NL Kimerít."
   },
   "Meteor Strike": {
-    "NAME": "Meteor csapás",
+    "NAME": "Meteorcsapás",
     "DESCRIPTION": "!D! sebzést okoz. NL Sugároz !M! Plazmát."
   },
   "Mind Blast": {
@@ -790,7 +790,7 @@
   },
   "Night Terror": {
     "NAME": "Rémálom",
-    "DESCRIPTION": "Válassz egy kártyát a kezedből. NL A következő körben kapsz !M! másolatot a választott kártyáról. Kimerít.",
+    "DESCRIPTION": "Válassz egy kártyát a kezedből. NL A következő körben !M! másolatot kapsz róla. Kimerít.",
     "EXTENDED_DESCRIPTION": [
       "Csak egyszer játszhatom ki a NL ",
       " kártyát."
@@ -810,7 +810,7 @@
   },
   "Noxious Fumes": {
     "NAME": "Káros füst",
-    "DESCRIPTION": "A köröd elején !M! #yMérgezést okozol MINDEN ellenfelednek."
+    "DESCRIPTION": "A köröd elején !M! Mérgezést okozol MINDEN ellenfelednek."
   },
   "Offering": {
     "NAME": "Áldozat",
@@ -839,7 +839,7 @@
     "DESCRIPTION": "Kijátszhatatlan. NL Ha Átalakítod vagy eltávolítod a paklidból, veszítesz 3 -at a maximális életerődből."
   },
   "Perfected Strike": {
-    "NAME": "Tökéletes csapás",
+    "NAME": "Kiváló csapás",
     "DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz MINDEN kártyádért, aminek a nevében \"Csapás\" van.",
     "UPGRADE_DESCRIPTION": "!D! sebzést okoz. NL Plusz !M! sebzést okoz MINDEN kártyádért, aminek a nevében \"Csapás\" van."
   },
@@ -892,12 +892,12 @@
   },
   "Rainbow": {
     "NAME": "Szivárvány",
-    "DESCRIPTION": "Sugározz 1 Villámot. NL Sugározz 1 Jeget. NL Sugározz 1 Sötétséget. NL Kimerít.",
-    "UPGRADE_DESCRIPTION": "Sugározz 1 Villámot. NL Sugározz 1 Jeget. NL Sugározz 1 Sötétséget."
+    "DESCRIPTION": "Sugároz 1 Villámot. NL Sugároz 1 Jeget. NL Sugároz 1 Sötétséget. NL Kimerít.",
+    "UPGRADE_DESCRIPTION": "Sugároz 1 Villámot. NL Sugároz 1 Jeget. NL Sugároz 1 Sötétséget."
   },
   "Rampage": {
     "NAME": "Tombolás",
-    "DESCRIPTION": "!D! sebzést okoz. NL A kártya plusz !M! sebzést okoz a harc erejéig."
+    "DESCRIPTION": "!D! sebzést okoz. NL Minden kijátszás után plusz !M! sebzést okoz a harc erejéig."
   },
   "Reaper": {
     "NAME": "Kaszás",
@@ -909,7 +909,7 @@
   },
   "Rebound": {
     "NAME": "Pattintás",
-    "DESCRIPTION": "!D! sebzést okoz. NL A következő ebben a körben kijátszott kártya visszakerül a húzópaklid tetejére."
+    "DESCRIPTION": "!D! sebzést okoz. NL A következő, ebben a körben kijátszott kártya visszakerül a húzópaklid tetejére."
   },
   "Reckless Charge": {
     "NAME": "Vakmerő roham",
@@ -921,7 +921,7 @@
   },
   "Redo": {
     "NAME": "Rekurzió",
-    "DESCRIPTION": "Megidézi a soron következő Gömbödet. NL Sugároz egyet a Megidézett Gömbből."
+    "DESCRIPTION": "Megidézi a következő Gömbödet. NL Sugároz egyet a Megidézett Gömbből."
   },
   "Reflex": {
     "NAME": "Reflex",
@@ -961,7 +961,7 @@
     "DESCRIPTION": "Amikor negatív hatást okozol egy ellenfélnek, !M! sebzést is elszenvednek."
   },
   "Scrape": {
-    "NAME": "Kaparás",
+    "NAME": "Karmolás",
     "DESCRIPTION": "!D! sebzést okoz. NL Húzz !M! kártyát. NL Dobd el a húzott kártyák közül azokat, amiknek a költsége több mint 0."
   },
   "Searing Blow": {
@@ -969,7 +969,7 @@
     "DESCRIPTION": "!D! sebzést okoz. NL Akárhányszor lehet Fejleszteni."
   },
   "Second Wind": {
-    "NAME": "Utolsó lehetőség",
+    "NAME": "Utolsó esély",
     "DESCRIPTION": "Kimerít minden nem-Támadást a kezedből. Kapsz !B! Védelmet minden Kimerített kártyáért."
   },
   "Secret Technique": {
@@ -1003,12 +1003,12 @@
   },
   "Sentinel": {
     "NAME": "Őrszem",
-    "DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor ezt a kártyát Kimeríted NL kapsz [R] [R].",
-    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor ezt a kártyát Kimeríted NL kapsz [R] [R] [R]."
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor ezt a kártyát Kimeríted, NL kapsz [R] [R].",
+    "UPGRADE_DESCRIPTION": "Kapsz !B! Védelmet. NL Amikor ezt a kártyát Kimeríted, NL kapsz [R] [R] [R]."
   },
   "Setup": {
     "NAME": "Előkészület",
-    "DESCRIPTION": "Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL A költsége 0 lesz míg ki nem játszod."
+    "DESCRIPTION": "Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL A költsége 0 lesz, míg ki nem játszod."
   },
   "Sever Soul": {
     "NAME": "Lélek hasítás",
@@ -1048,20 +1048,20 @@
   },
   "Spot Weakness": {
     "NAME": "Gyenge pont",
-    "DESCRIPTION": "Ha az ellenfelél Támadni szándékozik, kapsz !M! Erőt."
+    "DESCRIPTION": "Ha az ellenfelél támadni szándékozik, kapsz !M! Erőt."
   },
   "Stack": {
     "NAME": "Verem",
-    "DESCRIPTION": "Kapsz annyi Védelmet amennyi kártyád van a dobópaklidban.",
-    "UPGRADE_DESCRIPTION": "Kapsz annyi Védelmet amennyi kártyád van a dobópaklidban plusz még 3 -at.",
+    "DESCRIPTION": "Kapsz annyi Védelmet, ahány kártya van a dobópaklidban.",
+    "UPGRADE_DESCRIPTION": "Kapsz annyi Védelmet, ahány kártya van a dobópaklidban plusz még 3-at.",
     "EXTENDED_DESCRIPTION": [
       " NL (Kapsz !B! Védelmet.)"
     ]
   },
   "Static Discharge": {
     "NAME": "Statikus kisülés",
-    "DESCRIPTION": "Minden le nem védett sebzés után Sugároz !M! Villámot.",
-    "UPGRADE_DESCRIPTION": "Minden le nem védett sebzés után Sugároz !M! Villámot."
+    "DESCRIPTION": "Minden le nem védett sebződés után Sugároz !M! Villámot.",
+    "UPGRADE_DESCRIPTION": "Minden le nem védett sebződés után Sugároz !M! Villámot."
   },
   "Steam": {
     "NAME": "Füstfelhő",
@@ -1077,9 +1077,9 @@
     "UPGRADE_DESCRIPTION": "Ösztönös. NL Minden kijátszott Hatalom kártya után Sugároz 1 Villámot."
   },
   "Storm of Steel": {
-    "NAME": "Acél vihar",
-    "DESCRIPTION": "Dobj el minden kártyát a kezedből. NL Minden eldobott kártyáért kapsz 1 Pengét a kezedbe.",
-    "UPGRADE_DESCRIPTION": "Dobj el minden kártyát a kezedből. NL Minden eldobott kártyáért kapsz 1 fejlesztett Pengét a kezedbe."
+    "NAME": "Acélvihar",
+    "DESCRIPTION": "Dobj el minden kártyát a kezedből. NL Minden eldobott kártyáért kapsz 1 pengét a kezedbe.",
+    "UPGRADE_DESCRIPTION": "Dobj el minden kártyát a kezedből. NL Minden eldobott kártyáért kapsz 1 fejlesztett pengét a kezedbe."
   },
   "Streamline": {
     "NAME": "Áramvonal",
@@ -1091,7 +1091,7 @@
   },
   "Strike_G": {
     "NAME": "Csapás",
-    "DESCRIPTION": "!D! sebzést okoz"
+    "DESCRIPTION": "!D! sebzést okoz."
   },
   "Strike_R": {
     "NAME": "Csapás",
@@ -1103,7 +1103,7 @@
   },
   "Sunder": {
     "NAME": "Elválasztás",
-    "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfelet elpusztítod, kapsz [B] [B] [B]."
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha az ellenfél meghal, kapsz NL [B] [B] [B]."
   },
   "Survivor": {
     "NAME": "Túlélő",
@@ -1149,7 +1149,7 @@
   },
   "Thunder Strike": {
     "NAME": "Villámcsapás",
-    "DESCRIPTION": "!D! sebzést okoz egy véletlenszerű ellenfélnek minden, a harcban Sugárzott Villámért.",
+    "DESCRIPTION": "!D! sebzést okoz egy-egy véletlenszerű ellenfélnek minden, a harcban Sugárzott Villámért.",
     "EXTENDED_DESCRIPTION": [
       " (!M! Villám Sugározva.)"
     ]
@@ -1159,7 +1159,7 @@
     "DESCRIPTION": "!D! sebzést és 1 Sebezhetőséget okoz MINDEN ellenfélnek."
   },
   "Tools of the Trade": {
-    "NAME": "A kereskedelem eszköze",
+    "NAME": "Cserebere",
     "DESCRIPTION": "A köröd elején húzz plusz 1 kártyát, és dobj el 1 kártyát."
   },
   "Transmutation": {
@@ -1188,14 +1188,14 @@
   },
   "Underhanded Strike": {
     "NAME": "Öv alá",
-    "DESCRIPTION": "!D! sebzést okoz. NL Ha dobtál el lapot ebben a körben, kapsz NL [G] [G] .",
+    "DESCRIPTION": "!D! sebzést okoz. NL Ha dobtál el lapot ebben a körben, kapsz [G] [G] .",
     "EXTENDED_DESCRIPTION": [
       "Ezt a kártyát nem játszhatom ki."
     ]
   },
   "Undo": {
-    "NAME": "Equilibrium",
-    "DESCRIPTION": "Gain !B! Block. NL Retain your hand this turn."
+    "NAME": "Higgadtság",
+    "DESCRIPTION": "Kapsz !B! Védelmet. NL A köröd végén megtartod a kártyáidat."
   },
   "Unload": {
     "NAME": "Szórás",
@@ -1219,9 +1219,9 @@
     "UPGRADE_DESCRIPTION": "Húzz !M! kártyát. NL Tegyél egy kártyát a kezedből a húzópaklid tetejére. NL Kimerít."
   },
   "Well Laid Plans": {
-    "NAME": "Átgondolt terv",
+    "NAME": "Mesteri terv",
     "DESCRIPTION": "A köröd végén megtarthatsz !M! kártyát.",
-    "UPGRADE_DESCRIPTION": "A köröd végén megtarthatsz !M! kártyát.."
+    "UPGRADE_DESCRIPTION": "A köröd végén megtarthatsz !M! kártyát."
   },
   "Whirlwind": {
     "NAME": "Forgószél",
@@ -1253,10 +1253,10 @@
   },
   "Core Surge": {
     "NAME": "Túltöltés",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+    "DESCRIPTION": "!D! sebzést okoz. NL Kapsz !M! Készítményt. NL Kimerít."
   },
   "Compile Driver": {
-    "NAME": "Fordtó eszköz",
+    "NAME": "Fordító eszköz",
     "DESCRIPTION": "!D! sebzést okoz. NL Húzz !M! kártyát minden különböző Gömbödért."
   },
   "RitualDagger": {
@@ -1285,7 +1285,7 @@
   },
   "Forethought": {
     "NAME": "Előre tervezés",
-    "DESCRIPTION": "Tegyél egy kártyát a kezedből a húzópaklid aljára. A költsége 0 lesz míg ki nem játszod.",
+    "DESCRIPTION": "Tegyél egy kártyát a kezedből a húzópaklid aljára. A költsége 0 lesz, míg ki nem játszod.",
     "UPGRADE_DESCRIPTION": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
   },
   "Discovery": {
