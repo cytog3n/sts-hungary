@@ -81,13 +81,15 @@
       "A Slay the Spire teljes képernyőben a legygyorsabb. Ajánlott macOS esetén, mivel eltünteti a Dock-ot és a Menüt. NL Megj.: Számítógépen az ALT-TAB nem működik, csak szegély nélküli módban.",
       "Mivel a Slay the Spire nem egy nagy igényeket támasztó játék, mi a szegély nélküli teljes képernyőt ajánljuk a gyors ALT-TAB miatt. Számítógépen a legjobb.",
       "Megj.: Ha a VSync be van kapcsolva, a maximum képsebesség nem lehet több mint a monitor frissítési frekvenciája.",
-      "A játékvezérlő támogatás nem teljes ezen a képernyőn."
+      "A játékvezérlő támogatás nem teljes ezen a képernyőn.",
+	  "Changes which monitor is utilized when Fullscreen."
     ],
     "LABEL": [
       "Adatok",
       "Teljes képernyő",
       "Szegélymentes képernyő",
-      "Maximum képsebesség"
+      "Maximum képsebesség",
+	  "Fullscreen Monitor"
     ]
   },
   "Player Tips": {

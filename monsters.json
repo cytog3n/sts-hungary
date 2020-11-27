@@ -137,7 +137,8 @@
       "~Ezt~ ~jól~ ~megcsináltad...~",
       "@VERESÉG??@ NL @OLYAN NINCS!!@",
       "~MEGHALSZ~ ~.~ ~.~ ~.~",
-      "Nézz szembe haragommal!"
+      "Nézz szembe haragommal!",
+	  "@THAT'S@ NL @MY@ @BELT!!@"
     ]
   },
   "Chosen": {
@@ -654,7 +655,8 @@
     "NAME": "Időfaló",
     "DIALOG": [
       "~Áh...~ NL ~..társaság...~",
-      "~Ostoba..~ NL @OSTOBA!@"
+      "~Ostoba..~ NL @OSTOBA!@",
+	  "~Never....~ NL ~...liked..~ NL ~..you...~"
     ]
   },
   "TorchHead": {

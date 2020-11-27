@@ -31,6 +31,10 @@
     "NAME": "Kék kártyák",
     "DESCRIPTION": "Kék kártyák jelennek meg jutalomként és a boltban."
   },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
+  },
   "Colorless Cards": {
     "NAME": "Szürke kártyák",
     "DESCRIPTION": "Szürke kártyák jelennek meg jutalomként."

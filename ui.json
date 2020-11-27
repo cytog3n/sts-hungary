@@ -71,7 +71,8 @@
       "Hárított",
       "A Páncélos",
       "A Szótlan",
-      "A Hiányos"
+      "A Hiányos",
+	  "the Watcher"
     ]
   },
   "AbstractPotion": {
@@ -224,7 +225,8 @@
       "Szürke",
       "Átkok",
       "Státuszok",
-      "Fejlesztett kártyák"
+      "Fejlesztett kártyák",
+	  "Purple"
     ]
   },
   "CardRewardScreen": {
@@ -234,7 +236,8 @@
       "+2 max élet",
       "SZAVAZZ: ",
       "maradt",
-      "Fejlesztés megtekintése"
+      "Fejlesztés megtekintése",
+	  "Choose One"
     ]
   },
   "CharacterOption": {
@@ -248,7 +251,8 @@
       " Feloldás hátramaradt",
       "Ismeretlen",
       "???",
-      " A Következő feloldáshoz"
+      " A Következő feloldáshoz",
+	  "This character is unlocked by winning a Standard run and having the 3rd character unlocked."
     ]
   },
   "CharacterSelectScreen": {
@@ -266,7 +270,8 @@
       "Seed ",
       "Véletlen seed",
       "A kezdő seed határozza meg, hogy mi fog generálódni a menet során.",
-      "Seed beállítása"
+      "Seed beállítása",
+	  "The Watcher"
     ]
   },
   "ChooseOneScreen": {
@@ -304,6 +309,11 @@
       "Nem"
     ]
   },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
+    ]
+  },
   "CopyAction": {
     "TEXT": [
       "Másolás"
@@ -312,7 +322,8 @@
   "CreditsScreen": {
     "TEXT": [
       "Kattints még egyszer a kilépéshez",
-      "a kilépéshez"
+      "a kilépéshez",
+	  "Tap again to exit"
     ]
   },
   "DailyScreen": {
@@ -571,7 +582,8 @@
       "Válassz ",
       " kártyákat, hogy ",
       "Válassz kártyákat, hogy ",
-      "Válassz egy kártyát, hogy "
+      "Válassz egy kártyát, hogy ",
+	  "Copy"
     ]
   },
   "HiddenChamberAction": {
@@ -642,7 +654,8 @@
       "Fel",
       "Le",
       "Kontroller engedélyezve",
-      "Touchscreen Mode"
+      "Touchscreen Mode",
+	  "Peek"
     ]
   },
   "LanguageDropdown": {
@@ -688,7 +701,8 @@
       "Legtöbb pontszám",
       "Option 6. DO NOT TRANSLATE",
       "Barátok",
-      "Globális"
+      "Globális",
+	  "Watcher"
     ]
   },
   "LeaderboardsScreen": {
@@ -744,7 +758,8 @@
       "Elkezd",
       "Vissza",
       "kattints a szerkesztéshez",
-      "a szerkesztéshez"
+      "a szerkesztéshez",
+	  "tap to edit"
     ]
   },
   "MasterDeckViewScreen": {
@@ -816,7 +831,9 @@
       "Egyéni",
       "Állítsd be a játékot a saját ízlésed szerint.",
       "Change your controls.",
-      "Change your graphics, audio, and gameplay preferences."
+      "Change your graphics, audio, and gameplay preferences.",
+	  "Potion Lab",
+      "Observe the numerous potions found climbing the Spire."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -826,6 +843,17 @@
       "Nem eladó",
       "Elfogyott",
       "Oh ne!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Press ",
+      " to Start",
+      "Switch Profile",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
     ]
   },
   "OpeningAction": {
@@ -860,7 +888,8 @@
       "Resolution:",
       "Resolution: NL Fullscreen Monitor:",
       "Changes which monitor is utilized when Fullscreen.",
-      "Long-press Confirmations"
+      "Long-press Confirmations",
+	  "Bigger Text"
     ]
   },
   "PatchNotesScreen": {
@@ -903,6 +932,17 @@
   "RecycleAction": {
     "TEXT": [
       "Kimerít"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
     ]
   },
   "RelicViewScreen": {
@@ -1095,7 +1135,8 @@
       "Csak Napi Kihívás",
       "Seed: %s",
       "Egyedi Seed: %s",
-      "M/d/yyyy, h:mm a"
+      "M/d/yyyy, h:mm a",
+	  "The Watcher"
     ]
   },
   "SeedPanel": {
@@ -1317,7 +1358,8 @@
       "A Páncélos béta kártya rajzait feloldottad!",
       "A Szótlan béta kártya rajzait feloldottad!",
       "A Hiányos béta kártya rajzait feloldottad!",
-      "MINDEN béta kártya rajzot feloldottál!"
+      "MINDEN béta kártya rajzot feloldottál!",
+	  "Watcher Beta Card Art Unlocked!"
     ]
   },
   "RichPresence": {
@@ -1334,6 +1376,16 @@
       "Choose a Card to Put into Your Hand.",
       "Choose ",
       " Cards to Put into Your Hand."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choose 1 card to keep. The rest are exhausted."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Choose a Card to play."
     ]
   }
 }

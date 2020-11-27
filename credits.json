@@ -60,7 +60,8 @@
   "LOC_EPO": {
     "HEADER": "Eszperantó fordítás",
     "NAMES": [
-      "Vincent \"Babelismoj\" Oostelbos"
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
     ]
   },
   "LOC_FRA": {
@@ -99,7 +100,9 @@
     "NAMES": [
       "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
-      "Luigi Squarzina"
+      "Luigi Squarzina",
+	  "Playtesting:",
+      "Mattylink Heropon"
     ]
   },
   "LOC_JPN": {
@@ -114,15 +117,18 @@
     "NAMES": [
       "Fordítás felügyelő:",
       "Eteriny",
-      "Fordítás:",
+      "Fissh",
+      "GyeRyak",
+      "Translation:",
       "Simcoding",
       "DesFrog",
-      "Fissh",
       "insight",
       "K4lium",
       "hina",
-      "Steam oldal fordítása:",
-      "GyeRyak"
+      "Vekan",
+      "Font:",
+      "In-Game: GyeonggiCheonnyeon(Batang) by Gyeonggi-Do",
+      "Shop Asset: NanumBrush, NanumPen by NAVER Corporation"
     ]
   },
   "LOC_NOR": {
@@ -140,6 +146,7 @@
       "Plusz fordítások:",
       "Adrian \"xeros\" Rolka",
       "Marek \"Skorpionex\" Mazur",
+	  "Foreigner",
       "Korrektúraolvasás:",
       "Oskar \"volf3n\" Nowak",
       "Javaslatok és észrevételek:",
@@ -186,16 +193,23 @@
   "LOC_SPA": {
     "HEADER": "Spanyol fordítás",
     "NAMES": [
-      "Fordítás és koordináció:",
+      "Translation and Coordination:",
+      "Juanjo \"ajuanjojjj\" Martinez",
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",
       "Translation:",
+      "Erick Marroquin",
+      "Accord",
       "Xavier \"xabad98\" Abad Salinas",
       "Sergio \"Skiddome\" Malagón",
-      "Juanjo \"ajuanjojjj\" Martinez",
-      "Pedro J. \"PJJLegend\" Jiménez",
-      "Nyelvtan és végső símítás:",
+      "Pedro J. \"PJJLegend\" Jiménez Moyano",
+      "Rodrigo \"skylex\" Zabattaro",
+      "Alberto \"RadeonThe1st\" Botana",
+      "Spooktacular",
+      "Grammar and Cleanup:",
       "Joaquín \"Pip1n\" López",
-      "Xavier Castañer"
+      "Xavier Castañer",
+      "Summer",
+      "Eipic"
     ]
   },
   "LOC_SRB": {
@@ -220,9 +234,13 @@
   "LOC_TUR": {
     "HEADER": "Török fordítás",
     "NAMES": [
+      "Translation and Coordination:",
+      "Ertürk Yılmaz",
+      "Translation:",
       "Erdem Gürbüz",
       "Ege \"sLanKy\" Güçkıran",
-      "\"onparalelkenarag\""
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
@@ -232,7 +250,21 @@
       "Vladyslav \"DarkXylese\" Kashtelyanov",
       "Javítások és fodítás:",
       "Vasyl \"RDSk\" Mykhaliuk",
-      "Artem \"Crazytosik\" Zemlianyi"
+      "Artem \"Crazytosik\" Zemlianyi",
+	  "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Vietnamese Localization",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Translation:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordination and Linguistic Lead:",
+      "Hoang Son Do",
+      "Special Thanks:",
+      "Azy Tazer"
     ]
   },
   "LOC_ZHS": {
